@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T15:28:08.805272+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2025-11-10T16:39:54.933497+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普宣布一个大消息",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时20分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[10时20分 ~ 16时39分]"
         },
         {
           "title": "泽连斯基：全世界都怕特朗普但我不怕",
@@ -72,6 +72,19 @@
           "time_info": "[10时20分 ~ 11时41分]"
         },
         {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 16时39分]"
+        },
+        {
           "title": "特朗普称政府停摆接近结束",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8E%A5%E8%BF%91%E7%BB%93%E6%9D%9F",
           "source": "bilibili 热搜",
@@ -81,18 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
-        },
-        {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 15时28分]"
         },
         {
           "title": "牛弹琴：特朗普宣布一个大消息",
@@ -199,6 +200,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "评论员：美财政已崩特朗普还在画饼",
+          "url": "https://www.toutiao.com/trending/7570986378905783817/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "特朗普考虑给美国民众发钱是作秀吗",
+          "url": "https://www.toutiao.com/trending/7570994332426047030/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
@@ -215,8 +238,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时20分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[10时20分 ~ 16时39分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -229,8 +252,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时20分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[10时20分 ~ 16时39分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -239,11 +262,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 15时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 16时39分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -303,6 +327,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 14时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧美债券收益率同步上涨，市场寄望美国政府结束停摆",
+          "url": "https://flash.jin10.com/detail/20251110160650766800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗外交部发言人：国际原子能机构的检查人员上周到访了伊朗的核设施。",
+          "url": "https://flash.jin10.com/detail/20251110161518791800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     }
