@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T06:28:59.206545+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2025-11-14T07:26:47.329963+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "一图看懂 | 锂电池红遍A股，产业链上市公司全梳理",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时26分]"
+        },
+        {
+          "title": "【数据看盘】机构连续两日甩卖天际股份 多路资金豪掷近10亿抢筹电解液龙头",
+          "url": "https://www.cls.cn/detail/2199805",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时26分]"
         },
         {
           "title": "10月金融数据出炉：资金转化为活期存款趋势延续，企业融资已不再单一依赖银行贷款",
@@ -30,15 +41,15 @@
           "time_info": "[00时35分 ~ 06时28分]"
         },
         {
-          "title": "【数据看盘】机构连续两日甩卖天际股份 多路资金豪掷近10亿抢筹电解液龙头",
-          "url": "https://www.cls.cn/detail/2199805",
-          "source": "财联社热门",
+          "title": "A股锂电池板块大涨，产业链投资机遇凸显",
+          "url": "https://wallstreetcn.com/livenews/3004432",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "新西兰联储货币政策委员会（MPC）成员Prasanna Gai：提高（联储主席人事）透明度，构建信任。 面临不确定性之际，主管的干预给问题带来澄清。",
@@ -298,7 +309,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -309,8 +320,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时26分]"
         },
         {
           "title": "EIA数据显示汽油库存降幅小于预期，美国汽油期货涨幅收窄。数据显示取暖油库存降幅小于预期，美国取暖油期货扩大跌幅。",
@@ -322,28 +333,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "加密货币与加密货币关联指数跌9.98%，报67.71点，北京时间22:30微幅跳空低开，随后持续走低。 周四（11月13日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.98%，失守9.9万美元。 CME以太币期货DCR主力合约跌7.20%，报3172.50美元。 北京时间05:58，现货比特币跌2.79%，报98788.25美元；以太坊跌7%，报3180.64美元；Solana跌7.49%，狗狗币跌5.21%，XRP跌2.43%。",
-          "url": "https://wallstreetcn.com/livenews/3004408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "周四（11月13日）纽约尾盘，现货白银跌1.71%，报52.3391美元/盎司，日内交投于54.3910-52.0741美元。 COMEX白银期货跌2.21%，报52.275美元/盎司。 COMEX铜期货跌0.96%，报5.0565美元/磅。 现货铂金跌2.07%，报1583.16美元/盎司；现货钯金跌2.78%，报1431.04美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3004405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "现货黄金日内跌幅达0.5%，报4172.32美元/盎司。",
@@ -396,6 +385,18 @@
           "time_info": "[04时31分 ~ 05时25分]"
         },
         {
+          "title": "加密货币与加密货币关联指数跌9.98%，报67.71点，北京时间22:30微幅跳空低开，随后持续走低。 周四（11月13日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.98%，失守9.9万美元。 CME以太币期货DCR主力合约跌7.20%，报3172.50美元。 北京时间05:58，现货比特币跌2.79%，报98788.25美元；以太坊跌7%，报3180.64美元；Solana跌7.49%，狗狗币跌5.21%，XRP跌2.43%。",
+          "url": "https://wallstreetcn.com/livenews/3004408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时26分]"
+        },
+        {
           "title": "恒指期货夜盘收跌1.44%，报26701点，低水372点。",
           "url": "https://flash.jin10.com/detail/20251114030220401800",
           "source": "金十数据",
@@ -420,6 +421,18 @@
           "time_info": "[04时31分 ~ 05时25分]"
         },
         {
+          "title": "周四（11月13日）纽约尾盘，现货白银跌1.71%，报52.3391美元/盎司，日内交投于54.3910-52.0741美元。 COMEX白银期货跌2.21%，报52.275美元/盎司。 COMEX铜期货跌0.96%，报5.0565美元/磅。 现货铂金跌2.07%，报1583.16美元/盎司；现货钯金跌2.78%，报1431.04美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3004405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时26分]"
+        },
+        {
           "title": "华晨宇音乐节出场时间调整",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%9F%B3%E4%B9%90%E8%8A%82%E5%87%BA%E5%9C%BA%E6%97%B6%E9%97%B4%E8%B0%83%E6%95%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%258D%258E%25E6%2599%25A8%25E5%25AE%2587%25E9%259F%25B3%25E4%25B9%2590%25E8%258A%2582%25E5%2587%25BA%25E5%259C%25BA%25E6%2597%25B6%25E9%2597%25B4%25E8%25B0%2583%25E6%2595%25B4%2523%26stream_entry_id%3D31%26band_rank%3D30%26realpos%3D30%26filter_type%3Drealtimehot%26pos%3D31%26c_type%3D31%26flag%3D0%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26display_time%3D1763060599%26pre_seqid%3D176306059948601134350157&launchid=10000360-page_H5",
           "source": "微博",
@@ -431,6 +444,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时22分 ~ 06时28分]"
+        },
+        {
+          "title": "周四（11月13日）纽约尾盘，现货黄金跌0.54%，报4172.84美元/盎司，北京时间20:59刷新日高至4245.23美元（在那之前持续震荡上行），02:23出现一波短线跳水——从4200美元关口跌至4145.55美元刷新日低。 COMEX黄金期货跌0.96%，报4173.00美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3004403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时26分]"
         },
         {
           "title": "WTI 12月原油期货收涨0.20美元，涨幅0.34%，报58.69美元/桶。 布伦特1月原油期货收涨0.30美元，涨幅0.48%，报63.01美元/桶。 中东Abu Dhabi Murban原油期货涨0.76%，报65.07美元/桶。 NYMEX 12月天然气期货收报4.6460美元/百万英热单位。 NYMEX 12月汽油期货收报1.9597美元/加仑，NYMEX 12月取暖油期货收报2.4646美元/加仑。",
@@ -445,15 +470,37 @@
           "time_info": "[04时31分 ~ 05时25分]"
         },
         {
-          "title": "周四（11月13日）纽约尾盘，现货黄金跌0.54%，报4172.84美元/盎司，北京时间20:59刷新日高至4245.23美元（在那之前持续震荡上行），02:23出现一波短线跳水——从4200美元关口跌至4145.55美元刷新日低。 COMEX黄金期货跌0.96%，报4173.00美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3004403",
-          "source": "华尔街见闻-快讯",
+          "title": "英国预算案出现重大调整 工党放弃提高所得税计划",
+          "url": "https://flash.jin10.com/detail/20251114064928557800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时26分"
+        },
+        {
+          "title": "银行调整积存金业务规则，消费者购金热情不减",
+          "url": "https://wallstreetcn.com/livenews/3004427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "周四（11月13日）纽约尾盘，标普500股指期货最终跌1.62%，道指期货跌1.57%，纳斯达克100股指期货跌2.07%。 罗素2000股指期货跌2.75%。",
+          "url": "https://wallstreetcn.com/livenews/3004425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "美联储：美国经季节性调整后的商业票据未偿余额在11月12日当周下降61亿美元。",
@@ -557,8 +604,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时26分]"
         },
         {
           "title": "绩效腰斩、基本工资两千，甚至兼职跑滴滴，基层医院医生收入「断崖式下跌」，具体情况如何？为什么会这样？",
@@ -569,8 +616,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时26分]"
         },
         {
           "title": "意大利银行板块继续创历史新高，德国股市跌超1%",
@@ -583,6 +630,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时27分]"
+        },
+        {
+          "title": "美股费城金银指数收跌2.63%，报297.06点，微幅高开后持续下挫，北京时间02:25开始一波加速下跌的行情。 纽约证交所ARCA金矿开采商指数收跌1.60%，报2183.49点，22:38（美股盘初）迅速涨至2245.18点刷新日高，之后持续下挫，02:21短线加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3004404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时26分]"
         },
         {
           "title": "罗素2000指数延续跌势，最新下跌2.6%。",
@@ -621,6 +680,30 @@
           "time_info": "[03时22分 ~ 04时31分]"
         },
         {
+          "title": "13天12板牛股提示风险：如股价进一步异常上涨 可能申请停牌核查|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2200074",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时26分]"
+        },
+        {
+          "title": "牛市来了，基民还在苦等这些“5毛基”回本",
+          "url": "https://www.cls.cn/detail/2199909",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 07时26分]"
+        },
+        {
           "title": "非洲股市收盘播报｜周四（11月13日），南非富时/JSE非洲领先40可交易指数收涨1.05%，守住10.65万点，早盘持续上涨，北京时间17:54刷新日高至10.80万点上方，之后逐步回吐涨幅。",
           "url": "https://wallstreetcn.com/livenews/3004278",
           "source": "华尔街见闻-快讯",
@@ -633,17 +716,6 @@
           "time_info": "[00时35分 ~ 01时27分]"
         },
         {
-          "title": "美股费城金银指数收跌2.63%，报297.06点，微幅高开后持续下挫，北京时间02:25开始一波加速下跌的行情。 纽约证交所ARCA金矿开采商指数收跌1.60%，报2183.49点，22:38（美股盘初）迅速涨至2245.18点刷新日高，之后持续下挫，02:21短线加速下跌。",
-          "url": "https://wallstreetcn.com/livenews/3004404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
           "title": "英伟达下跌5%，费城半导体指数跌超4.5%。",
           "url": "https://wallstreetcn.com/livenews/3004337",
           "source": "华尔街见闻-快讯",
@@ -653,28 +725,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "牛市来了，基民还在苦等这些“5毛基”回本",
-          "url": "https://www.cls.cn/detail/2199909",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "13天12板牛股提示风险：如股价进一步异常上涨 可能申请停牌核查|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2200074",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "美国三大股指至少下跌1%",
@@ -716,7 +766,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -771,7 +821,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -779,7 +829,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
@@ -790,11 +840,48 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时26分]"
+        },
+        {
+          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
+          "url": "https://www.cls.cn/detail/2200254",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时26分]"
+        },
+        {
+          "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
+          "url": "https://wallstreetcn.com/livenews/3004400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时26分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉重挫超6.6%，英伟达跌约3.6%，谷歌A跌超2.8%",
+          "url": "https://wallstreetcn.com/livenews/3004398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时26分]"
         },
         {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股收盘）",
@@ -808,17 +895,6 @@
           "time_info": "05时25分"
         },
         {
-          "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
-          "url": "https://wallstreetcn.com/livenews/3004400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
           "title": "金十图示：2025年11月13日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251114050519736800",
           "source": "金十数据",
@@ -830,26 +906,15 @@
           "time_info": "05时25分"
         },
         {
-          "title": "美股七巨头收盘播报｜特斯拉重挫超6.6%，英伟达跌约3.6%，谷歌A跌超2.8%",
-          "url": "https://wallstreetcn.com/livenews/3004398",
+          "title": "应用材料美股盘后跌超4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3004422",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
-          "url": "https://www.cls.cn/detail/2200254",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时26分"
         },
         {
           "title": "小盘股指ETF收跌2.8%，领跌美股大类资产类ETF",
@@ -858,7 +923,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -880,7 +945,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -910,8 +975,19 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加84.65吨，当前持仓量为15173.28吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20251114065134844800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
         {
           "title": "美联储Kashkari称不支持上次降息 尚未就12月会议拿定主意",
           "url": "https://wallstreetcn.com/livenews/3004385",
@@ -953,7 +1029,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -961,7 +1037,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国10月新增社融8100亿元，新增人民币贷款2200亿元，M2-M1剪刀差扩大",
@@ -972,19 +1048,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时26分]"
         },
         {
           "title": "周四（11月13日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报7.0956元，较周三纽约尾盘涨171点，日内整体交投于7.1151-7.0917元区间。 日线图上，离岸人民币涨向10月29日顶部7.0886元、9月17日顶部7.0851元、以及2024年9月26日顶部6.9713元。",
           "url": "https://wallstreetcn.com/livenews/3004411",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时26分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0965元，较周三夜盘收盘涨160点。成交量509.14亿美元。",
@@ -996,6 +1073,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "多边汇率上扬，三大人民币汇率指数创逾半年新高",
+          "url": "https://wallstreetcn.com/livenews/3004414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         }
       ]
     },
