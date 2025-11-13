@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-13T18:33:12.930997+08:00",
-  "total_titles_processed": 1624,
+  "generated_at": "2025-11-13T19:26:21.749965+08:00",
+  "total_titles_processed": 1724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
       "match_count": 49,
       "titles": [
-        {
-          "title": "现货钯金日内涨超2.00%，现报1494.63美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251113181831662800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
         {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20251112235825999800",
@@ -27,11 +16,23 @@
             1,
             19,
             10,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 13时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 19时26分]"
+        },
+        {
+          "title": "现货钯金日内涨超2.00%，现报1494.63美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251113181831662800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "印度批准关键矿产新政 调整石墨等矿产特许权费率",
@@ -440,7 +441,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -569,7 +570,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
@@ -598,6 +599,22 @@
           "time_info": "[11时52分 ~ 18时33分]"
         },
         {
+          "title": "一汽、江淮密集招标 人形机器人加速“上岗”主机厂、产业链公司将受益",
+          "url": "https://www.cls.cn/detail/2199366",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时29分 ~ 19时26分]"
+        },
+        {
           "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
           "url": "https://www.cls.cn/detail/2198526",
           "source": "财联社热门",
@@ -609,21 +626,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时37分 ~ 07时27分]"
-        },
-        {
-          "title": "一汽、江淮密集招标 人形机器人加速“上岗”主机厂、产业链公司将受益",
-          "url": "https://www.cls.cn/detail/2199366",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时29分 ~ 18时33分]"
         },
         {
           "title": "小天才灰色产业链曝光",
@@ -679,6 +681,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "贵州汽车置换补贴政策优化致部分车主不能享受，商务厅：无法溯及以往",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31956124",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 19时26分]"
         },
         {
           "title": "工信部：高质量编制“十五五”促进中小企业发展规划，适时推动出台各类惠企政策",
@@ -754,16 +768,40 @@
           "time_info": "[12时33分 ~ 13时29分]"
         },
         {
-          "title": "贵州汽车置换补贴政策优化致部分车主不能享受，商务厅：无法溯及以往",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31956124",
-          "source": "澎湃新闻",
+          "title": "10月金融数据出炉：资金转化为活期存款趋势延续，企业融资已不再单一依赖银行贷款",
+          "url": "https://www.cls.cn/detail/2199773",
+          "source": "财联社热门",
           "ranks": [
-            15,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时26分]"
+        },
+        {
+          "title": "【每日收评】沪指涨0.73%再创10年新高， 全市场逾百股涨停，锂电产业链全线爆发",
+          "url": "https://www.cls.cn/detail/2199693",
+          "source": "财联社热门",
+          "ranks": [
+            10,
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时26分]"
+        },
+        {
+          "title": "【数据看盘】机构连续两日甩卖天际股份 多路资金豪掷近10亿抢筹电解液龙头",
+          "url": "https://www.cls.cn/detail/2199805",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时26分]"
         },
         {
           "title": "特朗普：呼吁直接向民众支付资金以购买医疗保健服务。",
@@ -776,39 +814,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 12时33分]"
-        },
-        {
-          "title": "10月金融数据出炉：资金转化为活期存款趋势延续，企业融资已不再单一依赖银行贷款",
-          "url": "https://www.cls.cn/detail/2199773",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
-          "title": "【每日收评】沪指涨0.73%再创10年新高， 全市场逾百股涨停，锂电产业链全线爆发",
-          "url": "https://www.cls.cn/detail/2199693",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
-          "title": "【数据看盘】机构连续两日甩卖天际股份 多路资金豪掷近10亿抢筹电解液龙头",
-          "url": "https://www.cls.cn/detail/2199805",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
         },
         {
           "title": "欧元集团主席Donohoe：继续讨论稳定币（监管政策框架）。",
@@ -833,6 +838,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 12时33分]"
+        },
+        {
+          "title": "检验检测促进产业升级 12项重点项目通过验收",
+          "url": "https://wallstreetcn.com/livenews/3003971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 19时26分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流入209.94亿元，占比1.03%；大单资金净流出43.37亿元，占比0.21%；小单资金净流出25.27亿元，占比0.12%。",
@@ -868,6 +885,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "佛塑科技：拟与紫金矿业下属子公司紫金锂元、厦门紫金以及广新研究院共同出资设立项目公司，在福建省龙岩市上杭工业区蛟洋新材料产业园区投资建设电池级硫化锂中试平台项目。本项目计划投资总额为1.13亿元（含增值税），建设100吨/年硫化锂生产线，主要研发、生产、经营高纯度电池级硫化锂产品。",
+          "url": "https://wallstreetcn.com/livenews/3004140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "美联储柯林斯：若劳动力市场未出现显著恶化，不愿进一步放宽政策。在进一步降息之前，确保通胀可持续回归2%目标是审慎之举。",
           "url": "https://flash.jin10.com/detail/20251113050355642800",
           "source": "金十数据",
@@ -877,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "一图看懂 | 锂电池红遍A股，产业链上市公司全梳理",
+          "url": "https://www.cls.cn/detail/2199850",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "资金涌向银行股，“大象”再起舞",
@@ -945,6 +984,17 @@
           "time_info": "14时41分"
         },
         {
+          "title": "如何看待货币政策空间？专家：要把握好力度和节奏",
+          "url": "https://wallstreetcn.com/livenews/3004124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "美国众议院当地时间周三晚间以222票对209票通过了临时拨款方案，但遭到了多数民主党人的反对，因为该方案不包括民主党的核心诉求：为即将到期的《平价医疗法案》（Affordable Care Act）医疗保险政策提供新的补贴。",
           "url": "https://wallstreetcn.com/livenews/3003752",
           "source": "华尔街见闻-快讯",
@@ -954,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "欧盟正在调查谷歌的网站声誉政策是否损害了出版商的利益。",
+          "url": "https://flash.jin10.com/detail/20251113184521825800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "“纸片人”风生水起，AI撬动，漫剧产业规模狂飙",
@@ -987,17 +1048,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
-        },
-        {
-          "title": "检验检测促进产业升级 12项重点项目通过验收",
-          "url": "https://wallstreetcn.com/livenews/3003971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
         },
         {
           "title": "美联储理事米兰：我认为我们有责任确保货币政策得当，避免处于过于收紧的状态，从而消除部分经济下行风险。",
@@ -1036,7 +1086,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "沪指4000点缠斗近半月！“双创”指数同期遇冷，这些板块则扛旗大涨",
@@ -1305,6 +1355,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "欧洲防务股上涨动力减弱 估值过高与盈利修正不确定性",
+          "url": "https://flash.jin10.com/detail/20251113190253601800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "沪指涨0.73%再度刷新十年新高，锂电池板块集体爆发",
           "url": "https://wallstreetcn.com/livenews/3003940",
           "source": "华尔街见闻-快讯",
@@ -1349,6 +1410,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "久违再现“百股涨停”！A股涨停数创2个月新高，这三大板块占比均超一成",
+          "url": "https://www.cls.cn/detail/2199818",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "国际油价12日显著下跌",
           "url": "https://flash.jin10.com/detail/20251113063429057800",
           "source": "金十数据",
@@ -1369,6 +1441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "合富中国：如公司股价进一步异常上涨，公司可能申请停牌核查",
+          "url": "https://wallstreetcn.com/livenews/3004128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "金十图示：2025年11月13日（周四）富时中国A50指数成分股午盘收盘行情一览：银行、石油、煤炭板块普跌，电池板块表现强势，宁德时代大涨逾8%",
@@ -1448,6 +1531,17 @@
           "time_info": "11时52分"
         },
         {
+          "title": "经济增长疲软与财政紧缩双重打击 英镑面临进一步下跌风险",
+          "url": "https://flash.jin10.com/detail/20251113183738742800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "韩国首尔综指开盘下跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3003737",
           "source": "华尔街见闻-快讯",
@@ -1465,9 +1559,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "油价区间震荡 交易员权衡供应过剩与地缘政治风险",
+          "url": "https://flash.jin10.com/detail/20251113183443629800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
@@ -1488,17 +1593,6 @@
           "time_info": "[07时26分 ~ 16时38分]"
         },
         {
-          "title": "迅雷美股盘前涨超8%，公司三季度总营收1.264亿美元，同比增长57.7%。",
-          "url": "https://wallstreetcn.com/livenews/3004108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251113050551816800",
           "source": "金十数据",
@@ -1508,6 +1602,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "迅雷美股盘前涨超8%，公司三季度总营收1.264亿美元，同比增长57.7%。",
+          "url": "https://wallstreetcn.com/livenews/3004108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时26分]"
         },
         {
           "title": "美股七巨头收盘播报｜Meta收跌将近2.9%，特斯拉跌超2%",
@@ -1539,7 +1645,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -1561,7 +1667,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -1572,7 +1678,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -1583,7 +1689,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         }
@@ -1750,7 +1856,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -1769,7 +1875,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -1817,6 +1923,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "美债波动率指数跳升至一个月高点 政府停摆结束并未终止不确定性",
+          "url": "https://flash.jin10.com/detail/20251113185757938800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
@@ -1842,7 +1959,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -1853,7 +1970,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         }
