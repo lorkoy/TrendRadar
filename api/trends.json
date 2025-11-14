@@ -1,23 +1,22 @@
 {
-  "generated_at": "2025-11-15T01:25:39.518525+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2025-11-15T02:38:50.258375+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
-          "title": "希腊雅典证交所综合指数收跌0.75%，报2059.39点，本周累计上涨3.65%。",
-          "url": "https://wallstreetcn.com/livenews/3004956",
+          "title": "阿里巴巴股价短线从161.90美元上方跳水至157.75美元下方，从上涨1.3%转而下跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3004996",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            26
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "【每日收评】沪指跌近1%失守4000点，存储芯片板块遭遇重挫，福建、海南本地股逆势活跃",
@@ -25,6 +24,18 @@
           "source": "财联社热门",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时38分]"
+        },
+        {
+          "title": "希腊雅典证交所综合指数收跌0.75%，报2059.39点，本周累计上涨3.65%。",
+          "url": "https://wallstreetcn.com/livenews/3004956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -42,13 +53,24 @@
           "time_info": "00时36分"
         },
         {
+          "title": "周五（11月14日），韩元兑美元最终涨0.78%，报1453.89韩元，本周累计上涨0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3004986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌1.3%，创10月17日以来最大单日跌幅，报354.96点，本周累计上涨将近2.09%。 在十个板块中，北欧工业板块跌幅最大。 国际供热技术公司Nibe Industrier AB跌13.0%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3004969",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -59,7 +81,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -70,7 +92,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -81,7 +103,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -92,7 +114,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -122,7 +144,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -132,8 +154,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时38分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -143,19 +165,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时38分]"
         },
         {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
           "url": "https://wallstreetcn.com/articles/3759375",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时38分]"
+        },
+        {
+          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1972596571733497781",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时38分]"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -170,15 +204,26 @@
           "time_info": "[00时36分 ~ 01时25分]"
         },
         {
-          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1972596571733497781",
-          "source": "知乎",
+          "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251115013327366800",
+          "source": "金十数据",
           "ranks": [
-            15
+            23
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251115013245907800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "纳斯达克金龙中国指数美股盘初跌1.7%。 中概股世纪华联跌6.3%，小马智行跌6%，阿特斯太阳能跌5%，小鹏跌4.7%，大全新能源跌4.2%，文远知行跌3.8%，京东、蔚来跌3.3%，百度跌2.7%，腾讯音乐则涨0.8%，B站涨1.9%，雾芯科技/悦刻电子烟涨8.4%。 ETF中，CQQQ跌1.75%，KWEB跌0.57%。",
@@ -217,8 +262,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时38分]"
+        },
+        {
+          "title": "芝加哥农作物期货下跌，大豆跌1.8%，美国农业部披露WASDE库存报告。",
+          "url": "https://wallstreetcn.com/livenews/3004978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
+          "time_info": "[01时25分 ~ 02时38分]"
         },
         {
           "title": "First Brands资产负债表外贷款人要求破产审理进行调整",
@@ -233,15 +290,16 @@
           "time_info": "[00时36分 ~ 01时25分]"
         },
         {
-          "title": "芝加哥农作物期货下跌，大豆跌1.8%，美国农业部披露WASDE库存报告。",
-          "url": "https://wallstreetcn.com/livenews/3004978",
-          "source": "华尔街见闻-快讯",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251114233921340800",
+          "source": "金十数据",
           "ranks": [
-            7
+            18,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 02时38分]"
         },
         {
           "title": "期货盯盘神器专属文章",
@@ -249,17 +307,6 @@
           "source": "金十数据",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251114233921340800",
-          "source": "金十数据",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -290,8 +337,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时38分]"
         },
         {
           "title": "航运巨头达飞轮船CFO：目前，在安全允许的情况下，限制苏伊士运河通航次数的政策不会改变。",
@@ -300,7 +347,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -324,8 +371,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时38分]"
         },
         {
           "title": "南向资金追踪｜本周净买入约248亿港元 持续加仓小米和中海油抛售阿里巴巴",
@@ -335,8 +382,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时38分]"
         },
         {
           "title": "美国堪萨斯城联储主席Jeff Schmid：（FOMC）进一步降息可能会造成持久的通胀效应。 金融市场和实体经济并没有体现出紧缩的货币政策（应有的效果）。 就业市场正在降温，可能体现出一些结构性变化。 通胀正蔓延至更多的商品和服务领域。 顽固的通胀可能会从心理层面引发价格环境的变化。 美联储在实现2%通胀目标方面的承诺面临质疑声音。 通胀顾虑引导我对12月FOMC货币政策会议的看法。",
@@ -363,8 +410,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时38分]"
         }
       ]
     }
