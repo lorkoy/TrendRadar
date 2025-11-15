@@ -1,1017 +1,162 @@
 {
-  "generated_at": "2025-11-15T23:25:31.385496+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2025-11-16T00:30:44.308387+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "国常会：部署增强消费品供需适配性进一步促进消费政策措施",
-          "url": "https://www.cls.cn/detail/2201222",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时36分 ~ 18时27分]"
-        },
-        {
-          "title": "李强主持召开国务院常务会议，部署增强消费品供需适配性进一步促进消费政策措施",
-          "url": "https://wallstreetcn.com/articles/3759402",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时01分 ~ 20时51分]"
-        },
-        {
-          "title": "“十五五”时期如何发挥积极财政政策作用？蓝佛安回应",
-          "url": "https://www.cls.cn/detail/2201219",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时36分 ~ 17时26分]"
-        },
-        {
-          "title": "南向资金追踪｜本周净买入约248亿港元 持续加仓小米和中海油抛售阿里巴巴",
-          "url": "https://www.cls.cn/detail/2201100",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 13时27分]"
-        },
-        {
-          "title": "印度官员：谷歌预计将把印度数据中心项目投资金额提高至逾150亿美元",
-          "url": "https://flash.jin10.com/detail/20251115162742778800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 19时21分]"
-        },
-        {
-          "title": "航运巨头达飞轮船CFO：目前，在安全允许的情况下，限制苏伊士运河通航次数的政策不会改变。",
-          "url": "https://flash.jin10.com/detail/20251115011457670800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "日本政府考虑制定规模大约17万亿日元（折合1100亿美元）的经济刺激计划。 为该方案提供资金的追加预算规模可能在14万亿日元左右。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3005072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "美联储理事米兰：边境政策的改变具有反通胀作用。",
-          "url": "https://flash.jin10.com/detail/20251115031547176800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "“十四五”期间 上海核电产业总产出保持‌每年两位数增长",
-          "url": "https://wallstreetcn.com/livenews/3005192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 23时25分]"
-        },
-        {
-          "title": "“粤车南下”政策落地，首辆车顺利通关",
-          "url": "https://wallstreetcn.com/livenews/3004960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
-        },
-        {
-          "title": "美联储洛根：适度紧缩的政策是合适的。",
-          "url": "https://flash.jin10.com/detail/20251115034446829800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 07时25分]"
-        },
-        {
-          "title": "AH股双双收跌，沪指失守4000点，创业板跌超3%，算力硬件产业链领跌，科指跌超2%，百度下跌7%，创新药逆势上涨",
-          "url": "https://wallstreetcn.com/articles/3759362",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 16时32分]"
-        },
-        {
-          "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
-          "url": "https://wallstreetcn.com/livenews/3005014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时25分]"
-        },
-        {
-          "title": "美联储理事米兰：货币政策应具有前瞻性。",
-          "url": "https://flash.jin10.com/detail/20251115031051152800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国亚特兰大联储主席Bostic（2027年FOMC票委）：（就业+价格这）两大职责都没有在目标方向上发展。 在实施货币政策方面，环境的挑战性越来越大。 希望有信息来引导适宜的政策，希望在12月政策会议之前掌握大量数据。",
-          "url": "https://wallstreetcn.com/livenews/3005044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "“百镜大战”白热化 产业链上市公司加速创新",
-          "url": "https://wallstreetcn.com/livenews/3005106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "美国堪萨斯城联储主席Jeff Schmid：（FOMC）进一步降息可能会造成持久的通胀效应。 金融市场和实体经济并没有体现出紧缩的货币政策（应有的效果）。 就业市场正在降温，可能体现出一些结构性变化。 通胀正蔓延至更多的商品和服务领域。 顽固的通胀可能会从心理层面引发价格环境的变化。 美联储在实现2%通胀目标方面的承诺面临质疑声音。 通胀顾虑引导我对12月FOMC货币政策会议的看法。",
-          "url": "https://wallstreetcn.com/livenews/3004942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "美联储理事米兰：根据滞后数据制定政策是一个错误。",
-          "url": "https://flash.jin10.com/detail/20251115030641760800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "宠物经济持续升温，产业多元化发展趋势显著",
-          "url": "https://wallstreetcn.com/livenews/3005101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "美国亚特兰大联储主席（2027年FOMC票委）Bostic：（就业+价格这）两大职责都没有在目标方向上发展。 在实施货币政策方面，环境的挑战性越来越大。 希望有信息来引导适宜的政策，希望在12月政策会议之前掌握大量数据。",
-          "url": "https://wallstreetcn.com/livenews/3005044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "公务员录用体检标准放宽：地中海贫血等三项体检标准调整",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31967750",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时36分 ~ 19时21分]"
-        },
-        {
-          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
-          "url": "https://wallstreetcn.com/articles/3759431",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时42分 ~ 23时25分]"
-        },
-        {
-          "title": "公务员录用体检标准放宽，地中海贫血、桥本甲状腺炎等三项体检标准调整，这会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1972756990812975387",
-          "source": "知乎",
-          "ranks": [
-            3,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 15时24分]"
-        },
-        {
-          "title": "金十期货·USDA月报专题",
-          "url": "https://flash.jin10.com/detail/20251115112657452800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            7,
-            10,
-            16,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 17时26分]"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数跌3.46%，报65.37点，本周累计下跌21.39%，从87.87点持续、平滑地下跌至63.64点。 周五（11月14日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.14%，报95045美元，本周累跌8.64%。 CME以太币期货DCR主力合约大致持平，报3168.00美元，本周累跌8.85%。",
-          "url": "https://wallstreetcn.com/livenews/3005073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "芝加哥谷物期货周五跌超2%，本周豆粕跌2%",
-          "url": "https://wallstreetcn.com/livenews/3005028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时27分]"
-        },
-        {
-          "title": "本周原糖期货跌超5.3%，罗布斯塔咖啡跌超8.9%，纽约可可累跌11.6%逼近5000美元关口",
-          "url": "https://wallstreetcn.com/livenews/3005038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时27分]"
-        },
-        {
-          "title": "周五（11月14日）纽约尾盘，标普500股指期货最终上涨0.10%，道指期货跌0.57%，纳斯达克100股指期货涨0.25%。 罗素2000股指期货涨0.25%。",
-          "url": "https://wallstreetcn.com/livenews/3005061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时25分]"
-        },
-        {
-          "title": "上期所原油期货2512合约夜盘收涨1.38%，报461.70元人民币/桶。 沪金夜盘收跌2.53%，沪银收跌3.59%。",
-          "url": "https://wallstreetcn.com/livenews/3005004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 05时25分]"
-        },
-        {
-          "title": "芝加哥农作物期货下跌，大豆跌1.8%，美国农业部披露WASDE库存报告。",
-          "url": "https://wallstreetcn.com/livenews/3004978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时22分]"
-        },
-        {
-          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，建仓谷歌",
-          "url": "https://wallstreetcn.com/articles/3759431",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251114234917529800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 23时25分]"
-        },
-        {
-          "title": "First Brands资产负债表外贷款人要求破产审理进行调整",
-          "url": "https://wallstreetcn.com/livenews/3004955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
-        },
-        {
-          "title": "WTI 12月原油期货收涨1.40美元，涨幅2.39%，报60.09美元/桶，本周累计上涨将近0.57%。 布伦特1月原油期货收涨1.38美元，涨幅2.19%，报64.39美元/桶，本周累涨超1.19%。 NYMEX 12月天然气期货收报4.5660美元/百万英热单位，本周累涨超5.81%。 NYMEX 12月汽油期货收报2.0116美元/加仑，NYMEX 12月取暖油期货收报2.5311美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3005019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时25分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251114233921340800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时38分]"
-        },
-        {
-          "title": "内盘期货夜市多数收跌，甲醇跌2.2%，铁矿石则涨超0.4%，焦煤涨超0.6%，焦炭涨约1.4%",
-          "url": "https://wallstreetcn.com/livenews/3004941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.33%，报26500点，低水72点。",
-          "url": "https://flash.jin10.com/detail/20251115030038950800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "11月，美国散户遭“定点打击”：指数跌幅不大、个股陷入“熊市”、币圈惨遭血洗",
-          "url": "https://wallstreetcn.com/articles/3759445",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时37分 ~ 23时25分]"
-        },
-        {
-          "title": "云南铜业：黄金价格上涨对公司整体业绩增长影响有限",
-          "url": "https://wallstreetcn.com/livenews/3005134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            13,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时43分 ~ 15时24分]"
-        },
-        {
-          "title": "阿里巴巴股价短线从161.90美元上方跳水至157.75美元下方，从上涨1.3%转而下跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3004996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 04时31分]"
-        },
-        {
-          "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
-          "url": "https://wallstreetcn.com/livenews/3005057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时25分]"
-        },
-        {
-          "title": "【每日收评】沪指跌近1%失守4000点，存储芯片板块遭遇重挫，福建、海南本地股逆势活跃",
-          "url": "https://www.cls.cn/detail/2200927",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时22分]"
-        },
-        {
-          "title": "茅台价格继续上涨，今日25年飞天原箱批价报1680元/瓶",
-          "url": "https://wallstreetcn.com/livenews/3005190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 23时25分]"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收跌0.75%，报2059.39点，本周累计上涨3.65%。",
-          "url": "https://wallstreetcn.com/livenews/3004956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
-        },
-        {
-          "title": "周五（11月14日），韩元兑美元最终涨0.78%，报1453.89韩元，本周累计上涨0.51%。",
-          "url": "https://wallstreetcn.com/livenews/3004986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时22分]"
-        },
-        {
-          "title": "美国总统特朗普：在特朗普政府的领导下，各项成本正在大幅下降，这在很大程度上得益于汽油和能源价格的下跌。",
-          "url": "https://flash.jin10.com/detail/20251114235018798800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌1.3%，创10月17日以来最大单日跌幅，报354.96点，本周累计上涨将近2.09%。 在十个板块中，北欧工业板块跌幅最大。 国际供热技术公司Nibe Industrier AB跌13.0%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3004969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "意大利银行板块收跌超3%",
-          "url": "https://wallstreetcn.com/livenews/3004968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收跌1.17%，报573.88点，本周累计上涨大约1.6%。 欧元区STOXX 50指数初步收跌1.03%，报5683.68点，本周累涨2.1%。 富时泛欧绩优300指数初步收跌1.14%，报2289.34点。",
-          "url": "https://wallstreetcn.com/livenews/3004967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周五（11月14日），南非富时/JSE非洲领先40可交易指数收跌1.90%，勉强守住10.5万点，本周累计上涨3.06%，整体持稳于10.4万点附近——11月13-14日呈现出一波冲高回落行情。",
-          "url": "https://wallstreetcn.com/livenews/3004966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "随着股市回升，美国国债收益率走高，美国10年期收益率最新上涨2个基点，报4.131%。",
-          "url": "https://flash.jin10.com/detail/20251115004257124800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "沃尔玛下跌3.6%，恐创8月份以来最差单日表现。 该公司宣布，CEO Doug McMillon将于明年2月份退休，美国业务主管John Furner将接任。 路透报道称，McMillon是自己决定要退休的，并与董事会进行了筹划。",
-          "url": "https://wallstreetcn.com/livenews/3004930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "应用材料下跌8.9%，创8月15日以来最大盘中跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3004944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
-          "url": "https://wallstreetcn.com/articles/3759354",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 07时25分]"
-        },
-        {
-          "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
-          "url": "https://wallstreetcn.com/articles/3759375",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 14时37分]"
-        },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
           "url": "https://www.cls.cn/detail/2201442",
           "source": "财联社热门",
           "ranks": [
-            9,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[07时25分 ~ 23时25分]"
-        },
-        {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时36分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
           "url": "https://www.cls.cn/detail/2201450",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时01分 ~ 23时25分]"
-        },
-        {
-          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1972596571733497781",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 14时37分]"
-        },
-        {
-          "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
-          "url": "https://wallstreetcn.com/livenews/3004953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
-        },
-        {
-          "title": "金十图示：2025年11月14日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251115094343913800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "00时30分"
         },
         {
-          "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251115013327366800",
-          "source": "金十数据",
+          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2201293",
+          "source": "财联社热门",
           "ranks": [
-            23
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时38分"
+          "time_info": "00时30分"
         },
         {
-          "title": "Clearwater Analytics美股盘后涨近16%，彭博报道称，华平投资（Warburg）与私募股权公司Permira拟收购Clearwater Analytics。",
-          "url": "https://wallstreetcn.com/livenews/3005095",
-          "source": "华尔街见闻-快讯",
+          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
+          "url": "https://www.cls.cn/detail/2201578",
+          "source": "财联社热门",
           "ranks": [
-            23
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "金十图示：2025年11月14日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251115013245907800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数美股盘初跌1.7%。 中概股世纪华联跌6.3%，小马智行跌6%，阿特斯太阳能跌5%，小鹏跌4.7%，大全新能源跌4.2%，文远知行跌3.8%，京东、蔚来跌3.3%，百度跌2.7%，腾讯音乐则涨0.8%，B站涨1.9%，雾芯科技/悦刻电子烟涨8.4%。 ETF中，CQQQ跌1.75%，KWEB跌0.57%。",
-          "url": "https://wallstreetcn.com/livenews/3004929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "行业ETF美股盘初普跌，半导体ETF跌2.8%，科技行业ETF跌1.9%，网络股指数ETF、全球科技股指数ETF跌约1.8%，能源业ETF涨约0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3004928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "美股三大股指集体低开 特斯拉跌超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "time_info": "00时30分"
         }
       ]
     },
     {
-      "keyword_group": "SZ SH HK",
-      "match_count": 7,
+      "keyword_group": "调整 期货 现货",
+      "match_count": 2,
       "titles": [
         {
-          "title": "大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳开幕",
-          "url": "https://wallstreetcn.com/livenews/3005195",
-          "source": "华尔街见闻-快讯",
+          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
+          "url": "https://wallstreetcn.com/articles/3759431",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 23时25分]"
-        },
-        {
-          "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
-          "url": "https://wallstreetcn.com/livenews/3005075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "00时30分"
         },
         {
-          "title": "13F报告显示：Soros Fund Management LLC.三季度建仓做多Brown & Brown、Aramark、iShares 7-10年期美国国债ETF、Idacorp、JBT Marel。 清仓阿斯利康、摩根大通、纳斯达克等。 增持英伟达、Snowflake、KKR等。 减持SPDR标普500 ETF信托、谷歌A、高盛等。",
-          "url": "https://wallstreetcn.com/livenews/3005054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时25分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加45.14吨，当前持仓量为15218.42吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20251115081842302800",
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251115215016058800",
           "source": "金十数据",
           "ranks": [
-            13,
-            21
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时43分]"
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "11月，美国散户遭“定点打击”：指数跌幅不大、个股陷入“熊市”、币圈惨遭血洗",
+          "url": "https://wallstreetcn.com/articles/3759445",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
-          "title": "13F数据显示，Tiger Global Management LLC.三季度建仓做多奈飞、MongoDB、Bullish、Figma、以及Accelerant等。 清仓礼来、CrowdStrike、诺和诺德、ZKH等。 增持博通、GE Vernova、Coupang、亚马逊、Block。 减持Meta、Sherwin-Williams、Zillow（C类股+A类股）、Reddit。 重仓微软、Sea Ltd.、谷歌A、亚马逊、英伟达。",
-          "url": "https://wallstreetcn.com/livenews/3005015",
+          "title": "茅台价格继续上涨，今日25年飞天原箱批价报1680元/瓶",
+          "url": "https://wallstreetcn.com/livenews/3005190",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            20
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时25分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
-          "url": "https://wallstreetcn.com/livenews/3005068",
+          "title": "“十四五”期间 上海核电产业总产出保持‌每年两位数增长",
+          "url": "https://wallstreetcn.com/livenews/3005192",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时25分"
-        },
+          "time_info": "00时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "13F报告显示：Citadel Advisors LLC.三季度建仓壳牌与埃克森美孚等。 清仓iShares半导体ETF等。 增持Meta、微软、Visa、苹果、Norfolk、Southern。 减持德州仪器、亿滋国际、麦当劳、摩根大通等。 重仓微软、英伟达、Meta、苹果、Visa。",
-          "url": "https://wallstreetcn.com/livenews/3005065",
+          "title": "大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳开幕",
+          "url": "https://wallstreetcn.com/livenews/3005195",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "00时30分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
-          "url": "https://wallstreetcn.com/articles/3759298",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 07时25分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0994元，较周四夜盘收盘跌29点。成交量484.92亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3005010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时25分]"
-        },
-        {
-          "title": "周五（11月14日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.0991元，较周四纽约尾盘跌35点，日内整体交投于7.0907-7.1024元区间。",
-          "url": "https://wallstreetcn.com/livenews/3005062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D30%26stream_entry_id%3D31%26pos%3D30%26realpos%3D30%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26dgr%3D0%26flag%3D0%26cate%3D5001%26display_time%3D1763146666%26pre_seqid%3D17631466660710330674316&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "丰田 Q3 季报显示，其当季利润约 437 亿人民币，超国内 TOP8 盈利车企利润总和约 50%，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1972593031975777182",
+          "source": "知乎",
           "ranks": [
-            30
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债收益率本周普遍涨超4个基点",
-          "url": "https://wallstreetcn.com/livenews/3005071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数本周跌0.3%",
-          "url": "https://wallstreetcn.com/livenews/3005030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时27分]"
+          "time_info": "00时30分"
         }
       ]
     }
