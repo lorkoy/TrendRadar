@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T14:41:46.247362+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2025-11-17T15:27:53.795174+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 14时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 15时27分]"
         },
         {
           "title": "高盛交易员：过去两周对市场的“核心牛市逻辑”构成了挑战",
@@ -46,17 +46,6 @@
           "time_info": "[00时32分 ~ 07时24分]"
         },
         {
-          "title": "日经225指数收盘下跌0.10%，报50323.91点。日本东证指数收盘下跌0.4%。 韩国首尔综合指数收盘涨1.9%，报4089.25点。",
-          "url": "https://wallstreetcn.com/livenews/3005637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
           "title": "比特币短线下跌近1000美元，现报93200美元/枚；以太坊逼近跌破3000美元/枚大关。",
           "url": "https://flash.jin10.com/detail/20251117070640432800",
           "source": "金十数据",
@@ -66,6 +55,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "摩根士丹利表示，美股2026年底目标价为7,800点。 预计2026年美国股票的表现应优于世界其他地区的股票。 将美国可选消费板块评级从“低配”上调至“超配”。 将美国医疗保健板块评级从“中性”上调至“超配”。",
+          "url": "https://wallstreetcn.com/livenews/3005671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
+          "url": "https://wallstreetcn.com/articles/3759492",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 15时27分]"
         },
         {
           "title": "比特币抹掉今年以来所有涨幅，加密货币熊市加剧",
@@ -81,17 +94,16 @@
           "time_info": "[05时24分 ~ 07时24分]"
         },
         {
-          "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
-          "url": "https://wallstreetcn.com/articles/3759492",
-          "source": "华尔街见闻",
+          "title": "日经225指数收盘下跌0.10%，报50323.91点。日本东证指数收盘下跌0.4%。 韩国首尔综合指数收盘涨1.9%，报4089.25点。",
+          "url": "https://wallstreetcn.com/livenews/3005637",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8,
-            6
+            2,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 14时41分]"
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时27分]"
         },
         {
           "title": "科技板块获逆势加仓，“哑铃策略”重回视野",
@@ -176,6 +188,17 @@
           "time_info": "11时53分"
         },
         {
+          "title": "金十图示：2025年11月17日（周一）富时中国A50指数成分股今日收盘行情一览：多个板块飘绿，保险、银行股全天疲软",
+          "url": "https://flash.jin10.com/detail/20251117150325046800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "A股有机硅板块午后拉升，东岳硅材涨近10%，晨光新材、硅宝科技、晨化股份、宏柏新材、合盛硅业等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3005594",
           "source": "华尔街见闻-快讯",
@@ -226,7 +249,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -262,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "上证指数收报3972.03点，跌0.46%。 深证成指收报13202.00点，跌0.11%。 创业板指收报3105.20点，跌0.20%。 沪深300收报4598.05点，跌0.65%。 科创50收报1354.04点，跌0.53%。 中证500收报7235.35点，跌0.00%。 中证1000收报7523.08点，涨0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3005658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "上证指数开盘报3988.56点，跌0.05%。 深证成指开盘报13200.54点，跌0.12%。 创业板指开盘报3097.34点，跌0.46%。 沪深300开盘报4616.81点，跌0.24%。 科创50开盘报1363.48点，涨0.16%。 中证500开盘报7248.92点，涨0.19%。 中证1000开盘报7514.84点，涨0.16%。",
@@ -308,6 +342,17 @@
           "time_info": "11时53分"
         },
         {
+          "title": "A股光通信概念震荡反弹，腾景科技20cm涨停，德科立、长芯博创、光库科技、中际旭创涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3005645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "台湾证交所加权股价指数盘初上涨1%至27,671.99点。",
           "url": "https://wallstreetcn.com/livenews/3005454",
           "source": "华尔街见闻-快讯",
@@ -344,7 +389,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "现货黄金盘短线小幅拉升，突破4100美元/盎司，日内涨0.39%。",
@@ -356,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251117151612981800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "现货黄金突破4100美元/盎司，日内涨0.42%。",
@@ -467,11 +523,12 @@
           "ranks": [
             8,
             11,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 15时27分]"
         },
         {
           "title": "为什么老板们喜欢经常调整组织架构？",
@@ -509,6 +566,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约涨0.33%，10年期主力合约涨0.09%，5年期主力合约涨0.05%，2年期主力合约涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3005668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251117093116410800",
           "source": "金十数据",
@@ -537,7 +605,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -553,6 +621,28 @@
           "time_info": "10时07分"
         },
         {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251117150122423800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。碳酸锂封涨停板，涨幅为9%，集运指数（欧线）涨超6%，硅铁、铁矿石、焦炭、螺纹钢、热卷涨超1%。跌幅方面，沪银跌超4%，沪金跌超3%，多晶硅跌近3%。",
+          "url": "https://flash.jin10.com/detail/20251117150052624800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.13%，10年期主力合约涨0.02%，5年期主力合约涨0.02%，2年期主力合约跌0.01%。",
           "url": "https://wallstreetcn.com/livenews/3005473",
           "source": "华尔街见闻-快讯",
@@ -562,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "沪指震荡调整跌0.46%，福建、锂电板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3005659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "碳酸锂期货主力合约涨超8%，报94460元/吨。 集运指数(欧线)主力合约涨超7%。",
@@ -575,15 +676,48 @@
           "time_info": "11时53分"
         },
         {
+          "title": "商品期货收盘，碳酸锂主力合约涨停，集运欧线涨超6%，铁矿石、螺纹钢、焦炭、热卷、硅铁涨超1%。沪银跌超4%，沪金跌超3%，甲醇、多晶硅、烧碱跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3005656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "现货黄金失守4050美元/盎司，日内跌幅0.86%。",
           "url": "https://flash.jin10.com/detail/20251117133701618800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面强势拉涨，富宝电池级碳酸锂报88650元/吨",
+          "url": "https://flash.jin10.com/detail/20251117143825736800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "碳酸锂期货主力合约触及涨停，涨幅9%，报95200元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3005646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "商品期货开盘，集运欧线主力合约涨超6%，焦炭涨超1%。沪银跌超3%，沪金、甲醇跌超2%，氧化铝、沪锡、鸡蛋、玻璃、燃料油跌超1%。",
@@ -611,7 +745,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "国内外储能需求迎来共振时刻 产业链A股上市公司境外营收占比、市占率一览",
@@ -654,6 +788,17 @@
           "time_info": "13时29分"
         },
         {
+          "title": "国家药监局：鼓励化妆品新品在中国首发，加大产业扶持力度",
+          "url": "https://wallstreetcn.com/livenews/3005669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "临近年末资金切换，均衡策略成机构共识",
           "url": "https://wallstreetcn.com/livenews/3005384",
           "source": "华尔街见闻-快讯",
@@ -690,6 +835,30 @@
           "time_info": "[11时53分 ~ 14时41分]"
         },
         {
+          "title": "日本11月12日经济财政政策会议（CEFP）纪要：日本央行行长植田和男表示，日本央行正在寻求一个能确保经济“平稳着陆”的利率水平。 植田和男表示，我们的观点是基础通胀率仍低于目标，因此我们正在维持宽松的货币立场。 植田和男表示，从长远来看，可持续地实现 2%（的通胀目标），不仅意味着要从目前的低水平上升，也意味着通胀显著超过2%可能会带来麻烦。 植田和男称维持过于宽松货币政策时间太久，会对稳定达成2%通胀目标构成风险。",
+          "url": "https://wallstreetcn.com/livenews/3005628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时27分]"
+        },
+        {
+          "title": "日本方面公布11月12日经济财政政策会议（CEFP）会议纪要，这是日本首相高市早苗任内首次召开该会议。",
+          "url": "https://wallstreetcn.com/livenews/3005627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时27分]"
+        },
+        {
           "title": "2025量子科技和产业大会将于11月20日至22日在合肥举办",
           "url": "https://wallstreetcn.com/livenews/3005571",
           "source": "华尔街见闻-快讯",
@@ -714,24 +883,25 @@
           "time_info": "[12时34分 ~ 13时29分]"
         },
         {
+          "title": "媒体曝光「杀人蜂」养殖已成灰色产业链，6666 元包教包会，这种蜂有多危险？养殖合法吗？",
+          "url": "https://www.zhihu.com/question/1973662300499047048",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时27分]"
+        },
+        {
           "title": "日本经济财政政策会议会议纪要：日本央行行长植田和男表示，从长期来看，可持续地实现2%的目标并不仅仅意味着通胀要高于2%，还意味着通胀大幅超过2%可能会带来麻烦。",
           "url": "https://flash.jin10.com/detail/20251117140803069800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "日本11月12日经济财政政策会议（CEFP）纪要：日本央行行长植田和男表示，日本央行正在寻求一个能确保经济“平稳着陆”的利率水平。 植田和男表示，我们的观点是基础通胀率仍低于目标，因此我们正在维持宽松的货币立场。 植田和男表示，从长远来看，可持续地实现 2%（的通胀目标），不仅意味着要从目前的低水平上升，也意味着通胀显著超过2%可能会带来麻烦。 植田和男称维持过于宽松货币政策时间太久，会对稳定达成2%通胀目标构成风险。",
-          "url": "https://wallstreetcn.com/livenews/3005628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -742,20 +912,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
         {
-          "title": "日本方面公布11月12日经济财政政策会议（CEFP）会议纪要，这是日本首相高市早苗任内首次召开该会议。",
-          "url": "https://wallstreetcn.com/livenews/3005627",
+          "title": "股市资金流向图：今日沪深两市主力资金净流出396.40亿元，占比2.07%；大单资金净流出211.23亿元，占比1.11%；小单资金净流入371.39亿元，占比1.94%。",
+          "url": "https://flash.jin10.com/detail/20251117150622125800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "国家药监局发布关于深化化妆品监管改革促进产业高质量发展的意见",
+          "url": "https://wallstreetcn.com/livenews/3005666",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时41分"
+          "time_info": "15时27分"
         },
         {
           "title": "日本经济财政政策会议会议纪要：日本央行行长植田和男表示，我们认为潜在通胀率仍低于目标水平，因此我们将维持宽松的货币政策立场。",
@@ -764,7 +945,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -775,7 +956,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -786,7 +967,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -800,17 +981,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        },
-        {
-          "title": "媒体曝光「杀人蜂」养殖已成灰色产业链，6666 元包教包会，这种蜂有多危险？养殖合法吗？",
-          "url": "https://www.zhihu.com/question/1973662300499047048",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
         },
         {
           "title": "A股4000点拉锯战资金流向哪里",
@@ -925,7 +1095,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         }
@@ -933,7 +1103,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价居高不下，黄金消费现新趋势",
@@ -947,6 +1117,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "金十图示：2025年11月17日（周一）上海金午盘价为928.44元/克，较国际金价(929.51元/克)，低1.07元/克",
+          "url": "https://flash.jin10.com/detail/20251117150157250800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "金十图示：2025年11月17日（周一）上海金早盘价为933.64元/克，较国际金价(931.13元/克)，高2.51元/克",
           "url": "https://flash.jin10.com/detail/20251117110119026800",
           "source": "金十数据",
@@ -956,6 +1137,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大摩：10年期美债收益率预计在2026上半年走低",
+          "url": "https://flash.jin10.com/detail/20251117151218851800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     },
