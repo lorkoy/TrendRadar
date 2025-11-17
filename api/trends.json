@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T13:29:55.511322+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-11-17T14:41:46.247362+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡",
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 13时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 14时41分]"
         },
         {
           "title": "高盛交易员：过去两周对市场的“核心牛市逻辑”构成了挑战",
@@ -45,6 +46,17 @@
           "time_info": "[00时32分 ~ 07时24分]"
         },
         {
+          "title": "日经225指数收盘下跌0.10%，报50323.91点。日本东证指数收盘下跌0.4%。 韩国首尔综合指数收盘涨1.9%，报4089.25点。",
+          "url": "https://wallstreetcn.com/livenews/3005637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "比特币短线下跌近1000美元，现报93200美元/枚；以太坊逼近跌破3000美元/枚大关。",
           "url": "https://flash.jin10.com/detail/20251117070640432800",
           "source": "金十数据",
@@ -69,6 +81,19 @@
           "time_info": "[05时24分 ~ 07时24分]"
         },
         {
+          "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
+          "url": "https://wallstreetcn.com/articles/3759492",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时41分]"
+        },
+        {
           "title": "科技板块获逆势加仓，“哑铃策略”重回视野",
           "url": "https://wallstreetcn.com/livenews/3005382",
           "source": "华尔街见闻-快讯",
@@ -91,18 +116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 12时34分]"
-        },
-        {
-          "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
-          "url": "https://wallstreetcn.com/articles/3759492",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时29分]"
         },
         {
           "title": "加密货币熊市加剧背景下 比特币抹去年内涨幅",
@@ -169,7 +182,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -205,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "日本长期国债大幅下跌 受财政担忧加剧影响",
+          "url": "https://wallstreetcn.com/livenews/3005622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "隔夜shibor报1.5080%，上涨14.50个基点",
@@ -320,7 +344,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "现货黄金盘短线小幅拉升，突破4100美元/盎司，日内涨0.39%。",
@@ -437,6 +461,19 @@
           "time_info": "[12时34分 ~ 13时29分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251117110734716800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 14时41分]"
+        },
+        {
           "title": "为什么老板们喜欢经常调整组织架构？",
           "url": "https://www.zhihu.com/question/367510805",
           "source": "知乎",
@@ -447,18 +484,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时07分 ~ 11时53分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251117110734716800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 13时29分]"
         },
         {
           "title": "国债期货早盘收盘，30年期主力合约涨0.40%，10年期主力合约涨0.08%，5年期主力合约涨0.04%，2年期主力合约涨0.03%。",
@@ -506,6 +531,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "富时中国A50指数期货日内跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3005626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "黑色系期货主力合约短线拉升，焦炭涨近2%，铁矿石、焦煤、硅铁涨超1%，螺纹、热卷、锰硅涨近1%。",
           "url": "https://flash.jin10.com/detail/20251117092446880800",
           "source": "金十数据",
@@ -539,6 +575,17 @@
           "time_info": "11时53分"
         },
         {
+          "title": "现货黄金失守4050美元/盎司，日内跌幅0.86%。",
+          "url": "https://flash.jin10.com/detail/20251117133701618800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "商品期货开盘，集运欧线主力合约涨超6%，焦炭涨超1%。沪银跌超3%，沪金、甲醇跌超2%，氧化铝、沪锡、鸡蛋、玻璃、燃料油跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3005453",
           "source": "华尔街见闻-快讯",
@@ -564,7 +611,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
         {
           "title": "国内外储能需求迎来共振时刻 产业链A股上市公司境外营收占比、市占率一览",
@@ -602,7 +649,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -631,6 +678,18 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20251117104021064800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时41分]"
+        },
+        {
           "title": "2025量子科技和产业大会将于11月20日至22日在合肥举办",
           "url": "https://wallstreetcn.com/livenews/3005571",
           "source": "华尔街见闻-快讯",
@@ -655,6 +714,83 @@
           "time_info": "[12时34分 ~ 13时29分]"
         },
         {
+          "title": "日本经济财政政策会议会议纪要：日本央行行长植田和男表示，从长期来看，可持续地实现2%的目标并不仅仅意味着通胀要高于2%，还意味着通胀大幅超过2%可能会带来麻烦。",
+          "url": "https://flash.jin10.com/detail/20251117140803069800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "日本11月12日经济财政政策会议（CEFP）纪要：日本央行行长植田和男表示，日本央行正在寻求一个能确保经济“平稳着陆”的利率水平。 植田和男表示，我们的观点是基础通胀率仍低于目标，因此我们正在维持宽松的货币立场。 植田和男表示，从长远来看，可持续地实现 2%（的通胀目标），不仅意味着要从目前的低水平上升，也意味着通胀显著超过2%可能会带来麻烦。 植田和男称维持过于宽松货币政策时间太久，会对稳定达成2%通胀目标构成风险。",
+          "url": "https://wallstreetcn.com/livenews/3005628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "日本经济财政政策会议会议纪要：日本央行行长植田和男表示，从稳定实现2%目标的角度来看，维持货币政策过于宽松的时间过长会带来风险。",
+          "url": "https://flash.jin10.com/detail/20251117140719857800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "日本方面公布11月12日经济财政政策会议（CEFP）会议纪要，这是日本首相高市早苗任内首次召开该会议。",
+          "url": "https://wallstreetcn.com/livenews/3005627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "日本经济财政政策会议会议纪要：日本央行行长植田和男表示，我们认为潜在通胀率仍低于目标水平，因此我们将维持宽松的货币政策立场。",
+          "url": "https://flash.jin10.com/detail/20251117140427790800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "日本经济财政政策会议会议纪要：日本央行行长植田和男表示，日本央行正在追求一个能确保平稳着陆的利率水平。",
+          "url": "https://flash.jin10.com/detail/20251117140405224800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "日本方面公布11月12日经济财政政策会议（CEFP）会议纪要，这是日本首相高市早苗任内首次召开该会议。",
+          "url": "https://flash.jin10.com/detail/20251117140111143800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "宁德时代低开近4%。据公告公司重要股东、联合创始人黄世霖因自身资金需求，拟通过询价转让方式出让公司4563.24万股股份，占公司总股本的1%。",
           "url": "https://wallstreetcn.com/livenews/3005472",
           "source": "华尔街见闻-快讯",
@@ -666,15 +802,15 @@
           "time_info": "10时07分"
         },
         {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20251117104021064800",
-          "source": "金十数据",
+          "title": "媒体曝光「杀人蜂」养殖已成灰色产业链，6666 元包教包会，这种蜂有多危险？养殖合法吗？",
+          "url": "https://www.zhihu.com/question/1973662300499047048",
+          "source": "知乎",
           "ranks": [
-            23
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "14时41分"
         },
         {
           "title": "A股4000点拉锯战资金流向哪里",
@@ -756,7 +892,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "日本考虑追加超过13.9万亿美元预算。（NHK）",
@@ -781,6 +917,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
+          "title": "杰富瑞：将壳牌(SHEL.N)目标股价从81.6美元上调至87美元。",
+          "url": "https://flash.jin10.com/detail/20251117135453074800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         }
       ]
     },
