@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T02:39:01.524128+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2025-11-18T03:23:11.862017+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 03时23分]"
         },
         {
           "title": "外资又来唱多！大摩展望2026年：中国股市有望进一步上涨",
@@ -26,19 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时39分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月17日（周一）晚盘收盘上涨0.09%报930.04元/克；<br/>上海黄金交易所白银T+D 11月17日（周一）晚盘收盘上涨0.04%报11963.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251118023012622800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 03时23分]"
         },
         {
           "title": "专家：要警惕房价新一轮下跌",
@@ -46,11 +35,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 03时23分]"
         },
         {
           "title": "福建板块持续“吸金”！成交额创历史次高，2成标的近日涨停，这些游资密集现身",
@@ -60,8 +50,43 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 03时23分]"
+        },
+        {
+          "title": "纳指跌幅扩大至约1%，标普科技板块跌1.7%，半导体指数跌1.6%，银行指数跌1.9%",
+          "url": "https://wallstreetcn.com/livenews/3006027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月17日（周一）晚盘收盘上涨0.09%报930.04元/克；<br/>上海黄金交易所白银T+D 11月17日（周一）晚盘收盘上涨0.04%报11963.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251118023012622800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
+        },
+        {
+          "title": "比特币下跌0.83%，报92668.86美元，创2024年4月份以来新低。 加密货币概念股走低，Coinbase跌7%，Bitfarms跌0.5%，Strategy跌2.9%，Riot Platforms跌1.2%，MARA Holdings跌4.1%。 ProShares比特币策略ETF跌1.6%，iShares比特币信托跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3006010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
         },
         {
           "title": "Strategy下跌4.2%，创2024年10月份以来盘中新低。",
@@ -76,6 +101,42 @@
           "time_info": "[01时27分 ~ 02时39分]"
         },
         {
+          "title": "周一（11月17日），韩元兑美元最终跌0.41%，报1459.92韩元，亚太盘初显著走低，之后持续低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3006006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
+        },
+        {
+          "title": "特斯拉股价上涨，分析师聚焦其自动驾驶产品的进展",
+          "url": "https://flash.jin10.com/detail/20251118013926611800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
+        },
+        {
+          "title": "特斯拉股价上涨，分析师聚焦其自动驾驶产品的进展",
+          "url": "https://wallstreetcn.com/livenews/3006001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
+        },
+        {
           "title": "俄罗斯10月卢布有效汇率环比上涨2.6%。",
           "url": "https://wallstreetcn.com/livenews/3005950",
           "source": "华尔街见闻-快讯",
@@ -88,28 +149,6 @@
           "time_info": "[00时38分 ~ 01时27分]"
         },
         {
-          "title": "比特币下跌0.83%，报92668.86美元，创2024年4月份以来新低。 加密货币概念股走低，Coinbase跌7%，Bitfarms跌0.5%，Strategy跌2.9%，Riot Platforms跌1.2%，MARA Holdings跌4.1%。 ProShares比特币策略ETF跌1.6%，iShares比特币信托跌1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3006010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "周一（11月17日），韩元兑美元最终跌0.41%，报1459.92韩元，亚太盘初显著走低，之后持续低位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3006006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
           "title": "明晟公司MSCI北欧国家指数跌0.5%，连续三个交易日走弱，报353.15点。 在十个板块中，北欧工业板块跌幅最大。 潘多拉跌3.5%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3005980",
           "source": "华尔街见闻-快讯",
@@ -119,28 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "特斯拉股价上涨，分析师聚焦其自动驾驶产品的进展",
-          "url": "https://flash.jin10.com/detail/20251118013926611800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "特斯拉股价上涨，分析师聚焦其自动驾驶产品的进展",
-          "url": "https://wallstreetcn.com/livenews/3006001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
         },
         {
           "title": "10月份俄罗斯卢布实际有效汇率环比上涨2.6%。",
@@ -178,8 +195,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 03时23分]"
         },
         {
           "title": "培育壮大新兴产业和未来产业",
@@ -189,8 +206,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 03时23分]"
         },
         {
           "title": "7部门开展茧丝绸产业东绸西固工作",
@@ -200,8 +217,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 03时23分]"
         },
         {
           "title": "【数据看盘】多家机构、实力游资激烈博弈锂电产业链 中证A500ETF上周份额大减",
@@ -212,8 +229,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 03时23分]"
         },
         {
           "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
@@ -228,6 +245,18 @@
           "time_info": "[01时27分 ~ 02时39分]"
         },
         {
+          "title": "市场消息：由于国际资金陷入停滞，印度尼西亚的燃煤电厂淘汰计划面临风险。",
+          "url": "https://flash.jin10.com/detail/20251118013147952800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
+        },
+        {
           "title": "彭博汇编数据显示，上周加密数字货币ETPs资金外流17.3亿美元。 最近一个月，投资者从加密货币ETPs撤回25.6亿美元，最近一年仍然累计流入583亿美元。 加密货币ETP资产规模1845亿美元。",
           "url": "https://wallstreetcn.com/livenews/3005949",
           "source": "华尔街见闻-快讯",
@@ -238,17 +267,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时27分]"
-        },
-        {
-          "title": "市场消息：由于国际资金陷入停滞，印度尼西亚的燃煤电厂淘汰计划面临风险。",
-          "url": "https://flash.jin10.com/detail/20251118013147952800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
         },
         {
           "title": "美联储副主席杰斐逊：作为货币政策制定者，我对存款保险改革没有看法，这应由民选官员决定。",
@@ -265,7 +283,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -275,30 +293,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 03时23分]"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.72%，报26178点，低水206点。",
+          "url": "https://flash.jin10.com/detail/20251118030020285800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "上期所原油期货2512合约夜盘收涨0.28%，报460.00元人民币/桶。 沪金夜盘收涨0.04%，沪银收跌0.17%。",
           "url": "https://wallstreetcn.com/livenews/3006017",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
         },
         {
           "title": "伦敦罗布斯塔咖啡期货涨超6%，至4496美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3006011",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
         },
         {
           "title": "周一（11月17日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）跌1.32%，报79.86欧元/吨。",
@@ -317,11 +348,12 @@
           "url": "https://flash.jin10.com/detail/20251118015739308800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，铁矿石涨超0.3%，焦炭跌约2.4%，焦煤跌约3.2%",
@@ -348,30 +380,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 03时23分]"
         },
         {
           "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251118013150496800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
         },
         {
           "title": "金十图示：2025年11月17日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251118013112350800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
         },
         {
           "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
@@ -388,8 +422,19 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1083元，较上周五夜盘收盘跌89点。成交量357.29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3006025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
         {
           "title": "Citi将隆基绿能评级上调至买进，目标价26元人民币。",
           "url": "https://wallstreetcn.com/livenews/3005971",
@@ -401,6 +446,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收复上周部分失地 市场押注数据恢复将提振降息预期",
+          "url": "https://flash.jin10.com/detail/20251118024957855800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         }
       ]
     }
