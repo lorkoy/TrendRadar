@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T16:39:30.803150+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2025-11-17T17:33:48.491408+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡",
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 16时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 17时33分]"
         },
         {
           "title": "高盛交易员：过去两周对市场的“核心牛市逻辑”构成了挑战",
@@ -57,8 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 16时39分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 17时33分]"
         },
         {
           "title": "比特币短线下跌近1000美元，现报93200美元/枚；以太坊逼近跌破3000美元/枚大关。",
@@ -262,7 +262,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -273,9 +273,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "福建板块持续“吸金”！成交额创历史次高，2成标的近日涨停，这些游资密集现身",
+          "url": "https://www.cls.cn/detail/2202633",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "隔夜shibor报1.5080%，上涨14.50个基点",
@@ -339,7 +350,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -424,8 +435,19 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "新加坡交易所：将于11月24日推出比特币和以太坊永续期货。比特币、以太坊永续期货仅面向合格的机构投资者。",
+          "url": "https://wallstreetcn.com/livenews/3005774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
         {
           "title": "现货黄金盘短线小幅拉升，突破4100美元/盎司，日内涨0.39%。",
           "url": "https://flash.jin10.com/detail/20251117070826381800",
@@ -447,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "新加坡交易所：将于11月24日推出比特币和以太坊永续期货。比特币、以太坊永续期货仅面向合格的机构投资者。",
+          "url": "https://flash.jin10.com/detail/20251117172038648800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "现货黄金突破4100美元/盎司，日内涨0.42%。",
@@ -477,9 +510,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "亚洲市场盘初，美股三大股指期货微跌。现货黄金基本平开。",
@@ -786,12 +830,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "美股股指期货涨幅持续扩大，纳斯达克100指数期货涨1%，道琼斯指数期货涨0.25%，标普500指数期货涨0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3005738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "国内外储能需求迎来共振时刻 产业链A股上市公司境外营收占比、市占率一览",
@@ -845,6 +900,20 @@
           "time_info": "15时27分"
         },
         {
+          "title": "媒体曝光「杀人蜂」养殖已成灰色产业链，6666 元包教包会，这种蜂有多危险？养殖合法吗？",
+          "url": "https://www.zhihu.com/question/1973662300499047048",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 17时33分]"
+        },
+        {
           "title": "临近年末资金切换，均衡策略成机构共识",
           "url": "https://wallstreetcn.com/livenews/3005384",
           "source": "华尔街见闻-快讯",
@@ -879,19 +948,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 14时41分]"
-        },
-        {
-          "title": "媒体曝光「杀人蜂」养殖已成灰色产业链，6666 元包教包会，这种蜂有多危险？养殖合法吗？",
-          "url": "https://www.zhihu.com/question/1973662300499047048",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时39分]"
         },
         {
           "title": "日本11月12日经济财政政策会议（CEFP）纪要：日本央行行长植田和男表示，日本央行正在寻求一个能确保经济“平稳着陆”的利率水平。 植田和男表示，我们的观点是基础通胀率仍低于目标，因此我们正在维持宽松的货币立场。 植田和男表示，从长远来看，可持续地实现 2%（的通胀目标），不仅意味着要从目前的低水平上升，也意味着通胀显著超过2%可能会带来麻烦。 植田和男称维持过于宽松货币政策时间太久，会对稳定达成2%通胀目标构成风险。",
@@ -1014,9 +1070,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "欧洲央行审查货币政策信贷业务的风险控制框架。欧洲央行表示，用于抵押品的资产减记率将予以更新。",
+          "url": "https://flash.jin10.com/detail/20251117170939678800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "日本方面公布11月12日经济财政政策会议（CEFP）会议纪要，这是日本首相高市早苗任内首次召开该会议。",
@@ -1047,7 +1114,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1058,9 +1125,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
+          "url": "https://wallstreetcn.com/livenews/3005746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "俄逮捕一名涉嫌向乌武装部队提供资金支持的人员",
@@ -1069,7 +1147,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1091,7 +1169,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
@@ -1099,7 +1177,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "Tether 推出的离岸人民币稳定币 CNHT0，已正式在 Conflux 网络发行，将产生哪些影响？",
@@ -1119,11 +1197,12 @@
           "url": "https://wallstreetcn.com/livenews/3005734",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 17时33分]"
         },
         {
           "title": "百胜中国：有望到2026年实现门店数量2万家的目标。 计划到2030年开设超过3万家门店。 预计肯德基2028年营业利润将超过100亿元人民币。",
@@ -1150,6 +1229,28 @@
           "time_info": "[12时34分 ~ 13时29分]"
         },
         {
+          "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3005756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "小牛电动(NIU.O)第三季度营收16.9亿元人民币。",
+          "url": "https://flash.jin10.com/detail/20251117170150443800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "中国央行公开市场今日净投放1631亿元人民币",
           "url": "https://wallstreetcn.com/livenews/3005462",
           "source": "华尔街见闻-快讯",
@@ -1170,6 +1271,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "国家外汇局：2025年10月，银行结汇15194亿元人民币，售汇13940亿元人民币。2025年1-10月，银行累计结汇147941亿元人民币，累计售汇142201亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3005739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "日本考虑追加超过13.9万亿美元预算。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3005379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
+          "title": "据日本放送协会NHK：日本考虑追加超过13.9万亿日元的预算。",
+          "url": "https://flash.jin10.com/detail/20251117052708375800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
+          "title": "杰富瑞：将壳牌(SHEL.N)目标股价从81.6美元上调至87美元。",
+          "url": "https://flash.jin10.com/detail/20251117135453074800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "小鹏汽车(09868.HK)：预计四季度汽车交付量在12.5万-13.2万辆之间，同比增36.6-44.3%",
+          "url": "https://flash.jin10.com/detail/20251117170440647800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "小鹏汽车(09868.HK)：第四季度营收展望为人民币215亿至230亿元。",
+          "url": "https://flash.jin10.com/detail/20251117170213875800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "小鹏汽车(09868.HK)2025年Q3营收203.8亿元，去年同期101亿元。",
+          "url": "https://flash.jin10.com/detail/20251117170047033800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         }
       ]
     },
@@ -1217,50 +1403,49 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
       ]
     },
     {
-      "keyword_group": "SZ SH HK",
+      "keyword_group": "美股",
       "match_count": 3,
       "titles": [
         {
-          "title": "日本考虑追加超过13.9万亿美元预算。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3005379",
+          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
+          "url": "https://www.cls.cn/detail/2201578",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时24分]"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3005762",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            21
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时24分]"
-        },
-        {
-          "title": "据日本放送协会NHK：日本考虑追加超过13.9万亿日元的预算。",
-          "url": "https://flash.jin10.com/detail/20251117052708375800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时24分]"
-        },
-        {
-          "title": "杰富瑞：将壳牌(SHEL.N)目标股价从81.6美元上调至87美元。",
-          "url": "https://flash.jin10.com/detail/20251117135453074800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时41分"
+          "time_info": "17时33分"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20251117170331832800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         }
       ]
     },
@@ -1278,24 +1463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
-          "url": "https://www.cls.cn/detail/2201578",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时24分]"
         }
       ]
     }
