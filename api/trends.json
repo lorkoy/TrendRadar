@@ -1,209 +1,11 @@
 {
-  "generated_at": "2025-11-18T04:42:36.502228+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2025-11-18T05:26:26.210056+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 03时23分]"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.72%，报26178点，低水206点。",
-          "url": "https://flash.jin10.com/detail/20251118030020285800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "周一（11月17日）纽约尾盘，ICE原糖期货跌1.40%，ICE白糖期货跌2.02%。 ICE阿拉比卡咖啡期货涨0.99%，咖啡“C”期货涨1.03%。 纽约可可期货跌1.03%，报5401美元/吨。ICE棉花期货涨0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3006042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "上期所原油期货2512合约夜盘收涨0.28%，报460.00元人民币/桶。 沪金夜盘收涨0.04%，沪银收跌0.17%。",
-          "url": "https://wallstreetcn.com/livenews/3006017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 04时42分]"
-        },
-        {
-          "title": "伦敦罗布斯塔咖啡期货涨超6%，至4496美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3006011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时23分]"
-        },
-        {
-          "title": "周一（11月17日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）跌1.32%，报79.86欧元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3005983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 02时39分]"
-        },
-        {
-          "title": "伦敦罗布斯塔咖啡期货价格上涨超6%，至每吨4496美元。",
-          "url": "https://flash.jin10.com/detail/20251118015739308800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时23分]"
-        },
-        {
-          "title": "芝加哥小麦期货涨约3.2%，大豆期货涨超2.9%，豆粕涨约2.6%",
-          "url": "https://wallstreetcn.com/livenews/3006036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "现货黄金跌破4010美元/盎司关口，报4008.48美元/盎司。 纽约期金失守4010美元/盎司，日内跌超2%。 纽约银日内跌幅达2.5%，报49.39美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3006035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "现货白银日内大跌1.00美元，现报49.58美元/盎司，跌幅接近2%。",
-          "url": "https://flash.jin10.com/detail/20251118040152816800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "WTI 12月原油期货收跌0.18美元，跌幅0.30%，报59.91美元/桶。 布伦特1月原油期货收报64.20美元/桶。 中东Abu Dhabi Murban原油期货跌0.50%，报65.85美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3006031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "内盘期货夜市涨跌各异，铁矿石涨超0.3%，焦炭跌约2.4%，焦煤跌约3.2%",
-          "url": "https://wallstreetcn.com/livenews/3005947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "现货黄金跌势难止，向下触及4020美元/盎司，日内跌1.60%。",
-          "url": "https://flash.jin10.com/detail/20251118034316628800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "现货黄金短线跌幅扩大至30美元，回落至4030美元/盎司下方，日内跌1.36%。",
-          "url": "https://flash.jin10.com/detail/20251118034043169800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "现货白银日内下跌1.00%，现报50.07美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251118033951325800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "伦敦罗布斯塔咖啡期货涨6.46%，至4496美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3006011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "现货黄金日内下跌1.00%，现报4044.09美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251118033302088800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
@@ -213,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 04时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "外资又来唱多！大摩展望2026年：中国股市有望进一步上涨",
@@ -224,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 04时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "专家：要警惕房价新一轮下跌",
@@ -237,30 +39,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 04时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "福建板块持续“吸金”！成交额创历史次高，2成标的近日涨停，这些游资密集现身",
           "url": "https://www.cls.cn/detail/2202633",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 04时42分]"
-        },
-        {
-          "title": "周一（11月17日）纽约尾盘，ICE美元指数涨0.28%，刷新日高至99.598点，全天持续震荡上行。 彭博美元指数涨0.32%，刷新日高至1220.42点，也全天持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3006044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月17日（周一）晚盘收盘上涨0.09%报930.04元/克；<br/>上海黄金交易所白银T+D 11月17日（周一）晚盘收盘上涨0.04%报11963.0元/千克。",
@@ -285,6 +77,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时42分]"
+        },
+        {
+          "title": "周一（11月17日）纽约尾盘，ICE美元指数涨0.28%，刷新日高至99.598点，全天持续震荡上行。 彭博美元指数涨0.32%，刷新日高至1220.42点，也全天持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3006044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时26分]"
         },
         {
           "title": "比特币下跌0.83%，报92668.86美元，创2024年4月份以来新低。 加密货币概念股走低，Coinbase跌7%，Bitfarms跌0.5%，Strategy跌2.9%，Riot Platforms跌1.2%，MARA Holdings跌4.1%。 ProShares比特币策略ETF跌1.6%，iShares比特币信托跌1.7%。",
@@ -372,6 +176,28 @@
           "time_info": "01时27分"
         },
         {
+          "title": "StubHub Holdings Inc.最近四个交易日累计下跌33%。",
+          "url": "https://wallstreetcn.com/livenews/3006058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "美元指数17日上涨",
+          "url": "https://flash.jin10.com/detail/20251118050152232800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "10月份俄罗斯卢布实际有效汇率环比上涨2.6%。",
           "url": "https://flash.jin10.com/detail/20251117231615754800",
           "source": "金十数据",
@@ -396,8 +222,210 @@
       ]
     },
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 03时23分]"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.72%，报26178点，低水206点。",
+          "url": "https://flash.jin10.com/detail/20251118030020285800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "上期所原油期货2512合约夜盘收涨0.28%，报460.00元人民币/桶。 沪金夜盘收涨0.04%，沪银收跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3006017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时42分]"
+        },
+        {
+          "title": "周一（11月17日）纽约尾盘，ICE原糖期货跌1.40%，ICE白糖期货跌2.02%。 ICE阿拉比卡咖啡期货涨0.99%，咖啡“C”期货涨1.03%。 纽约可可期货跌1.03%，报5401美元/吨。ICE棉花期货涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3006042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时26分]"
+        },
+        {
+          "title": "伦敦罗布斯塔咖啡期货涨超6%，至4496美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3006011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
+        },
+        {
+          "title": "周一（11月17日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）跌1.32%，报79.86欧元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3005983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时39分]"
+        },
+        {
+          "title": "芝加哥小麦期货涨约3.2%，大豆期货涨超2.9%，豆粕涨约2.6%",
+          "url": "https://wallstreetcn.com/livenews/3006036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时26分]"
+        },
+        {
+          "title": "伦敦罗布斯塔咖啡期货价格上涨超6%，至每吨4496美元。",
+          "url": "https://flash.jin10.com/detail/20251118015739308800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时23分]"
+        },
+        {
+          "title": "现货黄金跌破4010美元/盎司关口，报4008.48美元/盎司。 纽约期金失守4010美元/盎司，日内跌超2%。 纽约银日内跌幅达2.5%，报49.39美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3006035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时26分]"
+        },
+        {
+          "title": "WTI 12月原油期货收跌0.18美元，跌幅0.30%，报59.91美元/桶。 布伦特1月原油期货收报64.20美元/桶。 中东Abu Dhabi Murban原油期货跌0.50%，报65.85美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3006031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时26分]"
+        },
+        {
+          "title": "现货白银日内大跌1.00美元，现报49.58美元/盎司，跌幅接近2%。",
+          "url": "https://flash.jin10.com/detail/20251118040152816800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "内盘期货夜市涨跌各异，铁矿石涨超0.3%，焦炭跌约2.4%，焦煤跌约3.2%",
+          "url": "https://wallstreetcn.com/livenews/3005947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "现货黄金跌势难止，向下触及4020美元/盎司，日内跌1.60%。",
+          "url": "https://flash.jin10.com/detail/20251118034316628800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "现货黄金短线跌幅扩大至30美元，回落至4030美元/盎司下方，日内跌1.36%。",
+          "url": "https://flash.jin10.com/detail/20251118034043169800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "现货白银日内下跌1.00%，现报50.07美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251118033951325800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "伦敦罗布斯塔咖啡期货涨6.46%，至4496美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3006011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "现货黄金日内下跌1.00%，现报4044.09美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251118033302088800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "售价翻三倍、需求增五成，存储市场“火热”外衣之下产业链冷暖不一",
@@ -407,8 +435,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 04时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "培育壮大新兴产业和未来产业",
@@ -418,8 +446,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 04时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "7部门开展茧丝绸产业东绸西固工作",
@@ -429,8 +457,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 04时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "【数据看盘】多家机构、实力游资激烈博弈锂电产业链 中证A500ETF上周份额大减",
@@ -441,8 +469,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 04时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
@@ -481,6 +509,28 @@
           "time_info": "[00时38分 ~ 01时27分]"
         },
         {
+          "title": "英国公布庇护制度改革方案，将全面收紧难民政策",
+          "url": "https://wallstreetcn.com/livenews/3006061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "英国公布庇护制度改革方案将全面收紧难民政策",
+          "url": "https://flash.jin10.com/detail/20251118050736592800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "美联储副主席杰斐逊：作为货币政策制定者，我对存款保险改革没有看法，这应由民选官员决定。",
           "url": "https://flash.jin10.com/detail/20251117231635348800",
           "source": "金十数据",
@@ -490,23 +540,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "美联储理事沃勒：近期数据的匮乏不应阻碍美联储的宽松政策。",
+          "url": "https://flash.jin10.com/detail/20251118044021647800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2202991",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 04时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股盘中）",
@@ -533,15 +595,48 @@
           "time_info": "[02时39分 ~ 03时23分]"
         },
         {
+          "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251118050536496800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "金十图示：2025年11月17日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251118050534385800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "分析师：美股逢低买入动能消退 市场在英伟达财报前感到焦虑",
           "url": "https://flash.jin10.com/detail/20251118034734318800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "美股收盘：三大股指齐跌 小鹏跌超10%",
+          "url": "https://flash.jin10.com/detail/20251118050045422800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
@@ -597,9 +692,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时26分]"
         },
         {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
@@ -608,9 +703,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收跌1.21%，报7760.02点。 热门中概股里，逸仙电商初步收跌20%，阿特斯太阳能跌15%，小鹏跌10%，小马智行跌6%，理想跌超4%，再鼎医药跌超3%，百胜中国、京东、文远知行至少涨超0.5%，阿里巴巴涨2.8%，金山云涨9.1%，晶科能源涨13%。 ETF中，中概互联网指数ETF（KWEB）收跌0.81%，中国科技指数ETF（CQQQ）收跌1.02%。 中国ETF-iShares MSCI（MCHI）收跌1.13%，德银嘉实沪深300指数ETF（ASHR）收跌1.09%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3006054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     },
