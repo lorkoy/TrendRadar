@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T11:53:26.396703+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2025-11-17T12:34:44.318738+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 11时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 12时34分]"
         },
         {
           "title": "高盛交易员：过去两周对市场的“核心牛市逻辑”构成了挑战",
@@ -55,17 +56,6 @@
           "time_info": "07时24分"
         },
         {
-          "title": "11月12日猪粮比价为5.50，较11月5日下跌1.79%",
-          "url": "https://flash.jin10.com/detail/20251117112040435800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
           "title": "比特币抹掉今年以来所有涨幅，加密货币熊市加剧",
           "url": "https://wallstreetcn.com/livenews/3005377",
           "source": "华尔街见闻-快讯",
@@ -91,6 +81,18 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "11月12日猪粮比价为5.50，较11月5日下跌1.79%",
+          "url": "https://flash.jin10.com/detail/20251117112040435800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
+        },
+        {
           "title": "加密货币熊市加剧背景下 比特币抹去年内涨幅",
           "url": "https://flash.jin10.com/detail/20251117053314547800",
           "source": "金十数据",
@@ -101,6 +103,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
+          "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
+          "url": "https://wallstreetcn.com/articles/3759492",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
+        },
+        {
+          "title": "上证指数早盘收报3973.31点，跌0.43%。 深证成指早盘收报13169.37点，跌0.35%。 创业板指早盘收报3086.67点，跌0.80%。 沪深300早盘收报4596.15点，跌0.69%。 科创50早盘收报1351.31点，跌0.73%。 中证500早盘收报7220.73点，跌0.20%。 中证1000早盘收报7509.66点，涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3005542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
         },
         {
           "title": "A股半导体设备板块短线拉升，微导纳米涨超10%，矽电股份、中科飞测、至正股份、联动科技、富创精密等跟涨。",
@@ -120,20 +146,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
         {
-          "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
-          "url": "https://wallstreetcn.com/articles/3759492",
-          "source": "华尔街见闻",
+          "title": "日本40年期国债收益率上涨5.5BP至3.6%，为5月23日以来最高。",
+          "url": "https://wallstreetcn.com/livenews/3005574",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "12时34分"
         },
         {
           "title": "A股锂电池板块延续强势，容百科技、天华新能涨超10%，丰元股份触及涨停，大中矿业、盛新锂能、融捷股份等跟涨。",
@@ -147,15 +173,15 @@
           "time_info": "10时07分"
         },
         {
-          "title": "上证指数早盘收报3973.31点，跌0.43%。 深证成指早盘收报13169.37点，跌0.35%。 创业板指早盘收报3086.67点，跌0.80%。 沪深300早盘收报4596.15点，跌0.69%。 科创50早盘收报1351.31点，跌0.73%。 中证500早盘收报7220.73点，跌0.20%。 中证1000早盘收报7509.66点，涨0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3005542",
-          "source": "华尔街见闻-快讯",
+          "title": "【图解牛熊股】医药商业板块涨幅居前，电池概念股异动拉升",
+          "url": "https://www.cls.cn/detail/2201824",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "12时34分"
         },
         {
           "title": "A股军工板块大幅高开，长城军工涨停，江龙船艇涨超10%，北方长龙、晟楠科技、天海防务、捷强装备、晨曦航空跟涨。",
@@ -175,9 +201,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "金十图示：2025年11月17日（周一）富时中国A50指数成分股午盘收盘行情一览：银行板块普遍走软，煤炭、石油、酿酒股飘红",
+          "url": "https://flash.jin10.com/detail/20251117113303075800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "A股水产养殖板块开盘大涨，大湖股份、中水渔业、开创国际、天马科技、东方海洋、好当家等多股竞价涨停。",
@@ -208,7 +245,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -230,7 +267,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -252,7 +289,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -263,7 +300,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         }
@@ -271,19 +308,8 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20251117113132849800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
         {
           "title": "现货黄金盘短线小幅拉升，突破4100美元/盎司，日内涨0.39%。",
           "url": "https://flash.jin10.com/detail/20251117070826381800",
@@ -294,17 +320,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20251117113124019800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
         },
         {
           "title": "现货黄金突破4100美元/盎司，日内涨0.42%。",
@@ -329,15 +344,15 @@
           "time_info": "10时07分"
         },
         {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂、集运指数（欧线）涨超7%，硅铁、铁矿石、焦炭、螺纹钢、热卷涨超1%。跌幅方面，沪银跌超3%，沪金、菜粕、烧碱、多晶硅、甲醇跌超2%。",
-          "url": "https://flash.jin10.com/detail/20251117113033748800",
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20251117121757516800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "12时34分"
         },
         {
           "title": "亚洲市场盘初，美股三大股指期货微跌。现货黄金基本平开。",
@@ -373,6 +388,42 @@
           "time_info": "07时24分"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251117113132849800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251117113124019800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂、集运指数（欧线）涨超7%，硅铁、铁矿石、焦炭、螺纹钢、热卷涨超1%。跌幅方面，沪银跌超3%，沪金、菜粕、烧碱、多晶硅、甲醇跌超2%。",
+          "url": "https://flash.jin10.com/detail/20251117113033748800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
+        },
+        {
           "title": "为什么老板们喜欢经常调整组织架构？",
           "url": "https://www.zhihu.com/question/367510805",
           "source": "知乎",
@@ -383,6 +434,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时07分 ~ 11时53分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.40%，10年期主力合约涨0.08%，5年期主力合约涨0.04%，2年期主力合约涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3005539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
         },
         {
           "title": "股指期货早盘开盘",
@@ -424,7 +487,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -451,24 +514,13 @@
           "time_info": "10时07分"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.40%，10年期主力合约涨0.08%，5年期主力合约涨0.04%，2年期主力合约涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3005539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
           "title": "碳酸锂期货主力合约涨超8%，报94460元/吨。 集运指数(欧线)主力合约涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3005533",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -498,8 +550,21 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "国内外储能需求迎来共振时刻 产业链A股上市公司境外营收占比、市占率一览",
+          "url": "https://www.cls.cn/detail/2201860",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 12时34分]"
+        },
         {
           "title": "资金管理人警告：新兴市场过度拥挤的交易带来风险",
           "url": "https://wallstreetcn.com/livenews/3005350",
@@ -515,18 +580,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 06时25分]"
-        },
-        {
-          "title": "国内外储能需求迎来共振时刻 产业链A股上市公司境外营收占比、市占率一览",
-          "url": "https://www.cls.cn/detail/2201860",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 11时53分]"
         },
         {
           "title": "临近年末资金切换，均衡策略成机构共识",
@@ -553,6 +606,28 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "2025量子科技和产业大会将于11月20日至22日在合肥举办",
+          "url": "https://wallstreetcn.com/livenews/3005571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "广东首次出台养老金融专属政策",
+          "url": "https://wallstreetcn.com/livenews/3005569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "宁德时代低开近4%。据公告公司重要股东、联合创始人黄世霖因自身资金需求，拟通过询价转让方式出让公司4563.24万股股份，占公司总股本的1%。",
           "url": "https://wallstreetcn.com/livenews/3005472",
           "source": "华尔街见闻-快讯",
@@ -570,15 +645,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "A股4000点拉锯战资金流向哪里",
+          "url": "https://www.toutiao.com/trending/7573507630610517550/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "Tether 推出的离岸人民币稳定币 CNHT0，已正式在 Conflux 网络发行，将产生哪些影响？",
@@ -592,6 +678,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 07时24分]"
+        },
+        {
+          "title": "百胜中国：有望到2026年实现门店数量2万家的目标。 计划到2030年开设超过3万家门店。 预计肯德基2028年营业利润将超过100亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3005578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "吉利汽车第三季度净利润38.2亿元人民币，同比增长59%",
+          "url": "https://wallstreetcn.com/livenews/3005562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "中国央行公开市场今日净投放1631亿元人民币",
@@ -669,7 +777,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         }
