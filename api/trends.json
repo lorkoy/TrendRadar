@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T07:26:23.798723+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2025-11-18T10:06:13.048049+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -19,6 +19,17 @@
           "time_info": "[00时37分 ~ 03时23分]"
         },
         {
+          "title": "现货黄金回落至4020美元/盎司下方，日内跌0.64%。",
+          "url": "https://flash.jin10.com/detail/20251118100135083800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "恒指期货夜盘收跌0.72%，报26178点，低水206点。",
           "url": "https://flash.jin10.com/detail/20251118030020285800",
           "source": "金十数据",
@@ -30,13 +41,24 @@
           "time_info": "03时23分"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251118095421315800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "商品期货沉淀资金突破5000亿元关口",
           "url": "https://wallstreetcn.com/livenews/3006098",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -186,6 +208,50 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
+          "title": "国债期货开盘，30年期主力合约涨0.09%，10年期主力合约涨0.04%，5年期主力合约涨0.02%，2年期主力合约基本持平。",
+          "url": "https://wallstreetcn.com/livenews/3006167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251118093117387800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251118093112890800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251118092945887800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "现货白银日内大跌1.00美元，现报49.58美元/盎司，跌幅接近2%。",
           "url": "https://flash.jin10.com/detail/20251118040152816800",
           "source": "金十数据",
@@ -195,6 +261,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "商品期货开盘，碳酸锂主力合约涨超3%，BR橡胶涨超1%。焦煤跌超3%，焦炭、多晶硅跌超2%，集运欧线、甲醇、沪银、沪镍、烧碱、纸浆跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3006146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.47%，上一个交易日夜盘收跌0.52%。",
+          "url": "https://wallstreetcn.com/livenews/3006144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "内盘期货夜市涨跌各异，铁矿石涨超0.3%，焦炭跌约2.4%，焦煤跌约3.2%",
@@ -261,12 +349,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "澳洲联储11月货币政策会议纪要：委员会一致认为本次会议无需调整指标利率。 保持谨慎和依赖数据是合适的。 委员们认为，在评估闲置产能规模的最新数据时，可以保持耐心。 政策是否继续保持紧缩的态势尚不明朗，与2024年出现明显信号的情况截然不同。 如果需求复苏强于预期，现金利率可以维持在当前水平；如果劳动力市场实质性走弱，或者经济增长令人失望，澳洲联储仍将放松政策。不能确定哪种情况更有可能发生。 潜在的通胀压力可能比之前评估的要大一些。 澳元汇率仍然接近预估的均衡水平。 2025年下半年全球经济增长可能放缓，但出现严重下行情况的可能性已经降低。",
+          "url": "https://wallstreetcn.com/livenews/3006134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
@@ -297,11 +396,12 @@
           "ranks": [
             18,
             13,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 07时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 10时06分]"
         },
         {
           "title": "福建板块持续“吸金”！成交额创历史次高，2成标的近日涨停，这些游资密集现身",
@@ -314,6 +414,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时37分 ~ 06时27分]"
+        },
+        {
+          "title": "A股电池板块跳水，石大胜华触及跌停，华盛锂电、壹石通、海科新源、天力锂能、新宙邦跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3006178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月17日（周一）晚盘收盘上涨0.09%报930.04元/克；<br/>上海黄金交易所白银T+D 11月17日（周一）晚盘收盘上涨0.04%报11963.0元/千克。",
@@ -486,6 +597,17 @@
           "time_info": "[00时38分 ~ 01时27分]"
         },
         {
+          "title": "上证指数开盘报3962.44点，跌0.24%。 深证成指开盘报13161.70点，跌0.31%。 创业板指开盘报3089.38点，跌0.51%。 沪深300开盘报4584.79点，跌0.29%。 科创50开盘报1350.51点，跌0.26%。 中证500开盘报7215.03点，跌0.28%。 中证1000开盘报7508.53点，跌0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3006163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.5%，连续三个交易日走弱，报353.15点。 在十个板块中，北欧工业板块跌幅最大。 潘多拉跌3.5%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3005980",
           "source": "华尔街见闻-快讯",
@@ -528,12 +650,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "银河证券：支撑半导体板块长期发展的逻辑并未改变",
+          "url": "https://wallstreetcn.com/livenews/3006133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "售价翻三倍、需求增五成，存储市场“火热”外衣之下产业链冷暖不一",
@@ -554,8 +687,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 07时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 10时06分]"
         },
         {
           "title": "7部门开展茧丝绸产业东绸西固工作",
@@ -565,8 +698,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 07时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 10时06分]"
         },
         {
           "title": "【数据看盘】多家机构、实力游资激烈博弈锂电产业链 中证A500ETF上周份额大减",
@@ -672,12 +805,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "日本经济财政政策大臣城内实：不对经济刺激方案的规模置评。 第三季GDP公布后，我们对日本经济温和改善的看法没有改变。 长期利率走势由市场决定。 密切关注市场动态，包括长期利率。",
+          "url": "https://wallstreetcn.com/livenews/3006136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
@@ -685,11 +829,46 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 07时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 10时06分]"
+        },
+        {
+          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
+          "url": "https://www.cls.cn/detail/2203159",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时26分 ~ 10时06分]"
+        },
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
+          "url": "https://www.cls.cn/detail/2203264",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达、苹果、Meta至多收跌将近1.9%",
@@ -728,24 +907,13 @@
           "time_info": "[02时39分 ~ 03时23分]"
         },
         {
-          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
-          "url": "https://www.cls.cn/detail/2203159",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
           "title": "高盛：美股已消化了人工智能的大部分潜在收益 但仍可能继续涨…",
           "url": "https://www.cls.cn/detail/2202782",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -808,7 +976,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1083元，较上周五夜盘收盘跌89点。成交量357.29亿美元。",
@@ -857,12 +1025,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时26分]"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0856，下调40点；上一交易日中间价7.0816，上一交易日官方收盘价7.1048，上日夜盘报收7.1083。",
+          "url": "https://wallstreetcn.com/livenews/3006155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
@@ -876,13 +1055,24 @@
           "time_info": "[04时42分 ~ 06时27分]"
         },
         {
+          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
           "title": "美股三大指数下挫，美债美元走强，金价三连跌，加密货币再大跌",
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
