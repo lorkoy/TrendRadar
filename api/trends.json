@@ -1,23 +1,11 @@
 {
-  "generated_at": "2025-11-18T22:33:29.245826+08:00",
-  "total_titles_processed": 1708,
-  "failed_sources": [
-    "toutiao",
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search",
-    "cls-hot",
-    "ifeng",
-    "jin10",
-    "wallstreetcn-quick",
-    "weibo",
-    "zhihu"
-  ],
+  "generated_at": "2025-11-18T23:33:36.475030+08:00",
+  "total_titles_processed": 1839,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 63,
+      "match_count": 67,
       "titles": [
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -29,6 +17,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 03时23分]"
+        },
+        {
+          "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
         },
         {
           "title": "现货黄金回落至4020美元/盎司下方，日内跌0.64%。",
@@ -120,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "摩根大通副董事长警告称：AI估值可能出现“调整”",
+          "url": "https://wallstreetcn.com/livenews/3006619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "上期所原油期货2512合约夜盘收涨0.28%，报460.00元人民币/桶。 沪金夜盘收涨0.04%，沪银收跌0.17%。",
@@ -315,6 +325,18 @@
           "time_info": "[12时33分 ~ 13时28分]"
         },
         {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251118092945887800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 23时33分]"
+        },
+        {
           "title": "中证500股指期货（IC）主力合约日内走低1.00%，现报7069.2点。",
           "url": "https://flash.jin10.com/detail/20251118112520127800",
           "source": "金十数据",
@@ -349,6 +371,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时40分]"
+        },
+        {
+          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
         },
         {
           "title": "现货黄金失守4010美元/盎司，日内跌幅0.89%。",
@@ -462,17 +495,6 @@
           "source": "金十数据",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251118092945887800",
-          "source": "金十数据",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -598,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约跌多涨少。棕榈油涨近2%，豆油、橡胶微涨。跌幅方面，纯碱跌超2%，燃料油、焦煤、焦炭跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251118230029105800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "商品期货开盘，碳酸锂主力合约涨超3%，BR橡胶涨超1%。焦煤跌超3%，焦炭、多晶硅跌超2%，集运欧线、甲醇、沪银、沪镍、烧碱、纸浆跌超1%。",
@@ -746,7 +779,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 51,
+      "match_count": 58,
       "titles": [
         {
           "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
@@ -1027,6 +1060,18 @@
           "time_info": "[02时39分 ~ 04时42分]"
         },
         {
+          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2203836",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时33分]"
+        },
+        {
           "title": "日经225指数收盘下跌3.22%",
           "url": "https://www.toutiao.com/trending/7573115916200922665/",
           "source": "今日头条",
@@ -1213,17 +1258,6 @@
           "time_info": "15时27分"
         },
         {
-          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
-          "url": "https://www.cls.cn/detail/2203836",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
           "title": "日经指数承压跌破49000点 半导体板块回落",
           "url": "https://flash.jin10.com/detail/20251118121957822800",
           "source": "金十数据",
@@ -1301,6 +1335,50 @@
           "time_info": "15时27分"
         },
         {
+          "title": "纳斯达克100指数下跌1%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3006603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "三菱日联金融：日元兑欧元创新低后仍有进一步下跌空间",
+          "url": "https://wallstreetcn.com/livenews/3006602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "Olema PHarmaceuticals Inc.（OLMA）上涨167%，因波动性过大而触发盘中临时停牌。",
+          "url": "https://wallstreetcn.com/livenews/3006596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "自由港（FCX）上涨7.2%，创7月8日以来最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3006595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "高盛预言油价2026年下跌“见底”",
           "url": "https://www.toutiao.com/trending/7573903280942616105/",
           "source": "今日头条",
@@ -1310,6 +1388,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "Cloudflare（NET）下跌7.3%，该公司（一度）发生大范围的网络（服务）宕机。",
+          "url": "https://wallstreetcn.com/livenews/3006594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "行业ETF美股盘初普跌，半导体ETF跌超1.4%，全球科技股指数ETF跌超1.2%，可选消费ETF跌超1.1%，科技行业ETF跌超0.9%，网络股指数ETF跌超0.7%。 在标普500指数的11个板块中，可选消费板块盘初跌0.95%，科技板块跌0.56%，能源板块跌0.38%，电信板块目前涨0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3006592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "Cloudflare(NET.N)股价收窄跌幅，最新下跌1.6%。",
+          "url": "https://flash.jin10.com/detail/20251118224730556800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "美股锂矿股集体上涨，投资者关注需求增长迹象",
@@ -1348,7 +1459,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "售价翻三倍、需求增五成，存储市场“火热”外衣之下产业链冷暖不一",
@@ -1414,11 +1525,25 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 20时58分]"
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 23时33分]"
+        },
+        {
+          "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
+          "url": "https://www.cls.cn/detail/2203937",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 23时33分]"
         },
         {
           "title": "金十图示：2025年11月18日（周二）沪深港通南向资金流向",
@@ -1467,16 +1592,15 @@
           "time_info": "[18时32分 ~ 20时58分]"
         },
         {
-          "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
-          "url": "https://www.cls.cn/detail/2203937",
-          "source": "财联社热门",
+          "title": "中国公民赴俄免签政策将于近期生效",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%B5%B4%E4%BF%84%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E5%B0%86%E4%BA%8E%E8%BF%91%E6%9C%9F%E7%94%9F%E6%95%88",
+          "source": "百度热搜",
           "ranks": [
-            12,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 20时58分]"
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
         },
         {
           "title": "英国公布庇护制度改革方案，将全面收紧难民政策",
@@ -1708,7 +1832,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -1721,8 +1845,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时05分 ~ 20时58分]"
+          "appearance_count": 16,
+          "time_info": "[10时05分 ~ 23时33分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -1776,6 +1900,30 @@
           "time_info": "19时26分"
         },
         {
+          "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251118013150496800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            22,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 23时33分]"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2204220",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达、苹果、Meta至多收跌将近1.9%",
           "url": "https://wallstreetcn.com/livenews/3006074",
           "source": "华尔街见闻-快讯",
@@ -1788,18 +1936,6 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
-          "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251118013150496800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时23分]"
-        },
-        {
           "title": "金十图示：2025年11月17日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251118013112350800",
           "source": "金十数据",
@@ -1810,6 +1946,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时23分]"
+        },
+        {
+          "title": "美股科技股七巨头指数大跌2.5%，超大市值科技股指数跌2.6%，双双刷新日低。 亚马逊跌3.6%，特斯拉跌3.4%，英伟达跌3.4%，Meta跌2.7%，微软跌2.3%，谷歌A跌1.5%，苹果跌0.2%。 费城半导体指数跌超3%。 此外，AMD跌6%，台积电跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3006614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "高盛：美股已消化了人工智能的大部分潜在收益 但仍可能继续涨…",
@@ -1887,6 +2034,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美股三大股指均跌超1%。英伟达(NVDA.O)跌超3%。",
+          "url": "https://flash.jin10.com/detail/20251118225641959800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
@@ -2031,11 +2189,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时05分 ~ 20时58分]"
+          "appearance_count": 16,
+          "time_info": "[10时05分 ~ 23时33分]"
         },
         {
           "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
@@ -2130,6 +2289,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数DXY短线走低12点，现报99.45；欧元兑美元EUR/USD、英镑兑美元GBP/USD短线走高10点。",
+          "url": "https://flash.jin10.com/detail/20251118122349434800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "美元指数DXY短线走低12点，现报99.40。",
+          "url": "https://flash.jin10.com/detail/20251118160821727800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "恒天然：11月18日全球乳品贸易（GDT）拍卖价格指数下降3.0%，奶粉各合同期FAS拍卖均价3678美元/吨。 批发奶粉价格指数下降1.9%，报3452美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3006589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -2157,34 +2355,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数DXY短线走低12点，现报99.45；欧元兑美元EUR/USD、英镑兑美元GBP/USD短线走高10点。",
-          "url": "https://flash.jin10.com/detail/20251118122349434800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "美元指数DXY短线走低12点，现报99.40。",
-          "url": "https://flash.jin10.com/detail/20251118160821727800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         }
       ]
     }
