@@ -1,7 +1,21 @@
 {
-  "generated_at": "2025-11-18T19:26:09.052462+08:00",
-  "total_titles_processed": 1675,
-  "failed_sources": [],
+  "generated_at": "2025-11-18T21:00:59.004702+08:00",
+  "total_titles_processed": 1698,
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "wallstreetcn-hot",
+    "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng",
+    "jin10",
+    "wallstreetcn-quick",
+    "tieba",
+    "weibo",
+    "douyin",
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
@@ -105,7 +119,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -605,7 +619,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -734,7 +748,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
@@ -795,8 +809,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时30分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[17时30分 ~ 20时58分]"
         },
         {
           "title": "欧洲斯托克波动率指数跳升至10月17日（美国地区银行股暴跌）以来最高水平，上涨2.4点至22.6。",
@@ -1201,6 +1215,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2203836",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "日经指数承压跌破49000点 半导体板块回落",
           "url": "https://flash.jin10.com/detail/20251118121957822800",
           "source": "金十数据",
@@ -1218,7 +1243,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -1390,11 +1415,12 @@
           "url": "https://www.cls.cn/detail/2203967",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 20时58分]"
         },
         {
           "title": "金十图示：2025年11月18日（周二）沪深港通南向资金流向",
@@ -1439,8 +1465,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 20时58分]"
+        },
+        {
+          "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
+          "url": "https://www.cls.cn/detail/2203937",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时26分]"
+          "time_info": "[19时25分 ~ 20时58分]"
         },
         {
           "title": "英国公布庇护制度改革方案，将全面收紧难民政策",
@@ -1477,17 +1515,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时27分]"
-        },
-        {
-          "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
-          "url": "https://www.cls.cn/detail/2203937",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "南向资金净买额达50亿元。",
@@ -1543,7 +1570,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -1696,8 +1723,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时05分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 20时58分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -1746,7 +1773,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -1826,7 +1853,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -2009,8 +2036,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时05分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 20时58分]"
         },
         {
           "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
@@ -2086,7 +2113,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
