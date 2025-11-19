@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T21:39:42.795179+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2025-11-19T22:29:42.256836+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时05分 ~ 21时39分]"
+          "appearance_count": 16,
+          "time_info": "[10时05分 ~ 22时29分]"
         },
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -68,8 +68,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 21时39分]"
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 22时29分]"
         },
         {
           "title": "国投期货：碳酸锂期价走强，持续去库，下游需求强劲",
@@ -309,6 +309,18 @@
           "time_info": "[12时33分 ~ 13时29分]"
         },
         {
+          "title": "夜盘期货开盘，沪银涨逾2%，沪金涨逾1%，国际铜、沪锡、沪铜、沪铅等上涨；燃油跌逾2%，低硫燃油、原油跌逾1%，焦煤、沥青、纯碱、玻璃等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3007241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时29分]"
+        },
+        {
           "title": "金十期货11月19日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨2800元/吨，中间价报96850元/吨。",
           "url": "https://flash.jin10.com/detail/20251119110219157800",
           "source": "金十数据",
@@ -410,6 +422,28 @@
           "time_info": "18时32分"
         },
         {
+          "title": "特朗普政府调整零售销售、耐用品等多个经济数据的发布日期",
+          "url": "https://wallstreetcn.com/livenews/3007265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "碳酸锂期货盘中突破10万元大关！2026年现货价格业内预测现分歧：8-12万vs冲20万？",
+          "url": "https://www.cls.cn/detail/2205409",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "周二（11月18日）纽约尾盘，现货黄金涨0.54%，报4066.40美元/盎司，全天呈现出V形反转，北京时间15:38跌至3998.08美元刷新日低。 COMEX黄金期货跌0.22%，报4065.60美元/盎司，日内交投于3997.40-4083.70美元区间。",
           "url": "https://wallstreetcn.com/livenews/3006749",
           "source": "华尔街见闻-快讯",
@@ -419,17 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
-        },
-        {
-          "title": "夜盘期货开盘，沪银涨逾2%，沪金涨逾1%，国际铜、沪锡、沪铜、沪铅等上涨；燃油跌逾2%，低硫燃油、原油跌逾1%，焦煤、沥青、纯碱、玻璃等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3007241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
         },
         {
           "title": "商品期货收盘，碳酸锂主力合约涨近5%，工业硅、多晶硅涨超4%，沪银涨超2%，棕榈油、BR橡胶、沪锡、沪金涨超1%。纯碱跌超3%，焦煤、集运欧线跌超2%，氧化铝、花生、焦炭、玻璃、菜籽粕、锰硅跌超1%。",
@@ -526,7 +549,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -625,7 +648,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -721,7 +744,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
@@ -735,8 +758,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 21时39分]"
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 22时29分]"
+        },
+        {
+          "title": "从知情人士处获悉，东方财富研究所联席所长周旭辉拟离职。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3007273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "多晶硅主力合约震荡走高，日内涨超3%，现报54040元/吨。",
@@ -1097,7 +1131,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -1152,7 +1186,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -1360,8 +1394,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时36分 ~ 21时39分]"
+          "appearance_count": 10,
+          "time_info": "[16时36分 ~ 22时29分]"
         },
         {
           "title": "中国公民赴俄免签政策将于近期生效",
@@ -1397,8 +1431,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时39分]"
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时29分]"
         },
         {
           "title": "大湾区政策红利发放系虚假信息",
@@ -1408,8 +1442,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 21时39分]"
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 22时29分]"
         },
         {
           "title": "欧盟外交政策负责人卡拉斯：冲突将在俄罗斯耗尽资金之时结束。希望在12月就乌克兰赔偿贷款事宜做出决定。",
@@ -1517,6 +1551,18 @@
           "time_info": "[02时40分 ~ 03时22分]"
         },
         {
+          "title": "比特币大跌引发连锁反应 贝莱德旗下ETF遭遇创纪录资金赎回",
+          "url": "https://wallstreetcn.com/livenews/3007233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时29分]"
+        },
+        {
           "title": "国务院总理李强：在资金支持保障上，要继续推动成员国加强金融合作，提升区域金融稳定性和自主性。中方愿同各成员国通力协作，尽快建成上合组织开发银行。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3006670",
           "source": "华尔街见闻-快讯",
@@ -1607,17 +1653,6 @@
           "time_info": "15时27分"
         },
         {
-          "title": "比特币大跌引发连锁反应 贝莱德旗下ETF遭遇创纪录资金赎回",
-          "url": "https://wallstreetcn.com/livenews/3007233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
           "title": "工业和信息化部：以盲盒、手办为代表的玩具成为产业新增长点",
           "url": "https://wallstreetcn.com/livenews/3007050",
           "source": "华尔街见闻-快讯",
@@ -1676,7 +1711,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -1771,6 +1806,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3007260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "美股科技股遭抛售 英伟达跌近3%",
@@ -1907,7 +1953,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -1978,11 +2024,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时36分 ~ 21时39分]"
+          "appearance_count": 10,
+          "time_info": "[16时36分 ~ 22时29分]"
         },
         {
           "title": "数字营销公司SEMrush盘前暴涨66%，有消息称Adobe拟以19亿美元收购公司。",
