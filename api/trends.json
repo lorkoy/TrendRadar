@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T12:33:23.313747+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2025-11-19T13:29:25.875546+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 13时29分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时27分 ~ 12时33分]"
+          "appearance_count": 7,
+          "time_info": "[06时27分 ~ 13时29分]"
         },
         {
           "title": "国投期货：碳酸锂期价走强，持续去库，下游需求强劲",
@@ -99,27 +99,17 @@
           "time_info": "10时05分"
         },
         {
-          "title": "港交所：将推出恒生生物科技指数期货",
-          "url": "https://wallstreetcn.com/livenews/3006935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
           "title": "碳酸锂期货涨至10万，更多体现为资金驱动，现货成交较少",
           "url": "https://flash.jin10.com/detail/20251119113240780800",
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时29分]"
         },
         {
           "title": "国债期货早盘收盘",
@@ -127,11 +117,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时29分]"
         },
         {
           "title": "股指期货早盘收盘",
@@ -139,11 +130,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时29分]"
         },
         {
           "title": "周二（11月18日）纽约尾盘，标普500股指期货最终下跌0.98%，道指期货跌1.19%，纳斯达克100股指期货跌1.43%。 罗素2000股指期货跌0.08%。",
@@ -158,16 +150,42 @@
           "time_info": "[06时28分 ~ 07时25分]"
         },
         {
+          "title": "港交所：将推出恒生生物科技指数期货",
+          "url": "https://wallstreetcn.com/livenews/3006935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时29分]"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂涨超4%，工业硅涨超2%，棕榈油涨近2%。跌幅方面，纯碱跌近3%，集运指数（欧线）跌超2%，焦煤、菜粕跌近2%。",
           "url": "https://flash.jin10.com/detail/20251119113023588800",
           "source": "金十数据",
           "ranks": [
             6,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时29分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.31%，10年期主力合约跌0.07%，5年期主力合约跌0.04%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3006919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时29分]"
         },
         {
           "title": "周二（11月18日）纽约尾盘，现货白银涨0.94%，报50.6972美元/盎司。 COMEX白银期货跌0.33%，报50.545美元/盎司，北京时间15:12曾跌至49.115美元刷新日低，随后逐步回升，04:00刷新日高至51.035美元。 COMEX铜期货跌0.53%，报4.9655美元/磅。",
@@ -182,18 +200,6 @@
           "time_info": "[06时28分 ~ 07时25分]"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.31%，10年期主力合约跌0.07%，5年期主力合约跌0.04%，2年期主力合约跌0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3006919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
-        },
-        {
           "title": "伦铜期货连跌三天，科技股估值恐慌情绪蔓延",
           "url": "https://wallstreetcn.com/livenews/3006681",
           "source": "华尔街见闻-快讯",
@@ -204,6 +210,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 03时22分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251119113923243800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时29分]"
         },
         {
           "title": "金十期货11月19日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨2800元/吨，中间价报96850元/吨。",
@@ -285,15 +303,15 @@
           "time_info": "06时28分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251119113923243800",
-          "source": "金十数据",
+          "title": "碳酸锂期货突破10万大关！锂电产业链集体爆发 储能需求及固态电池成关键支撑",
+          "url": "https://www.cls.cn/detail/2204718",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "13时29分"
         },
         {
           "title": "对标基金投资者适当性管理细则，多家公募调整旗下产品风险等级",
@@ -398,8 +416,30 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "A股船舶板块涨势扩大，江龙船艇、中船防务午后涨停，天海防务涨超15%，亚星锚链此前封板，国瑞科技、中科海讯、中国海防、海兰信、中国船舶跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3006961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "A股水产养殖板块再度拉升，獐子岛、大湖股份、好当家午后涨停，开创国际、东方海洋、中水渔业此前封板，百洋股份、天马科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3006953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
           "url": "https://www.cls.cn/detail/2203836",
@@ -417,11 +457,38 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时29分]"
+        },
+        {
+          "title": "上证指数早盘收报3938.29点，跌0.04%。 深证成指早盘收报13038.33点，跌0.32%。 创业板指早盘收报3072.79点，涨0.12%。 沪深300早盘收报4577.77点，涨0.21%。 科创50早盘收报1343.15点，跌1.09%。 中证500早盘收报7096.06点，跌0.77%。 中证1000早盘收报7358.27点，跌1.21%。",
+          "url": "https://wallstreetcn.com/livenews/3006923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时29分]"
+        },
+        {
+          "title": "11月19日午间收评：创业板指冲高回落涨0.12%，全市场下跌个股超4500只",
+          "url": "https://wallstreetcn.com/livenews/3006922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时29分]"
         },
         {
           "title": "上证报：进一步破解金融业“内卷”，推动各类机构深耕主业“各展所长”",
@@ -436,40 +503,30 @@
           "time_info": "[06时28分 ~ 07时25分]"
         },
         {
-          "title": "上证指数早盘收报3938.29点，跌0.04%。 深证成指早盘收报13038.33点，跌0.32%。 创业板指早盘收报3072.79点，涨0.12%。 沪深300早盘收报4577.77点，涨0.21%。 科创50早盘收报1343.15点，跌1.09%。 中证500早盘收报7096.06点，跌0.77%。 中证1000早盘收报7358.27点，跌1.21%。",
-          "url": "https://wallstreetcn.com/livenews/3006923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
-        },
-        {
-          "title": "11月19日午间收评：创业板指冲高回落涨0.12%，全市场下跌个股超4500只",
-          "url": "https://wallstreetcn.com/livenews/3006922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
-        },
-        {
           "title": "路德里：亚洲内集装箱运价指数11月上半月上涨24%",
           "url": "https://wallstreetcn.com/livenews/3006920",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时29分]"
+        },
+        {
+          "title": "隔夜SHIBOR报1.4200%，下降10.50个基点。 7天SHIBOR报1.4870%，下降3.10个基点。 3个月SHIBOR报1.5800%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3006907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时29分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌2.1%，连续四个交易日走软、创7月29日（收跌4.3%）以来最差单日表现，报345.60点。 在十个板块中，北欧工业板块跌幅最大。 军工股萨博跌4.3%，在一众北欧个股里表现最差。",
@@ -502,18 +559,6 @@
           "ranks": [
             12,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
-        },
-        {
-          "title": "隔夜SHIBOR报1.4200%，下降10.50个基点。 7天SHIBOR报1.4870%，下降3.10个基点。 3个月SHIBOR报1.5800%，上涨0.00个基点。",
-          "url": "https://wallstreetcn.com/livenews/3006907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -817,8 +862,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 13时29分]"
+        },
+        {
+          "title": "财政部辟谣多项涉大湾区政策",
+          "url": "https://www.toutiao.com/trending/7574018358896082986/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时05分 ~ 12时33分]"
+          "time_info": "[11时49分 ~ 13时29分]"
         },
         {
           "title": "欧盟委员会批准17.5亿欧元（20.3亿欧元）资金，用于补偿德国火电站LEAG到2038年淘汰煤炭。",
@@ -831,17 +887,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时27分]"
-        },
-        {
-          "title": "财政部辟谣多项涉大湾区政策",
-          "url": "https://www.toutiao.com/trending/7574018358896082986/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
         },
         {
           "title": "【李强会见俄罗斯总统普京】当地时间11月18日下午，国务院总理李强在莫斯科克里姆林宫会见俄罗斯总统普京。 李强指出，中方对发展中俄互利合作的决心和立场是一贯的，愿同俄方进一步增强合作韧性，巩固和维护两国合作的稳健发展势头。双方要共同办好新的中俄国家级主题年，用好免签等“双向奔赴”的惠民政策，促进两国人民更加相知相亲，筑牢双边关系的民间友好基础。中方愿同俄方继续通力协作，落实上海合作组织天津峰会成果，弘扬“上海精神”，深化团结合作，打造践行全球治理倡议的样板，推动上合组织高质量发展，为地区乃至世界的和平与发展作出更大贡献。（新华社）",
@@ -952,6 +997,19 @@
           "time_info": "[00时38分 ~ 07时25分]"
         },
         {
+          "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2204381",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时27分 ~ 13时29分]"
+        },
+        {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
           "url": "https://www.cls.cn/detail/2204220",
           "source": "财联社热门",
@@ -962,19 +1020,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 10时05分]"
-        },
-        {
-          "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2204381",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时27分 ~ 12时33分]"
         },
         {
           "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
