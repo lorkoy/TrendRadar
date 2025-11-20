@@ -1,22 +1,141 @@
 {
-  "generated_at": "2025-11-21T00:37:27.808676+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-21T01:22:54.817051+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美联储会议纪要暴严重分歧：多人认为不适合12月降息，一些人担心股市无序下跌",
+          "url": "https://wallstreetcn.com/articles/3759745",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时22分]"
+        },
+        {
+          "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
+          "url": "https://wallstreetcn.com/livenews/3008082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时22分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开低走跌超1%，中国银行涨4%续创新高，7连板个股上演“天地天”行情",
+          "url": "https://www.cls.cn/detail/2206329",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时22分]"
+        },
+        {
+          "title": "比特币跌穿8.8万美元，目前跌幅超过2.6%。北京时间21:31之前持稳于9.2万美元一线，之后开始回吐涨幅，00:00之前跌破9万美元整数位心理关口、随后加速下跌。 以太坊跌1.8%，Solana跌0.3%，狗狗币涨幅收窄至不足1.1%，XRP跌0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3008094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
+          "url": "https://flash.jin10.com/detail/20251121000730343800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.5%，报347.37点。 在十个板块中，北欧金融板块涨幅最大。 Wartsila Oyj（瓦锡兰）涨8.4%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3008092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美联储理事库克：资产价格大幅下跌的可能性有所增加，但这并不构成对金融系统的风险。",
+          "url": "https://flash.jin10.com/detail/20251121000041664800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "英伟达涨幅收窄至1.4%，美光科技转而下跌4.3%。",
+          "url": "https://wallstreetcn.com/livenews/3008083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "特斯拉上涨5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3008054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "埃及央行意外维持利率不变 政策转向观望态度",
+          "url": "https://flash.jin10.com/detail/20251121010346341800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
         {
           "title": "精准打击双连发,日本产业全抓瞎",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347312&amp;topic_name=%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB%E5%8F%8C%E8%BF%9E%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%8A%93%E7%9E%8E",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时22分]"
         },
         {
           "title": "【数据看盘】四家实力游资激烈博弈五连板人气股 多路资金大笔抛售多氟多",
@@ -26,8 +145,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时22分]"
+        },
+        {
+          "title": "欧盟推出气候变化归因服务 助力政策制定与法律责任划分",
+          "url": "https://flash.jin10.com/detail/20251121005056541800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时22分"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：美联储所有官员都持开放态度。 美联储必须平衡双重职责（价格稳定+充分就业）的内部关系。 由于通胀问题的缘故，需要在一定程度上维持货币政策的限制性。",
@@ -76,137 +206,31 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 6,
+      "keyword_group": "调整 期货 现货",
+      "match_count": 3,
       "titles": [
         {
-          "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
-          "url": "https://wallstreetcn.com/livenews/3008082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "美联储会议纪要暴严重分歧：多人认为不适合12月降息，一些人担心股市无序下跌",
-          "url": "https://wallstreetcn.com/articles/3759745",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "【每日收评】创业板指高开低走跌超1%，中国银行涨4%续创新高，7连板个股上演“天地天”行情",
-          "url": "https://www.cls.cn/detail/2206329",
+          "title": "纳指期货盘前涨超2% 英伟达财报击退“泡沫论” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2206692",
           "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时22分"
         },
         {
-          "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
-          "url": "https://flash.jin10.com/detail/20251121000730343800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "美联储理事库克：资产价格大幅下跌的可能性有所增加，但这并不构成对金融系统的风险。",
-          "url": "https://flash.jin10.com/detail/20251121000041664800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "特斯拉上涨5.6%。",
-          "url": "https://wallstreetcn.com/livenews/3008054",
+          "title": "WTI原油期货转跌，乌克兰总统泽连斯基暗示对和平谈判持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3008084",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全明星投票开启,Shy皇登基无悬念",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347340&amp;topic_name=%E5%85%A8%E6%98%8E%E6%98%9F%E6%8A%95%E7%A5%A8%E5%BC%80%E5%90%AF%2CShy%E7%9A%87%E7%99%BB%E5%9F%BA%E6%97%A0%E6%82%AC%E5%BF%B5",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时22分"
         },
-        {
-          "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347271&amp;topic_name=Shy%E5%93%A5%E6%9A%82%E7%A6%BB%E5%91%BC%E5%90%B8%E9%A1%B6%2CIG%E7%A5%9E%E8%AF%9D%E6%88%90%E7%AC%91%E6%9F%84",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "科兴生物被美股“劝退”",
-          "url": "https://www.toutiao.com/trending/7574778331892026934/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 1,
-      "titles": [
         {
           "title": "内盘期货夜市多数收涨，燃油涨超2.4%，铁矿石涨约0.2%，焦煤则跌0.4%",
           "url": "https://wallstreetcn.com/livenews/3008048",
@@ -221,6 +245,88 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全明星投票开启,Shy皇登基无悬念",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347340&amp;topic_name=%E5%85%A8%E6%98%8E%E6%98%9F%E6%8A%95%E7%A5%A8%E5%BC%80%E5%90%AF%2CShy%E7%9A%87%E7%99%BB%E5%9F%BA%E6%97%A0%E6%82%AC%E5%BF%B5",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时22分]"
+        },
+        {
+          "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347271&amp;topic_name=Shy%E5%93%A5%E6%9A%82%E7%A6%BB%E5%91%BC%E5%90%B8%E9%A1%B6%2CIG%E7%A5%9E%E8%AF%9D%E6%88%90%E7%AC%91%E6%9F%84",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时22分]"
+        },
+        {
+          "title": "谷歌：从Pixel 10系列开始，Quick Share已实现与Air Drop的互操作性。",
+          "url": "https://flash.jin10.com/detail/20251121010137294800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时22分]"
+        },
+        {
+          "title": "科兴生物被美股“劝退”",
+          "url": "https://www.toutiao.com/trending/7574778331892026934/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时22分]"
+        },
+        {
+          "title": "美股三大指数转跌，标普500指数跌0.3%，纳斯达克指数跌0.5%，道琼斯指数跌0.2%。英伟达(NVDA.O)跌幅扩大至1%，此前一度涨超5%。",
+          "url": "https://flash.jin10.com/detail/20251121005949540800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -229,11 +335,12 @@
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时22分]"
         }
       ]
     }
