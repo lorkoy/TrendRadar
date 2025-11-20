@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T03:23:17.000453+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2025-11-21T04:32:42.855144+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美联储会议纪要暴严重分歧：多人认为不适合12月降息，一些人担心股市无序下跌",
@@ -17,19 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
         },
         {
           "title": "【每日收评】创业板指高开低走跌超1%，中国银行涨4%续创新高，7连板个股上演“天地天”行情",
           "url": "https://www.cls.cn/detail/2206329",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
         },
         {
           "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
@@ -68,6 +69,18 @@
           "time_info": "[02时40分 ~ 03时23分]"
         },
         {
+          "title": "欧洲半导体概念股涨跌各异。 Soitec法国巴黎股价收跌30.09%，最近五个交易日累计下跌34.61%，该公司给出的业绩指引让投资者感到失望。 最新业绩报告显示，该公司第二财季营收1.39亿欧元，分析师预期1.351亿欧元。 上半财年营收2.31亿欧元，分析师预期2.285亿欧元。 上半财年持续经营利润0.11亿欧元，分析师预期亏损0.28亿欧元。 预计第三财季增速将介于0%-10%区间的中上部。 意法半导体跌超2.1%。 阿斯麦控股则收涨0.75%，Nordic Semiconductor涨2.29%。",
+          "url": "https://wallstreetcn.com/livenews/3008135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时32分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨0.5%，报347.37点。 在十个板块中，北欧金融板块涨幅最大。 Wartsila Oyj（瓦锡兰）涨8.4%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3008092",
           "source": "华尔街见闻-快讯",
@@ -78,6 +91,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时40分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月20日（周四）晚盘收盘下跌0.46%报928.15元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）晚盘收盘下跌1.11%报11964.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251121023415812800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时32分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，道指下跌318点、跌幅0.7%，纳指跌295点跌幅1.3%，纳斯达克100指数跌376点跌幅1.5%，半导体指数跌3%。 比特币日内大跌5000美元，跌幅5.64%，现报86400美元/枚。",
@@ -92,17 +117,6 @@
           "time_info": "[02时40分 ~ 03时23分]"
         },
         {
-          "title": "欧洲半导体概念股涨跌各异。 Soitec法国巴黎股价收跌30.09%，最近五个交易日累计下跌34.61%，该公司给出的业绩指引让投资者感到失望。 最新业绩报告显示，该公司第二财季营收1.39亿欧元，分析师预期1.351亿欧元。 上半财年营收2.31亿欧元，分析师预期2.285亿欧元。 上半财年持续经营利润0.11亿欧元，分析师预期亏损0.28亿欧元。 预计第三财季增速将介于0%-10%区间的中上部。 意法半导体跌超2.1%。 阿斯麦控股则收涨0.75%，Nordic Semiconductor涨2.29%。",
-          "url": "https://wallstreetcn.com/livenews/3008135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
           "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
           "url": "https://flash.jin10.com/detail/20251121000730343800",
           "source": "金十数据",
@@ -114,15 +128,15 @@
           "time_info": "00时37分"
         },
         {
-          "title": "上海黄金交易所黄金T+D 11月20日（周四）晚盘收盘下跌0.46%报928.15元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）晚盘收盘下跌1.11%报11964.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251121023415812800",
-          "source": "金十数据",
+          "title": "银行板块成“避风港”！两大行同创历史新高，目前估值处于什么位置？",
+          "url": "https://www.cls.cn/detail/2206437",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "04时32分"
         },
         {
           "title": "美联储理事库克：资产价格大幅下跌的可能性有所增加，但这并不构成对金融系统的风险。",
@@ -205,18 +219,31 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
-          "title": "英国央行货币政策委员会（MPC）成员Dhingra：关税造成英国价格轻微下降。",
-          "url": "https://wallstreetcn.com/livenews/3008145",
-          "source": "华尔街见闻-快讯",
+          "title": "精准打击双连发,日本产业全抓瞎",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347312&amp;topic_name=%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB%E5%8F%8C%E8%BF%9E%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%8A%93%E7%9E%8E",
+          "source": "贴吧",
           "ranks": [
-            1
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
+        },
+        {
+          "title": "【数据看盘】四家实力游资激烈博弈五连板人气股 多路资金大笔抛售多氟多",
+          "url": "https://www.cls.cn/detail/2206416",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
         },
         {
           "title": "埃及央行意外维持利率不变 政策转向观望态度",
@@ -230,27 +257,16 @@
           "time_info": "01时22分"
         },
         {
-          "title": "精准打击双连发,日本产业全抓瞎",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347312&amp;topic_name=%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB%E5%8F%8C%E8%BF%9E%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%8A%93%E7%9E%8E",
-          "source": "贴吧",
+          "title": "英国央行货币政策委员会（MPC）成员Dhingra：关税造成英国价格轻微下降。",
+          "url": "https://wallstreetcn.com/livenews/3008145",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            8
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时23分]"
-        },
-        {
-          "title": "【数据看盘】四家实力游资激烈博弈五连板人气股 多路资金大笔抛售多氟多",
-          "url": "https://www.cls.cn/detail/2206416",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时23分]"
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时32分]"
         },
         {
           "title": "高市早苗政府政策未来会有何走向",
@@ -264,6 +280,28 @@
           "time_info": "02时40分"
         },
         {
+          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
+          "url": "https://wallstreetcn.com/articles/3759784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "英国央行货币政策委员丁格拉：关税不会导致进口“爆炸式增长”。",
+          "url": "https://flash.jin10.com/detail/20251121032553440800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
           "title": "欧盟推出气候变化归因服务 助力政策制定与法律责任划分",
           "url": "https://flash.jin10.com/detail/20251121005056541800",
           "source": "金十数据",
@@ -273,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "英国央行货币政策委员丁格拉：关税将导致英国物价小幅下降。",
+          "url": "https://flash.jin10.com/detail/20251121031326295800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：美联储所有官员都持开放态度。 美联储必须平衡双重职责（价格稳定+充分就业）的内部关系。 由于通胀问题的缘故，需要在一定程度上维持货币政策的限制性。",
@@ -314,7 +363,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -333,51 +382,99 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
-          "title": "恒指期货夜盘收跌1.5%，报25460点，低水376点。",
-          "url": "https://flash.jin10.com/detail/20251121030021871800",
-          "source": "金十数据",
+          "title": "周四（11月20日）纽约尾盘，ICE原糖期货涨0.14%，ICE白糖期货持平。 ICE阿拉比卡咖啡期货涨0.41%，咖啡“C”期货跌0.09%。罗布斯塔咖啡期货涨2.19%。 纽约可可期货涨2.96%，报5255美元/吨，脱离11月19日底部5070美元——2024年10月25日（最低4853美元）以来最低位。伦敦可可期货涨2.38%。 ICE棉花期货持平。",
+          "url": "https://wallstreetcn.com/livenews/3008155",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "04时32分"
+        },
+        {
+          "title": "芝加哥小麦期货跌1.5%，大豆与豆粕跌约1.2%",
+          "url": "https://wallstreetcn.com/livenews/3008154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         },
         {
           "title": "纳指期货盘前涨超2% 英伟达财报击退“泡沫论” | 今夜看点",
           "url": "https://www.cls.cn/detail/2206692",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 04时32分]"
+        },
+        {
+          "title": "恒指期货夜盘收跌1.5%，报25460点，低水376点。",
+          "url": "https://flash.jin10.com/detail/20251121030021871800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时32分]"
         },
         {
           "title": "美国参议院一个委员会举行程序性投票，支持总统特朗普提名的商品期货交易委员会（CFTC）主席Selig。",
           "url": "https://wallstreetcn.com/livenews/3008137",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时32分]"
         },
         {
           "title": "上期所原油期货2501合约夜盘收跌0.73%，报451.70元人民币/桶。 沪金夜盘收跌0.66%，沪银收跌1.34%。",
           "url": "https://wallstreetcn.com/livenews/3008131",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时32分]"
+        },
+        {
+          "title": "WTI 12月原油期货收跌0.30美元，跌幅0.50%，报59.14美元/桶。 布伦特1月原油期货收跌0.13美元，跌幅0.20%，报63.38美元/桶。 NYMEX 12月天然气期货收报4.4740美元/百万英热单位。 NYMEX 12月汽油期货收报1.9184美元/加仑，NYMEX 12月取暖油期货收报2.5333美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3008148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "04时32分"
+        },
+        {
+          "title": "现货黄金重新转涨，现报4080美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251121032241025800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         },
         {
           "title": "WTI原油期货转跌，乌克兰总统泽连斯基暗示对和平谈判持开放态度。",
@@ -405,7 +502,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -416,8 +513,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -455,6 +552,17 @@
           "time_info": "02时40分"
         },
         {
+          "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
+          "url": "https://flash.jin10.com/detail/20251121032845526800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251121013149531800",
           "source": "金十数据",
@@ -480,8 +588,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
         },
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -492,8 +600,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
         },
         {
           "title": "谷歌：从Pixel 10系列开始，Quick Share已实现与Air Drop的互操作性。",
@@ -509,25 +617,8 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1180元，较周三夜盘收盘跌45点。成交量393.35亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3008140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -541,6 +632,35 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 03时23分]"
+        },
+        {
+          "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1180元，较周三夜盘收盘跌45点。成交量393.35亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3008140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时32分]"
         }
       ]
     }
