@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T21:37:38.456190+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2025-11-20T22:29:24.102572+08:00",
+  "total_titles_processed": 1971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -116,6 +116,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 22时29分]"
+        },
+        {
           "title": "现货黄金失守4040美元/盎司，日内跌幅0.93%。",
           "url": "https://flash.jin10.com/detail/20251120162318042800",
           "source": "金十数据",
@@ -147,17 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
-        },
-        {
-          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时37分]"
         },
         {
           "title": "美联储10月会议纪要显示，许多与会者反对12月再次降息。英伟达强劲业绩和乐观展望缓解人工智能泡沫担忧。纳指隔夜收涨近0.6%，现货黄金早盘一度走高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -642,15 +642,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
+        },
+        {
+          "title": "金十数据重磅推出行情分析软件TradingHero，国际现货黄金订单流功能重磅上线，快来体验：",
+          "url": "https://flash.jin10.com/detail/20251120214952316800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "美联储会议纪要暴严重分歧：多人认为不适合12月降息，一些人担心股市无序下跌",
@@ -658,11 +669,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时03分 ~ 21时37分]"
+          "appearance_count": 16,
+          "time_info": "[10时03分 ~ 22时29分]"
         },
         {
           "title": "中石油股价创十年新高！月涨幅跑赢93%个股，这些“超级大盘”也扛旗拉涨",
@@ -722,6 +734,19 @@
           "time_info": "20时56分"
         },
         {
+          "title": "【每日收评】创业板指高开低走跌超1%，中国银行涨4%续创新高，7连板个股上演“天地天”行情",
+          "url": "https://www.cls.cn/detail/2206329",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 22时29分]"
+        },
+        {
           "title": "30年期日本国债收益率上涨5.0个基点，至3.390%。",
           "url": "https://flash.jin10.com/detail/20251120123052910800",
           "source": "金十数据",
@@ -744,18 +769,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时48分 ~ 13时28分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开低走跌超1%，中国银行涨4%续创新高，7连板个股上演“天地天”行情",
-          "url": "https://www.cls.cn/detail/2206329",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时37分]"
         },
         {
           "title": "金十图示：2025年11月20日（周四）富时中国A50指数成分股午盘收盘行情一览：银行板块大幅走强，中国银行、工商银行再创历史新高",
@@ -918,6 +931,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "Alphabet股价盘前涨幅扩大，最新上涨4%。",
+          "url": "https://flash.jin10.com/detail/20251120220659997800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "银行板块成“避风港”！两大行同创历史新高，目前估值处于什么位置？",
+          "url": "https://www.cls.cn/detail/2206437",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "上证指数收报3931.05点，跌0.40%。 深证成指收报12980.82点，跌0.76%。 创业板指收报3042.34点，跌1.12%。 沪深300收报4564.95点，跌0.51%。 科创50收报1328.19点，跌1.24%。 中证500收报7061.95点，跌0.85%。 中证1000收报7340.41点，跌0.63%。",
@@ -1154,7 +1189,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "精准打击双连发,日本产业全抓瞎",
@@ -1164,11 +1199,12 @@
             2,
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时38分 ~ 21时37分]"
+          "appearance_count": 7,
+          "time_info": "[16时38分 ~ 22时29分]"
         },
         {
           "title": "大湾区政策红利发放系虚假信息",
@@ -1215,6 +1251,17 @@
           "time_info": "17时30分"
         },
         {
+          "title": "联合国秘书长古特雷斯：到2030年将适应气候变化的资金增加两倍至关重要。",
+          "url": "https://flash.jin10.com/detail/20251120221114023800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "资金入市热情持续升温，今年以来新备案私募基金破万只",
           "url": "https://wallstreetcn.com/livenews/3007440",
           "source": "华尔街见闻-快讯",
@@ -1224,6 +1271,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "【数据看盘】四家实力游资激烈博弈五连板人气股 多路资金大笔抛售多氟多",
+          "url": "https://www.cls.cn/detail/2206416",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 22时29分]"
         },
         {
           "title": "美联储会议纪要：多数与会者表示，在转向更中性的政策立场时，委员会正在帮助阻止劳动力市场状况出现重大恶化的可能性。",
@@ -1248,20 +1309,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时28分]"
-        },
-        {
-          "title": "【数据看盘】四家实力游资激烈博弈五连板人气股 多路资金大笔抛售多氟多",
-          "url": "https://www.cls.cn/detail/2206416",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时37分]"
         },
         {
           "title": "惠誉：美国州预算正受到收入增长放缓和联邦政策转变的考验。",
@@ -1380,6 +1427,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "美国克利夫兰联储主席Hammack：家庭财务状况良好。 对对冲基金和寿险公司的杠杆水平偏高表示关注。 目前银行资本充足。 金融体系状况良好。 稳定币和私人信贷值得关注。 目前金融环境“相当宽松”。 现在降息可能会扭曲市场定价水平。 降息有可能导致高通胀持续。 以风险管理为目的的降息可能会增加金融稳定性风险。 现在放松货币政策可能会鼓励金融风险偏好。",
+          "url": "https://wallstreetcn.com/livenews/3008008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "美国稀土有限公司：相信在Tetra Tech的帮助下，能够进一步获得政府资金支持，以加速哈勒克溪项目的开发。",
           "url": "https://flash.jin10.com/detail/20251120065739326800",
           "source": "金十数据",
@@ -1411,6 +1469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "叙利亚央行行长：叙利亚向纽约联邦储备银行发出了第一个国际资金清算系统（SWIFT）的信息。",
+          "url": "https://flash.jin10.com/detail/20251120220553615800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "日本央行审议委员小枝淳子：日本央行在制定政策时，必须同时关注其政策对短期和长期的影响，并兼顾经济活动、物价、金融市场和金融体系的发展情况。",
@@ -1548,7 +1617,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -1560,8 +1629,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时26分 ~ 21时37分]"
+          "appearance_count": 17,
+          "time_info": "[07时26分 ~ 22时29分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -1637,6 +1706,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3008013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "英伟达(NVDA.O)涨势带动美股芯片股盘后行情，AMD(AMD.O)、台积电(TSM.N)和美光科技(MU.O)均涨于3%一线。",
           "url": "https://flash.jin10.com/detail/20251120054640235800",
           "source": "金十数据",
@@ -1676,7 +1756,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1723,6 +1803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-20）",
+          "url": "https://flash.jin10.com/detail/20251120215241633800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "金十图示：2025年11月19日（周三）热门中概股行情一览（美股收盘）",
@@ -1929,22 +2020,24 @@
             17,
             18,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时36分 ~ 21时37分]"
+          "appearance_count": 29,
+          "time_info": "[00时36分 ~ 22时29分]"
         },
         {
           "title": "全明星投票开启,Shy皇登基无悬念",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347340&amp;topic_name=%E5%85%A8%E6%98%8E%E6%98%9F%E6%8A%95%E7%A5%A8%E5%BC%80%E5%90%AF%2CShy%E7%9A%87%E7%99%BB%E5%9F%BA%E6%97%A0%E6%82%AC%E5%BF%B5",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时37分]"
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 22时29分]"
         },
         {
           "title": "小米集团(01810.HK)于11月20日斥资5.078亿港元回购1350万股B类股份。",
@@ -2146,7 +2239,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数涨穿100关口，为11月6日以来首次，日内当前涨超0.4%。",
@@ -2171,13 +2264,24 @@
           "time_info": "05时22分"
         },
         {
+          "title": "美国经济数据公布后，美元指数短线走低",
+          "url": "https://wallstreetcn.com/livenews/3008002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "美元指数升至六个月高位，最高至100.35。",
           "url": "https://wallstreetcn.com/livenews/3007975",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         }
