@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T19:25:23.318685+08:00",
-  "total_titles_processed": 1653,
+  "generated_at": "2025-11-20T20:56:53.997138+08:00",
+  "total_titles_processed": 1776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -199,6 +199,17 @@
           "time_info": "[11时48分 ~ 12时32分]"
         },
         {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时56分]"
+        },
+        {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
@@ -210,17 +221,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时27分 ~ 17时30分]"
-        },
-        {
-          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时25分]"
         },
         {
           "title": "股指期货早盘收盘",
@@ -427,6 +427,17 @@
           "time_info": "17时30分"
         },
         {
+          "title": "沃尔玛第三季度营收1,795.0亿美元，同比增长5.8%，预估1,775.7亿美元。 第三季度调整后每股收益0.62美元，市场预估0.60美元。 第三季度调整后运营收益72亿美元，上次预估70.3亿美元。 预计2026财年调整后每股收益2.58美元至2.63美元，此前预计2.52美元至2.62美元，市场预估2.61美元。 沃尔玛盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3007940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至9月30日当周，COMEX白银期货投机性净多头头寸减少2815手，至37250手。",
           "url": "https://flash.jin10.com/detail/20251120043347597800",
           "source": "金十数据",
@@ -565,9 +576,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "广期所：调整碳酸锂期货相关合约交易手续费标准及交易限额",
+          "url": "https://wallstreetcn.com/livenews/3007930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "商品期货开盘，LU燃油、燃料油、纯碱主力合约跌超2%，集运欧线、纸浆、焦煤、玻璃、原油、乙二醇、氧化铝跌超1%。碳酸锂、多晶硅、沪银涨超1%。",
@@ -617,7 +639,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "美联储会议纪要暴严重分歧：多人认为不适合12月降息，一些人担心股市无序下跌",
@@ -628,8 +650,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时03分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[10时03分 ~ 20时56分]"
         },
         {
           "title": "中石油股价创十年新高！月涨幅跑赢93%个股，这些“超级大盘”也扛旗拉涨",
@@ -676,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
+        },
+        {
+          "title": "华纳音乐(WMG.O)股价盘前上涨2.9%，此前第四季度营收超出预期。",
+          "url": "https://flash.jin10.com/detail/20251120203251588800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "30年期日本国债收益率上涨5.0个基点，至3.390%。",
@@ -726,6 +759,18 @@
           "time_info": "[17时30分 ~ 18时31分]"
         },
         {
+          "title": "【每日收评】创业板指高开低走跌超1%，中国银行涨4%续创新高，7连板个股上演“天地天”行情",
+          "url": "https://www.cls.cn/detail/2206329",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时56分]"
+        },
+        {
           "title": "博通推出新一代光纤通道平台，股价上涨",
           "url": "https://wallstreetcn.com/livenews/3007391",
           "source": "华尔街见闻-快讯",
@@ -748,17 +793,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时38分 ~ 17时30分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开低走跌超1%，中国银行涨4%续创新高，7连板个股上演“天地天”行情",
-          "url": "https://www.cls.cn/detail/2206329",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时25分]"
         },
         {
           "title": "联想杨元庆：存储零部件的短缺和价格上涨不会是一个短期现象",
@@ -807,6 +841,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时28分]"
+        },
+        {
+          "title": "雅培(ABT.N)盘前下跌1.9%。",
+          "url": "https://flash.jin10.com/detail/20251120203158070800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "标普500指数收涨24.84点，涨幅0.38%，结束之前连续四个交易日下跌的趋势，报6642.16点。 道琼斯工业平均指数收涨47.03点，涨幅0.10%，报46138.77点。 纳斯达克综合指数（纳指）收涨131.383点，涨幅0.59%，报22564.229点。 纳斯达克100指数收涨137.419点，涨幅0.56%，报24640.515点。 纳斯达克生物科技指数收跌0.92%，报5558.33点。 费城半导体指数收涨1.82%，报6670.03点。 费城证交所KBW银行指数收涨1.00%，报147.64点。 道琼斯KBW地区银行指数收涨1.17%，报115.06点。",
@@ -914,7 +959,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -974,6 +1019,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "沃尔玛百货(WMT.N)股价盘前下跌2.5%，塔吉特(TGT.N)下跌0.7%。",
+          "url": "https://flash.jin10.com/detail/20251120201134689800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "A股三大指数集体翻绿，旅游酒店、食品、零售、纺织服装等方向跌幅居前，沪深京三市下跌个股近4000只。",
           "url": "https://wallstreetcn.com/livenews/3007596",
           "source": "华尔街见闻-快讯",
@@ -994,6 +1050,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月20日（周四）晚盘盘初下跌0.47%报928.02元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）晚盘盘初下跌0.89%报11990.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251120200314983800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "英伟达CEO黄仁勋：成本在上涨，但设法维持利润。 供应链成本“飙涨”（surge），但成为全球头号公司也有它的优势。 公司正努力解决问题，正与供应商们谈判。",
@@ -1027,6 +1094,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "沃尔玛百货(WMT.N)股价抹去早前涨幅，下跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20251120200305728800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "台湾证交所加权股价指数盘初上涨3.2%至27,432.73点。",
@@ -1065,7 +1143,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "大湾区政策红利发放系虚假信息",
@@ -1111,8 +1189,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 20时56分]"
         },
         {
           "title": "穆迪：美国经济数据将密集出炉 若偏离预期恐引发美联储政策信誉质疑",
@@ -1173,6 +1251,19 @@
           "time_info": "[04时28分 ~ 05时22分]"
         },
         {
+          "title": "【数据看盘】四家实力游资激烈博弈五连板人气股 多路资金大笔抛售多氟多",
+          "url": "https://www.cls.cn/detail/2206416",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时56分]"
+        },
+        {
           "title": "美国能源部：美国打算购买和拥有多达10座核反应堆。 将由日本承诺的5500亿美元投资提供资金来源。",
           "url": "https://wallstreetcn.com/livenews/3007368",
           "source": "华尔街见闻-快讯",
@@ -1219,18 +1310,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时48分 ~ 14时40分]"
-        },
-        {
-          "title": "【数据看盘】四家实力游资激烈博弈五连板人气股 多路资金大笔抛售多氟多",
-          "url": "https://www.cls.cn/detail/2206416",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时25分]"
         },
         {
           "title": "A股三大指数高开 英伟达产业链领跑",
@@ -1342,6 +1421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
+        },
+        {
+          "title": "三菱日联称，对日本财政政策的担忧继续令日元承压。",
+          "url": "https://flash.jin10.com/detail/20251120201855899800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "广东：积极推动人工智能与机器人产业创新发展，开展“人工智能+”行动、“机器人+”行动",
@@ -1458,8 +1548,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时26分 ~ 19时25分]"
+          "appearance_count": 15,
+          "time_info": "[07时26分 ~ 20时56分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -1799,7 +1889,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -1815,11 +1905,23 @@
             16,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时36分 ~ 19时25分]"
+          "appearance_count": 27,
+          "time_info": "[00时36分 ~ 20时56分]"
+        },
+        {
+          "title": "全明星投票开启,Shy皇登基无悬念",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347340&amp;topic_name=%E5%85%A8%E6%98%8E%E6%98%9F%E6%8A%95%E7%A5%A8%E5%BC%80%E5%90%AF%2CShy%E7%9A%87%E7%99%BB%E5%9F%BA%E6%97%A0%E6%82%AC%E5%BF%B5",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时56分]"
         },
         {
           "title": "小米集团(01810.HK)于11月20日斥资5.078亿港元回购1350万股B类股份。",
@@ -1828,7 +1930,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1842,17 +1944,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "全明星投票开启,Shy皇登基无悬念",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347340&amp;topic_name=%E5%85%A8%E6%98%8E%E6%98%9F%E6%8A%95%E7%A5%A8%E5%BC%80%E5%90%AF%2CShy%E7%9A%87%E7%99%BB%E5%9F%BA%E6%97%A0%E6%82%AC%E5%BF%B5",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "如何评价 T1 官宣下路选手 Smash 离队？他下一站可能去哪里？",
@@ -1879,6 +1970,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时48分 ~ 13时28分]"
+        },
+        {
+          "title": "Wedbush将英伟达目标价从210美元上调至230美元。",
+          "url": "https://wallstreetcn.com/livenews/3007944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "腾讯控股(00700.HK)于11月20日斥资6.36亿港元回购100万股。",
