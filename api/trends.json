@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T00:33:39.913366+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-22T01:25:43.989406+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -48,19 +48,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         },
         {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
           "url": "https://wallstreetcn.com/livenews/3008802",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         },
         {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
@@ -70,108 +71,117 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         },
         {
           "title": "高盛合伙人：美股出现多头缴械迹象，市场似乎正进入AI周期的新阶段",
           "url": "https://wallstreetcn.com/livenews/3008798",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
-          "url": "https://www.cls.cn/detail/2207779",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         },
         {
-          "title": "南向资金追踪｜逾百亿资金短线买入阿里 增仓科技股意愿强烈",
-          "url": "https://www.cls.cn/detail/2207621",
-          "source": "财联社热门",
+          "title": "美股三大股指均涨超1%，英伟达(NVDA.O)日内转涨，此前一度跌4%。",
+          "url": "https://flash.jin10.com/detail/20251122005849224800",
+          "source": "金十数据",
           "ranks": [
-            12
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时25分"
         },
         {
-          "title": "欧洲央行管委佩雷拉：目前欧洲央行的货币政策是恰当的。",
-          "url": "https://flash.jin10.com/detail/20251121234307956800",
+          "title": "美股V形反转，道指涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3008815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美股延续涨势，道指涨1%。",
+          "url": "https://flash.jin10.com/detail/20251122004255320800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
-          "url": "https://wallstreetcn.com/livenews/3008792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "精准打击双连发,日本产业全抓瞎",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347312&amp;topic_name=%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB%E5%8F%8C%E8%BF%9E%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%8A%93%E7%9E%8E",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时25分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "MarketVector数字资产100小盘指数最近24小时跌3.51%，报17656.03点。 最近七个自然日（11月16-21日），该指数持续下挫，累计下跌12.19%，交投于20202.65-16701.45点区间，跌幅在11月21日加快。",
+          "url": "https://wallstreetcn.com/livenews/3008823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
         {
           "title": "非洲股市收盘播报｜周五（11月21日），南非富时/JSE非洲领先40可交易指数收跌2.09%，逼近10.2万点，跳空低开后低位震荡，本周累计下跌2.29%。 本周，毛里求斯证交所SEMDEX指数累跌2.11%，尼日利亚证交所全部股指累跌2.26%——周一盘中显著跳水、后续持续震荡下行，肯尼亚内罗毕证交所全股指数累涨0.26%。",
           "url": "https://wallstreetcn.com/livenews/3008810",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         },
         {
           "title": "甲骨文下跌7.5%，创五个月盘中新低。",
           "url": "https://wallstreetcn.com/livenews/3008807",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
+        },
+        {
+          "title": "A股牛市要结束了吗",
+          "url": "https://www.toutiao.com/trending/7575138184879672868/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.7%，报344.65点，创9月2日以来收盘新低，本周累计下跌超过2.90% %。 在十个板块中，北欧医疗保健板块跌幅最大。 瓦锡兰（Wartsila Oyj）跌6.0%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3008816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时25分"
         },
         {
           "title": "甲骨文(ORCL.N)股价一度下跌7.4%，续创五个月低点。",
@@ -185,11 +195,136 @@
           "time_info": "00时33分"
         },
         {
-          "title": "A股牛市要结束了吗",
-          "url": "https://www.toutiao.com/trending/7575138184879672868/",
+          "title": "欧洲STOXX 600指数初步收跌0.46%，报561.32点，本周累计下跌大约2.3%。 欧元区STOXX 50指数初步收跌1.13%，报5507.24点，本周累跌约3.2%。 富时泛欧绩优300指数初步收跌0.48%，报2237.99点。",
+          "url": "https://wallstreetcn.com/livenews/3008813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "标普500指数上涨0.7%，触及盘中新高。",
+          "url": "https://flash.jin10.com/detail/20251122003914629800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
+          "url": "https://www.cls.cn/detail/2207779",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
+        },
+        {
+          "title": "南向资金追踪｜逾百亿资金短线买入阿里 增仓科技股意愿强烈",
+          "url": "https://www.cls.cn/detail/2207621",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
+        },
+        {
+          "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
+          "url": "https://wallstreetcn.com/livenews/3008792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
+        },
+        {
+          "title": "精准打击双连发,日本产业全抓瞎",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347312&amp;topic_name=%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB%E5%8F%8C%E8%BF%9E%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%8A%93%E7%9E%8E",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
+        },
+        {
+          "title": "欧洲央行管委佩雷拉：目前欧洲央行的货币政策是恰当的。",
+          "url": "https://flash.jin10.com/detail/20251121234307956800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "特朗普关税政策为何“急转弯”",
+          "url": "https://www.toutiao.com/trending/7575149035590258239/",
           "source": "今日头条",
           "ranks": [
-            14
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货黄金持续走高，重回4100美元/盎司上方。",
+          "url": "https://flash.jin10.com/detail/20251122010009293800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "现货黄金短线拉升超10美元，突破4090美元/盎司，日内涨0.33%。",
+          "url": "https://flash.jin10.com/detail/20251122005151227800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "内盘期货夜市多数收跌，苯乙烯、低硫燃油等跌超2%，焦煤跌约1.1%，铁矿石微涨",
+          "url": "https://wallstreetcn.com/livenews/3008794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -206,33 +341,36 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347379&amp;topic_name=TheShy%E7%96%91%E4%BC%BC%E9%80%80%E5%BD%B9%2CLPL%E4%B8%96%E4%B8%80%E6%88%90%E7%BB%9D%E5%94%B1",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX新款星舰（StarShip）的火箭助推器在地面测试时候爆炸。",
           "url": "https://wallstreetcn.com/livenews/3008791",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         },
         {
           "title": "全明星投票开启,Shy皇登基无悬念",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347340&amp;topic_name=%E5%85%A8%E6%98%8E%E6%98%9F%E6%8A%95%E7%A5%A8%E5%BC%80%E5%90%AF%2CShy%E7%9A%87%E7%99%BB%E5%9F%BA%E6%97%A0%E6%82%AC%E5%BF%B5",
           "source": "贴吧",
           "ranks": [
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         }
       ]
     },
@@ -248,8 +386,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -259,25 +397,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内盘期货夜市多数收跌，苯乙烯、低硫燃油等跌超2%，焦煤跌约1.1%，铁矿石微涨",
-          "url": "https://wallstreetcn.com/livenews/3008794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
         }
       ]
     }
