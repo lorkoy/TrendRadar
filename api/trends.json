@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T17:30:29.218317+08:00",
-  "total_titles_processed": 1571,
+  "generated_at": "2025-11-21T18:30:32.711185+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "纳指期货盘前涨超2% 英伟达财报击退“泡沫论” | 今夜看点",
@@ -29,11 +29,12 @@
             30,
             28,
             27,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时41分 ~ 17时30分]"
+          "appearance_count": 8,
+          "time_info": "[14时41分 ~ 18时30分]"
         },
         {
           "title": "国债期货收盘，30年期主力合约跌0.31%，10年期主力合约跌0.04%，5年期主力合约跌0.06%，2年期主力合约涨0.00%。",
@@ -56,6 +57,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "现货白银失守49美元/盎司，为11月10日以来首次，日内跌幅3.29%。",
+          "url": "https://flash.jin10.com/detail/20251121181108759800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "沪指放量调整跌2.45%，全市场下跌个股约5100只",
@@ -370,6 +382,17 @@
           "time_info": "14时42分"
         },
         {
+          "title": "美股期货短线跳水，纳指期货日内跌幅扩大至0.8%，标普500指数期货跌0.38%，道指期货日内涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3008616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "日本交易所拟修订规则 遏制国债期货交易欺诈行为",
           "url": "https://flash.jin10.com/detail/20251121111954550800",
           "source": "金十数据",
@@ -524,6 +547,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "标普500指数期货转跌，纳斯达克100指数期货下跌0.26%。英伟达盘前跌幅扩大至近2%。",
+          "url": "https://wallstreetcn.com/livenews/3008598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "午盘收盘，国内期货主力合约多数下跌。碳酸锂封跌停板，跌幅9%，沪银、红枣、集运指数（欧线）跌超3%，低硫燃料油（LU）、工业硅跌近3%。涨幅方面，淀粉、玉米、菜粕涨超1%。",
           "url": "https://flash.jin10.com/detail/20251121150046653800",
           "source": "金十数据",
@@ -533,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "标普500指数期货转跌，纳斯达克100指数期货下跌0.26%。英伟达(NVDA.O)盘前跌幅扩大至近2%。",
+          "url": "https://flash.jin10.com/detail/20251121174806133800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "WTI原油期货转跌，乌克兰总统泽连斯基暗示对和平谈判持开放态度。",
@@ -637,7 +682,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "美联储会议纪要暴严重分歧：多人认为不适合12月降息，一些人担心股市无序下跌",
@@ -692,6 +737,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时47分 ~ 14时42分]"
+        },
+        {
+          "title": "WTI原油日内下跌2.00%，现报57.51美元/桶。布伦特原油现跌1.78%。",
+          "url": "https://flash.jin10.com/detail/20251121181128197800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "沪指跌超1%，深成指、创业板指均跌逾2%，锂矿、有机硅、CPO、存储芯片等方向跌幅居前，沪深京三市下跌个股超4600只。",
@@ -1075,6 +1131,17 @@
           "time_info": "11时47分"
         },
         {
+          "title": "育碧股价延续涨势，目前上涨10.6%，若涨势持续，将创下11个月以来的最大单日涨幅。",
+          "url": "https://flash.jin10.com/detail/20251121174216064800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "周四（11月20日），韩元兑美元最终跌0.41%，报1473.77韩元。 日内大部分时间，该货币对保持微幅下挫状态、持稳于1469韩元一线，北京时间22:33短暂涨穿1466韩元、随后转跌，00:10开始一波加速下跌的行情。",
           "url": "https://wallstreetcn.com/livenews/3008103",
           "source": "华尔街见闻-快讯",
@@ -1174,6 +1241,28 @@
           "time_info": "10时04分"
         },
         {
+          "title": "英伟达(NVDA.O)股价盘前延续跌势，最新下跌近1%。",
+          "url": "https://flash.jin10.com/detail/20251121173418074800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "交易员表示，印度央行可能在美元兑卢比汇率接近89.50时进行了干预，以阻止卢比进一步下跌。",
+          "url": "https://flash.jin10.com/detail/20251121173341974800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "福特股价延续跌势，最新下跌4%。",
           "url": "https://flash.jin10.com/detail/20251121014556722800",
           "source": "金十数据",
@@ -1227,6 +1316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "育碧因违反贷款协议股价一度下跌5.6%，后转为上涨，最高涨幅达5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3008596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         }
       ]
     },
@@ -1270,11 +1370,12 @@
             13,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时37分 ~ 17时30分]"
+          "appearance_count": 24,
+          "time_info": "[00时37分 ~ 18时30分]"
         },
         {
           "title": "日本财务大臣片山皋月：预计即使在编制额外预算为刺激计划提供资金后，日本的债务/GDP比率仍将比上年略有下降。 日本在实现可持续、稳定的物价上涨且伴随工资增长方面仍只走了一半。 将继续基于日本政府与日本央行之间的协议，与日本央行进行合作，协议的实质内容保持不变。",
@@ -1534,7 +1635,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
@@ -1545,7 +1646,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
@@ -1634,8 +1735,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时04分 ~ 17时30分]"
+          "appearance_count": 14,
+          "time_info": "[10时04分 ~ 18时30分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -1649,8 +1750,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时47分 ~ 17时30分]"
+          "appearance_count": 13,
+          "time_info": "[11时47分 ~ 18时30分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -1663,8 +1764,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时04分 ~ 17时30分]"
+          "appearance_count": 14,
+          "time_info": "[10时04分 ~ 18时30分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -1726,8 +1827,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时41分 ~ 17时30分]"
+          "appearance_count": 8,
+          "time_info": "[14时41分 ~ 18时30分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -1741,6 +1842,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时28分 ~ 16时38分]"
+        },
+        {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 18时30分]"
         },
         {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
@@ -1777,18 +1891,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时25分]"
-        },
-        {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 17时30分]"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -1941,11 +2043,12 @@
             11,
             12,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时37分 ~ 17时30分]"
+          "appearance_count": 24,
+          "time_info": "[00时37分 ~ 18时30分]"
         },
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -2035,7 +2138,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "名创优品首席执行官：季度营收首次突破50亿元人民币。",
@@ -2086,6 +2189,17 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
+          "title": "商务部：1-10月全国吸收外资6219.3亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3008606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "人民币兑美元中间价报7.0875，上调30点；上一交易日中间价7.0905，上一交易日官方收盘价7.1167，上日夜盘报收7.1180。",
           "url": "https://wallstreetcn.com/livenews/3008298",
           "source": "华尔街见闻-快讯",
@@ -2119,11 +2233,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时04分 ~ 17时30分]"
+          "appearance_count": 14,
+          "time_info": "[10时04分 ~ 18时30分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -2188,6 +2303,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数抹去此前跌幅，英镑触及日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3008615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         }
       ]
     }
