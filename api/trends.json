@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-23T00:32:10.721666+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-23T01:22:50.774356+08:00",
+  "total_titles_processed": 333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
       "match_count": 7,
       "titles": [
+        {
+          "title": "鸭绒价格两个月上涨约两成 产业链上市公司跟随获益",
+          "url": "https://www.cls.cn/detail/2208046",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
         {
           "title": "业内：固态电池产业化至少到2030年",
           "url": "https://www.toutiao.com/trending/7575536276338691634/",
@@ -19,26 +30,15 @@
           "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "鸭绒价格两个月上涨约两成 产业链上市公司跟随获益",
-          "url": "https://www.cls.cn/detail/2208046",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
           "title": "COP30拟议协议文本：呼吁富裕国家力争在2035年前将面向发展中国家的适应资金至少增加两倍。",
           "url": "https://flash.jin10.com/detail/20251122221831580800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         },
         {
           "title": "我国已建成全球最完整清洁能源产业链",
@@ -47,9 +47,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         },
         {
           "title": "美联储柯林斯：目前对美联储而言是复杂时期，政策观点存在差异并不令人意外。",
@@ -58,9 +58,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         },
         {
           "title": "美联储柯林斯：美联储政策“略显紧缩”，这符合当前经济状况。",
@@ -69,9 +69,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         },
         {
           "title": "欧洲央行行长拉加德：货币政策不能解决债务问题。",
@@ -80,26 +80,27 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多家银行调整短信服务费，终身免费重新开通变付费，付费短信每月 2 元上调至 3 元，这种做法合理吗？",
           "url": "https://www.zhihu.com/question/1974073572432581161",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "A股大盘进入调整阶段",
@@ -111,6 +112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "中国航司大面积调整日本航线",
+          "url": "https://www.toutiao.com/trending/7574456738733621267/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         }
       ]
     },
@@ -123,11 +135,12 @@
           "url": "https://www.cls.cn/detail/2207916",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -137,8 +150,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     },
@@ -154,8 +167,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     },
@@ -170,9 +183,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         }
       ]
     }
