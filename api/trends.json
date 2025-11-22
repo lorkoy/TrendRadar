@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T13:26:41.232363+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2025-11-22T14:37:28.791997+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             11,
             19,
             23,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 14时37分]"
         },
         {
           "title": "华泰证券：市场波动加大，关注超调板块机会",
@@ -56,11 +57,12 @@
             3,
             11,
             15,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 13时26分]"
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 14时37分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
@@ -297,20 +299,8 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "多家银行调整短信服务费，终身免费重新开通变付费，付费短信每月 2 元上调至 3 元，这种做法合理吗？",
-          "url": "https://www.zhihu.com/question/1974073572432581161",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时12分 ~ 13时26分]"
-        },
         {
           "title": "周五（11月21日）纽约尾盘，标普500股指期货最终上涨1.15%，道指期货涨1.20%，纳斯达克100股指期货涨0.93%。 罗素2000股指期货涨2.89%。",
           "url": "https://wallstreetcn.com/livenews/3008934",
@@ -320,11 +310,25 @@
             10,
             18,
             22,
-            24
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 14时37分]"
+        },
+        {
+          "title": "多家银行调整短信服务费，终身免费重新开通变付费，付费短信每月 2 元上调至 3 元，这种做法合理吗？",
+          "url": "https://www.zhihu.com/question/1974073572432581161",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时25分 ~ 13时26分]"
+          "time_info": "[11时12分 ~ 14时37分]"
         },
         {
           "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
@@ -336,8 +340,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 14时37分]"
+        },
+        {
+          "title": "工银瑞信高管调整：“工行系”总经理、副总经理同步到位",
+          "url": "https://wallstreetcn.com/livenews/3008965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "现货黄金持续走高，重回4100美元/盎司上方。",
@@ -405,6 +420,20 @@
           "time_info": "[06时27分 ~ 11时13分]"
         },
         {
+          "title": "近一个月超140只个股评级调整 食品饮料行业上调最多",
+          "url": "https://wallstreetcn.com/livenews/3008947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 14时37分]"
+        },
+        {
           "title": "恒指期货夜盘收涨1.22%，报25541点，高水321点。",
           "url": "https://flash.jin10.com/detail/20251122030856083800",
           "source": "金十数据",
@@ -414,19 +443,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时25分]"
-        },
-        {
-          "title": "近一个月超140只个股评级调整 食品饮料行业上调最多",
-          "url": "https://wallstreetcn.com/livenews/3008947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 13时26分]"
         },
         {
           "title": "WTI原油期货收跌约1.6%，本周跌超3.1%",
@@ -545,7 +561,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -585,6 +601,18 @@
           "time_info": "[00时33分 ~ 10时00分]"
         },
         {
+          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
+          "url": "https://www.cls.cn/detail/2207916",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 14时37分]"
+        },
+        {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
           "url": "https://www.cls.cn/detail/2207754",
           "source": "财联社热门",
@@ -596,18 +624,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 10时00分]"
-        },
-        {
-          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
-          "url": "https://www.cls.cn/detail/2207916",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 13时26分]"
         },
         {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
@@ -631,11 +647,12 @@
             9,
             17,
             21,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 14时37分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -724,6 +741,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "美股深夜反弹 中国资产爆发",
+          "url": "https://www.toutiao.com/trending/7575388560119827987/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "美股延续涨势，道指涨1%。",
           "url": "https://flash.jin10.com/detail/20251122004255320800",
           "source": "金十数据",
@@ -782,11 +810,12 @@
             10,
             9,
             7,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时37分]"
         },
         {
           "title": "精准打击双连发,日本产业全抓瞎",
@@ -799,8 +828,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时37分]"
         },
         {
           "title": "南向资金追踪｜逾百亿资金短线买入阿里 增仓科技股意愿强烈",
@@ -822,11 +851,12 @@
           "ranks": [
             5,
             16,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 14时37分]"
         },
         {
           "title": "美国副总统万斯：任何俄乌和平计划都应最大限度地降低战争再次爆发的可能性。有一种幻想认为，只要我们提供更多资金、更多武器或采取更多制裁，胜利就会唾手可得。",
@@ -834,11 +864,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时37分]"
         },
         {
           "title": "玻利维亚政府计划新成立一家黄金银行，利用公共资金和私人资本来确保可持续的矿业发展和市场活动。",
@@ -925,8 +956,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时37分]"
         },
         {
           "title": "全明星投票开启,Shy皇登基无悬念",
@@ -939,8 +970,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时37分]"
         },
         {
           "title": "对冲基金潘兴广场创始人Bill Ackman表示，考虑明年让其创立的潘兴广场（Pershing Square）与一只新的封闭式基金同时进行IPO。（华尔街日报）",
@@ -1010,11 +1041,12 @@
           "url": "https://wallstreetcn.com/livenews/3008942",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时37分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.23%，报7514.31点。 热门中概股里，网易有道初步收涨6.7%，阿特斯太阳能涨5.3%，亚朵涨4.9%，蔚来涨3.4%，腾讯音乐涨2.6%，理想涨2.1%，小马智行则跌1.3%。 ETF中，中概互联网指数ETF（KWEB）收涨0.63%，中国科技指数ETF（CQQQ）收跌0.22%，XtrackersHarvest中证50（ASHS）收跌2.08%，德银嘉实沪深300指数ETF（ASHR）收跌1.18%。 本周，CQQQ累跌5.24%（此前三周先后跌0.78%、1.84%、3.41%），ASHS累跌5.21%，KWEB累跌4.65%连跌四周（之前三周先后跌1.53%、2.45%、1.87%），ASHR累跌3.37%。",
