@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-24T06:26:49.735306+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-11-24T07:25:39.221244+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "大跌之下，766亿资金借ETF“越跌越买”，基金公司火线解读",
+          "url": "https://www.cls.cn/detail/2208153",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时25分]"
+        },
         {
           "title": "鸭绒价格两个月上涨约两成 产业链上市公司跟随获益",
           "url": "https://www.cls.cn/detail/2208046",
@@ -16,20 +29,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
-          "title": "大跌之下，766亿资金借ETF“越跌越买”，基金公司火线解读",
-          "url": "https://www.cls.cn/detail/2208153",
+          "title": "美联储票委：货币政策处于合适位置 12月降息“并无必要”",
+          "url": "https://www.cls.cn/detail/2208123",
           "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "市人大代表建议优化上海外牌限行政策，公安部门回应",
@@ -41,19 +54,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时26分]"
-        },
-        {
-          "title": "美联储票委：货币政策处于合适位置 12月降息“并无必要”",
-          "url": "https://www.cls.cn/detail/2208123",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "工业和信息化部：将从三方面推动集成电路产业高质量发展",
@@ -87,12 +89,106 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 05时24分]"
+        },
+        {
+          "title": "中证报：赋能“强链补链”，并购重组激活产业升级新动能",
+          "url": "https://wallstreetcn.com/livenews/3009201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "中证报：国债密集发行，积极财政政策持续发力",
+          "url": "https://wallstreetcn.com/livenews/3009200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "特朗普拟推出新方案以修正奥巴马医改补贴政策",
+          "url": "https://flash.jin10.com/detail/20251124062541114800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "16只公募产品同日获批，硬科技板块有望迎增量资金",
+          "url": "https://wallstreetcn.com/livenews/3009193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股期货亚市盘初走高，标普500指数期货涨0.6%，纳斯达克100指数期货涨0.7%，道指期货涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3009206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "现货黄金周一小幅高开，重回4070美元/盎司上方。",
+          "url": "https://flash.jin10.com/detail/20251124070136160800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨近1%。",
+          "url": "https://flash.jin10.com/detail/20251124070025048800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "分析称A股本轮上涨行情基础并未改变，短期调整或带来布局良机",
+          "url": "https://wallstreetcn.com/livenews/3009195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
@@ -102,8 +198,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
@@ -117,6 +213,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 02时36分]"
+        },
+        {
+          "title": "近一个月这些上市公司被“踏破门槛”！机器人概念股获机构组团调研，机构来访接待量居前的个股名单一览",
+          "url": "https://www.cls.cn/detail/2208018",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
+          "url": "https://flash.jin10.com/detail/20251124071540282800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     }
