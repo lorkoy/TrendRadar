@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T20:49:31.469527+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2025-11-23T21:29:43.468959+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "“一切为了中选”！明年上半年的美国政策组合：“关税退坡+财货双松”？",
@@ -34,8 +34,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时31分 ~ 20时49分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 21时29分]"
         },
         {
           "title": "香港特区政府财政司司长陈茂波：香港成为资金避险安全港",
@@ -60,11 +60,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时25分 ~ 20时49分]"
+          "appearance_count": 13,
+          "time_info": "[10时25分 ~ 21时29分]"
         },
         {
           "title": "我国已建成全球最完整清洁能源产业链",
@@ -126,6 +127,31 @@
           "time_info": "[00时32分 ~ 07时26分]"
         },
         {
+          "title": "大跌之下，766亿资金借ETF“越跌越买”，基金公司火线解读",
+          "url": "https://www.cls.cn/detail/2208153",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时26分 ~ 21时29分]"
+        },
+        {
+          "title": "二十国集团南非峰会领导人宣言：动员资金以实现能源转型",
+          "url": "https://wallstreetcn.com/livenews/3009105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "香港财政司司长陈茂波：香港成为资金避险安全港 多个国际机构拟增聘人手",
           "url": "https://flash.jin10.com/detail/20251123110547720800",
           "source": "金十数据",
@@ -138,19 +164,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时01分 ~ 15时26分]"
-        },
-        {
-          "title": "大跌之下，766亿资金借ETF“越跌越买”，基金公司火线解读",
-          "url": "https://www.cls.cn/detail/2208153",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 20时49分]"
         },
         {
           "title": "江西、湖北、湖南签署工业互联网产业区域协同发展合作备忘录",
@@ -229,7 +242,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "近一个月这些上市公司被“踏破门槛”！机器人概念股获机构组团调研，机构来访接待量居前的个股名单一览",
@@ -259,6 +272,20 @@
           "time_info": "[10时25分 ~ 15时26分]"
         },
         {
+          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
+          "url": "https://wallstreetcn.com/articles/3759948",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时26分 ~ 21时29分]"
+        },
+        {
           "title": "光大证券：牛市第三年 时间重于空间",
           "url": "https://flash.jin10.com/detail/20251123144932500800",
           "source": "金十数据",
@@ -286,17 +313,15 @@
           "time_info": "[16时33分 ~ 18时27分]"
         },
         {
-          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
-          "url": "https://wallstreetcn.com/articles/3759948",
-          "source": "华尔街见闻",
+          "title": "国内油价将迎来今年第十次下跌",
+          "url": "https://www.toutiao.com/trending/7575809016572575780/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9,
-            8
+            24
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 20时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         }
       ]
     },
