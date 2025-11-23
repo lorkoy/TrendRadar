@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T14:38:43.320071+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2025-11-23T15:26:10.219397+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时26分]"
         },
         {
           "title": "我国已建成全球最完整清洁能源产业链",
@@ -44,11 +44,12 @@
             18,
             23,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 14时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 15时26分]"
         },
         {
           "title": "香港特区政府财政司司长陈茂波：香港成为资金避险安全港",
@@ -56,11 +57,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 15时26分]"
         },
         {
           "title": "COP30拟议协议文本：呼吁富裕国家力争在2035年前将面向发展中国家的适应资金至少增加两倍。",
@@ -107,19 +109,6 @@
           "time_info": "[00时32分 ~ 07时26分]"
         },
         {
-          "title": "香港财政司司长陈茂波：香港成为资金避险安全港 多个国际机构拟增聘人手",
-          "url": "https://flash.jin10.com/detail/20251123110547720800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 14时38分]"
-        },
-        {
           "title": "美联储票委：货币政策处于合适位置 12月降息“并无必要”",
           "url": "https://www.cls.cn/detail/2208123",
           "source": "财联社热门",
@@ -128,8 +117,22 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时26分]"
+        },
+        {
+          "title": "香港财政司司长陈茂波：香港成为资金避险安全港 多个国际机构拟增聘人手",
+          "url": "https://flash.jin10.com/detail/20251123110547720800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            16,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时38分]"
+          "time_info": "[12时01分 ~ 15时26分]"
         },
         {
           "title": "卫星通信产业拐点在即 机构扎堆看好15只概念股",
@@ -220,17 +223,18 @@
           "source": "金十数据",
           "ranks": [
             7,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时26分]"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "近一个月这些上市公司被“踏破门槛”！机器人概念股获机构组团调研，机构来访接待量居前的个股名单一览",
@@ -241,8 +245,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时26分 ~ 14时38分]"
+          "appearance_count": 8,
+          "time_info": "[06时26分 ~ 15时26分]"
         },
         {
           "title": "奥司他韦近7天销量上涨率达237%",
@@ -251,11 +255,53 @@
           "ranks": [
             4,
             8,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时26分]"
+        },
+        {
+          "title": "光大证券：牛市第三年 时间重于空间",
+          "url": "https://flash.jin10.com/detail/20251123144932500800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "TheShy疑似退役,LPL世一成绝唱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347379&amp;topic_name=TheShy%E7%96%91%E4%BC%BC%E9%80%80%E5%BD%B9%2CLPL%E4%B8%96%E4%B8%80%E6%88%90%E7%BB%9D%E5%94%B1",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时26分]"
+        },
+        {
+          "title": "莫斯科州州长表示，乌克兰无人机袭击了莫斯科州沙图拉（Shatura）的热电站。",
+          "url": "https://flash.jin10.com/detail/20251123144014219800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     },
@@ -301,8 +347,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时26分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -316,25 +362,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 12时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "TheShy疑似退役,LPL世一成绝唱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347379&amp;topic_name=TheShy%E7%96%91%E4%BC%BC%E9%80%80%E5%BD%B9%2CLPL%E4%B8%96%E4%B8%80%E6%88%90%E7%BB%9D%E5%94%B1",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 14时38分]"
         }
       ]
     }
