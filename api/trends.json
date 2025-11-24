@@ -1,33 +1,58 @@
 {
-  "generated_at": "2025-11-25T03:21:19.295529+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2025-11-25T04:31:43.381211+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
-          "title": "恒指期货夜盘收涨0.62%，报25874点，高水158点。",
-          "url": "https://flash.jin10.com/detail/20251125030913627800",
-          "source": "金十数据",
+          "title": "周一（11月24日）纽约尾盘，ICE原糖期货涨0.47%，ICE白糖期货涨0.35%。 ICE阿拉比卡咖啡期货涨2.14%，咖啡“C”期货涨2.21%。罗布斯塔咖啡期货跌0.78%。 纽约可可期货涨0.89%，伦敦可可期货跌1.60%。 ICE棉花期货涨0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3009744",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "04时31分"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.62%，报25874点，高水158点。",
+          "url": "https://flash.jin10.com/detail/20251125030913627800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时31分]"
         },
         {
           "title": "现货白银向上触及51美元/盎司，日内涨近2%。",
           "url": "https://flash.jin10.com/detail/20251125030142814800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时31分]"
+        },
+        {
+          "title": "上期所原油期货2501合约夜盘收涨0.94%，报449.80元人民币/桶。 沪金夜盘收涨0.64%，沪银收涨1.47%。",
+          "url": "https://wallstreetcn.com/livenews/3009727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时31分]"
         },
         {
           "title": "芝加哥小麦期货V形反转，重返11.26美元上方，逼近北京时间09:00刷新的日高11.2875美元，22:31还曾跌至11.1625美元刷新日低。",
@@ -40,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时27分]"
-        },
-        {
-          "title": "上期所原油期货2501合约夜盘收涨0.94%，报449.80元人民币/桶。 沪金夜盘收涨0.64%，沪银收涨1.47%。",
-          "url": "https://wallstreetcn.com/livenews/3009727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
         },
         {
           "title": "芝商所（CME）：11月21日，CME利率期货和期权产品组合共成交44,839,732份合约，创下历史第二高的日成交量。",
@@ -75,6 +89,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "WTI 1月原油期货收涨0.78美元，涨幅1.34%，报58.84美元/桶。 布伦特1月原油期货收涨0.81美元，涨幅1.29%，报63.37美元/桶。 NYMEX 12月天然气期货收报4.5490美元/百万英热单位。 NYMEX 12月汽油期货收报1.8966美元/加仑，NYMEX 12月取暖油期货收报2.4061美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3009738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "现货白银日内涨幅扩大至1.00%，报50.51美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251125003843382800",
           "source": "金十数据",
@@ -86,13 +111,24 @@
           "time_info": "01时27分"
         },
         {
+          "title": "市场消息：苹果公司罕见裁员，削减销售部门多个职位。苹果公司在声明中确认，将对销售策略部门进行“一些调整”。苹果公司最近几周通知了数十名销售人员裁员事宜。",
+          "url": "https://flash.jin10.com/detail/20251125034040133800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "现货黄金涨势不止，站上4120美元/盎司，日内涨1.33%。",
           "url": "https://flash.jin10.com/detail/20251125025318268800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -125,7 +161,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -176,8 +212,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -187,8 +223,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
@@ -199,8 +235,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股盘中）",
@@ -261,8 +297,30 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "万亿巨头重挫8%！近1月回撤已达三成，TMT板块继续承压，量能占比则有所回升",
+          "url": "https://www.cls.cn/detail/2209108",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
+          "url": "https://www.cls.cn/detail/2209008",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
+        },
         {
           "title": "欧洲央行管委内格尔：食品通胀依然顽固；欧洲央行同样密切关注服务业强劲的价格上涨。",
           "url": "https://flash.jin10.com/detail/20251125011216692800",
@@ -276,38 +334,28 @@
           "time_info": "[01时27分 ~ 02时41分]"
         },
         {
-          "title": "万亿巨头重挫8%！近1月回撤已达三成，TMT板块继续承压，量能占比则有所回升",
-          "url": "https://www.cls.cn/detail/2209108",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
-          "url": "https://www.cls.cn/detail/2209008",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
-        },
-        {
           "title": "标普500指数上涨1.55%，道指涨239点涨幅0.52%，纳指涨2.56%，半导体指数涨2.46%，小盘股指涨1.63%。",
           "url": "https://wallstreetcn.com/livenews/3009716",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时41分 ~ 04时31分]"
+        },
+        {
+          "title": "生猪价格为何下跌",
+          "url": "https://www.toutiao.com/trending/7576126699642159114/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "德国股指收涨超0.6%，意大利股市跌超0.8%，银行板块跌约2.3%",
@@ -327,7 +375,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         }
@@ -335,7 +383,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：现阶段1.16的欧元汇率水平不足为虑。 欧洲央行正关注食品和服务通胀偏高问题。 12月份将考虑什么是适宜的（政策方案）。",
@@ -344,11 +392,12 @@
           "ranks": [
             2,
             11,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 04时31分]"
         },
         {
           "title": "新兴市场ETF连续第五周吸金，中国资金流入趋势同步",
@@ -361,6 +410,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时27分]"
+        },
+        {
+          "title": "美联储戴利：美联储不应因担心日后需要逆转政策的可能性而推迟当前的降息行动。",
+          "url": "https://flash.jin10.com/detail/20251125040132967800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "英媒：里夫斯欲“逼储入市” 以强制性手段引导资金流向",
@@ -406,22 +466,24 @@
           "url": "https://wallstreetcn.com/livenews/3009732",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时31分]"
         },
         {
           "title": "交易员对离岸人民币的看涨情绪升至十四年来最高",
           "url": "https://wallstreetcn.com/livenews/3009723",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时31分]"
         }
       ]
     },
@@ -451,11 +513,12 @@
           "url": "https://flash.jin10.com/detail/20251125031326768800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时31分]"
         }
       ]
     }
