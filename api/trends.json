@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T22:30:26.230970+08:00",
-  "total_titles_processed": 1711,
+  "generated_at": "2025-11-24T23:32:29.887877+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
@@ -40,8 +40,22 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时32分 ~ 23时32分]"
+        },
+        {
+          "title": "万亿巨头重挫8%！近1月回撤已达三成，TMT板块继续承压，量能占比则有所回升",
+          "url": "https://www.cls.cn/detail/2209108",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时32分 ~ 22时30分]"
+          "time_info": "[19时25分 ~ 23时32分]"
         },
         {
           "title": "乌克兰国际债券上涨近3美分，其中2035年债券升至三个月高点54.61美分，此前华盛顿与乌克兰表示双方已“完善”了和平框架。",
@@ -66,19 +80,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时34分 ~ 19时25分]"
-        },
-        {
-          "title": "万亿巨头重挫8%！近1月回撤已达三成，TMT板块继续承压，量能占比则有所回升",
-          "url": "https://www.cls.cn/detail/2209108",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时25分 ~ 22时30分]"
         },
         {
           "title": "A股三大指数午后再度翻红，中船系、军工装备、智谱AI板块涨幅居前。",
@@ -255,7 +256,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -533,12 +534,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)下跌2%，该股已连续第三个交易日下跌。",
+          "url": "https://flash.jin10.com/detail/20251124224121057800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "期货热点追踪",
@@ -773,6 +785,17 @@
           "time_info": "[20时59分 ~ 21时41分]"
         },
         {
+          "title": "现货黄金持续走高，向上触及4090美元/盎司，日内涨0.59%。",
+          "url": "https://flash.jin10.com/detail/20251124230607348800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "工业富联：将尽快召开董事会调整回购价格上限",
           "url": "https://wallstreetcn.com/livenews/3009424",
           "source": "华尔街见闻-快讯",
@@ -817,6 +840,17 @@
           "time_info": "18时33分"
         },
         {
+          "title": "截至23:00收盘，国内期货主力合约涨多跌少，玻璃、乙二醇、甲醇、玉米、淀粉涨超1%。跌幅方面，橡胶、低硫燃料油、棕榈油、BR橡胶、20号胶小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20251124230048238800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "夜盘开盘，国内期货主力合约涨多跌少，玻璃、焦煤、乙二醇涨超1%，沥青、棉纱、甲醇、丙烯小幅上涨。跌幅方面，低硫燃料油、棕榈油、菜油小幅下跌。",
           "url": "https://flash.jin10.com/detail/20251124210002150800",
           "source": "金十数据",
@@ -826,6 +860,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "芝加哥大豆期货短线走低，跌穿11.18美元刷新日低，日内跌约0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3009657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "中证500股指期货（IC）主力合约日内涨超1.00%，现报6858.2点。",
@@ -963,7 +1008,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "市人大代表建议优化上海外牌限行政策，公安部门回应",
@@ -1063,6 +1108,17 @@
           "time_info": "17时35分"
         },
         {
+          "title": "彭博汇编数据显示，最近一周，加密数字货币ETPs（交易所交易产品）资金外流17.7亿美元。 过去一个月，投资者从加密货币ETPs赎回/撤回43.2亿美元，过去一年仍然累计流入533亿美元。 加密货币ETPs资产规模目前1609亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3009668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "股市资金流向图：今日沪深两市主力资金净流出154.69亿元，占比0.9%；大单资金净流出120.92亿元，占比0.7%；小单资金净流入237.93亿元，占比1.38%。",
           "url": "https://flash.jin10.com/detail/20251124150829158800",
           "source": "金十数据",
@@ -1129,7 +1185,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -1258,7 +1314,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -1270,8 +1326,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时41分 ~ 22时30分]"
+          "appearance_count": 14,
+          "time_info": "[14时41分 ~ 23时32分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -1285,15 +1341,27 @@
           "time_info": "07时25分"
         },
         {
+          "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "周一美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3009649",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 23时32分]"
         },
         {
           "title": "美股盘前：中概股、科技股普涨",
@@ -1308,6 +1376,39 @@
           "time_info": "[17时35分 ~ 18时33分]"
         },
         {
+          "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3009662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，半导体ETF涨2.43%，网络股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF至多涨1.48%，能源业ETF则跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3009660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2209422",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "诺和诺德美股盘前跌超11%，其Ozempic片剂未能缓解阿尔茨海默病",
           "url": "https://wallstreetcn.com/livenews/3009588",
           "source": "华尔街见闻-快讯",
@@ -1319,6 +1420,17 @@
           "time_info": "20时59分"
         },
         {
+          "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251124224429454800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "诺和诺德美股盘前跌近12%，公司阿尔茨海默病相关试验失败",
           "url": "https://wallstreetcn.com/livenews/3009588",
           "source": "华尔街见闻-快讯",
@@ -1328,13 +1440,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "美股盘初拉升，纳指涨超1.5%，标普500指数涨幅扩大至1%，特斯拉(TSLA.O)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20251124223634013800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "据阿联酋国家新闻社：阿布扎比国家石油公司将成立一家新公司来管理Ghasha酸性天然气田，该气田预计每日将生产18亿标准立方英尺的天然气，以及15万桶石油和凝析油。",
+          "url": "https://flash.jin10.com/detail/20251124230700195800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
         {
           "title": "港交所文件显示：2025年11月18日，瑞银对中兴通讯(00763.HK)多头持仓比例于从8.05%降至7.81%。",
           "url": "https://flash.jin10.com/detail/20251124171803588800",
