@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-25T10:06:58.459460+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2025-11-25T11:53:14.119025+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251124234554751800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 11时53分]"
+        },
         {
           "title": "中证1000股指期货（IM）主力合约向上触及7200点，日内涨1.24%。",
           "url": "https://flash.jin10.com/detail/20251125095110857800",
@@ -14,21 +27,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251124234554751800",
+          "title": "富宝资讯：碳酸锂期货盘面震荡，富宝电池级碳酸锂报90000元/吨",
+          "url": "https://flash.jin10.com/detail/20251125111726098800",
           "source": "金十数据",
           "ranks": [
-            8,
             3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 10时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "恒指期货夜盘收涨0.62%，报25874点，高水158点。",
@@ -170,7 +182,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -186,13 +198,24 @@
           "time_info": "01时27分"
         },
         {
+          "title": "金十期货11月25日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨450元/吨，中间价报91000元/吨。",
+          "url": "https://flash.jin10.com/detail/20251125110334378800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "中证500股指期货（IC）主力合约站上6900点，日内涨0.85%。",
           "url": "https://flash.jin10.com/detail/20251125093640334800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -203,7 +226,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -214,9 +237,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.16%，10年期主力合约跌0.08%，5年期主力合约跌0.03%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3009945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "现货白银日内涨幅扩大至1.00%，报50.51美元/盎司。",
@@ -236,7 +270,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -296,13 +330,24 @@
           "time_info": "03时21分"
         },
         {
+          "title": "现货黄金站上4150美元/盎司，为11月14日以来首次，日内涨0.39%。",
+          "url": "https://flash.jin10.com/detail/20251125104452668800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "商品期货开盘，沪银主力合约涨超2%，玻璃、乙二醇、沪金、沥青、甲醇、玉米涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3009851",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -313,7 +358,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -353,222 +398,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
-          "url": "https://wallstreetcn.com/articles/3759968",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时28分]"
-        },
-        {
-          "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
-          "url": "https://wallstreetcn.com/articles/3759998",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时27分]"
-        },
-        {
-          "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2209422",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 10时06分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
-          "url": "https://www.cls.cn/detail/2209592",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 10时06分]"
-        },
-        {
-          "title": "美股盘后谷歌(GOOG.O)涨2.2%，英伟达(NVDA.O)跌1.5%。此前消息称Meta与谷歌就2027年采购后者的TPU展开谈判。",
-          "url": "https://flash.jin10.com/detail/20251125070008701800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251125050629924800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时27分]"
-        },
-        {
-          "title": "金十图示：2025年11月24日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251125050520330800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时27分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐升 金龙指数涨近3%",
-          "url": "https://flash.jin10.com/detail/20251125050102306800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时27分]"
-        },
-        {
-          "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
-          "url": "https://flash.jin10.com/detail/20251125052238827800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时28分]"
-        },
-        {
-          "title": "闪迪(SNDK.O)美股盘后大涨超10%，此前公司被纳入标普500指数。",
-          "url": "https://flash.jin10.com/detail/20251125062141366800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "周一（11月24日），美股人工智能（AI）赢家指数涨4.06%，报275.03点。 AI 100指数涨3.39%。 AI电力指数涨3.33%，AI风险指数跌0.56%，AI风险敞口半导体指数涨5.59%。",
-          "url": "https://wallstreetcn.com/livenews/3009770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251125014657977800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
-          "url": "https://wallstreetcn.com/livenews/3009767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "美股三大股指维持涨势，短线波动暂不大，道指现涨0.5%，标普500指数涨1.5%，纳指涨近2.6%。",
-          "url": "https://flash.jin10.com/detail/20251125014426158800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "标普道琼斯指数公司宣布，将Sandisk纳入标普500指数，取代Interpublic Group（IPG）。 将PTC Therapeutics纳入标普600小盘股指。 Sandisk（SNDK）美股盘后涨7%，PTC涨3%。",
-          "url": "https://wallstreetcn.com/livenews/3009788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "金十图示：2025年11月24日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251125013852584800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/3009662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，半导体ETF涨2.43%，网络股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF至多涨1.48%，能源业ETF则跌1.29%。",
-          "url": "https://wallstreetcn.com/livenews/3009660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "万亿巨头重挫8%！近1月回撤已达三成，TMT板块继续承压，量能占比则有所回升",
@@ -597,13 +428,24 @@
           "time_info": "[00时32分 ~ 07时28分]"
         },
         {
+          "title": "专家称牛市第五浪将涨到你不信",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%89%9B%E5%B8%82%E7%AC%AC%E4%BA%94%E6%B5%AA%E5%B0%86%E6%B6%A8%E5%88%B0%E4%BD%A0%E4%B8%8D%E4%BF%A1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
+        },
+        {
           "title": "创业板指涨超2%，沪指涨0.65%，深成指涨1.42%，算力硬件、AI应用、贵金属、量子科技等方向领涨，沪深京三市上涨个股超4600只。",
           "url": "https://wallstreetcn.com/livenews/3009889",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -617,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "供应紧张叠加美联储降息概率增加 铜价上涨",
+          "url": "https://flash.jin10.com/detail/20251125111109896800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "生猪价格为何下跌",
@@ -740,15 +593,48 @@
           "time_info": "07时28分"
         },
         {
+          "title": "上证指数早盘收报3880.22点，涨1.13%。 深证成指早盘收报12841.60点，涨2.04%。 创业板指早盘收报3005.23点，涨2.60%。 沪深300早盘收报4504.16点，涨1.26%。 科创50早盘收报1314.21点，涨1.36%。 中证500早盘收报6999.07点，涨1.89%。 中证1000早盘收报7293.96点，涨1.92%。",
+          "url": "https://wallstreetcn.com/livenews/3009948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "上证指数开盘报3850.57点，涨0.36%。 深证成指开盘报12692.09点，涨0.85%。 创业板指开盘报2970.73点，涨1.42%。 沪深300开盘报4475.84点，涨0.62%。 科创50开盘报1309.67点，涨1.01%。 中证500开盘报6915.12点，涨0.67%。 中证1000开盘报7195.10点，涨0.54%。",
           "url": "https://wallstreetcn.com/livenews/3009865",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3160%，上涨0.00个基点。 7天SHIBOR报1.4330%，下降1.40个基点。 3个月SHIBOR报1.5800%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3009931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "俄罗斯石油公司首席执行官：制裁将导致西方国家电价上涨。",
+          "url": "https://wallstreetcn.com/livenews/3009927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "德国股指收涨超0.6%，意大利股市跌超0.8%，银行板块跌约2.3%",
@@ -771,12 +657,250 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "沪指涨幅扩大至1%，深成指涨2.11%，创业板指涨2.92%，AI应用、教育、游戏、算力硬件、贵金属等方向涨幅居前，沪深京三市上涨个股近4800只。",
+          "url": "https://wallstreetcn.com/livenews/3009908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时28分]"
+        },
+        {
+          "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时27分]"
+        },
+        {
+          "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2209422",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 11时53分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时27分 ~ 11时53分]"
+        },
+        {
+          "title": "美股盘后谷歌(GOOG.O)涨2.2%，英伟达(NVDA.O)跌1.5%。此前消息称Meta与谷歌就2027年采购后者的TPU展开谈判。",
+          "url": "https://flash.jin10.com/detail/20251125070008701800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251125050629924800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251125050520330800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐升 金龙指数涨近3%",
+          "url": "https://flash.jin10.com/detail/20251125050102306800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
+          "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
+          "url": "https://flash.jin10.com/detail/20251125052238827800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时28分]"
+        },
+        {
+          "title": "美股存储概念股强劲反弹，大摩研报预测内存长期紧张",
+          "url": "https://www.cls.cn/detail/2209578",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
+        },
+        {
+          "title": "闪迪(SNDK.O)美股盘后大涨超10%，此前公司被纳入标普500指数。",
+          "url": "https://flash.jin10.com/detail/20251125062141366800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "周一（11月24日），美股人工智能（AI）赢家指数涨4.06%，报275.03点。 AI 100指数涨3.39%。 AI电力指数涨3.33%，AI风险指数跌0.56%，AI风险敞口半导体指数涨5.59%。",
+          "url": "https://wallstreetcn.com/livenews/3009770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251125014657977800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
+          "url": "https://wallstreetcn.com/livenews/3009767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美股三大股指维持涨势，短线波动暂不大，道指现涨0.5%，标普500指数涨1.5%，纳指涨近2.6%。",
+          "url": "https://flash.jin10.com/detail/20251125014426158800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "标普道琼斯指数公司宣布，将Sandisk纳入标普500指数，取代Interpublic Group（IPG）。 将PTC Therapeutics纳入标普600小盘股指。 Sandisk（SNDK）美股盘后涨7%，PTC涨3%。",
+          "url": "https://wallstreetcn.com/livenews/3009788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251125013852584800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3009662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，半导体ETF涨2.43%，网络股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF至多涨1.48%，能源业ETF则跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3009660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "ETF强势“吸金”，上周超千亿元资金借道入场",
@@ -802,6 +926,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时27分 ~ 04时31分]"
+        },
+        {
+          "title": "香港保安局局长邓炳强：将跟随国家政策决定对日措施",
+          "url": "https://news.ifeng.com/c/8oZ7VMqIErE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
         },
         {
           "title": "新兴市场ETF连续第五周吸金，中国资金流入趋势同步",
@@ -838,6 +973,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "高管晋升人数创新高，三星强化未来产业布局",
+          "url": "https://flash.jin10.com/detail/20251125105410100800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "港股将迎解禁高峰，增量资金正在加码",
           "url": "https://wallstreetcn.com/livenews/3009793",
           "source": "华尔街见闻-快讯",
@@ -866,7 +1012,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -891,6 +1037,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20251125104348357800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "据日本共同社：日本政府周二成立新机构，负责审查补贴与税收政策。财务省表示，此举是首相高市早苗推行所谓“明智支出”以促进经济增长的举措之一。该机构被称为日本版“政府效率部”（DOGE），将由财务大臣片山皋月美领导。",
+          "url": "https://flash.jin10.com/detail/20251125104251675800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "隔夜shibor报1.3160%，与前一交易日持平",
+          "url": "https://flash.jin10.com/detail/20251125110020140800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨2.82%，报7726.23点。 ETF中，中概互联网指数ETF（KWEB）收涨2.91%，中国科技指数ETF（CQQQ）收涨2.82%。 中国ETF-iShares MSCI（MCHI）收涨1.71%，XtrackersHarvest中证50（ASHS）收涨0.90%，德银嘉实沪深300指数ETF（ASHR）收涨0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3009762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "据阿联酋国家新闻社：阿布扎比国家石油公司将成立一家新公司来管理Ghasha酸性天然气田，该气田预计每日将生产18亿标准立方英尺的天然气，以及15万桶石油和凝析油。",
+          "url": "https://flash.jin10.com/detail/20251124230700195800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席Kashkari：人们因通胀而感到经济困难。 AI确实有真实应用场景，但加密货币没有。",
+          "url": "https://wallstreetcn.com/livenews/3009841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
@@ -942,46 +1160,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数收涨2.82%，报7726.23点。 ETF中，中概互联网指数ETF（KWEB）收涨2.91%，中国科技指数ETF（CQQQ）收涨2.82%。 中国ETF-iShares MSCI（MCHI）收涨1.71%，XtrackersHarvest中证50（ASHS）收涨0.90%，德银嘉实沪深300指数ETF（ASHR）收涨0.19%。",
-          "url": "https://wallstreetcn.com/livenews/3009762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "据阿联酋国家新闻社：阿布扎比国家石油公司将成立一家新公司来管理Ghasha酸性天然气田，该气田预计每日将生产18亿标准立方英尺的天然气，以及15万桶石油和凝析油。",
-          "url": "https://flash.jin10.com/detail/20251124230700195800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国明尼阿波利斯联储主席Kashkari：人们因通胀而感到经济困难。 AI确实有真实应用场景，但加密货币没有。",
-          "url": "https://wallstreetcn.com/livenews/3009841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时06分"
         }
@@ -989,7 +1168,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国银行：黄金价格2026年或将达到5000美元",
@@ -1002,6 +1181,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时31分]"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）上海金早盘价为943.01元/克，较国际金价(946.35元/克)，低3.34元/克",
+          "url": "https://flash.jin10.com/detail/20251125110334361800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         }
       ]
     },
