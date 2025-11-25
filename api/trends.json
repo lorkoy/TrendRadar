@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T11:53:14.119025+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2025-11-25T12:34:44.659530+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "期货热点追踪",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             3,
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 12时34分]"
         },
         {
           "title": "中证1000股指期货（IM）主力合约向上触及7200点，日内涨1.24%。",
@@ -38,7 +39,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -140,6 +141,18 @@
           "time_info": "[06时27分 ~ 07时28分]"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.16%，10年期主力合约跌0.08%，5年期主力合约跌0.03%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3009945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
+        },
+        {
           "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
           "url": "https://wallstreetcn.com/livenews/3009775",
           "source": "华尔街见闻-快讯",
@@ -204,7 +217,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -240,17 +253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.16%，10年期主力合约跌0.08%，5年期主力合约跌0.03%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3009945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
         },
         {
           "title": "现货白银日内涨幅扩大至1.00%，报50.51美元/盎司。",
@@ -336,7 +338,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -363,6 +365,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251125113120595800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "内盘期货夜市多数收涨，玻璃涨1.5%，铁矿石涨约0.6%，低硫燃油则跌约0.7%",
           "url": "https://wallstreetcn.com/livenews/3009664",
           "source": "华尔街见闻-快讯",
@@ -374,6 +387,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251125113115521800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "现货黄金持续走高，向上触及4090美元/盎司，日内涨0.59%。",
           "url": "https://flash.jin10.com/detail/20251124230607348800",
           "source": "金十数据",
@@ -383,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，沪银涨超3%，多晶硅涨超2%，玻璃涨近2%，沪金、焦炭、碳酸锂、苹果、铁矿涨超1%。跌幅方面，集运欧线跌超3%，低硫燃料油（LU）跌超1%，棕榈油跌近1%。",
+          "url": "https://flash.jin10.com/detail/20251125113057620800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "芝加哥大豆期货短线走低，跌穿11.18美元刷新日低，日内跌约0.7%。",
@@ -399,7 +434,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "万亿巨头重挫8%！近1月回撤已达三成，TMT板块继续承压，量能占比则有所回升",
@@ -435,8 +470,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 12时34分]"
         },
         {
           "title": "创业板指涨超2%，沪指涨0.65%，深成指涨1.42%，算力硬件、AI应用、贵金属、量子科技等方向领涨，沪深京三市上涨个股超4600只。",
@@ -467,9 +502,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "韩国首尔综合指数下跌0.3%，抹去此前2.6%的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3009969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "生猪价格为何下跌",
@@ -520,6 +566,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时31分]"
+        },
+        {
+          "title": "上证指数早盘收报3880.22点，涨1.13%。 深证成指早盘收报12841.60点，涨2.04%。 创业板指早盘收报3005.23点，涨2.60%。 沪深300早盘收报4504.16点，涨1.26%。 科创50早盘收报1314.21点，涨1.36%。 中证500早盘收报6999.07点，涨1.89%。 中证1000早盘收报7293.96点，涨1.92%。",
+          "url": "https://wallstreetcn.com/livenews/3009948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.51%，报299.78点。 纽约证交所ARCA金矿开采商指数收涨4.86%，报2163.29点，北京时间22:30美股开盘之前维持微幅上涨状态、持续交投于2070点附近，随后迅速扩大涨幅，并持续走高。",
@@ -582,6 +640,30 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
+          "title": "隔夜SHIBOR报1.3160%，上涨0.00个基点。 7天SHIBOR报1.4330%，下降1.40个基点。 3个月SHIBOR报1.5800%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3009931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
+        },
+        {
+          "title": "俄罗斯石油公司首席执行官：制裁将导致西方国家电价上涨。",
+          "url": "https://wallstreetcn.com/livenews/3009927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
+        },
+        {
           "title": "摩根士丹利：预计美元兑日元未来数月将下跌大约10%。",
           "url": "https://wallstreetcn.com/livenews/3009802",
           "source": "华尔街见闻-快讯",
@@ -593,15 +675,15 @@
           "time_info": "07时28分"
         },
         {
-          "title": "上证指数早盘收报3880.22点，涨1.13%。 深证成指早盘收报12841.60点，涨2.04%。 创业板指早盘收报3005.23点，涨2.60%。 沪深300早盘收报4504.16点，涨1.26%。 科创50早盘收报1314.21点，涨1.36%。 中证500早盘收报6999.07点，涨1.89%。 中证1000早盘收报7293.96点，涨1.92%。",
-          "url": "https://wallstreetcn.com/livenews/3009948",
-          "source": "华尔街见闻-快讯",
+          "title": "日本30年期国债收益率下跌1.5个基点，至3.305%。",
+          "url": "https://flash.jin10.com/detail/20251125115054289800",
+          "source": "金十数据",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "12时34分"
         },
         {
           "title": "上证指数开盘报3850.57点，涨0.36%。 深证成指开盘报12692.09点，涨0.85%。 创业板指开盘报2970.73点，涨1.42%。 沪深300开盘报4475.84点，涨0.62%。 科创50开盘报1309.67点，涨1.01%。 中证500开盘报6915.12点，涨0.67%。 中证1000开盘报7195.10点，涨0.54%。",
@@ -615,26 +697,15 @@
           "time_info": "10时06分"
         },
         {
-          "title": "隔夜SHIBOR报1.3160%，上涨0.00个基点。 7天SHIBOR报1.4330%，下降1.40个基点。 3个月SHIBOR报1.5800%，上涨0.00个基点。",
-          "url": "https://wallstreetcn.com/livenews/3009931",
-          "source": "华尔街见闻-快讯",
+          "title": "日经225指数抹去涨幅，下跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20251125114737904800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "俄罗斯石油公司首席执行官：制裁将导致西方国家电价上涨。",
-          "url": "https://wallstreetcn.com/livenews/3009927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "12时34分"
         },
         {
           "title": "德国股指收涨超0.6%，意大利股市跌超0.8%，银行板块跌约2.3%",
@@ -665,7 +736,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         }
@@ -711,8 +782,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 11时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 12时34分]"
         },
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -724,8 +795,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 11时53分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 12时34分]"
         },
         {
           "title": "美股盘后谷歌(GOOG.O)涨2.2%，英伟达(NVDA.O)跌1.5%。此前消息称Meta与谷歌就2027年采购后者的TPU展开谈判。",
@@ -932,11 +1003,12 @@
           "url": "https://news.ifeng.com/c/8oZ7VMqIErE",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 12时34分]"
         },
         {
           "title": "新兴市场ETF连续第五周吸金，中国资金流入趋势同步",
@@ -979,7 +1051,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -1045,7 +1117,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -1056,7 +1128,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         }
@@ -1073,7 +1145,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -1189,9 +1261,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多家黄金珠宝品牌足金饰品价格升至1315元/克左右",
+          "url": "https://wallstreetcn.com/livenews/3009962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
