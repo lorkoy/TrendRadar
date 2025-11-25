@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T15:28:18.456007+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2025-11-25T16:38:43.076313+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "期货热点追踪",
@@ -17,11 +17,12 @@
             1,
             17,
             27,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 16时38分]"
         },
         {
           "title": "国债期货午盘收盘",
@@ -30,7 +31,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -55,17 +56,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约跌0.33%，10年期主力合约跌0.08%，5年期主力合约持平，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3010050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
         },
         {
           "title": "恒指期货夜盘收涨0.62%，报25874点，高水158点。",
@@ -102,6 +92,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时31分]"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.33%，10年期主力合约跌0.08%，5年期主力合约持平，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3010050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时38分]"
         },
         {
           "title": "上期所原油期货2501合约夜盘收涨0.94%，报449.80元人民币/桶。 沪金夜盘收涨0.64%，沪银收涨1.47%。",
@@ -308,7 +310,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -319,7 +321,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -330,7 +332,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -363,9 +365,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯仍在等待美国分享和平计划。 俄罗斯正在等待美国分享其对乌克兰的计划。 美国和平框架或可成为良好基础。 俄罗斯尚未收到调整后的美国乌克兰方案。",
+          "url": "https://wallstreetcn.com/livenews/3010078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "现货黄金站上4100美元/盎司，日内涨0.84%。",
@@ -385,7 +398,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -536,7 +549,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "万亿巨头重挫8%！近1月回撤已达三成，TMT板块继续承压，量能占比则有所回升",
@@ -585,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "路透调查：德国房价2025年将上涨3.5%，2026年将上涨3.4%，2027年将上涨3.2%（9月调查分别为3.0%、3.5%和3.5%）。",
+          "url": "https://flash.jin10.com/detail/20251125162034370800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
@@ -804,15 +828,37 @@
           "time_info": "07时28分"
         },
         {
+          "title": "欧洲国防指数上涨1%，扭转了此前连续两天的大幅下跌。",
+          "url": "https://flash.jin10.com/detail/20251125161424242800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "金十图示：2025年11月25日（周二）富时中国A50指数成分股今日收盘行情一览：银行、保险、消费电子板块走强",
           "url": "https://flash.jin10.com/detail/20251125150226848800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "英国预算案公布前，国民西敏寺银行股价上涨2.5%，巴克莱银行上涨2.4%，劳埃德银行上涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20251125161030637800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "日本20年期国债收益率上涨2.5个基点，至2.820%。",
@@ -832,7 +878,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -857,6 +903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "首席执行官辞职后，达美乐披萨集团欧股下跌1.8%。",
+          "url": "https://flash.jin10.com/detail/20251125160335743800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "上证指数开盘报3850.57点，涨0.36%。 深证成指开盘报12692.09点，涨0.85%。 创业板指开盘报2970.73点，涨1.42%。 沪深300开盘报4475.84点，涨0.62%。 科创50开盘报1309.67点，涨1.01%。 中证500开盘报6915.12点，涨0.67%。 中证1000开盘报7195.10点，涨0.54%。",
@@ -938,6 +995,239 @@
       ]
     },
     {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "香港保安局局长邓炳强：将跟随国家政策决定对日措施",
+          "url": "https://news.ifeng.com/c/8oZ7VMqIErE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 14时42分]"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20251125161654615800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "ETF强势“吸金”，上周超千亿元资金借道入场",
+          "url": "https://wallstreetcn.com/livenews/3009803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：现阶段1.16的欧元汇率水平不足为虑。 欧洲央行正关注食品和服务通胀偏高问题。 12月份将考虑什么是适宜的（政策方案）。",
+          "url": "https://wallstreetcn.com/livenews/3009709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 04时31分]"
+        },
+        {
+          "title": "预告：国务院政策例行吹风会 介绍增强消费品供需适配性进一步促进消费政策措施有关情况",
+          "url": "https://wallstreetcn.com/livenews/3010016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时28分]"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20251125104348357800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时42分]"
+        },
+        {
+          "title": "新兴市场ETF连续第五周吸金，中国资金流入趋势同步",
+          "url": "https://wallstreetcn.com/livenews/3009674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时27分]"
+        },
+        {
+          "title": "美联储戴利：美联储不应因担心日后需要逆转政策的可能性而推迟当前的降息行动。",
+          "url": "https://flash.jin10.com/detail/20251125040132967800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流入112.17亿元，占比0.62%；大单资金净流出19.77亿元，占比0.11%；小单资金净流出36.32亿元，占比0.2%。",
+          "url": "https://flash.jin10.com/detail/20251125150655684800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "英媒：里夫斯欲“逼储入市” 以强制性手段引导资金流向",
+          "url": "https://flash.jin10.com/detail/20251124234146793800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "波兰反垄断监管机构就隐私政策调查苹果。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3010085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "高管晋升人数创新高，三星强化未来产业布局",
+          "url": "https://flash.jin10.com/detail/20251125105410100800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "港股将迎解禁高峰，增量资金正在加码",
+          "url": "https://wallstreetcn.com/livenews/3009793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "四季度以来近2000亿元资金流入权益类ETF",
+          "url": "https://wallstreetcn.com/livenews/3009791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "再签18架，AS700载人飞艇产业化迎来新突破",
+          "url": "https://wallstreetcn.com/livenews/3009856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "波兰反垄断机构UOKiK周二表示，正调查苹果(AAPL.O)是否通过其隐私政策限制移动广告市场的竞争。若指控成立，苹果在波兰可能面临最高相当于其年度营业额10%的罚款。",
+          "url": "https://flash.jin10.com/detail/20251125155659170800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "彭博汇编数据显示，最近一周，加密数字货币ETPs（交易所交易产品）资金外流17.7亿美元。 过去一个月，投资者从加密货币ETPs赎回/撤回43.2亿美元，过去一年仍然累计流入533亿美元。 加密货币ETPs资产规模目前1609亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3009668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：随着12月预测的发布，我们将更清楚地了解货币政策立场是否仍然适当。",
+          "url": "https://flash.jin10.com/detail/20251125011236048800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "据日本共同社：日本政府周二成立新机构，负责审查补贴与税收政策。财务省表示，此举是首相高市早苗推行所谓“明智支出”以促进经济增长的举措之一。该机构被称为日本版“政府效率部”（DOGE），将由财务大臣片山皋月美领导。",
+          "url": "https://flash.jin10.com/detail/20251125104251675800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "日本向Rapidus先进芯片项目追加70亿美元资金",
+          "url": "https://wallstreetcn.com/livenews/3010064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 19,
       "titles": [
@@ -952,8 +1242,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时27分 ~ 15时28分]"
+          "appearance_count": 10,
+          "time_info": "[07时27分 ~ 16时38分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -1167,197 +1457,8 @@
       ]
     },
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "香港保安局局长邓炳强：将跟随国家政策决定对日措施",
-          "url": "https://news.ifeng.com/c/8oZ7VMqIErE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时52分 ~ 14时42分]"
-        },
-        {
-          "title": "ETF强势“吸金”，上周超千亿元资金借道入场",
-          "url": "https://wallstreetcn.com/livenews/3009803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "欧洲央行管委兼德国央行行长Nagel：现阶段1.16的欧元汇率水平不足为虑。 欧洲央行正关注食品和服务通胀偏高问题。 12月份将考虑什么是适宜的（政策方案）。",
-          "url": "https://wallstreetcn.com/livenews/3009709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 04时31分]"
-        },
-        {
-          "title": "预告：国务院政策例行吹风会 介绍增强消费品供需适配性进一步促进消费政策措施有关情况",
-          "url": "https://wallstreetcn.com/livenews/3010016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时28分]"
-        },
-        {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20251125104348357800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时42分]"
-        },
-        {
-          "title": "新兴市场ETF连续第五周吸金，中国资金流入趋势同步",
-          "url": "https://wallstreetcn.com/livenews/3009674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时27分]"
-        },
-        {
-          "title": "美联储戴利：美联储不应因担心日后需要逆转政策的可能性而推迟当前的降息行动。",
-          "url": "https://flash.jin10.com/detail/20251125040132967800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流入112.17亿元，占比0.62%；大单资金净流出19.77亿元，占比0.11%；小单资金净流出36.32亿元，占比0.2%。",
-          "url": "https://flash.jin10.com/detail/20251125150655684800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "英媒：里夫斯欲“逼储入市” 以强制性手段引导资金流向",
-          "url": "https://flash.jin10.com/detail/20251124234146793800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "高管晋升人数创新高，三星强化未来产业布局",
-          "url": "https://flash.jin10.com/detail/20251125105410100800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "港股将迎解禁高峰，增量资金正在加码",
-          "url": "https://wallstreetcn.com/livenews/3009793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "四季度以来近2000亿元资金流入权益类ETF",
-          "url": "https://wallstreetcn.com/livenews/3009791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "再签18架，AS700载人飞艇产业化迎来新突破",
-          "url": "https://wallstreetcn.com/livenews/3009856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "彭博汇编数据显示，最近一周，加密数字货币ETPs（交易所交易产品）资金外流17.7亿美元。 过去一个月，投资者从加密货币ETPs赎回/撤回43.2亿美元，过去一年仍然累计流入533亿美元。 加密货币ETPs资产规模目前1609亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3009668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "欧洲央行管委内格尔：随着12月预测的发布，我们将更清楚地了解货币政策立场是否仍然适当。",
-          "url": "https://flash.jin10.com/detail/20251125011236048800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "据日本共同社：日本政府周二成立新机构，负责审查补贴与税收政策。财务省表示，此举是首相高市早苗推行所谓“明智支出”以促进经济增长的举措之一。该机构被称为日本版“政府效率部”（DOGE），将由财务大臣片山皋月美领导。",
-          "url": "https://flash.jin10.com/detail/20251125104251675800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "SZ SH HK",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "隔夜shibor报1.3160%，与前一交易日持平",
@@ -1402,6 +1503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "断层领先15万!shy哥锁死票王",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347488&amp;topic_name=%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%8815%E4%B8%87%21shy%E5%93%A5%E9%94%81%E6%AD%BB%E7%A5%A8%E7%8E%8B",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     },
@@ -1470,7 +1582,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
