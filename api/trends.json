@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-11-25T07:28:04.576887+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2025-11-25T10:06:58.459460+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "中证1000股指期货（IM）主力合约向上触及7200点，日内涨1.24%。",
+          "url": "https://flash.jin10.com/detail/20251125095110857800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251124234554751800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 10时06分]"
+        },
         {
           "title": "恒指期货夜盘收涨0.62%，报25874点，高水158点。",
           "url": "https://flash.jin10.com/detail/20251125030913627800",
@@ -141,6 +164,17 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
+          "title": "现货钯金向上触及1400美元/盎司，日内涨0.70%。",
+          "url": "https://flash.jin10.com/detail/20251125094050324800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "芝商所（CME）：11月21日，CME利率期货和期权产品组合共成交44,839,732份合约，创下历史第二高的日成交量。",
           "url": "https://flash.jin10.com/detail/20251125004414418800",
           "source": "金十数据",
@@ -152,15 +186,37 @@
           "time_info": "01时27分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251124234554751800",
+          "title": "中证500股指期货（IC）主力合约站上6900点，日内涨0.85%。",
+          "url": "https://flash.jin10.com/detail/20251125093640334800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251125093110007800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.14%，10年期主力合约跌0.01%，5年期主力合约涨0.01%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3009870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "现货白银日内涨幅扩大至1.00%，报50.51美元/盎司。",
@@ -172,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251125093105735800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "市场消息：苹果公司罕见裁员，削减销售部门多个职位。苹果公司在声明中确认，将对销售策略部门进行“一些调整”。苹果公司最近几周通知了数十名销售人员裁员事宜。",
@@ -227,6 +294,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "商品期货开盘，沪银主力合约涨超2%，玻璃、乙二醇、沪金、沥青、甲醇、玉米涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3009851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.35%，上一个交易日夜盘收涨0.43%。",
+          "url": "https://wallstreetcn.com/livenews/3009849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "内盘期货夜市多数收涨，玻璃涨1.5%，铁矿石涨约0.6%，低硫燃油则跌约0.7%",
@@ -298,11 +387,24 @@
           "ranks": [
             12,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 10时06分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 10时06分]"
         },
         {
           "title": "美股盘后谷歌(GOOG.O)涨2.2%，英伟达(NVDA.O)跌1.5%。此前消息称Meta与谷歌就2027年采购后者的TPU展开谈判。",
@@ -311,7 +413,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -352,17 +454,6 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
-          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
-          "url": "https://www.cls.cn/detail/2209592",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
           "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
           "url": "https://flash.jin10.com/detail/20251125052238827800",
           "source": "金十数据",
@@ -381,7 +472,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -436,7 +527,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -477,7 +568,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "万亿巨头重挫8%！近1月回撤已达三成，TMT板块继续承压，量能占比则有所回升",
@@ -504,6 +595,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 07时28分]"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.65%，深成指涨1.42%，算力硬件、AI应用、贵金属、量子科技等方向领涨，沪深京三市上涨个股超4600只。",
+          "url": "https://wallstreetcn.com/livenews/3009889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
@@ -633,9 +735,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "上证指数开盘报3850.57点，涨0.36%。 深证成指开盘报12692.09点，涨0.85%。 创业板指开盘报2970.73点，涨1.42%。 沪深300开盘报4475.84点，涨0.62%。 科创50开盘报1309.67点，涨1.01%。 中证500开盘报6915.12点，涨0.67%。 中证1000开盘报7195.10点，涨0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3009865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "德国股指收涨超0.6%，意大利股市跌超0.8%，银行板块跌约2.3%",
@@ -663,7 +776,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "ETF强势“吸金”，上周超千亿元资金借道入场",
@@ -672,7 +785,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -731,7 +844,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -742,9 +855,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "再签18架，AS700载人飞艇产业化迎来新突破",
+          "url": "https://wallstreetcn.com/livenews/3009856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "彭博汇编数据显示，最近一周，加密数字货币ETPs（交易所交易产品）资金外流17.7亿美元。 过去一个月，投资者从加密货币ETPs赎回/撤回43.2亿美元，过去一年仍然累计流入533亿美元。 加密货币ETPs资产规模目前1609亿美元。",
@@ -772,7 +896,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1045元，较上周五夜盘收盘涨5点。成交量413.47亿美元。",
@@ -810,12 +934,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时31分]"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0826，上调21点；上一交易日中间价7.0847，上一交易日官方收盘价7.1056，上日夜盘报收7.1045。",
+          "url": "https://wallstreetcn.com/livenews/3009859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数收涨2.82%，报7726.23点。 ETF中，中概互联网指数ETF（KWEB）收涨2.91%，中国科技指数ETF（CQQQ）收涨2.82%。 中国ETF-iShares MSCI（MCHI）收涨1.71%，XtrackersHarvest中证50（ASHS）收涨0.90%，德银嘉实沪深300指数ETF（ASHR）收涨0.19%。",
@@ -838,6 +973,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席Kashkari：人们因通胀而感到经济困难。 AI确实有真实应用场景，但加密货币没有。",
+          "url": "https://wallstreetcn.com/livenews/3009841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
