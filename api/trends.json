@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T12:35:06.687508+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2025-11-26T13:28:59.868766+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "美股股指期货、现货黄金和WTI原油在周三开盘持稳。",
@@ -19,6 +19,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "现货钯金向上触及1400美元/盎司，日内涨0.73%。",
+          "url": "https://flash.jin10.com/detail/20251126131755546800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "消息人士：日本央行正在调整沟通方式，为市场做好准备，可能最早于12月加息。",
           "url": "https://flash.jin10.com/detail/20251126093212619800",
           "source": "金十数据",
@@ -28,6 +39,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "富时中国A50指数期货午后涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3010641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面震荡偏弱，富宝电池级碳酸锂报92900元/吨",
+          "url": "https://flash.jin10.com/detail/20251126131256940800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "芝加哥小麦期货涨超0.6%",
@@ -188,6 +221,18 @@
           "time_info": "[00时38分 ~ 01时28分]"
         },
         {
+          "title": "现货黄金上涨近1%，至每盎司4169.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3010603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时28分]"
+        },
+        {
           "title": "国债期货跌幅持续扩大，30年期主力合约跌超0.5%，10年期主力合约跌0.17%。",
           "url": "https://wallstreetcn.com/livenews/3010586",
           "source": "华尔街见闻-快讯",
@@ -210,6 +255,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时28分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251126110332722800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 13时28分]"
         },
         {
           "title": "美国10年期国债收益率跌穿4%整数位心理关口，为10月份下旬以来首次。 现货黄金涨约0.3%，刷新日高至4159.30美元。",
@@ -246,17 +303,6 @@
           "time_info": "10时07分"
         },
         {
-          "title": "现货黄金上涨近1%，至每盎司4169.20美元。",
-          "url": "https://wallstreetcn.com/livenews/3010603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
           "title": "现货黄金短线走高超15美元，现报4149美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251126011437663800",
           "source": "金十数据",
@@ -288,17 +334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251126110332722800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         },
         {
           "title": "国债期货开盘，30年期主力合约跌0.17%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约跌0.01%。",
@@ -414,7 +449,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "比特币一个多月来下跌近35%",
@@ -450,7 +485,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -465,6 +500,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时38分 ~ 04时32分]"
+        },
+        {
+          "title": "National Storage上涨19%，此前博枫和GIC提出26亿美元收购要约。",
+          "url": "https://wallstreetcn.com/livenews/3010642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "创业板指涨超1%，沪指涨0.06%，深成指涨0.79%，医药医疗、海南自贸区、零售、工程机械等方向领涨，沪深京三市上涨个股近3900只。",
@@ -484,7 +530,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -533,11 +579,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时28分]"
         },
         {
           "title": "戴尔(DELL.N)首席运营官：尽管已采取缓解措施，但成本上涨仍会传导至客户群体。",
@@ -682,6 +729,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "创业板指涨超3%，沪指涨0.14%，深成指涨1.64%，医药、算力硬件、海南自贸等方向涨幅居前，沪深京三市上涨个股超2600只。",
+          "url": "https://wallstreetcn.com/livenews/3010633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "标普500指数初步收涨0.9%，保健板块涨2.1%，可选消费板块涨2%，电信板块涨1.7%，科技板块持平，能源板块跌0.6%。 纳斯达克100指数初步收涨0.6%，成分股中，ADI涨5.2%，应用材料涨5.2%，露露柠檬涨4.6%，Doordash涨4%，Meta涨3.8%，高通则跌1%，英伟达跌2.6%，Strategy跌4%，AMD跌4.1%。 Merck初步收涨5.3%，领跑道指成分股，家得宝、Salesforce、沃尔玛、耐克、联合健康等至少涨超2%，雪佛龙则跌0.8%表现倒数第二，英伟达跌幅最大。",
@@ -834,6 +892,17 @@
           "time_info": "[00时38分 ~ 07时26分]"
         },
         {
+          "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
+          "url": "https://www.cls.cn/detail/2210938",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 13时28分]"
+        },
+        {
           "title": "【数据看盘】三家实力游资豪掷近4亿买入光库科技 多路资金激烈博弈巨人网络",
           "url": "https://www.cls.cn/detail/2210428",
           "source": "财联社热门",
@@ -856,17 +925,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 07时26分]"
-        },
-        {
-          "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
-          "url": "https://www.cls.cn/detail/2210938",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 12时35分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -907,6 +965,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时32分]"
+        },
+        {
+          "title": "李家超：香港全力支持国家铁路政策",
+          "url": "https://wallstreetcn.com/livenews/3010601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时28分]"
         },
         {
           "title": "一口气揭秘体检产业真相",
@@ -963,17 +1033,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "李家超：香港全力支持国家铁路政策",
-          "url": "https://wallstreetcn.com/livenews/3010601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         },
         {
           "title": "美国白宫：美国总统特朗普不考虑直接延长两年补贴，将在近期提出医改政策改进建议。",
@@ -1038,6 +1097,19 @@
           "time_info": "[00时38分 ~ 10时07分]"
         },
         {
+          "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
+          "url": "https://www.cls.cn/detail/2210921",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 13时28分]"
+        },
+        {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
           "url": "https://wallstreetcn.com/articles/3760086",
           "source": "华尔街见闻",
@@ -1049,19 +1121,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 07时26分]"
-        },
-        {
-          "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
-          "url": "https://www.cls.cn/detail/2210921",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 12时35分]"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
@@ -1147,6 +1206,95 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "断层领先15万!shy哥锁死票王",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347488&amp;topic_name=%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%8815%E4%B8%87%21shy%E5%93%A5%E9%94%81%E6%AD%BB%E7%A5%A8%E7%8E%8B",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时28分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加70.52吨，当前持仓量为15582.33吨。欢迎点击查看数据中心......",
+          "url": "https://flash.jin10.com/detail/20251126070256368800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普的特使Witkoff向俄罗斯总统普京建议，宜在乌克兰总统泽连斯基11月27日前往美国之前与特朗普通话。 Witkoff向普京建议，应赞赏特朗普主张的加沙“和平协议”。 11月14日，Witkoff与普京顾问Ushakov通电话。",
+          "url": "https://wallstreetcn.com/livenews/3010377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时32分 ~ 06时28分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.35%，报7753.25点。 热门中概股里，小马智行初步收涨6.1%。小鹏涨3.5%，万国数据、华住涨超1%，阿里则跌2.4%，蔚来跌4.5%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.48%，德银嘉实沪深300指数ETF（ASHR）收涨1.26%。 中国科技指数ETF（CQQQ）收涨1.18%，中概互联网指数ETF（KWEB）收涨0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3010397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时28分]"
+        },
+        {
+          "title": "据英国金融时报：美国液化天然气生产商Ventures Global称，壳牌(SHEL.N)发动“攻势”破坏公司液化天然气业务。",
+          "url": "https://flash.jin10.com/detail/20251126130509034800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "京东竞购香港中环建设银行大厦50%股权。（HK01）",
+          "url": "https://wallstreetcn.com/livenews/3010624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "隔夜shibor报1.3160%，与前一交易日持平",
+          "url": "https://flash.jin10.com/detail/20251126110009651800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 6,
       "titles": [
@@ -1222,73 +1370,6 @@
       ]
     },
     {
-      "keyword_group": "SZ SH HK",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "断层领先15万!shy哥锁死票王",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347488&amp;topic_name=%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%8815%E4%B8%87%21shy%E5%93%A5%E9%94%81%E6%AD%BB%E7%A5%A8%E7%8E%8B",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            14,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时35分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加70.52吨，当前持仓量为15582.33吨。欢迎点击查看数据中心......",
-          "url": "https://flash.jin10.com/detail/20251126070256368800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美国总统特朗普的特使Witkoff向俄罗斯总统普京建议，宜在乌克兰总统泽连斯基11月27日前往美国之前与特朗普通话。 Witkoff向普京建议，应赞赏特朗普主张的加沙“和平协议”。 11月14日，Witkoff与普京顾问Ushakov通电话。",
-          "url": "https://wallstreetcn.com/livenews/3010377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时32分 ~ 06时28分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.35%，报7753.25点。 热门中概股里，小马智行初步收涨6.1%。小鹏涨3.5%，万国数据、华住涨超1%，阿里则跌2.4%，蔚来跌4.5%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.48%，德银嘉实沪深300指数ETF（ASHR）收涨1.26%。 中国科技指数ETF（CQQQ）收涨1.18%，中概互联网指数ETF（KWEB）收涨0.59%。",
-          "url": "https://wallstreetcn.com/livenews/3010397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时28分]"
-        },
-        {
-          "title": "隔夜shibor报1.3160%，与前一交易日持平",
-          "url": "https://flash.jin10.com/detail/20251126110009651800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -1300,8 +1381,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 12时35分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 13时28分]"
         },
         {
           "title": "两年期美债收益率跌超4个基点，报道称哈塞特在美联储主席候选人中领先优势明显",
