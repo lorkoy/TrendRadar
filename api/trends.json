@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T04:30:21.894250+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2025-11-27T05:25:15.029832+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国9月PPI环比上涨0.3%，能源成本上升推动通胀抬头",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 04时30分]"
+        },
+        {
+          "title": "美元指数26日下跌",
+          "url": "https://flash.jin10.com/detail/20251127045630156800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "周三（11月26日），彭博电动汽车价格回报指数涨1.64%，报3369.06点，亚太早盘持续上涨，之后维持高位震荡状态。",
+          "url": "https://wallstreetcn.com/livenews/3011061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "阿里巴巴ADR短线从159美元一线跳水至150美元，日内整体从涨约1.1%转而跌超3%。 百度ADR下跌3.3%，比亚迪ADR转而下跌0.8%。",
@@ -93,6 +115,28 @@
           "time_info": "[01时27分 ~ 02时36分]"
         },
         {
+          "title": "强生（JNJ）收涨0.43%，报207.56美元，连续13个交易日创收盘历史新高（期间累计上涨超11%），收盘市值首次突破5000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3011059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "国际油价26日上涨",
+          "url": "https://flash.jin10.com/detail/20251127044320614800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "英国30年期国债延续涨势，收益率下跌10个基点至5.22%。",
           "url": "https://flash.jin10.com/detail/20251127001732127800",
           "source": "金十数据",
@@ -118,30 +162,8 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "芝加哥玉米款期货涨超1.8%",
-          "url": "https://wallstreetcn.com/livenews/3011042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "周三（11月26日）纽约尾盘，ICE原糖期货涨1.41%，ICE白糖期货涨1.26%。 ICE阿拉比卡咖啡期货跌0.63%，咖啡“C”期货跌0.89%。罗布斯塔咖啡期货跌0.81%。 纽约可可期货涨1.02%，伦敦可可期货涨0.66%。 芝加哥WCE双低油菜籽期货涨0.48%。 ICE棉花期货涨0.59%。",
-          "url": "https://wallstreetcn.com/livenews/3011036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
         {
           "title": "上期所原油期货2501合约夜盘收涨0.79%，报446.30元人民币/桶。 沪金夜盘收涨0.37%，沪银收涨2.73%。",
           "url": "https://wallstreetcn.com/livenews/3011019",
@@ -154,6 +176,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时30分]"
+        },
+        {
+          "title": "芝加哥玉米款期货涨超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3011042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时25分]"
+        },
+        {
+          "title": "周三（11月26日）纽约尾盘，ICE原糖期货涨1.41%，ICE白糖期货涨1.26%。 ICE阿拉比卡咖啡期货跌0.63%，咖啡“C”期货跌0.89%。罗布斯塔咖啡期货跌0.81%。 纽约可可期货涨1.02%，伦敦可可期货涨0.66%。 芝加哥WCE双低油菜籽期货涨0.48%。 ICE棉花期货涨0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3011036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时25分]"
         },
         {
           "title": "现货白银日内涨幅达3.0%，报53.02美元/盎司。",
@@ -169,6 +215,18 @@
           "time_info": "[01时27分 ~ 03时22分]"
         },
         {
+          "title": "WTI 1月原油期货收涨0.70美元，涨幅将近1.21%，报58.65美元/桶。 布伦特1月原油期货收报63.13美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3011032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时25分]"
+        },
+        {
           "title": "现货白银站上53美元/盎司，为11月14日以来首次，日内涨近3%。",
           "url": "https://flash.jin10.com/detail/20251127004201230800",
           "source": "金十数据",
@@ -179,17 +237,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时36分]"
-        },
-        {
-          "title": "WTI 1月原油期货收涨0.70美元，涨幅将近1.21%，报58.65美元/桶。 布伦特1月原油期货收报63.13美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3011032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时30分"
         },
         {
           "title": "期货热点追踪",
@@ -203,13 +250,24 @@
           "time_info": "00时36分"
         },
         {
+          "title": "加拿大调整钢铁与贸易政策",
+          "url": "https://wallstreetcn.com/livenews/3011044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "恒指期货夜盘收涨0.02%，报25906点，低水22点。",
           "url": "https://flash.jin10.com/detail/20251127031050649800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
         }
@@ -227,8 +285,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时25分]"
         },
         {
           "title": "【数据看盘】6.84亿元资金出逃航天发展 两家实力游资大幅抢筹东芯股份",
@@ -239,8 +297,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时25分]"
         },
         {
           "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
@@ -248,11 +306,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时25分]"
         },
         {
           "title": "美联储褐皮书：制造业与零售业普遍面临成本压力，这主要反映了关税政策带来的推升作用。",
@@ -279,6 +338,18 @@
           "time_info": "[01时27分 ~ 02时36分]"
         },
         {
+          "title": "阿联酋部署10亿美元资金，用于支持也门的能源行业。",
+          "url": "https://wallstreetcn.com/livenews/3011034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时25分]"
+        },
+        {
           "title": "英特尔：没理由相信台积电的指控有任何依据。 公司在使用第三方知识产权方面有若干政策制度。 公司有禁止使用第三方知识产权的政策。",
           "url": "https://wallstreetcn.com/livenews/3010991",
           "source": "华尔街见闻-快讯",
@@ -291,24 +362,13 @@
           "time_info": "[01时27分 ~ 02时36分]"
         },
         {
-          "title": "阿联酋部署10亿美元资金，用于支持也门的能源行业。",
-          "url": "https://wallstreetcn.com/livenews/3011034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
           "title": "墨西哥央行行长：毫无疑问，我们的货币政策现在以及未来都将继续聚焦于将通胀率降至3%的目标。",
           "url": "https://flash.jin10.com/detail/20251127035318009800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
         }
@@ -316,7 +376,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
@@ -326,8 +386,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时25分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -335,11 +395,34 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时25分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
+          "url": "https://wallstreetcn.com/livenews/3011063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "周三（11月26日），降息赢家指数涨0.76%，报99.70点，美股开盘后，涨势持续至北京时间01:30，04:17过后快速回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3011062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
@@ -400,7 +483,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
         }
@@ -408,7 +491,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -418,8 +501,53 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时25分]"
+        },
+        {
+          "title": "周三（11月26日）纽约尾盘，美国10年期国债收益率跌0.19个基点，报3.9941%，全天冲高回落，北京时间23:04涨至4.0402%刷新日高。 两年期美债收益率涨2.04个基点，报3.4791%，23:01也刷新日高至3.4995%。",
+          "url": "https://wallstreetcn.com/livenews/3011050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收跌0.03%，报7750.79点。 热门中概股里，阿特斯太阳能涨8.4%，大全新能源涨3.2%，文远知行涨1.7%，金山云则跌3.9%。 ETF中，中概互联网指数ETF（KWEB）收跌0.64%，中国科技指数ETF（CQQQ）收跌0.27%。 XtrackersHarvest中证50（ASHS）收涨0.01%，德银嘉实沪深300指数ETF（ASHR）收涨0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3011058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（11月26日）纽约尾盘，ICE美元指数跌0.08%，报99.585点，日内交投区间为99.959-99.555点，在一波冲高回落行情中、于北京时间22:01刷新日高。 彭博美元指数跌0.29%，报1219.49点，日内交投区间为1223.57-1219.49点。",
+          "url": "https://wallstreetcn.com/livenews/3011045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         }
       ]
     }
