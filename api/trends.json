@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T16:38:13.231986+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2025-11-26T17:32:41.188702+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "比特币一个多月来下跌近35%",
@@ -230,6 +230,17 @@
           "time_info": "[00时38分 ~ 11时52分]"
         },
         {
+          "title": "美国9月PPI环比上涨0.3%，能源成本上升推动通胀抬头",
+          "url": "https://wallstreetcn.com/articles/3760110",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 17时32分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨0.68%，报301.82点。 纽约证交所ARCA金矿开采商指数收涨0.77%，报2179.87点；北京时间22:30美股开盘之前持稳于2172点附近——保持微幅上涨状态、之后出现一波V形反转行情。",
           "url": "https://wallstreetcn.com/livenews/3010414",
           "source": "华尔街见闻-快讯",
@@ -254,15 +265,16 @@
           "time_info": "[15时27分 ~ 16时38分]"
         },
         {
-          "title": "美国9月PPI环比上涨0.3%，能源成本上升推动通胀抬头",
-          "url": "https://wallstreetcn.com/articles/3760110",
-          "source": "华尔街见闻",
+          "title": "摩根大通策略师预计标普500指数到2026年底将上涨约11%",
+          "url": "https://wallstreetcn.com/livenews/3010759",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
+          "time_info": "[16时38分 ~ 17时32分]"
         },
         {
           "title": "周二（11月25日）纽约尾盘，美元兑日元跌0.50%，报156.11日元，日内交投区间为156.98-155.80日元，全天持续震荡走低。 欧元兑日元跌0.11%，英镑兑日元大致持平。",
@@ -371,17 +383,6 @@
           "time_info": "13时28分"
         },
         {
-          "title": "摩根大通策略师预计标普500指数到2026年底将上涨约11%",
-          "url": "https://wallstreetcn.com/livenews/3010759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
           "title": "标普500指数初步收涨0.9%，保健板块涨2.1%，可选消费板块涨2%，电信板块涨1.7%，科技板块持平，能源板块跌0.6%。 纳斯达克100指数初步收涨0.6%，成分股中，ADI涨5.2%，应用材料涨5.2%，露露柠檬涨4.6%，Doordash涨4%，Meta涨3.8%，高通则跌1%，英伟达跌2.6%，Strategy跌4%，AMD跌4.1%。 Merck初步收涨5.3%，领跑道指成分股，家得宝、Salesforce、沃尔玛、耐克、联合健康等至少涨超2%，雪佛龙则跌0.8%表现倒数第二，英伟达跌幅最大。",
           "url": "https://wallstreetcn.com/livenews/3010395",
           "source": "华尔街见闻-快讯",
@@ -410,7 +411,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -503,6 +504,17 @@
           "time_info": "14时42分"
         },
         {
+          "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3010775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "蔚来汽车股价在新加坡下跌5.7%，此前公布第三季度亏损。",
           "url": "https://flash.jin10.com/detail/20251126090722248800",
           "source": "金十数据",
@@ -575,7 +587,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -597,9 +609,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "数据显示：法国场外交易(OTC)次日交付的基荷电力开盘价为85欧元/兆瓦时，下跌13.3%。",
+          "url": "https://flash.jin10.com/detail/20251126164123330800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "德国股指收涨约1%，意大利银行板块涨2%，丹麦股市反弹超1.9%",
@@ -616,7 +639,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "30年期国债期货（TL）主力合约日内下跌0.60%，现报114.58元。",
@@ -663,15 +686,17 @@
           "time_info": "10时07分"
         },
         {
-          "title": "广期所公布钯、铂期货合约挂牌基准价",
-          "url": "https://wallstreetcn.com/livenews/3010765",
-          "source": "华尔街见闻-快讯",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251126110332722800",
+          "source": "金十数据",
           "ranks": [
-            5
+            13,
+            16,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 17时32分]"
         },
         {
           "title": "芝加哥小麦期货涨超0.6%",
@@ -820,6 +845,18 @@
           "time_info": "[11时52分 ~ 12时35分]"
         },
         {
+          "title": "广期所公布钯、铂期货合约挂牌基准价",
+          "url": "https://wallstreetcn.com/livenews/3010765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时32分]"
+        },
+        {
           "title": "国债期货全线收跌，30年期主力合约跌0.86%，10年期主力合约跌0.36%，5年期主力合约跌0.22%，2年期主力合约跌0.05%。",
           "url": "https://wallstreetcn.com/livenews/3010725",
           "source": "华尔街见闻-快讯",
@@ -928,18 +965,6 @@
           "time_info": "[05时26分 ~ 06时28分]"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251126110332722800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 13时28分]"
-        },
-        {
           "title": "美国10年期国债收益率跌穿4%整数位心理关口，为10月份下旬以来首次。 现货黄金涨约0.3%，刷新日高至4159.30美元。",
           "url": "https://wallstreetcn.com/livenews/3010340",
           "source": "华尔街见闻-快讯",
@@ -963,6 +988,17 @@
           "time_info": "14时42分"
         },
         {
+          "title": "滴滴全球第三季度营收586亿元人民币。 第三季度净利润15亿元人民币。 第三季度调整后EBITDA 16亿元人民币。 第三季度每股收益1.05元人民币。 第三季度每ADS收益0.26元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3010790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251126093110287800",
           "source": "金十数据",
@@ -983,6 +1019,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "美国标普500指数E-迷你期货涨0.2%，纳斯达克100指数期货涨0.28%，道琼斯期货涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20251126170209698800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "国债期货午后跌幅扩大，30年期主力合约跌0.62%，10年期主力合约跌0.19%，5年期主力合约跌0.13%，2年期主力合约跌0.03%。",
@@ -1112,7 +1159,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1145,7 +1192,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1208,7 +1255,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
@@ -1296,6 +1343,30 @@
           "time_info": "14时42分"
         },
         {
+          "title": "一组海报看我国冰雪产业发展新阶段",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%B5%B7%E6%8A%A5%E7%9C%8B%E6%88%91%E5%9B%BD%E5%86%B0%E9%9B%AA%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E6%96%B0%E9%98%B6%E6%AE%B5",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "一口气揭秘体检产业真相",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E6%8F%AD%E7%A7%98%E4%BD%93%E6%A3%80%E4%BA%A7%E4%B8%9A%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 17时32分]"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩（VDL）：在乌克兰（和平协议的）磋商中，一个中心议题是如何向乌克兰提供资金。",
           "url": "https://wallstreetcn.com/livenews/3010356",
           "source": "华尔街见闻-快讯",
@@ -1307,18 +1378,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时32分]"
-        },
-        {
-          "title": "一口气揭秘体检产业真相",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E6%8F%AD%E7%A7%98%E4%BD%93%E6%A3%80%E4%BA%A7%E4%B8%9A%E7%9C%9F%E7%9B%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 16时38分]"
         },
         {
           "title": "李家超：香港全力支持国家铁路政策",
@@ -1378,6 +1437,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "保险资金长期投资试点 再迎新资金入市",
+          "url": "https://wallstreetcn.com/livenews/3010782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普不考虑直接延长两年补贴，将在近期提出医改政策改进建议。",
           "url": "https://flash.jin10.com/detail/20251126061216297800",
           "source": "金十数据",
@@ -1417,7 +1487,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1428,7 +1498,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1450,7 +1520,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1464,12 +1534,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "今年美元兑部分新兴货币强势上扬，后者可能继续受制于宽松政策",
+          "url": "https://flash.jin10.com/detail/20251126164207746800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -1569,6 +1650,28 @@
           "time_info": "[02时41分 ~ 03时24分]"
         },
         {
+          "title": "理想汽车美股盘前跌超4%，公司对第四季度营收指引低于市场预估。",
+          "url": "https://wallstreetcn.com/livenews/3010788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3010785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "美股收盘：三大股指低开高收 英伟达跌超2%",
           "url": "https://flash.jin10.com/detail/20251126050102870800",
           "source": "金十数据",
@@ -1594,7 +1697,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "断层领先15万!shy哥锁死票王",
@@ -1606,11 +1709,12 @@
             17,
             19,
             21,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时38分 ~ 16时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时38分 ~ 17时32分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加70.52吨，当前持仓量为15582.33吨。欢迎点击查看数据中心......",
@@ -1680,12 +1784,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "港交所公告显示：渣打集团(02888.HK)于11月25日在其他交易所回购了共计475,222股，耗资760万英镑。",
+          "url": "https://flash.jin10.com/detail/20251126164440427800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0845元，较周一夜盘收盘涨200点。成交量509.21亿美元。",
@@ -1735,6 +1850,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "理想汽车第三季度营收274亿元人民币，预估266.2亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3010778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "汇率刷新逾1年来高位，人民币与美元“双强”格局显现",
           "url": "https://wallstreetcn.com/livenews/3010422",
           "source": "华尔街见闻-快讯",
@@ -1770,8 +1896,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 16时38分]"
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 17时32分]"
         },
         {
           "title": "两年期美债收益率跌超4个基点，报道称哈塞特在美联储主席候选人中领先优势明显",
