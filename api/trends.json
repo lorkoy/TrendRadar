@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T15:28:42.859484+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2025-11-27T16:37:58.483462+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "国债期货午盘收盘",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报53.88美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251127160331222800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "上期所原油期货2501合约夜盘收涨0.79%，报446.30元人民币/桶。 沪金夜盘收涨0.37%，沪银收涨2.73%。",
@@ -141,6 +152,19 @@
           "time_info": "[01时27分 ~ 03时22分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251126234704534800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 16时37分]"
+        },
+        {
           "title": "周三（11月26日）纽约尾盘，标普500股指期货最终涨0.74%，道指期货涨0.71%，纳斯达克100股指期货涨0.93%。 罗素2000股指期货涨0.88%。",
           "url": "https://wallstreetcn.com/livenews/3011074",
           "source": "华尔街见闻-快讯",
@@ -151,6 +175,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时26分]"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.01%，10年期主力合约跌0.06%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3011377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时37分]"
         },
         {
           "title": "周三（11月26日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨3.29%，报90295.00美元，北京时间00:00-02:00出现一波显著上涨的行情。 CME以太币期货DCR主力合约涨3.50%，报3031.50美元。 美股加密货币与加密货币关联指数涨4.95%，报68.01点。 最近24小时，MarketVector数字资产100小盘指数涨3.18%，暂报18855.77点。",
@@ -201,18 +237,6 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251126234704534800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 13时30分]"
-        },
-        {
           "title": "韩国债券期货跌幅扩大，此前韩国央行在声明中删除维持降息立场的措辞。",
           "url": "https://wallstreetcn.com/livenews/3011231",
           "source": "华尔街见闻-快讯",
@@ -223,17 +247,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时50分 ~ 12时34分]"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约跌0.01%，10年期主力合约跌0.06%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3011377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
         },
         {
           "title": "日本央行审议委员野口旭：日本央行在调整政策时必须采取审慎的、循序渐进的方式。",
@@ -286,7 +299,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -297,7 +310,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -341,7 +354,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -363,7 +376,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -374,7 +387,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -429,7 +442,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -503,7 +516,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "美国9月PPI环比上涨0.3%，能源成本上升推动通胀抬头",
@@ -538,6 +551,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "香港恒生指数收盘上涨0.07%，恒生科技指数跌0.36%。小米集团收涨2.49%。万科企业跌超7%，世茂集团跌超6%，龙湖集团跌超3%。泡泡玛特涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3011431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "彪马股价上涨13%。此前有消息称，安踏体育正在考虑竞购彪马。",
+          "url": "https://wallstreetcn.com/livenews/3011430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "金十图示：2025年11月27日（周四）富时中国A50指数成分股午盘收盘行情一览：半导体板块走强，酿酒股涨跌不一",
@@ -787,7 +822,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -801,6 +836,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "印度Sensex指数抹去涨幅，最新下跌0.01%。",
+          "url": "https://flash.jin10.com/detail/20251127155330114800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "印度Nifty 50指数转跌，最新下跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20251127155234229800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "A股陕西板块午后拉升，西安饮食拉升涨停，西安旅游、天地源、曲江文旅、陕西华达、广电网络、标准股份涨停。",
@@ -820,7 +877,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -853,7 +910,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -952,7 +1009,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -1142,7 +1199,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -1186,7 +1243,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -1412,8 +1469,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时04分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[10时04分 ~ 16时37分]"
         },
         {
           "title": "感恩节降至，标普连涨四日，英伟达反弹，人民币创逾一年新高",
@@ -1476,7 +1533,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据日本放送协会NHK：日本2025财年补充预算预计约为18.3万亿日元。",
@@ -1520,9 +1577,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "伯恩斯坦：将理想汽车(02015.HK)目标价由98.00港元下调至78.00港元。",
+          "url": "https://flash.jin10.com/detail/20251127154056918800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -1549,7 +1617,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
