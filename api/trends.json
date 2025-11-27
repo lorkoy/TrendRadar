@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T19:25:52.697104+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2025-11-27T20:58:34.524693+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "美国9月PPI环比上涨0.3%，能源成本上升推动通胀抬头",
@@ -204,6 +204,18 @@
           "time_info": "[16时37分 ~ 17时31分]"
         },
         {
+          "title": "首次迎来百亿成交！“人气牛”股价7连涨，融资客回流电子板块，这些股已获加仓",
+          "url": "https://www.cls.cn/detail/2212905",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 20时58分]"
+        },
+        {
           "title": "强生（JNJ）收涨0.43%，报207.56美元，连续13个交易日创收盘历史新高（期间累计上涨超11%），收盘市值首次突破5000亿美元。",
           "url": "https://wallstreetcn.com/livenews/3011059",
           "source": "华尔街见闻-快讯",
@@ -226,17 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时27分]"
-        },
-        {
-          "title": "首次迎来百亿成交！“人气牛”股价7连涨，融资客回流电子板块，这些股已获加仓",
-          "url": "https://www.cls.cn/detail/2212905",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时25分]"
         },
         {
           "title": "美联储褐皮书：报告期内物价温和上涨。",
@@ -584,6 +585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "LSEG数据显示：德国日前交付的基本负荷电力价格下跌7%，报86欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20251127200631259800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -690,6 +702,18 @@
           "time_info": "[11时50分 ~ 12时34分]"
         },
         {
+          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
+          "url": "https://wallstreetcn.com/articles/3760222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 20时58分]"
+        },
+        {
           "title": "股指期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251127113126576800",
           "source": "金十数据",
@@ -737,17 +761,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时50分 ~ 13时30分]"
-        },
-        {
-          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
-          "url": "https://wallstreetcn.com/articles/3760222",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时25分]"
         },
         {
           "title": "现货白银日内涨幅达3.0%，报53.02美元/盎司。",
@@ -1125,7 +1138,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "来看我国冰雪产业发展新图景",
@@ -1162,6 +1175,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 07时26分]"
+        },
+        {
+          "title": "欧洲央行会议纪要：政策传导顺畅且有效。",
+          "url": "https://flash.jin10.com/detail/20251127204510005800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "欧洲央行会议纪要：管理委员会对通胀前景的评估总体保持不变。 前景仍然充满不确定性。 这种不确定性也可以作为维持利率不变的理由。 还有观点认为，目前的政策利率水平已足够稳健，可以应对冲击。 继续等待更多信息仍是很好的选择。 有观点认为降息周期已经结束。 与此同时，也有观点认为保持完全开放的态度非常重要。 多数成员认为通胀前景相关风险是双向的。",
+          "url": "https://wallstreetcn.com/livenews/3011549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "日本央行审议委员野口旭：与此同时，汇率和资产价格也是货币政策的重要传导渠道。",
@@ -1219,8 +1254,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 20时58分]"
         },
         {
           "title": "英特尔(INTC.O)：台积电的指控没有任何依据；公司有禁止使用第三方知识产权的政策。",
@@ -1314,6 +1349,28 @@
           "time_info": "10时04分"
         },
         {
+          "title": "欧洲央行会议纪要：此外也有观点认为，对于更遥远的预测期，预测的信息含量较低，且货币政策在该预测期可能产生的影响也较小。",
+          "url": "https://flash.jin10.com/detail/20251127203226701800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "【数据看盘】多路资金联手抢筹锂电股 四家实力游资扎堆新华都",
+          "url": "https://www.cls.cn/detail/2212932",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "日本央行审议委员野口旭：如果央行决定在物价达到目标之前完全不加息，那么除非一次性大幅上调政策利率，否则通胀将难以控制。",
           "url": "https://flash.jin10.com/detail/20251127093821182800",
           "source": "金十数据",
@@ -1336,6 +1393,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "安徽：到2027年智能机器人产业链规模超1000亿元",
+          "url": "https://wallstreetcn.com/livenews/3011536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "主力资金流向前十大个股",
           "url": "https://flash.jin10.com/detail/20251127141025128800",
           "source": "金十数据",
@@ -1345,6 +1413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "欧洲央行会议纪要： 也有人认为，当前的政策利率水平已足以有效应对冲击。",
+          "url": "https://flash.jin10.com/detail/20251127203120666800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "韩国央行：给潜在的降息留下了空间。 出口增长可能放缓。 密切关注国内外政策情况的变化。 有必要对首尔的房价风险保持警惕。 韩元兑美元下跌的部分原因是居民的海外证券投资，以及外国投资者的国内股市净抛售。 对房价上涨的预期仍然很高。",
@@ -1369,6 +1448,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "欧洲央行将于十分钟后公布10月货币政策会议纪要。",
+          "url": "https://flash.jin10.com/detail/20251127202000002800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "日本将新发行11.7万亿日元债券 为经济刺激方案提供资金",
           "url": "https://wallstreetcn.com/livenews/3011343",
           "source": "华尔街见闻-快讯",
@@ -1389,6 +1479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "俄罗斯副外长格鲁什科就欧盟外交与安全政策高级代表卡拉斯呼吁限制俄罗斯军费开支发表声明：没有任何力量能够限制俄罗斯的军费预算。",
+          "url": "https://flash.jin10.com/detail/20251127200701764800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -1675,8 +1776,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时04分 ~ 19时25分]"
+          "appearance_count": 13,
+          "time_info": "[10时04分 ~ 20时58分]"
         },
         {
           "title": "感恩节降至，标普连涨四日，英伟达反弹，人民币创逾一年新高",
