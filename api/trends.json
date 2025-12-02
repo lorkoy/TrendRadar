@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T17:35:51.705475+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2025-12-02T18:33:29.608710+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
@@ -58,18 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "现货黄金一度失守4200美元/盎司，日内跌0.77％。",
-          "url": "https://wallstreetcn.com/livenews/3013622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -94,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "现货铂金跌近3%，至1607.50美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202182305962800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "美国白宫：9月2日打击事件后，并未就幸存者政策的调整作出决定。",
@@ -159,6 +159,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 13时29分]"
+        },
+        {
+          "title": "现货黄金一度失守4200美元/盎司，日内跌0.77％。",
+          "url": "https://wallstreetcn.com/livenews/3013622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时33分]"
         },
         {
           "title": "现货白银突破58美元/盎司",
@@ -320,6 +332,18 @@
           "time_info": "[00时39分 ~ 01时30分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251201234551300800",
+          "source": "金十数据",
+          "ranks": [
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 18时33分]"
+        },
+        {
           "title": "现货白银日内涨幅达4.0%，报58.66美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3013175",
           "source": "华尔街见闻-快讯",
@@ -399,6 +423,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "英国央行行长贝利：我预计银行在资本金调整后将通过放贷支持经济。",
+          "url": "https://flash.jin10.com/detail/20251202181419322800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
           "title": "现货黄金短线下挫近30美元，失守4210美元/盎司，日内跌幅0.61%。",
           "url": "https://flash.jin10.com/detail/20251202091046434800",
           "source": "金十数据",
@@ -465,6 +500,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "现货黄金短线走低，失守4190美元/盎司，日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3013631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
           "title": "金十期货12月2日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌1000元/吨，中间价报93600元/吨。",
           "url": "https://flash.jin10.com/detail/20251202103218870800",
           "source": "金十数据",
@@ -487,17 +533,6 @@
           "time_info": "11时56分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251201234551300800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
           "title": "国债期货收盘，30年期主力合约跌0.51%，10年期主力合约跌0.07%，5年期主力合约跌0.06%，2年期主力合约跌0.02%。",
           "url": "https://wallstreetcn.com/livenews/3013549",
           "source": "华尔街见闻-快讯",
@@ -512,7 +547,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
@@ -522,8 +557,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时09分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[10时09分 ~ 18时33分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -761,6 +796,18 @@
           "time_info": "[13时29分 ~ 14时43分]"
         },
         {
+          "title": "中概股美股盘前多数下跌，小鹏汽车跌4.6%，哔哩哔哩跌超1%，阿里巴巴跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3013613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时33分]"
+        },
+        {
           "title": "据消息人士透露，城堡证券全球固定收益基金11月份上涨1.1%，截至11月年内累计上涨8.5%。",
           "url": "https://flash.jin10.com/detail/20251202030758418800",
           "source": "金十数据",
@@ -867,17 +914,6 @@
           "time_info": "10时09分"
         },
         {
-          "title": "中概股美股盘前多数下跌，小鹏汽车跌4.6%，哔哩哔哩跌超1%，阿里巴巴跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3013613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
           "title": "楼市成交低迷 为何新房价格还在上涨",
           "url": "https://www.toutiao.com/trending/7579039400529514020/",
           "source": "今日头条",
@@ -898,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡全线收跌，全市场超3700股飘绿，福建本地股逆势爆发",
+          "url": "https://www.cls.cn/detail/2217151",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "隔夜shibor报1.3020%，下跌0.50个基点",
@@ -960,8 +1007,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时38分 ~ 17时35分]"
+          "appearance_count": 9,
+          "time_info": "[12时38分 ~ 18时33分]"
         },
         {
           "title": "蓝佛安：发挥积极财政政策作用",
@@ -988,8 +1035,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 17时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 18时33分]"
         },
         {
           "title": "最高补贴2000万！上海全力打造全球脑机接口产业高地",
@@ -1309,7 +1356,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -1320,7 +1367,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -1361,7 +1408,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0725元，较上周五夜盘收盘涨15点。成交量351.93亿美元。",
@@ -1413,6 +1460,17 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
+          "title": "离岸汇率一度突破 7.06 ，这次人民币汇率大涨有何不同？对我们有何影响？",
+          "url": "https://www.zhihu.com/question/1978893272014407271",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时33分]"
+        },
+        {
           "title": "宏创控股拟启动635亿元人民币收购交易",
           "url": "https://wallstreetcn.com/livenews/3013133",
           "source": "华尔街见闻-快讯",
@@ -1436,15 +1494,15 @@
           "time_info": "10时09分"
         },
         {
-          "title": "离岸汇率一度突破 7.06 ，这次人民币汇率大涨有何不同？对我们有何影响？",
-          "url": "https://www.zhihu.com/question/1978893272014407271",
-          "source": "知乎",
+          "title": "中国央行：11月公开市场国债买卖净投放500亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3013650",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "18时33分"
         },
         {
           "title": "俄罗斯将开始接受对人民币计价主权债的认购",
@@ -1461,7 +1519,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Shy哥嘴硬王者,输T1赖运气",
@@ -1483,11 +1541,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时30分 ~ 17时35分]"
+          "appearance_count": 6,
+          "time_info": "[15时30分 ~ 18时33分]"
         },
         {
           "title": "港交所文件：贝莱德公司于11月26日将赣锋锂业(01772.HK)多头持仓比例从7.69%降至6.97%。",
@@ -1496,7 +1555,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -1511,6 +1570,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 13时29分]"
+        },
+        {
+          "title": "腾讯控股(00700.HK)于12月2日斥资约6.4亿港元回购102.8万股。",
+          "url": "https://flash.jin10.com/detail/20251202182242030800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.96%，报7867.79点，全天持续走高。 热门中概股里，网易初步收涨4.9%，阿里巴巴涨4.4%，小马智行、新东方、文远知行、百度、拼多多至多涨3.4%，小鹏则跌2.2%，理想跌2.5%，小米集团ADR跌3%，蔚来跌5.7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.12%，中国科技指数ETF（CQQQ）收涨0.67%。 德银嘉实沪深300指数ETF（ASHR）收涨0.77%，XtrackersHarvest中证50（ASHS）收涨0.66%。",
