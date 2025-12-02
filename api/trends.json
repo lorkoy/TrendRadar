@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T01:31:01.990741+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2025-12-03T02:46:39.170682+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
@@ -15,19 +15,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 02时46分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月2日（周二）晚盘收盘下跌0.74%报948.61元/克；<br/>上海黄金交易所白银T+D 12月2日（周二）晚盘收盘上涨1.42%报13605.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251203023035420800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         },
         {
           "title": "【每日收评】三大指数缩量震荡全线收跌，全市场超3700股飘绿，福建本地股逆势爆发",
           "url": "https://www.cls.cn/detail/2217151",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 02时46分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数涨8.29%，暂报18834.82点。 期间，该指数几乎一直处于上涨状态，北京时间06:00-22:00持稳于17800点附近，之后加速上涨。",
+          "url": "https://wallstreetcn.com/livenews/3013841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时46分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（12月2日），南非富时/JSE非洲领先40可交易指数收跌1.13%，报10.3万点。 南非兰特兑美元跌0.21%，暂报17.1273兰特。 南非10年期国债收益率一度下跌5个基点，至8.45%，创2017年9月份以来新低。",
@@ -54,48 +78,51 @@
           "time_info": "[00时51分 ~ 01时31分]"
         },
         {
-          "title": "最近24小时，MarketVector数字资产100小盘指数涨8.29%，暂报18834.82点。 期间，该指数几乎一直处于上涨状态，北京时间06:00-22:00持稳于17800点附近，之后加速上涨。",
-          "url": "https://wallstreetcn.com/livenews/3013841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
           "title": "法国巴黎银行：预计2026年欧元上涨，日元下跌，美元持稳",
           "url": "https://wallstreetcn.com/livenews/3013837",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时46分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报354.20点。 在十个板块中，北欧医疗保健板块领跌。 Pandora A/S（潘多拉）跌3.4%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3013834",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时46分]"
         },
         {
           "title": "纳斯达克生物科技指数下跌0.8%，刷新日低。 成分股Janux Therapeutics目前跌48.32%，Pyxis Oncology跌14.24%，PepGen跌9.56%表现倒数第三。 Personalis则涨3.31%暂时涨幅第三大，Replimune涨9.68%，Vera Therapeutics涨11%。",
           "url": "https://wallstreetcn.com/livenews/3013829",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时46分]"
+        },
+        {
+          "title": "日本要加息，全球国债闻讯下跌，风险资产全线回调",
+          "url": "https://wallstreetcn.com/articles/3760492",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时46分"
         },
         {
           "title": "市场消息：美国总统特朗普拟放宽里程规定，以遏制汽车价格上涨。",
@@ -104,7 +131,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -125,6 +152,67 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股三大指数小幅高开 英伟达涨超1%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 02时46分]"
+        },
+        {
+          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2217558",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251203013150111800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251203013047632800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "英特尔(INTC.O)美股涨超8%。",
+          "url": "https://flash.jin10.com/detail/20251202235849459800",
+          "source": "金十数据",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -176,7 +264,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         }
@@ -195,8 +283,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 02时46分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -207,42 +295,14 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股三大指数小幅高开 英伟达涨超1%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时31分]"
-        },
-        {
-          "title": "英特尔(INTC.O)美股涨超8%。",
-          "url": "https://flash.jin10.com/detail/20251202235849459800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 02时46分]"
         }
       ]
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "IG解体内幕:Shy哥开躺Gala跑路",
@@ -252,8 +312,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 02时46分]"
+        },
+        {
+          "title": "前NHK中国主播：台湾是中国的台湾",
+          "url": "https://www.toutiao.com/trending/7579255617102102582/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         }
       ]
     },
@@ -269,8 +340,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 02时46分]"
         }
       ]
     }
