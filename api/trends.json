@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T04:34:10.836993+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2025-12-04T05:25:52.074794+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 05时25分]"
         },
         {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
@@ -29,8 +29,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时30分 ~ 05时25分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.3%，能源板块涨1.8%，金融板块涨1.2%，可选消费板块涨0.8%，电信板块涨0.2%，科技板块跌0.4%。 纳斯达克100指数初步收涨0.2%，成分股中，微芯科技初步收涨12.7%，安森美半导体涨10.8%，迈威尔科技涨7.6%，Strategy涨4%，Meta则跌1.1%，美光、微软跌2.3%，再生元制药跌2.5%，PayPal跌2.7%，TTD跌3.2%，奈飞跌4.9%。 联合健康初步收涨4.9%，高盛涨2.6%，麦当劳、美国运通、安进至少涨2%，领跑道指成分股，英伟达则跌1%，波音跌1.5%，和微软表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3014626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，连续第三个交易日走低，报353.72点。 在十个板块中，北欧电信板块跌幅最大。 Gjensidige Forsikring ASA跌2.7%，在一众北欧个股里表现最差。",
@@ -45,17 +56,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时40分 ~ 03时25分]"
-        },
-        {
-          "title": "苹果股价下跌0.6%。彭博报道称，该公司用户界面设计团队负责人艾伦·戴伊（Alan Dye） 携副手Billy Sorrentino跳槽到Meta。",
-          "url": "https://wallstreetcn.com/livenews/3014612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
         },
         {
           "title": "嘉信理财CEO：客户在询问我们如何在市场上涨后保护他们的财富。我们的投资者在人工智能领域赚了不少钱。",
@@ -76,11 +76,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时25分]"
+        },
+        {
+          "title": "苹果股价下跌0.6%。彭博报道称，该公司用户界面设计团队负责人艾伦·戴伊（Alan Dye） 携副手Billy Sorrentino跳槽到Meta。",
+          "url": "https://wallstreetcn.com/livenews/3014612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时34分]"
+          "time_info": "[04时34分 ~ 05时25分]"
         },
         {
           "title": "Dakota Gold上涨12%，成交量激增。",
@@ -132,93 +145,8 @@
       ]
     },
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "芝加哥玉米期货跌1.5%，大豆油跌超1.8%",
-          "url": "https://wallstreetcn.com/livenews/3014614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "恒指期货夜盘收涨0.34%，报25829点，高水68点。",
-          "url": "https://flash.jin10.com/detail/20251204030043660800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时34分]"
-        },
-        {
-          "title": "上期所原油期货2501合约夜盘收涨0.36%，报450.90元人民币/桶。 沪金夜盘收跌0.12%，沪银收跌0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3014597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时34分]"
-        },
-        {
-          "title": "美国原油期货收涨超0.5%，纽约天然气收涨3.2%、5美元关口得而复失",
-          "url": "https://wallstreetcn.com/livenews/3014610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "NYMEX天然气期货涨至5美元，为2022年以来首次，日内当前涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3014546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "超20个地市已暂停或调整汽车国补",
-          "url": "https://www.toutiao.com/trending/7579605107428298303/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "美国天然气期货价格自2022年以来首次触及5美元高位。",
-          "url": "https://flash.jin10.com/detail/20251203234145377800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股机器人概念股走强",
@@ -271,6 +199,39 @@
           "time_info": "[02时43分 ~ 03时25分]"
         },
         {
+          "title": "金十图示：2025年12月03日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251204050553087800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "金十图示：2025年12月03日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251204050517207800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 金龙指数跌超1%",
+          "url": "https://flash.jin10.com/detail/20251204050058058800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "欧洲STOXX 600指数收涨0.10%，报576.22点，欧股盘初走高，之后持续回吐涨幅——美股盘前随着微软的AI消息而一度短暂转跌。 欧元区STOXX 50指数收涨0.15%，报5694.56点，也曾在报道称微软下调AI软件销售目标之后转跌。 富时泛欧绩优300指数收涨0.13%，报2297.89点。",
           "url": "https://wallstreetcn.com/livenews/3014565",
           "source": "华尔街见闻-快讯",
@@ -295,8 +256,107 @@
       ]
     },
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "恒指期货夜盘收涨0.34%，报25829点，高水68点。",
+          "url": "https://flash.jin10.com/detail/20251204030043660800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 04时34分]"
+        },
+        {
+          "title": "芝加哥玉米期货跌1.5%，大豆油跌超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3014614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时25分]"
+        },
+        {
+          "title": "上期所原油期货2501合约夜盘收涨0.36%，报450.90元人民币/桶。 沪金夜盘收跌0.12%，沪银收跌0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3014597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时25分]"
+        },
+        {
+          "title": "美国原油期货收涨超0.5%，纽约天然气收涨3.2%、5美元关口得而复失",
+          "url": "https://wallstreetcn.com/livenews/3014610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时25分]"
+        },
+        {
+          "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
+          "url": "https://wallstreetcn.com/articles/3760597",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "NYMEX天然气期货涨至5美元，为2022年以来首次，日内当前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3014546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "超20个地市已暂停或调整汽车国补",
+          "url": "https://www.toutiao.com/trending/7579605107428298303/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "美国天然气期货价格自2022年以来首次触及5美元高位。",
+          "url": "https://flash.jin10.com/detail/20251203234145377800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【数据看盘】北向资金、实力游资联手抢筹通宇通讯 航天发展龙虎榜现多路资金博弈",
@@ -307,8 +367,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 05时25分]"
         },
         {
           "title": "腾讯员工工作满 15 年即可荣誉退休，一次性拿到 21 个月工资，如何评价这一「退休」政策？划算吗？",
@@ -317,11 +377,12 @@
           "ranks": [
             3,
             6,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 05时25分]"
         },
         {
           "title": "柬埔寨明年将对中国公民试行免签政策",
@@ -332,8 +393,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 05时25分]"
+        },
+        {
+          "title": "美国总统特朗普：美国将授权生产Ultra compact car（超紧凑型汽车）。 这种车估计会在美国拥有庞大的市场。 相信美国汽车产业将比以往更加庞大。 允许人们对汽车贷款扣除利息。",
+          "url": "https://wallstreetcn.com/livenews/3014619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
@@ -342,7 +414,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         }
@@ -358,11 +430,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 05时25分]"
         },
         {
           "title": "美联储降息预期推动人民币升值 专家警示不宜押注单边行情",
@@ -373,8 +446,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 05时25分]"
         },
         {
           "title": "人民币升值 创近一年新高",
@@ -396,11 +469,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时25分]"
         }
       ]
     },
@@ -413,11 +487,12 @@
           "url": "https://wallstreetcn.com/livenews/3014616",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时25分]"
         }
       ]
     }
