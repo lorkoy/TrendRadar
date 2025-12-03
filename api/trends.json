@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T15:30:43.129387+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2025-12-03T16:40:54.051300+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
@@ -290,7 +290,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -334,7 +334,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -378,7 +378,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -504,6 +504,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "德国场外日前交付的基本负荷电力交易价格下跌21.5%，报133欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20251203160934015800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "A股三大指数集体翻绿，创业板指盘初一度涨超1%，AI应用、商业航天、零售、锂矿等方向跌幅居前，沪深京三市下跌个股超4000只。",
           "url": "https://wallstreetcn.com/livenews/3014096",
           "source": "华尔街见闻-快讯",
@@ -538,7 +549,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -549,9 +560,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251203000721890800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 16时40分]"
         },
         {
           "title": "恒指期货夜盘收跌0.46%，报25965点，低水130点。",
@@ -739,7 +762,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -761,7 +784,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -786,17 +809,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251203000721890800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月21日当周，WTI原油期货投机性净空头寸增加7,566手，至57,141手。NYMEX、ICE市场的天然气期货净多头寸增加12,725手，至204,069手。",
@@ -923,7 +935,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "媒体报道国家级大学生竞赛被明码标价卖奖，两千保省奖八千保国奖，保奖灰色产业链是真的吗？",
@@ -961,8 +973,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时55分 ~ 15时30分]"
+          "appearance_count": 6,
+          "time_info": "[11时55分 ~ 16时40分]"
         },
         {
           "title": "浙江“十五五”规划建议：聚焦人形机器人、脑机接口等领域 布局建设一批未来产业先导区",
@@ -974,20 +986,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 15时30分]"
-        },
-        {
-          "title": "柬埔寨将对中国公民试行免签政策",
-          "url": "https://news.ifeng.com/c/8omCf4HNbUG",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 15时30分]"
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 16时40分]"
         },
         {
           "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
@@ -999,6 +999,18 @@
             9,
             10,
             11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 16时40分]"
+        },
+        {
+          "title": "柬埔寨将对中国公民试行免签政策",
+          "url": "https://news.ifeng.com/c/8omCf4HNbUG",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -1059,11 +1071,24 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 16时40分]"
+        },
+        {
+          "title": "2025脑机接口大会将在上海举办 脑机接口产业链创新发展加速",
+          "url": "https://www.cls.cn/detail/2217733",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时36分 ~ 15时30分]"
+          "time_info": "[11时55分 ~ 16时40分]"
         },
         {
           "title": "福建省唯一涉海涉渔全产业链国企正式亮相",
@@ -1088,17 +1113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时27分]"
-        },
-        {
-          "title": "2025脑机接口大会将在上海举办 脑机接口产业链创新发展加速",
-          "url": "https://www.cls.cn/detail/2217733",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时36分]"
         },
         {
           "title": "主力资金流向前十大个股",
@@ -1188,9 +1202,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
+        },
+        {
+          "title": "磷酸铁锂行业正集体提价 机构称四季度产业链有望量价齐升",
+          "url": "https://www.cls.cn/detail/2217747",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "中方在世贸组织呼吁加强贸易措施监督 提升贸易政策透明度",
@@ -1380,7 +1405,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -1391,8 +1416,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 15时30分]"
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 16时40分]"
         },
         {
           "title": "离岸汇率一度突破 7.06 ，这次人民币汇率大涨有何不同？对我们有何影响？",
@@ -1419,6 +1444,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时27分 ~ 05时27分]"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0661，较上一交易日官方收盘价涨51点，较上日夜盘收盘涨64点。",
+          "url": "https://wallstreetcn.com/livenews/3014327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "周二（12月2日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报7.0670元，较周一纽约尾盘涨49点，日内整体交投于7.0768-7.0654元区间。",
@@ -1471,11 +1507,12 @@
             16,
             17,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时50分 ~ 15时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时50分 ~ 16时40分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加60.79吨，当前持仓量为15863.15吨。",
@@ -1551,11 +1588,12 @@
           "url": "https://wallstreetcn.com/articles/3760553",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 15时30分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 16时40分]"
         }
       ]
     },
@@ -1570,7 +1608,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         }
