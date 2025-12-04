@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T11:56:58.902420+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2025-12-04T12:38:40.229113+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 31,
+      "match_count": 43,
       "titles": [
         {
           "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 12时38分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -54,8 +54,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 11时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 12时38分]"
+        },
+        {
+          "title": "日股发那科上涨12%，软银集团上涨9.4%，瑞萨电子上涨9.3%。",
+          "url": "https://flash.jin10.com/detail/20251204121337346800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "标普500指数初步收涨0.3%，能源板块涨1.8%，金融板块涨1.2%，可选消费板块涨0.8%，电信板块涨0.2%，科技板块跌0.4%。 纳斯达克100指数初步收涨0.2%，成分股中，微芯科技初步收涨12.7%，安森美半导体涨10.8%，迈威尔科技涨7.6%，Strategy涨4%，Meta则跌1.1%，美光、微软跌2.3%，再生元制药跌2.5%，PayPal跌2.7%，TTD跌3.2%，奈飞跌4.9%。 联合健康初步收涨4.9%，高盛涨2.6%，麦当劳、美国运通、安进至少涨2%，领跑道指成分股，英伟达则跌1%，波音跌1.5%，和微软表现最差。",
@@ -75,7 +86,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -86,18 +97,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "瑞银预计A股上涨行情将进一步延续",
-          "url": "https://wallstreetcn.com/livenews/3014887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -125,6 +125,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时40分 ~ 03时25分]"
+        },
+        {
+          "title": "星展银行：印度卢比仍有进一步下跌空间",
+          "url": "https://flash.jin10.com/detail/20251204120653562800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "日经225指数涨幅扩大至1.8%。 软银集团股价上涨9.4%，瑞萨电子股价上涨9.3%",
+          "url": "https://wallstreetcn.com/livenews/3014891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "瑞银预计A股上涨行情将进一步延续",
+          "url": "https://wallstreetcn.com/livenews/3014887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时38分]"
         },
         {
           "title": "嘉信理财CEO：客户在询问我们如何在市场上涨后保护他们的财富。我们的投资者在人工智能领域赚了不少钱。",
@@ -202,6 +236,18 @@
           "time_info": "[03时25分 ~ 04时34分]"
         },
         {
+          "title": "上证指数早盘收报3879.52点，涨0.04%。 深证成指早盘收报13000.88点，涨0.35%。 创业板指早盘收报3059.76点，涨0.76%。 沪深300早盘收报4543.93点，涨0.28%。 科创50早盘收报1320.44点，涨0.92%。 中证500早盘收报7021.22点，涨0.36%。 中证1000早盘收报7256.90点，涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3014871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时38分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌0.35%，报318.01点。 纽约证交所ARCA金矿开采商指数收跌0.47%，报2278.38点，美股开盘之前微幅上涨，随后快速走高至2321.09点——短时呈现出M形走势。",
           "url": "https://wallstreetcn.com/livenews/3014645",
           "source": "华尔街见闻-快讯",
@@ -238,6 +284,41 @@
           "time_info": "[06时29分 ~ 07时25分]"
         },
         {
+          "title": "隔夜SHIBOR报1.3020%，上涨0.10个基点。 7天SHIBOR报1.4240%，下降0.20个基点。 3个月SHIBOR报1.5800%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3014853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时38分]"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.1%，深成指涨0.54%，机器人、商业航天、福建、大金融等方向领涨，沪深京三市上涨个股超2000只。",
+          "url": "https://wallstreetcn.com/livenews/3014846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时38分]"
+        },
+        {
+          "title": "日本30年期国债收益率在强劲的拍卖结果后下跌，早盘曾创下3.445%的纪录高位，现报3.385%。",
+          "url": "https://flash.jin10.com/detail/20251204120145466800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "转向“震荡市思维”，债基基金经理策略生变",
           "url": "https://wallstreetcn.com/livenews/3014662",
           "source": "华尔街见闻-快讯",
@@ -247,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "澳新银行：对俄乌持续相互攻击能源基础设施的担忧，将使布伦特原油价格维持在每桶60美元以上。 随着2026年供应超过需求，将石油市场推向过剩，布伦特原油价格的进一步上涨空间将受到限制。 炼油厂开工率降低，再加上OPEC+产量增加，全球原油库存将会增加，这可能会使2026年上半年的油价保持在每桶65美元以下。 2026年下半年全球经济复苏可能会支撑油价，随后油价将朝着每桶70美元迈进。 预计今年年底油价将稳定在每桶62美元。",
+          "url": "https://wallstreetcn.com/livenews/3014888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，煤炭板块逆势活跃，高位人气股批量跌停",
@@ -260,15 +352,26 @@
           "time_info": "00时40分"
         },
         {
-          "title": "上证指数早盘收报3879.52点，涨0.04%。 深证成指早盘收报13000.88点，涨0.35%。 创业板指早盘收报3059.76点，涨0.76%。 沪深300早盘收报4543.93点，涨0.28%。 科创50早盘收报1320.44点，涨0.92%。 中证500早盘收报7021.22点，涨0.36%。 中证1000早盘收报7256.90点，涨0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3014871",
-          "source": "华尔街见闻-快讯",
+          "title": "澳新银行：我们预计对俄罗斯石油出口的任何冲击都将是相对短暂的。这应会限制油价的进一步上涨。",
+          "url": "https://flash.jin10.com/detail/20251204120109358800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "12时38分"
+        },
+        {
+          "title": "日经225指数延续涨势，最新上涨1.6%，报50680.03点。",
+          "url": "https://flash.jin10.com/detail/20251204120004116800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（12月3日），美国科技股七巨头（Magnificent 7）指数跌0.55%，报207.57点，全天绝大部分时间处于下跌状态，整体呈现出n形走势。 “超大”市值科技股指数涨0.09%，报402.08点。",
@@ -288,9 +391,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "澳新银行：到2026年，由于供应将超过需求，推动油市进入过剩状态，布伦特油价进一步上涨的空间将受限。",
+          "url": "https://flash.jin10.com/detail/20251204115519571800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "日本30年期国债收益率下跌3.5个基点，至3.385%。",
+          "url": "https://flash.jin10.com/detail/20251204115122439800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "美国联邦公报公布对韩国汽车及汽车零部件关税下调后，现代汽车股价上涨6%，至282,500韩元。",
@@ -299,18 +424,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "隔夜SHIBOR报1.3020%，上涨0.10个基点。 7天SHIBOR报1.4240%，下降0.20个基点。 3个月SHIBOR报1.5800%，上涨0.00个基点。",
-          "url": "https://wallstreetcn.com/livenews/3014853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -337,26 +451,37 @@
           "time_info": "10时10分"
         },
         {
-          "title": "创业板指涨超1%，沪指涨0.1%，深成指涨0.54%，机器人、商业航天、福建、大金融等方向领涨，沪深京三市上涨个股超2000只。",
-          "url": "https://wallstreetcn.com/livenews/3014846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
           "title": "11月26日猪粮比价为5.3，较11月19日下跌1.3%",
           "url": "https://flash.jin10.com/detail/20251204104424307800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "国债拍卖后，美元兑日元USD/JPY日内上涨0.2%，报155.53。",
+          "url": "https://flash.jin10.com/detail/20251204114116128800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "印度卢比兑美元盘初续刷历史新低，报90.41，日内下跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20251204113559831800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "英伟达涨0.5%，此前一度下跌1.3%。",
@@ -368,12 +493,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "金十图示：2025年12月04日（周四）富时中国A50指数成分股午盘收盘行情一览：半导体、石油板块较昨日反弹，酿酒行业领跌",
+          "url": "https://flash.jin10.com/detail/20251204113236691800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
@@ -381,11 +517,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时25分 ~ 11时56分]"
+          "appearance_count": 7,
+          "time_info": "[05时25分 ~ 12时38分]"
         },
         {
           "title": "期货热点追踪",
@@ -496,6 +633,17 @@
           "time_info": "[06时29分 ~ 07时25分]"
         },
         {
+          "title": "金十期货图示",
+          "url": "https://flash.jin10.com/detail/20251204120131603800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251204093108552800",
           "source": "金十数据",
@@ -546,7 +694,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -579,7 +727,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -601,9 +749,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "公司组织架构频繁调整的原因是什么？",
+          "url": "https://www.zhihu.com/question/539347293",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "NYMEX天然气期货涨至5美元，为2022年以来首次，日内当前涨超3%。",
@@ -617,6 +776,28 @@
           "time_info": "00时40分"
         },
         {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251204113135646800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251204113133188800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "超20个地市已暂停或调整汽车国补",
           "url": "https://www.toutiao.com/trending/7579605107428298303/",
           "source": "今日头条",
@@ -626,6 +807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌不一。沪锡、国际铜涨超3%，沪铜涨超2%，纸浆、硅铁涨超1%。跌幅方面，合成橡胶、碳酸锂、苹果、烧碱跌超2%，橡胶、玻璃、氧化铝跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251204113030985800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "美国天然气期货价格自2022年以来首次触及5美元高位。",
@@ -642,7 +834,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "【数据看盘】北向资金、实力游资联手抢筹通宇通讯 航天发展龙虎榜现多路资金博弈",
@@ -694,8 +886,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 12时38分]"
+        },
+        {
+          "title": "10万亿产业规模！朱雀三号背后中国商业航天的星辰大海",
+          "url": "https://wallstreetcn.com/articles/3760647",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时29分 ~ 12时38分]"
         },
         {
           "title": "潘功胜：构建科学稳健的货币政策体系",
@@ -726,22 +931,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
         {
-          "title": "10万亿产业规模！朱雀三号背后中国商业航天的星辰大海",
-          "url": "https://wallstreetcn.com/articles/3760647",
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时29分 ~ 11时56分]"
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时38分]"
         },
         {
           "title": "104.66元/股！沐曦股份发行价出炉 国家人工智能产业投资基金参与战略配售",
@@ -753,6 +957,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "上海松江卫星互联网产业集聚区揭牌",
+          "url": "https://wallstreetcn.com/livenews/3014843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时38分]"
         },
         {
           "title": "法外长重申：坚定奉行一个中国政策",
@@ -772,7 +988,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -799,15 +1015,15 @@
           "time_info": "04时34分"
         },
         {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
+          "title": "首个省级个人消费贷贴息政策落地，四川拔得头筹，成都银行官宣加入贴息机构",
+          "url": "https://www.cls.cn/detail/2219230",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "12时38分"
         },
         {
           "title": "锚定新兴产业，多地谋划“十五五”发展路线图",
@@ -821,15 +1037,15 @@
           "time_info": "07时25分"
         },
         {
-          "title": "上海松江卫星互联网产业集聚区揭牌",
-          "url": "https://wallstreetcn.com/livenews/3014843",
-          "source": "华尔街见闻-快讯",
+          "title": "检察日报评制售“幼态娃娃”：绝不容忍儿童色情产业在暗处蔓延",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32101516",
+          "source": "澎湃新闻",
           "ranks": [
-            22
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "12时38分"
         },
         {
           "title": "日本央行行长植田和男：目前只能估计一个区间较宽的中性利率范畴。 无法具体说明终点利率将在什么水平。 当前的货币政策依旧宽松。 经济方案将对实体经济产生积极影响。 无法说明经济方案将在多大程度上提振物价趋势，该方案对通胀的影响可能是双向的。 物价纾困措施将对整体通胀构成压力。",
@@ -838,7 +1054,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         }
@@ -1031,8 +1247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 11时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 12时38分]"
         },
         {
           "title": "人民币升值 创近一年新高",
@@ -1108,7 +1324,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -1129,17 +1345,18 @@
           "url": "https://www.cls.cn/detail/2219026",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时38分]"
         }
       ]
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加135.4吨，当前持仓量为15998.55吨。欢迎点击查看数据中心……",
@@ -1151,6 +1368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加135.4吨，当前持仓量为15998.55吨。",
+          "url": "https://flash.jin10.com/detail/20251204115114318800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
