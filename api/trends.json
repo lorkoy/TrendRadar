@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T18:32:05.834344+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2025-12-05T19:27:01.174324+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -24,6 +24,19 @@
           "time_info": "[00时40分 ~ 06时27分]"
         },
         {
+          "title": "金融监管总局：调整保险公司投资相关股票的风险因子 培育壮大耐心资本",
+          "url": "https://www.cls.cn/detail/2220884",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 19时27分]"
+        },
+        {
           "title": "电动车新国标因通勤慢、接娃难被吐槽，民众究竟需要怎样的电动车？确保安全的前提下，如何调整会更好？",
           "url": "https://www.zhihu.com/question/1979821275674272739",
           "source": "知乎",
@@ -34,19 +47,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 06时27分]"
-        },
-        {
-          "title": "金融监管总局：调整保险公司投资相关股票的风险因子 培育壮大耐心资本",
-          "url": "https://www.cls.cn/detail/2220884",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时32分]"
         },
         {
           "title": "上期所原油期货2501合约夜盘收涨1.15%，报456.50元人民币/桶。 沪金夜盘收涨0.09%，沪银收跌1.91%。",
@@ -72,6 +72,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 19时27分]"
         },
         {
           "title": "国债期货午盘收盘",
@@ -125,11 +138,12 @@
           "source": "金十数据",
           "ranks": [
             26,
-            1
+            1,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 19时27分]"
         },
         {
           "title": "美联储：相关调整可能包括投资基础设施，以维持并可能提升支票服务，但此举将带来更高的运营成本。",
@@ -178,18 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时28分]"
-        },
-        {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时32分]"
         },
         {
           "title": "WTI原油日内涨幅超过1.5%，报报60.01美元/桶；日线图上，美国原油期货自10月2日以来持续交投于60美元整数位心理关口附近。 布伦特原油日内涨幅达1.0%，报63.32美元/桶。",
@@ -423,6 +425,17 @@
           "time_info": "12时37分"
         },
         {
+          "title": "上海国际能源交易中心：经研究决定，自2025年12月9日（星期二）收盘结算时起，交易保证金比例和涨跌停板幅度调整如下：原油、低硫燃料油期货合约的涨跌停板幅度调整为7%，套保持仓交易保证金比例调整为8%，一般持仓交易保证金比例调整为9%。",
+          "url": "https://flash.jin10.com/detail/20251205191305649800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.15%，10年期主力合约涨0.07%，5年期主力合约涨0.00%，2年期主力合约与昨日持平。",
           "url": "https://wallstreetcn.com/livenews/3015474",
           "source": "华尔街见闻-快讯",
@@ -454,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "上期所：调整燃料油等期货交易保证金比例和涨跌停板幅度",
+          "url": "https://flash.jin10.com/detail/20251205191111464800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "美国CFTC：现货加密货币现可在CFTC注册交易平台进行交易",
@@ -520,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251205190924013800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "国际现货铂金、钯金午盘报价",
@@ -616,7 +651,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -686,8 +721,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时55分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[11时55分 ~ 19时27分]"
         },
         {
           "title": "日本30年期国债收益率下跌3个基点，至3.360%。",
@@ -769,6 +804,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 12时37分]"
+        },
+        {
+          "title": "日本大米价格持续上涨 再次刷新纪录",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E7%B1%B3%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%86%8D%E6%AC%A1%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 19时27分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，创11月26日（当天收涨1.4%）以来最佳单日表现，报356.30点。 在十个板块中，北欧工业板块涨幅最大。 Wartsila Oyj Abp涨4.3%，在一众北欧个股里领跑。",
@@ -891,17 +938,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 12时37分]"
-        },
-        {
-          "title": "日本大米价格持续上涨 再次刷新纪录",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E7%B1%B3%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%86%8D%E6%AC%A1%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "日经225指数延续跌势，最新下跌1.5%，报50,260.46点。",
@@ -1264,11 +1300,12 @@
           "url": "https://wallstreetcn.com/livenews/3015865",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时27分]"
         },
         {
           "title": "富达国际：看好新兴市场资产明年走势 称大规模资金尚未进场",
@@ -1283,6 +1320,18 @@
           "time_info": "[00时40分 ~ 01时31分]"
         },
         {
+          "title": "【数据看盘】多路资金激烈博弈航天发展 3.28亿元资金抢筹航天科技",
+          "url": "https://www.cls.cn/detail/2221163",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 19时27分]"
+        },
+        {
           "title": "拳头将在 S16 赛季新增「分路任务」并移除换线检测惩罚，你觉得新政策能根治职业赛场的换线战术吗？",
           "url": "https://www.zhihu.com/question/1979208840592453744",
           "source": "知乎",
@@ -1292,17 +1341,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时55分 ~ 12时37分]"
-        },
-        {
-          "title": "【数据看盘】多路资金激烈博弈航天发展 3.28亿元资金抢筹航天科技",
-          "url": "https://www.cls.cn/detail/2221163",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "主力资金流向前十大个股",
@@ -1490,7 +1528,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1838,8 +1876,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 18时32分]"
+          "appearance_count": 13,
+          "time_info": "[10时10分 ~ 19时27分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
