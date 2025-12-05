@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-06T05:26:46.717008+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2025-12-06T06:28:11.326228+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "标普500指数的11个板块多数收跌，公用事业板块跌0.98%，能源板块跌0.43%，原材料板块跌0.39%，可选消费板块则收涨0.44%，信息技术/科技板块涨0.45%，电信板块涨0.95%。",
-          "url": "https://wallstreetcn.com/livenews/3016136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
         {
           "title": "11月全国多地二手房成交量上涨：刚需与高端置业需求同步升温，市场有望“量价趋稳”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32103944",
@@ -29,8 +18,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时28分]"
         },
         {
           "title": "出必买,抗日题材国单公开预告",
@@ -40,8 +29,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 06时28分]"
+        },
+        {
+          "title": "标普500指数的11个板块多数收跌，公用事业板块跌0.98%，能源板块跌0.43%，原材料板块跌0.39%，可选消费板块则收涨0.44%，信息技术/科技板块涨0.45%，电信板块涨0.95%。",
+          "url": "https://wallstreetcn.com/livenews/3016136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时28分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月5日（周五）晚盘收盘上涨0.2%报954.99元/克；<br/>上海黄金交易所白银T+D 12月5日（周五）晚盘收盘上涨1.91%报13756.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251206023100086800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时24分 ~ 06时28分]"
         },
         {
           "title": "希腊雅典证交所综合指数收涨0.67%，报2104.74点，本周累计上涨1.04%。",
@@ -56,18 +69,6 @@
           "time_info": "[00时36分 ~ 01时27分]"
         },
         {
-          "title": "上海黄金交易所黄金T+D 12月5日（周五）晚盘收盘上涨0.2%报954.99元/克；<br/>上海黄金交易所白银T+D 12月5日（周五）晚盘收盘上涨1.91%报13756.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251206023100086800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 05时26分]"
-        },
-        {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌6.62%，暂报4066.13点，整体持续走低，北京时间00:00开始加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3016066",
           "source": "华尔街见闻-快讯",
@@ -79,6 +80,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时27分 ~ 03时24分]"
+        },
+        {
+          "title": "巴西雷亚尔兑美元汇率下跌近3%，报约5.47；当地基准股指暴跌逾4%。",
+          "url": "https://flash.jin10.com/detail/20251206031808939800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时32分 ~ 06时28分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.5%，报358.24点，创11月13日以来收盘新高，本周累计上涨超过0.66%。 在十个板块中，北欧工业板块涨幅最大。 Neste Oyj涨5.4%，在一众北欧个股里领跑。",
@@ -105,15 +117,28 @@
           "time_info": "[01时27分 ~ 02时38分]"
         },
         {
-          "title": "巴西雷亚尔兑美元汇率下跌近3%，报约5.47；当地基准股指暴跌逾4%。",
-          "url": "https://flash.jin10.com/detail/20251206031808939800",
-          "source": "金十数据",
+          "title": "周五（12月5日），降息赢家指数跌0.67%，报98.81点，美国PCE通胀数据发布后持续下挫，本周累计下跌1.10%，整体呈现出M形走势。 “特朗普关税输家”指数涨0.77%，报110.15点，本周累涨1.90%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.41%，报16.99点，本周大致持平。",
+          "url": "https://wallstreetcn.com/livenews/3016126",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时26分]"
+          "time_info": "[05时26分 ~ 06时28分]"
+        },
+        {
+          "title": "周五（12月5日），彭博电动汽车价格回报指数涨1.00%，报3426.04点，本周累计上涨0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3016124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时28分]"
         },
         {
           "title": "德国DAX 30指数初步收涨0.77%，报24062.60点，本周累计上涨大约1%。 法国股指初步收跌0.05%，意大利股指初步收跌0.04%、银行指数跌0.34%，英国股指初步收跌0.36%。",
@@ -128,37 +153,26 @@
           "time_info": "[01时27分 ~ 02时38分]"
         },
         {
-          "title": "周五（12月5日），降息赢家指数跌0.67%，报98.81点，美国PCE通胀数据发布后持续下挫，本周累计下跌1.10%，整体呈现出M形走势。 “特朗普关税输家”指数涨0.77%，报110.15点，本周累涨1.90%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.41%，报16.99点，本周大致持平。",
-          "url": "https://wallstreetcn.com/livenews/3016126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "周五（12月5日），彭博电动汽车价格回报指数涨1.00%，报3426.04点，本周累计上涨0.24%。",
-          "url": "https://wallstreetcn.com/livenews/3016124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
           "title": "本周，标普累涨约0.3%，道指累涨约0.4%，纳指累涨约0.6%。 周五发布PCE通胀数据当天，标普500指数初步收涨0.1%，公用事业、保健、原材料、能源等板块至多跌0.9%，科技、可选消费、电信板块至多涨0.8%。 纳斯达克100指数初步收涨0.3%，成分股中，华纳兄弟探索初步收涨6.3%，Adobe涨5.2%，美光科技、格芯至多涨约4.7%，核电股CEG则跌超2%，奈飞跌3.1%，安进跌3.1%，MercadoLibre跌3.5%，Strategy跌3.7%。 Salesforce初步收涨5.3%，领跑道指成分股，高盛、VZ、V至少涨约1%，联合健康、Merck、宝洁、雪佛龙则收跌超1%，安进表现最差。",
           "url": "https://wallstreetcn.com/livenews/3016122",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌0.26%，报318.46点，本周累计下跌1.89%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.02%，报2284.96点，美股开盘之前持续微幅上涨，随后出现尖锐的冲高回落行情——北京时间23:00披露美国PCE通胀数据之后刷新日高，本周累计下跌1.41%。",
+          "url": "https://wallstreetcn.com/livenews/3016140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.05%，报579.11点，本周累计上涨大约0.5%。 欧元区STOXX 50指数初步收涨0.20%，报5729.54点，本周累涨约1.1%。 富时泛欧绩优300指数初步收涨0.03%，报2307.86点。",
@@ -178,7 +192,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -208,7 +222,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -216,11 +230,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时28分]"
         },
         {
           "title": "现货黄金短线下挫27美元，现报4219美元/盎司；现货白银短线下挫近0.8美元，现报58.43美元/盎司。",
@@ -247,6 +262,17 @@
           "time_info": "[04时32分 ~ 05时26分]"
         },
         {
+          "title": "恒指期货夜盘收跌0.1%，报26121点，高水36点。",
+          "url": "https://flash.jin10.com/detail/20251206031133447800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时32分 ~ 06时28分]"
+        },
+        {
           "title": "现货白银涨穿59美元，刷新历史高位至59.0697美元，当前涨幅3.4%。 纽约黄金日内涨幅达1.0%，报4285.5美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3016040",
           "source": "华尔街见闻-快讯",
@@ -271,17 +297,6 @@
           "time_info": "[03时24分 ~ 04时32分]"
         },
         {
-          "title": "恒指期货夜盘收跌0.1%，报26121点，高水36点。",
-          "url": "https://flash.jin10.com/detail/20251206031133447800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时26分]"
-        },
-        {
           "title": "现货黄金日内转跌，最低至4202美元/盎司，较高位回落超50美元。",
           "url": "https://flash.jin10.com/detail/20251206001819902800",
           "source": "金十数据",
@@ -294,6 +309,17 @@
           "time_info": "[01时27分 ~ 02时38分]"
         },
         {
+          "title": "周五（12月5日）纽约尾盘，标普500股指期货最终涨0.20%，道指期货涨0.22%，纳斯达克100股指期货涨0.45%。 罗素2000股指期货跌0.35%。",
+          "url": "https://wallstreetcn.com/livenews/3016147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
           "title": "现货白银向上触及59美元",
           "url": "https://flash.jin10.com/detail/20251205233753529800",
           "source": "金十数据",
@@ -303,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "现货金价在美国PCE数据发布后短暂扩大涨幅，本周跌1%",
+          "url": "https://wallstreetcn.com/livenews/3016139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "现货白银脱离历史最高位59.3336美元/盎司，回落至58美元下方，涨幅收窄至大约2%。 现货黄金脱离盘中最高位4259.34美元，转跌并一度失守4200美元。",
@@ -333,7 +370,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -344,7 +381,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -370,22 +407,12 @@
           "url": "https://wallstreetcn.com/livenews/3016134",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美股行业ETF涨跌各异",
-          "url": "https://wallstreetcn.com/livenews/3016133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时28分]"
         },
         {
           "title": "瑞银(UBS.N)美股跳涨2.8%，因波动性较大暂停交易。",
@@ -398,6 +425,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时27分]"
+        },
+        {
+          "title": "美股行业ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3016133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时28分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜Meta收涨1.8%，英伟达与苹果则至多跌约0.7%",
+          "url": "https://wallstreetcn.com/livenews/3016127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时28分]"
         },
         {
           "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股盘中）",
@@ -434,17 +485,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时32分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜Meta收涨1.8%，英伟达与苹果则至多跌约0.7%",
-          "url": "https://wallstreetcn.com/livenews/3016127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
         }
       ]
     },
@@ -461,8 +501,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时28分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -473,8 +513,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[03时24分 ~ 06时28分]"
         },
         {
           "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
@@ -495,7 +535,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         }
@@ -514,8 +554,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时28分]"
+        },
+        {
+          "title": "险资风险因子定向调低10%，千亿资金入市可期，机构解读四大关注点",
+          "url": "https://www.cls.cn/detail/2221349",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 06时28分]"
         },
         {
           "title": "消息人士称，卢拉政府与巴西参议院关系紧张，加之立法日程安排紧凑，导致在1月会议召开前填补央行席位的空间极为有限。巴西央行1月份的货币政策决议很可能在利率制定委员会9个席位中仅有7个席位已满的情况下作出。",
@@ -528,17 +580,65 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时38分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "险资风险因子定向调低10%，千亿资金入市可期，机构解读四大关注点",
-          "url": "https://www.cls.cn/detail/2221349",
-          "source": "财联社热门",
+          "title": "美国参议院共和党成员Marshall（附和总统特朗普政府的立场）：奈飞收购华纳兄弟探索的交易“严肃的红旗”。",
+          "url": "https://wallstreetcn.com/livenews/3016152",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "06时28分"
+        },
+        {
+          "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
+          "url": "https://wallstreetcn.com/livenews/3016099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周五（12月5日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报7.0692元，较周四纽约尾盘涨24点，日内整体交投于7.0720-7.0630元区间。",
+          "url": "https://wallstreetcn.com/livenews/3016150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0720元，较周四夜盘收盘跌10点。成交量292.63亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3016102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时26分]"
         }
       ]
     },
@@ -565,46 +665,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
-          "url": "https://wallstreetcn.com/livenews/3016099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0720元，较周四夜盘收盘跌10点。成交量292.63亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3016102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 05时26分]"
         }
       ]
     }
