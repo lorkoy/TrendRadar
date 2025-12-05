@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T02:38:32.744436+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2025-12-06T03:24:35.811908+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "希腊雅典证交所综合指数收涨0.67%，报2104.74点，本周累计上涨1.04%。",
@@ -29,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时24分]"
         },
         {
           "title": "出必买,抗日题材国单公开预告",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时24分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌6.62%，暂报4066.13点，整体持续走低，北京时间00:00开始加速下跌。",
@@ -49,11 +49,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时24分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.5%，报358.24点，创11月13日以来收盘新高，本周累计上涨超过0.66%。 在十个板块中，北欧工业板块涨幅最大。 Neste Oyj涨5.4%，在一众北欧个股里领跑。",
@@ -92,6 +93,17 @@
           "time_info": "[01时27分 ~ 02时38分]"
         },
         {
+          "title": "上海黄金交易所黄金T+D 12月5日（周五）晚盘收盘上涨0.2%报954.99元/克；<br/>上海黄金交易所白银T+D 12月5日（周五）晚盘收盘上涨1.91%报13756.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251206023100086800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨0.05%，报579.11点，本周累计上涨大约0.5%。 欧元区STOXX 50指数初步收涨0.20%，报5729.54点，本周累涨约1.1%。 富时泛欧绩优300指数初步收涨0.03%，报2307.86点。",
           "url": "https://wallstreetcn.com/livenews/3016056",
           "source": "华尔街见闻-快讯",
@@ -128,8 +140,19 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时24分]"
+        },
         {
           "title": "现货黄金短线下挫27美元，现报4219美元/盎司；现货白银短线下挫近0.8美元，现报58.43美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251206001140716800",
@@ -141,17 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时27分]"
-        },
-        {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时38分]"
         },
         {
           "title": "现货白银涨穿59美元，刷新历史高位至59.0697美元，当前涨幅3.4%。 纽约黄金日内涨幅达1.0%，报4285.5美元/盎司。",
@@ -176,6 +188,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时38分]"
+        },
+        {
+          "title": "上期所原油期货2501合约夜盘收涨0.82%，报457.10元人民币/桶。 沪金夜盘收涨0.15%，沪银收涨2.67%。",
+          "url": "https://wallstreetcn.com/livenews/3016093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "现货白银向上触及59美元",
@@ -225,7 +248,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "瑞银(UBS.N)美股跳涨2.8%，因波动性较大暂停交易。",
@@ -244,22 +267,76 @@
           "url": "https://flash.jin10.com/detail/20251206013133471800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时24分]"
         },
         {
           "title": "金十图示：2025年12月05日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251206013131784800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时24分]"
+        },
+        {
+          "title": "美股开盘：百度涨超4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时38分"
+          "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时24分]"
+        },
+        {
+          "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
+          "url": "https://wallstreetcn.com/articles/3760797",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时38分]"
+        },
+        {
+          "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
+          "url": "https://wallstreetcn.com/articles/3760797",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -275,8 +352,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时24分]"
         },
         {
           "title": "消息人士称，卢拉政府与巴西参议院关系紧张，加之立法日程安排紧凑，导致在1月会议召开前填补央行席位的空间极为有限。巴西央行1月份的货币政策决议很可能在利率制定委员会9个席位中仅有7个席位已满的情况下作出。",
@@ -293,32 +370,36 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
-          "url": "https://wallstreetcn.com/articles/3760711",
-          "source": "华尔街见闻",
+          "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
+          "url": "https://wallstreetcn.com/livenews/3016099",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时38分]"
-        },
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0720元，较周四夜盘收盘跌10点。成交量292.63亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3016102",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
