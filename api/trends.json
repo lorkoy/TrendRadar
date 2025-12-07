@@ -1,8 +1,59 @@
 {
-  "generated_at": "2025-12-07T07:26:22.073064+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-12-07T10:25:13.549119+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 10时25分]"
+        },
+        {
+          "title": "【早报】险资入市再获松绑！股市望迎千亿资金；事关市值管理、现金分红等，证监会征求意见",
+          "url": "https://www.cls.cn/detail/2221638",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 10时25分]"
+        },
+        {
+          "title": "土耳其外交部长：以色列在叙利亚的“破坏稳定政策”是阻碍实现团结努力的主要问题。",
+          "url": "https://flash.jin10.com/detail/20251206201407907800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时26分]"
+        },
+        {
+          "title": "白银再创新高，强劲的ETF资金流入支撑涨势",
+          "url": "https://wallstreetcn.com/articles/3760834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
+        }
+      ]
+    },
     {
       "keyword_group": "调整 期货 现货",
       "match_count": 3,
@@ -44,42 +95,43 @@
       ]
     },
     {
-      "keyword_group": "资金 政策 产业",
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
       "match_count": 3,
       "titles": [
         {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
+          "title": "中金缪延亮：牛市底层可能是国际货币秩序的史诗级重构",
+          "url": "https://wallstreetcn.com/articles/3760838",
+          "source": "华尔街见闻",
           "ranks": [
             2,
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
-          "title": "【早报】险资入市再获松绑！股市望迎千亿资金；事关市值管理、现金分红等，证监会征求意见",
-          "url": "https://www.cls.cn/detail/2221638",
-          "source": "财联社热门",
+          "title": "出必买,抗日题材国单公开预告",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347754&amp;topic_name=%E5%87%BA%E5%BF%85%E4%B9%B0%2C%E6%8A%97%E6%97%A5%E9%A2%98%E6%9D%90%E5%9B%BD%E5%8D%95%E5%85%AC%E5%BC%80%E9%A2%84%E5%91%8A",
+          "source": "贴吧",
           "ranks": [
-            5
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
-          "title": "土耳其外交部长：以色列在叙利亚的“破坏稳定政策”是阻碍实现团结努力的主要问题。",
-          "url": "https://flash.jin10.com/detail/20251206201407907800",
-          "source": "金十数据",
+          "title": "如何评价国产抗日题材 FPS 游戏《烽火十四》发布首支先导预告片？",
+          "url": "https://www.zhihu.com/question/1980307100778325712",
+          "source": "知乎",
           "ranks": [
-            20
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时26分]"
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
         }
       ]
     },
@@ -104,11 +156,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -117,39 +170,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中金缪延亮：牛市底层可能是国际货币秩序的史诗级重构",
-          "url": "https://wallstreetcn.com/articles/3760838",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时26分]"
-        },
-        {
-          "title": "出必买,抗日题材国单公开预告",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347754&amp;topic_name=%E5%87%BA%E5%BF%85%E4%B9%B0%2C%E6%8A%97%E6%97%A5%E9%A2%98%E6%9D%90%E5%9B%BD%E5%8D%95%E5%85%AC%E5%BC%80%E9%A2%84%E5%91%8A",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时26分]"
         }
       ]
     },
