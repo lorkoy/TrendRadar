@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T05:26:54.273822+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2025-12-10T06:27:59.356703+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时27分]"
         },
         {
           "title": "现货铂金上涨3%，至每盎司1692.10美元",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "周二（12月9日）纽约尾盘，标普500股指期货最终跌0.11%，道指期货跌0.43%，纳斯达克100股指期货涨0.06%。 罗素2000股指期货涨0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3017907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "沪银收涨3.55%，报14116元人民币/千克。 沪金夜盘收涨0.20%。 上期所原油期货2501合约夜盘收跌1.31%，报443.40元人民币/桶。",
@@ -102,6 +113,18 @@
           "time_info": "[04时29分 ~ 05时26分]"
         },
         {
+          "title": "提醒：美国商品期货交易委员会（CFTC）补充发布11月4日当周的（投机者）持仓报告。 其中，WTI原油净多头头寸增加18,061手合约。 COMEX铜（净多头头寸）减少4,156手合约。 CBOT大豆净多头头寸增加60,194手合约。",
+          "url": "https://wallstreetcn.com/livenews/3017879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时27分]"
+        },
+        {
           "title": "新西兰联储行长布雷曼：密切关注未来现金利率路径至关重要，但同时也需强调，若情况发生变化，我们将适时调整。",
           "url": "https://flash.jin10.com/detail/20251210033916640800",
           "source": "金十数据",
@@ -122,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "周二（12月9日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.12%，报92915美元。 CME以太币期货DCR主力合约涨5.97%，报3330.50美元。 美股加密货币与加密货币关联指数涨3.59%，报72.92点，美股开盘后至北京时间01:00持续走高，之后高位震荡。 最近24小时，MarketVector数字资产100小盘指数涨1.28%，暂报4209.80点。",
+          "url": "https://wallstreetcn.com/livenews/3017904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "沪银期货主力合约涨幅逼近4%，现涨至14130元/千克，续创历史新高。",
@@ -179,15 +213,15 @@
           "time_info": "04时29分"
         },
         {
-          "title": "提醒：美国商品期货交易委员会（CFTC）补充发布11月4日当周的（投机者）持仓报告。 其中，WTI原油净多头头寸增加18,061手合约。 COMEX铜（净多头头寸）减少4,156手合约。 CBOT大豆净多头头寸增加60,194手合约。",
-          "url": "https://wallstreetcn.com/livenews/3017879",
+          "title": "周二（12月9日）纽约尾盘，现货黄金涨0.44%，报4208.92美元/盎司，日内交投区间为4170.29-4221.39美元。 COMEX黄金期货涨0.47%，报4237.40美元/盎司，也曾在美国职位空缺数据发布后刷新日高至4251.70美元。",
+          "url": "https://wallstreetcn.com/livenews/3017899",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "06时27分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：根据修订后的时间表，CFTC将于12月29日前消除报告积压。",
@@ -196,7 +230,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -207,7 +241,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -218,7 +252,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -229,7 +263,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -251,7 +285,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -292,7 +326,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "摩根大通股价下跌3%，该公司高管在高盛活动上讲话。",
@@ -323,18 +357,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "周二（12月9日），彭博电动汽车价格回报指数跌0.76%，报3438.75点，亚太早盘持续下跌，后续低位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3017888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -375,6 +398,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时21分]"
+        },
+        {
+          "title": "周二（12月9日），彭博电动汽车价格回报指数跌0.76%，报3438.75点，亚太早盘持续下跌，后续低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3017888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时27分]"
         },
         {
           "title": "德债收益率下跌",
@@ -468,7 +503,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -479,7 +514,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -495,21 +530,54 @@
           "time_info": "02时44分"
         },
         {
+          "title": "（美股）费城金银指数收涨3.54%，报322.02点，美股早盘持续走高，北京时间00:00过后持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.55%，报2292.39点，22:30美股开盘之前维持微跌状态、持续交投于2230点附近，之后持续走高，也在00:00之后持续高位横盘震荡。",
+          "url": "https://wallstreetcn.com/livenews/3017901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
           "title": "花旗集团CFO Mason等高管预计，四季度市场收入同比增幅可能处于0%-10%区间的低端。 四季度IB费用同比增幅可能处于20%-30%区间的中部。 运营效率可能会超过63.5%。 美联储将在明天（12月10日）降息。 （美国）经济继续保持韧性，消费者开支保持稳健和韧性。 花旗股价下跌，刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3017873",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美元指数9日上涨",
+          "url": "https://flash.jin10.com/detail/20251210051531645800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "国际油价9日下跌",
+          "url": "https://flash.jin10.com/detail/20251210051354391800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -521,8 +589,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时27分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -531,7 +599,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -540,11 +608,12 @@
           "url": "https://wallstreetcn.com/livenews/3017891",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时27分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团数据中心的服务商CyrusOne在（美股）市场开盘之前12个小时（美国中部时间04:19）开始出现故障。 CME数据中心时间线包括秘密递交报告。",
@@ -565,7 +634,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -579,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
+          "url": "https://wallstreetcn.com/livenews/3017889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "金十图示：2025年12月09日（周二）美股热门股票行情一览（美股盘中）",
@@ -606,7 +686,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国货币监理署主管：监管机构正在调查各大银行与“去银行化”相关的政策。",
@@ -615,7 +695,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -641,6 +721,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 00时38分]"
+        },
+        {
+          "title": "新西兰联储主席：不预设政策路径，通胀前景将指引决策",
+          "url": "https://flash.jin10.com/detail/20251210054624394800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "新西兰联储主席布雷曼：重要的是，我们要在下次货币政策会议之前关注所有即将发布的数据。",
@@ -728,36 +819,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
-          "url": "https://wallstreetcn.com/articles/3760903",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 05时26分]"
-        },
-        {
-          "title": "美债价格在美国职位空缺数据发布后显著下挫",
-          "url": "https://wallstreetcn.com/livenews/3017876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0633元，较周一夜盘收盘涨97点。成交量287.58亿美元。",
@@ -770,6 +833,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时26分]"
+        },
+        {
+          "title": "周二（12月9日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报7.0610元，较周一纽约尾盘涨107点，日内整体交投于7.0721-7.0600元区间。",
+          "url": "https://wallstreetcn.com/livenews/3017906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时27分]"
+        },
+        {
+          "title": "美债价格在美国职位空缺数据发布后显著下挫",
+          "url": "https://wallstreetcn.com/livenews/3017876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时27分]"
         }
       ]
     },
