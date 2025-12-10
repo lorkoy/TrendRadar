@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T16:39:54.855974+08:00",
-  "total_titles_processed": 1502,
+  "generated_at": "2025-12-10T17:34:38.481795+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时37分 ~ 16时39分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 17时34分]"
         },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -58,6 +58,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时42分 ~ 16时39分]"
+        },
+        {
+          "title": "上期所上调白银期货相关合约交易保证金比例和涨跌停板幅度",
+          "url": "https://flash.jin10.com/detail/20251210170746371800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251210170629041800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "现货铂金上涨3%，至每盎司1692.10美元",
@@ -305,6 +327,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "意大利10月调整后工业产出年率 -0.3%，预期0.2%，前值由1.50%修正为1.4%。",
+          "url": "https://flash.jin10.com/detail/20251210170044483800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "周二（12月9日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.12%，报92915美元。 CME以太币期货DCR主力合约涨5.97%，报3330.50美元。 美股加密货币与加密货币关联指数涨3.59%，报72.92点，美股开盘后至北京时间01:00持续走高，之后高位震荡。 最近24小时，MarketVector数字资产100小盘指数涨1.28%，暂报4209.80点。",
           "url": "https://wallstreetcn.com/livenews/3017904",
           "source": "华尔街见闻-快讯",
@@ -325,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "上期所：调整白银期货相关合约交易保证金比例和涨跌停板幅度",
+          "url": "https://wallstreetcn.com/livenews/3018356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "现货白银日内大涨4.00%，最新报60.48美元/盎司。",
@@ -514,6 +558,17 @@
           "time_info": "15时31分"
         },
         {
+          "title": "意大利10月工作日调整后工业产出同比 -0.3%，预期 0.3%，前值 1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3018344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "美国商品期货交易委员会：截至11月4日当周，COMEX白银投机者将净多头仓位削减3,119手，降至19,577手。COMEX黄金投机者将净多头仓位削减4,079手，降至101,556手。COMEX铜期货投机者净多头持仓减少4,155手，降至62,397手。",
           "url": "https://flash.jin10.com/detail/20251210043147408800",
           "source": "金十数据",
@@ -575,7 +630,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -693,7 +748,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "11月CPI同比上涨0.7%，为2024年3月份以来最高，PPI环比上涨0.1%",
@@ -703,11 +758,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 16时39分]"
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 17时34分]"
         },
         {
           "title": "摩根大通股价下跌3%，该公司高管在高盛活动上讲话。",
@@ -719,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "游戏驿站(GME.N)盘前下跌6.3%，因第三季度营收未达预期。",
+          "url": "https://flash.jin10.com/detail/20251210170302117800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "比特币公司Twenty One Capital Inc.（XXI）美国上市首日盘初下跌24%，该公司此前“借壳上市”——与特殊目的收购公司（SPAC）Cantor Equity Partners Inc.合并。 比特币目前涨2.3%，以太坊涨3.7%，Solana涨3.1%，狗狗币涨2.1%，XRP涨1.4%。",
@@ -852,6 +919,19 @@
           "time_info": "[00时37分 ~ 16时39分]"
         },
         {
+          "title": "中国11月CPI同比上涨0.7%，创2024年3月来最高，PPI同比降幅略有扩大",
+          "url": "https://wallstreetcn.com/articles/3761060",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 17时34分]"
+        },
+        {
           "title": "德债收益率下跌",
           "url": "https://wallstreetcn.com/livenews/3017829",
           "source": "华尔街见闻-快讯",
@@ -949,18 +1029,6 @@
           "time_info": "[03时21分 ~ 04时29分]"
         },
         {
-          "title": "中国11月CPI同比上涨0.7%，创2024年3月来最高，PPI同比降幅略有扩大",
-          "url": "https://wallstreetcn.com/articles/3761060",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 16时39分]"
-        },
-        {
           "title": "隔夜SHIBOR报1.2980%，下降0.50个基点。 7天SHIBOR报1.4390%，上涨0.80个基点。 3个月SHIBOR报1.5820%，上涨0.10个基点。",
           "url": "https://wallstreetcn.com/livenews/3018118",
           "source": "华尔街见闻-快讯",
@@ -1009,6 +1077,17 @@
           "time_info": "[02时02分 ~ 02时44分]"
         },
         {
+          "title": "据国家统计局，11 月 CPI 同比上涨 0.7%，PPI 环比上涨 0.1%，如何解读？",
+          "url": "https://www.zhihu.com/question/1982028467756348288",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 17时34分]"
+        },
+        {
           "title": "英债价格普遍上涨，英国央行官员表态对降息预期构成支撑",
           "url": "https://wallstreetcn.com/livenews/3017819",
           "source": "华尔街见闻-快讯",
@@ -1055,13 +1134,24 @@
           "time_info": "05时26分"
         },
         {
+          "title": "【每日收评】三大指数探底回升涨跌不一，海南板块全天强势，算力硬件股午后再度回暖",
+          "url": "https://www.cls.cn/detail/2225395",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "香港恒生指数收盘上涨0.42%。恒生科技指数收盘上涨0.48%。地平线机器人涨超3%，美团涨2.7%。万科企业收涨超13%。",
           "url": "https://wallstreetcn.com/livenews/3018310",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1072,7 +1162,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1185,17 +1275,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
-        },
-        {
-          "title": "据国家统计局，11 月 CPI 同比上涨 0.7%，PPI 环比上涨 0.1%，如何解读？",
-          "url": "https://www.zhihu.com/question/1982028467756348288",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         },
         {
           "title": "酿酒板块逆势走强，皇台酒业、惠泉啤酒双双涨停，会稽山、酒鬼酒、舍得酒业、金种子酒等跟涨。",
@@ -1333,7 +1412,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "美联储今夜降息无悬念！华尔街紧盯鲍威尔 这一表述或定调明年政策走向",
@@ -1373,8 +1452,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 16时39分]"
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 17时34分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：维护俄罗斯利益的外交政策方针不会改变。",
@@ -1451,7 +1530,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1495,7 +1574,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1506,7 +1585,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1577,6 +1656,17 @@
           "time_info": "14时45分"
         },
         {
+          "title": "交易员加大对欧洲央行收紧政策的押注，预计2026年加息的可能性为50%。",
+          "url": "https://flash.jin10.com/detail/20251210165042431800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
           "url": "https://wallstreetcn.com/livenews/3017926",
           "source": "华尔街见闻-快讯",
@@ -1588,6 +1678,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "日本首相高市早苗：期待日本央行实施恰当的货币政策，以可持续、稳定地实现其价格目标，并与政府密切合作。",
+          "url": "https://flash.jin10.com/detail/20251210164800564800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "瞄准中国科技股，全球资金寻找AI“新战场”",
           "url": "https://wallstreetcn.com/livenews/3017925",
           "source": "华尔街见闻-快讯",
@@ -1597,6 +1698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "交易员对欧洲央行收紧货币政策的押注升温，料2026年加息概率50%。",
+          "url": "https://wallstreetcn.com/livenews/3018342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "市场消息：韩国拟投31亿美元设立晶圆代工厂，以推动本土芯片产业发展。",
@@ -1885,9 +1997,49 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时42分]"
+        },
+        {
+          "title": "澳新银行：金价小幅回落，市场对美联储后续宽松步伐趋于谨慎",
+          "url": "https://flash.jin10.com/detail/20251210164920560800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金午盘价为951.34元/克，较国际金价(954.44元/克)，低3.1元/克",
+          "url": "https://flash.jin10.com/detail/20251210150354627800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     },
@@ -1903,8 +2055,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时11分 ~ 16时39分]"
+          "appearance_count": 10,
+          "time_info": "[10时11分 ~ 17时34分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1928,35 +2080,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
-          "url": "https://flash.jin10.com/detail/20251210111107526800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时42分]"
-        },
-        {
-          "title": "金十图示：2025年12月10日（周三）上海金午盘价为951.34元/克，较国际金价(954.44元/克)，低3.1元/克",
-          "url": "https://flash.jin10.com/detail/20251210150354627800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
         }
       ]
     },
