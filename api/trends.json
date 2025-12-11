@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T15:31:53.481991+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2025-12-11T16:40:35.580656+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 48,
+      "match_count": 55,
       "titles": [
         {
           "title": "万科 A 盘中强势涨停，成交金额超 30 亿，且多只境内债大涨超 30%，并带动地产板块大涨，发生了什么？",
@@ -101,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "法国场外交易日前交付的基础负荷电价上涨9%，报82欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20251211162036482800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，报360.74点，创11月12日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 Neste Oyj涨5.7%，在一众北欧个股里领跑。",
@@ -338,9 +349,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "Ceres Power(CWR.L)股价下跌8%，此前美国沽空机构灰熊研究（Grizzly Research）表示已做空该股。",
+          "url": "https://flash.jin10.com/detail/20251211161535433800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "华纳兄弟探索WBD收涨4.5%，最近四个交易日累计上涨20%。",
@@ -352,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "英国清洁能源技术公司Ceres Power股价下跌8%，此前做空机构Grizzly Research表示其做空该股票。",
+          "url": "https://wallstreetcn.com/livenews/3019089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "创业板指涨超1%，沪指涨0.02%，深成指涨0.48%，贵金属、可控核聚变、电网设备、商业航天等方向领涨，沪深京三市上涨个股近1600只。",
@@ -382,7 +415,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -420,13 +453,24 @@
           "time_info": "05时31分"
         },
         {
+          "title": "交易商称，印度央行可能正抛售美元，以帮助印度卢比避免大幅下跌。",
+          "url": "https://flash.jin10.com/detail/20251211161100330800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "菲律宾披索在央行降息25BP后逆转走势，最新上涨 0.1%。",
           "url": "https://wallstreetcn.com/livenews/3019013",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -442,6 +486,28 @@
           "time_info": "12时01分"
         },
         {
+          "title": "香港恒生指数收盘下跌0.04%。恒生科技指数收盘下跌0.83%。华虹半导体跌4.8%，阿里健康跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3019078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "金融机构Emkay：随着需求复苏，印度NIFTY 50指数有望在2026年底达到29000点，较前一收盘价上涨约12.5%。",
+          "url": "https://flash.jin10.com/detail/20251211160447856800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "上证指数开盘报3903.89点，涨0.09%。 深证成指开盘报13333.29点，涨0.13%。 创业板指开盘报3210.55点，涨0.05%。 沪深300开盘报4597.19点，涨0.12%。 科创50开盘报1349.67点，涨0.22%。 中证500开盘报7171.21点，涨0.21%。 中证1000开盘报7421.79点，涨0.18%。",
           "url": "https://wallstreetcn.com/livenews/3018794",
           "source": "华尔街见闻-快讯",
@@ -451,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "德国DAX30指数开盘下跌0.10%。 英国富时100指数开盘下跌0.10%。 法国CAC40指数开盘上涨0.21%。 欧洲斯托克50指数开盘下跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3019074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "印度卢比兑美元下跌0.5%报90.39。",
@@ -820,7 +897,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -831,7 +908,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -842,7 +919,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -875,7 +952,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -930,7 +1007,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -985,7 +1062,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1062,7 +1139,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1092,7 +1169,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "绍伊古：俄方不会对日本好战政策置之不理",
@@ -1142,11 +1219,27 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 16时40分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：跨年流动性有望维持平稳，美联储降息为我国货币政策提供窗口期",
+          "url": "https://www.cls.cn/detail/2226318",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8,
+            6,
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时01分 ~ 15时31分]"
+          "time_info": "[12时46分 ~ 16时40分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出857.75亿元，占比4.62%；大单资金净流出347.64亿元，占比1.87%；小单资金净流入654.76亿元，占比3.53%。",
@@ -1155,7 +1248,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1188,9 +1281,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "瑞士央行：必要时仍愿意积极干预外汇市场。 与上次货币政策评估相比，通胀压力几乎没有变化。 全球经济发展是瑞士经济前景面临的主要风险。",
+          "url": "https://wallstreetcn.com/livenews/3019100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "北汽蓝谷：使用募集资金向控股子公司提供借款以实施募投项目",
+          "url": "https://wallstreetcn.com/livenews/3019099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "韩国总统李在明：韩国需要在2027年继续维持扩张性的财政政策。",
@@ -1204,18 +1319,15 @@
           "time_info": "13时32分"
         },
         {
-          "title": "财联社C50风向指数调查：跨年流动性有望维持平稳，美联储降息为我国货币政策提供窗口期",
-          "url": "https://www.cls.cn/detail/2226318",
-          "source": "财联社热门",
+          "title": "我国AI产业规模突破9000亿元",
+          "url": "https://www.douyin.com/hot/2332984",
+          "source": "抖音",
           "ranks": [
-            13,
-            9,
-            8,
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时46分 ~ 15时31分]"
+          "time_info": "[13时32分 ~ 16时40分]"
         },
         {
           "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
@@ -1228,17 +1340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时31分]"
-        },
-        {
-          "title": "我国AI产业规模突破9000亿元",
-          "url": "https://www.douyin.com/hot/2332984",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 15时31分]"
         },
         {
           "title": "国产算力最大重组案终止 海光曙光“双龙头”加速开放生态布局 产业正经历结构性演进",
@@ -1321,6 +1422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20251211161636190800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "一“芯”难求 + 全球抢单，中国锂电产业链开启新一轮“价值跃迁”",
@@ -1422,13 +1534,24 @@
           "time_info": "04时35分"
         },
         {
+          "title": "捷克央行行长塞德勒：最可能的情景是货币政策利率在一段时间内维持当前水平。",
+          "url": "https://flash.jin10.com/detail/20251211155658802800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "菲律宾央行：国内经济增长前景进一步走弱。预计货币政策宽松周期即将结束。",
           "url": "https://flash.jin10.com/detail/20251211143126322800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1457,8 +1580,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时15分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时15分 ~ 16时40分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -1599,8 +1722,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 15时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 16时40分]"
         },
         {
           "title": "IG官宣TheShy暂离赛场",
@@ -1698,7 +1821,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "高盛模型加权平均值显示人民币被低估25%，称之为“最高确信度”交易之一",
@@ -1730,9 +1853,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0580，较上一交易日官方收盘价涨58点，较上日夜盘收盘涨81点。",
+          "url": "https://wallstreetcn.com/livenews/3019093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "人民币兑美元中间价报7.0686，上调67点；上一交易日中间价7.0753，上一交易日官方收盘价7.0638，上日夜盘报收7.0661。",
@@ -1793,7 +1927,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
