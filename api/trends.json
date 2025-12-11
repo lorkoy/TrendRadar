@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T19:28:11.180821+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2025-12-11T21:03:32.090525+08:00",
+  "total_titles_processed": 1923,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "万科 A 盘中强势涨停，成交金额超 30 亿，且多只境内债大涨超 30%，并带动地产板块大涨，发生了什么？",
@@ -394,7 +394,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -441,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "匈牙利美元债券下跌，领跌新兴市场。",
+          "url": "https://flash.jin10.com/detail/20251211202650649800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "上证指数收报3873.32点，跌0.70%。 深证成指收报13147.39点，跌1.27%。 创业板指收报3163.67点，跌1.41%。 沪深300收报4552.18点，跌0.86%。 科创50收报1325.83点，跌1.55%。 中证500收报7082.89点，跌1.02%。 中证1000收报7312.00点，跌1.30%。",
@@ -619,6 +630,17 @@
           "time_info": "12时46分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 12月11日（周四）晚盘盘初下跌0.35%报951.5元/克；<br/>上海黄金交易所白银T+D 12月11日（周四）晚盘盘初上涨0.08%报14484.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251211200208352800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "尽管政府采取降温措施 首尔房价持续上涨",
           "url": "https://flash.jin10.com/detail/20251211133944460800",
           "source": "金十数据",
@@ -647,7 +669,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -710,7 +732,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "绍伊古：俄方不会对日本好战政策置之不理",
@@ -737,11 +759,12 @@
             6,
             3,
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时46分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时46分 ~ 21时03分]"
         },
         {
           "title": "华为高管称机械硬盘 HDD 是唯一未实现国产化的存储器件，这反映出我国存储产业存在哪些挑战？",
@@ -751,11 +774,12 @@
             5,
             7,
             9,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时01分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[12时01分 ~ 21时03分]"
         },
         {
           "title": "【数据看盘】实力游资扎堆地产股 3亿元资金抢筹神农种业",
@@ -847,7 +871,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -861,6 +885,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
+          "url": "https://www.cls.cn/detail/2226827",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 21时03分]"
         },
         {
           "title": "北汽蓝谷：使用募集资金向控股子公司提供借款以实施募投项目",
@@ -908,18 +945,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时31分]"
-        },
-        {
-          "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
-          "url": "https://www.cls.cn/detail/2226827",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 19时28分]"
         },
         {
           "title": "国产算力最大重组案终止 海光曙光“双龙头”加速开放生态布局 产业正经历结构性演进",
@@ -1033,7 +1058,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1110,7 +1135,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1121,7 +1146,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1132,7 +1157,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1170,6 +1195,17 @@
           "time_info": "12时01分"
         },
         {
+          "title": "中企研周丽莎：国有企业要全力加码战略性新兴产业和未来产业",
+          "url": "https://wallstreetcn.com/livenews/3019221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "美国众议院多数议员支持通过9010亿美元的国防政策法案，投票仍在继续。",
           "url": "https://flash.jin10.com/detail/20251211062809696800",
           "source": "金十数据",
@@ -1187,7 +1223,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1245,6 +1281,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "北京大学国民经济研究中心主任苏剑：鼓励收购存量商品房重点用于保障性住房 去库存保民生政策同向发力",
+          "url": "https://wallstreetcn.com/livenews/3019213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "工银国际程实：货币政策从强调操作时点的“适时”“择机” 转向更注重政策效果的“提质增效”",
+          "url": "https://wallstreetcn.com/livenews/3019211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "中国社科院金融研究所副研究员曹婧：财政政策和货币政策协同性将继续增强",
+          "url": "https://wallstreetcn.com/livenews/3019210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "瑞士央行：必要时仍愿意积极干预外汇市场。 与上次货币政策评估相比，通胀压力几乎没有变化。 全球经济发展是瑞士经济前景面临的主要风险。 尽管美国关税和贸易政策不确定性对全球经济造成压力，但迄今为止许多国家的经济仍比预期更具韧性。 基本情景预测是未来几个季度全球经济增长将保持温和。 美国关税和贸易政策不确定性，对全球经济增长势头的影响将可能比目前观察到的更严重。",
@@ -1305,7 +1374,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "现货白银日内大涨1.00美元，现报62.83美元/盎司，涨幅1.62%。",
@@ -1358,9 +1427,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20251211203726890800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "富宝资讯：碳酸锂期货盘面持续走强，富宝电池级碳酸锂报93900元/吨",
@@ -1757,7 +1837,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1906,8 +1986,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时39分 ~ 19时28分]"
+          "appearance_count": 24,
+          "time_info": "[00时39分 ~ 21时03分]"
         },
         {
           "title": "IG官宣TheShy暂离赛场",
@@ -1931,6 +2011,19 @@
           "time_info": "[02时41分 ~ 14时46分]"
         },
         {
+          "title": "如何看待 TheShy 发文告别赛场，称下一个阶段让自己体验更多彩的人生？",
+          "url": "https://www.zhihu.com/question/1982199158279463601",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 21时03分]"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加110吨，当前持仓量为16083.16吨。欢迎点击查看数据中心...",
           "url": "https://flash.jin10.com/detail/20251211070613625800",
           "source": "金十数据",
@@ -1951,18 +2044,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
-        },
-        {
-          "title": "如何看待 TheShy 发文告别赛场，称下一个阶段让自己体验更多彩的人生？",
-          "url": "https://www.zhihu.com/question/1982199158279463601",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 19时28分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
@@ -2046,8 +2127,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时15分 ~ 19时28分]"
+          "appearance_count": 14,
+          "time_info": "[10时15分 ~ 21时03分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -2240,7 +2321,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -2270,7 +2351,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -2316,6 +2397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "机构：高赤字削弱长期美债吸引力",
+          "url": "https://flash.jin10.com/detail/20251211200521105800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "美国国债收益率持续走低，两年期美债收益率跌幅扩大至8个基点。",
