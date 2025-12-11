@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T06:29:50.419377+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2025-12-12T07:28:14.215064+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3761155",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "现货黄金站上4280美元/盎司，日内涨1.22%。",
@@ -45,11 +46,12 @@
           "url": "https://wallstreetcn.com/livenews/3019432",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时28分]"
         },
         {
           "title": "恒指期货夜盘收涨0.85%，报25788点，高水257点。",
@@ -86,6 +88,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时33分]"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨0.78%，报93510美元，全天U形反转。 CME以太币期货DCR主力合约跌2.56%，报3277美元。 美股加密货币与加密货币关联指数跌0.17%，报71.76点，北京时间22:30跳空低开之后逐步收复失地。 最近24小时，MarketVector数字资产100小盘指数跌2.23%，暂报4071.03点。",
+          "url": "https://wallstreetcn.com/livenews/3019429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时28分]"
         },
         {
           "title": "WTI 1月原油期货收跌0.86美元，跌幅1.47%，报57.60美元/桶。 布伦特2月原油期货收跌0.93美元，跌幅1.49%，报61.28美元/桶。 NYMEX 1月天然气期货收报4.2310美元/百万英热单位。 NYMEX 1月汽油期货收报1.7598美元/加仑，NYMEX 1月取暖油期货收报2.2289美元/加仑。",
@@ -148,24 +162,13 @@
           "time_info": "[03时28分 ~ 04时33分]"
         },
         {
-          "title": "周四（12月11日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨0.78%，报93510美元，全天U形反转。 CME以太币期货DCR主力合约跌2.56%，报3277美元。 美股加密货币与加密货币关联指数跌0.17%，报71.76点，北京时间22:30跳空低开之后逐步收复失地。 最近24小时，MarketVector数字资产100小盘指数跌2.23%，暂报4071.03点。",
-          "url": "https://wallstreetcn.com/livenews/3019429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "周四（12月11日）纽约尾盘，现货白银涨2.79%，报63.5380美元/盎司，北京时间02:30曾涨至64.3120美元。 COMEX白银期货涨4.92%，报64.030美元/盎司，02:30也曾涨至64.720美元。 COMEX铜期货涨2.52%，报5.4885美元/磅。 现货铂金涨2.70%，现货钯金涨1.93%。",
           "url": "https://wallstreetcn.com/livenews/3019427",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -176,7 +179,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -209,7 +212,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -275,17 +278,6 @@
       "match_count": 16,
       "titles": [
         {
-          "title": "国际油价11日下跌",
-          "url": "https://flash.jin10.com/detail/20251212060406913800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "奈飞收涨1.5%，结束此前连续六个交易日下跌的趋势。",
           "url": "https://wallstreetcn.com/livenews/3019411",
           "source": "华尔街见闻-快讯",
@@ -319,6 +311,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时31分]"
+        },
+        {
+          "title": "国际油价11日下跌",
+          "url": "https://flash.jin10.com/detail/20251212060406913800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时28分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌4.99%，暂报3967.32点，北京时间12:00过后持续地位窄幅震荡。",
@@ -386,7 +390,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -419,7 +423,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -452,7 +456,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -460,7 +464,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -471,8 +475,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -522,6 +526,17 @@
           "time_info": "[05时31分 ~ 06时29分]"
         },
         {
+          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2227262",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
           "title": "美股收盘：道指创新高 甲骨文跌超10%",
           "url": "https://flash.jin10.com/detail/20251212050039144800",
           "source": "金十数据",
@@ -533,15 +548,37 @@
           "time_info": "05时31分"
         },
         {
+          "title": "博通美股盘后跌幅扩大至5.18%。",
+          "url": "https://wallstreetcn.com/livenews/3019447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "美股七巨头收盘播报｜谷歌A收跌超2.4%，英伟达跌超1.5%，微软涨1%",
           "url": "https://wallstreetcn.com/livenews/3019411",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "博通美股盘后跌3.36%。",
+          "url": "https://wallstreetcn.com/livenews/3019441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "博通(AVGO.O)美股盘后涨4%。",
@@ -550,7 +587,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -624,8 +661,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "专家解读中央经济工作会议: 新增专项债额度有望扩至5万亿 新型政策性金融工具或适时继续推出",
@@ -636,11 +673,12 @@
             12,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时34分 ~ 07时28分]"
         },
         {
           "title": "中央定调明年货币政策",
@@ -651,11 +689,12 @@
             16,
             12,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时34分 ~ 07时28分]"
         },
         {
           "title": "报告：楼市明年或落地更多增量政策",
@@ -666,11 +705,12 @@
             29,
             24,
             28,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时34分 ~ 07时28分]"
         },
         {
           "title": "高市早苗所属自民党支部被曝资金流动混乱",
@@ -722,19 +762,8 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "周四（12月11日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报7.0522元，较周三纽约尾盘涨88点，日内整体交投于7.0650-7.0480元区间。",
-          "url": "https://wallstreetcn.com/livenews/3019430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0570元，较周三夜盘收盘涨91点。成交量322.95亿美元。",
           "url": "https://wallstreetcn.com/livenews/3019387",
@@ -747,12 +776,35 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时28分 ~ 05时31分]"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报7.0522元，较周三纽约尾盘涨88点，日内整体交投于7.0650-7.0480元区间。",
+          "url": "https://wallstreetcn.com/livenews/3019430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时28分]"
+        },
+        {
+          "title": "AI泡沫担忧打压纳指，道指、小盘股指新高，白银续创新高，人民币一度升破7.05",
+          "url": "https://wallstreetcn.com/articles/3761175",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国纽约联储披露短期美债购买情况：美联储周五将购买82亿美元国库券。",
@@ -777,6 +829,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时28分]"
+        },
+        {
+          "title": "美债收益率于美股盘中持续走高",
+          "url": "https://wallstreetcn.com/livenews/3019443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     },
@@ -792,8 +855,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 07时28分]"
         }
       ]
     }
