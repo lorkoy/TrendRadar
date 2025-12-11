@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T17:34:53.652343+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2025-12-11T18:35:09.269427+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "万科 A 盘中强势涨停，成交金额超 30 亿，且多只境内债大涨超 30%，并带动地产板块大涨，发生了什么？",
@@ -273,6 +273,29 @@
           "time_info": "[14时46分 ~ 15时31分]"
         },
         {
+          "title": "甲骨文美股盘前跌超12%，公司业绩不及预期，资本开支比预期多约150亿美元。受此影响，美股明星科技股普跌，英伟达跌超1%，美光科技跌超2%，微软跌1%，AMD下跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3019120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时35分]"
+        },
+        {
+          "title": "A股三大股指尾盘下跌",
+          "url": "https://www.toutiao.com/trending/7582510920719404587/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
+        },
+        {
           "title": "美国运通股价上涨2.2%，此前首席执行官表示，从感恩节前一周到网络星期一期间，零售支出持续增长。",
           "url": "https://flash.jin10.com/detail/20251211001933106800",
           "source": "金十数据",
@@ -363,17 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
-        },
-        {
-          "title": "甲骨文美股盘前跌超12%，公司业绩不及预期，资本开支比预期多约150亿美元。受此影响，美股明星科技股普跌，英伟达跌超1%，美光科技跌超2%，微软跌1%，AMD下跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3019120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "华纳兄弟探索WBD收涨4.5%，最近四个交易日累计上涨20%。",
@@ -541,6 +553,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "奈飞(NFLX.O)盘前上涨1%，此前一交易日下跌4%。",
+          "url": "https://flash.jin10.com/detail/20251211174700763800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "印度卢比兑美元下跌0.5%报90.39。",
           "url": "https://wallstreetcn.com/livenews/3018980",
           "source": "华尔街见闻-快讯",
@@ -635,7 +658,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -1139,7 +1162,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -1194,7 +1217,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -1213,7 +1236,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "绍伊古：俄方不会对日本好战政策置之不理",
@@ -1243,21 +1266,6 @@
           "time_info": "[00时39分 ~ 07时26分]"
         },
         {
-          "title": "俄方：不会对日本好战政策置之不理",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E4%B8%8D%E4%BC%9A%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%A5%BD%E6%88%98%E6%94%BF%E7%AD%96%E7%BD%AE%E4%B9%8B%E4%B8%8D%E7%90%86",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            21,
-            19,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时38分]"
-        },
-        {
           "title": "华为高管称机械硬盘 HDD 是唯一未实现国产化的存储器件，这反映出我国存储产业存在哪些挑战？",
           "url": "https://www.zhihu.com/question/1979924931664967515",
           "source": "知乎",
@@ -1268,8 +1276,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 17时34分]"
+          "appearance_count": 9,
+          "time_info": "[12时01分 ~ 18时35分]"
         },
         {
           "title": "财联社C50风向指数调查：跨年流动性有望维持平稳，美联储降息为我国货币政策提供窗口期",
@@ -1284,8 +1292,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 17时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 18时35分]"
+        },
+        {
+          "title": "俄方：不会对日本好战政策置之不理",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E4%B8%8D%E4%BC%9A%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%A5%BD%E6%88%98%E6%94%BF%E7%AD%96%E7%BD%AE%E4%B9%8B%E4%B8%8D%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            21,
+            19,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时38分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出857.75亿元，占比4.62%；大单资金净流出347.64亿元，占比1.87%；小单资金净流入654.76亿元，占比3.53%。",
@@ -1341,6 +1364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "英国央行行长贝利：当前政策旨在满足流动性需求。 尚不确定储备的均衡水平。 可能在未来一年左右达到均衡水平。 英国央行不能在自身资产负债表上承担利率风险。 储蓄率显示市场高度谨慎。 英国家庭及企业资产负债表总体稳健。 无人预期稳定币会支付利息。",
+          "url": "https://wallstreetcn.com/livenews/3019171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "韩国总统李在明：韩国需要在2027年继续维持扩张性的财政政策。",
@@ -1437,6 +1471,17 @@
           "time_info": "[12时01分 ~ 14时46分]"
         },
         {
+          "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
+          "url": "https://www.cls.cn/detail/2226827",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
+        },
+        {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3018538",
           "source": "华尔街见闻-快讯",
@@ -1455,7 +1500,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -1515,6 +1560,17 @@
           "time_info": "10时16分"
         },
         {
+          "title": "中国农业发展银行原政策研究室主任吴飚接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3019165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "巴西央行：当前形势充满高度不确定性，货币政策需采取审慎立场。",
           "url": "https://flash.jin10.com/detail/20251211053942535800",
           "source": "金十数据",
@@ -1554,7 +1610,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -1581,6 +1637,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "中央经济工作会议：继续实施适度宽松的货币政策 灵活高效运用降准降息等多种政策工具",
+          "url": "https://wallstreetcn.com/livenews/3019143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "三菱日联：美联储明年下半年的政策将因领导层变动而复杂化",
           "url": "https://flash.jin10.com/detail/20251211105510092800",
           "source": "金十数据",
@@ -1590,6 +1657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "中央经济工作会议：加大逆周期和跨周期调节力度，继续实施更加积极的财政政策",
+          "url": "https://wallstreetcn.com/livenews/3019141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "鲍威尔：未来货币政策没有预设路径",
@@ -1603,13 +1681,24 @@
           "time_info": "04时35分"
         },
         {
+          "title": "中央经济工作会议：必须充分挖掘经济潜能，必须坚持政策支持和改革创新并举",
+          "url": "https://wallstreetcn.com/livenews/3019139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "瑞士央行：必要时仍愿意积极干预外汇市场。 与上次货币政策评估相比，通胀压力几乎没有变化。 全球经济发展是瑞士经济前景面临的主要风险。 尽管美国关税和贸易政策不确定性对全球经济造成压力，但迄今为止许多国家的经济仍比预期更具韧性。 基本情景预测是未来几个季度全球经济增长将保持温和。 美国关税和贸易政策不确定性，对全球经济增长势头的影响将可能比目前观察到的更严重。",
           "url": "https://wallstreetcn.com/livenews/3019100",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -1620,7 +1709,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -1660,6 +1749,166 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "IG官宣TheShy暂离赛场",
+          "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3TheShy%E6%9A%82%E7%A6%BB%E8%B5%9B%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3,
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时38分]"
+        },
+        {
+          "title": "不打了!TheShy暂离赛场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347869&amp;topic_name=%E4%B8%8D%E6%89%93%E4%BA%86%21TheShy%E6%9A%82%E7%A6%BB%E8%B5%9B%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            3,
+            4,
+            8,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 18时35分]"
+        },
+        {
+          "title": "IG官宣TheShy暂离赛场",
+          "url": "https://www.douyin.com/hot/2332702",
+          "source": "抖音",
+          "ranks": [
+            16,
+            24,
+            5,
+            6,
+            2,
+            18,
+            28,
+            20,
+            19,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[02时41分 ~ 14时46分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加110吨，当前持仓量为16083.16吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20251211070613625800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "据Business Insider：亚马逊(AMZN.O)计划推出一项新的“RUSH”取货服务，以进一步加大快速配送力度。",
+          "url": "https://flash.jin10.com/detail/20251211180950693800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
+          "url": "https://flash.jin10.com/detail/20251211055023100800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时26分]"
+        },
+        {
+          "title": "如何看待 TheShy 发文告别赛场，称下一个阶段让自己体验更多彩的人生？",
+          "url": "https://www.zhihu.com/question/1982199158279463601",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 18时35分]"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国上周EIA原油库存下降181万桶，分析师预期减少215.583万桶，之前一周增加57.4万桶。 美国炼油厂正生产着自2019年1月以来最多的柴油，并且仅在2018年（同期）的季节性基础上生产量超过了现在。 在经历了四周的库存下降后，库欣（Cushing）的库存最终有所增加，但就一年中的这个时间而言，库存量仍处于2007年以来的最低水平。 航空燃油的需求已从上个月因政府关闭导致航班中断而引起的短暂下滑中反弹。",
+          "url": "https://wallstreetcn.com/livenews/3018533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时31分]"
+        },
+        {
+          "title": "小米集团(01810.HK)12月11日以9720万港元回购230万股B类股份。",
+          "url": "https://flash.jin10.com/detail/20251211180127271800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "iG官宣TheShy离场",
+          "url": "https://s.weibo.com/weibo?q=%23iG%E5%AE%98%E5%AE%A3TheShy%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "腾讯控股(00700.HK)12月11日以6.359亿港元回购110万股股份。",
+          "url": "https://flash.jin10.com/detail/20251211174045647800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：推出适用于移动网页的YouTube Shorts广告服务。",
+          "url": "https://flash.jin10.com/detail/20251211000751593800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
@@ -1671,8 +1920,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时15分 ~ 17时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时15分 ~ 18时35分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -1802,134 +2051,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "IG官宣TheShy暂离赛场",
-          "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3TheShy%E6%9A%82%E7%A6%BB%E8%B5%9B%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时38分]"
-        },
-        {
-          "title": "不打了!TheShy暂离赛场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347869&amp;topic_name=%E4%B8%8D%E6%89%93%E4%BA%86%21TheShy%E6%9A%82%E7%A6%BB%E8%B5%9B%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            3,
-            4,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 17时34分]"
-        },
-        {
-          "title": "IG官宣TheShy暂离赛场",
-          "url": "https://www.douyin.com/hot/2332702",
-          "source": "抖音",
-          "ranks": [
-            16,
-            24,
-            5,
-            6,
-            2,
-            18,
-            28,
-            20,
-            19,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时41分 ~ 14时46分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加110吨，当前持仓量为16083.16吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20251211070613625800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
-          "url": "https://flash.jin10.com/detail/20251211055023100800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时26分]"
-        },
-        {
-          "title": "美国能源信息署（EIA）：美国上周EIA原油库存下降181万桶，分析师预期减少215.583万桶，之前一周增加57.4万桶。 美国炼油厂正生产着自2019年1月以来最多的柴油，并且仅在2018年（同期）的季节性基础上生产量超过了现在。 在经历了四周的库存下降后，库欣（Cushing）的库存最终有所增加，但就一年中的这个时间而言，库存量仍处于2007年以来的最低水平。 航空燃油的需求已从上个月因政府关闭导致航班中断而引起的短暂下滑中反弹。",
-          "url": "https://wallstreetcn.com/livenews/3018533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
-        },
-        {
-          "title": "如何看待 TheShy 发文告别赛场，称下一个阶段让自己体验更多彩的人生？",
-          "url": "https://www.zhihu.com/question/1982199158279463601",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "iG官宣TheShy离场",
-          "url": "https://s.weibo.com/weibo?q=%23iG%E5%AE%98%E5%AE%A3TheShy%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：推出适用于移动网页的YouTube Shorts广告服务。",
-          "url": "https://flash.jin10.com/detail/20251211000751593800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
         }
       ]
     },
@@ -2041,7 +2165,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
