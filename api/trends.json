@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T21:01:28.049396+08:00",
-  "total_titles_processed": 1950,
+  "generated_at": "2025-12-12T21:44:05.956185+08:00",
+  "total_titles_processed": 2029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
@@ -61,18 +61,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "赛力斯：部分募投项目调整内部投资结构及延期",
-          "url": "https://wallstreetcn.com/livenews/3019977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -110,6 +99,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时33分]"
+        },
+        {
+          "title": "赛力斯：部分募投项目调整内部投资结构及延期",
+          "url": "https://wallstreetcn.com/livenews/3019977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时44分]"
         },
         {
           "title": "周四（12月11日）纽约尾盘，彭博谷物分类指数涨0.34%，报29.8951点。 CBOT玉米期货涨0.56%，CBOT小麦期货涨0.94%。 CBOT大豆期货涨0.18%，报11.03美元/蒲式耳，豆粕期货涨0.23%，豆油期货跌0.56%。 CBOT瘦肉猪期货涨2.06%，活牛期货涨1.06%，饲牛期货涨1.45%。",
@@ -257,6 +258,18 @@
           "time_info": "[03时28分 ~ 04时33分]"
         },
         {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251211234957724800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 21时44分]"
+        },
+        {
           "title": "美国做出重大战略调整有何影响",
           "url": "https://www.toutiao.com/trending/7582844380231241254/",
           "source": "今日头条",
@@ -395,7 +408,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -464,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "夜盘期货开盘，焦炭跌逾2%，焦煤、玻璃跌逾1%；铁矿石、螺纹钢跌近1%；沪金、沪银涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3019988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "中金所：国债期货新合约上市通知",
@@ -554,6 +578,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "赛力斯：非执行董事尤峥因工作调整辞职。",
+          "url": "https://wallstreetcn.com/livenews/3019984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "金十期货12月12日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨1150元/吨，中间价报95750元/吨。",
           "url": "https://flash.jin10.com/detail/20251212110223754800",
           "source": "金十数据",
@@ -620,17 +655,6 @@
           "time_info": "00时42分"
         },
         {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251211234957724800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
           "title": "商品期货开盘，沪锡、沪银主力合约涨超3%，沪锌涨超2%，国际铜、碳酸锂、沪铜、沪金涨超1%。液化气、焦煤跌超3%，氧化铝、甲醇、PVC、纸浆、焦炭、棕榈油跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3019498",
           "source": "华尔街见闻-快讯",
@@ -689,7 +713,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "奈飞收涨1.5%，结束此前连续六个交易日下跌的趋势。",
@@ -1029,6 +1053,17 @@
           "time_info": "14时45分"
         },
         {
+          "title": "错判股市上涨 对冲基金经理全力押注基建股年内仍狂赚79%",
+          "url": "https://flash.jin10.com/detail/20251212212935447800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "香港恒生指数收盘上涨1.75%。恒生科技指数收盘涨1.87%。商汤涨4.7%，同城旅行、阿里健康、网易涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3019760",
           "source": "华尔街见闻-快讯",
@@ -1038,6 +1073,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "美联储保尔森：未见关税转化为物价普遍上涨。",
+          "url": "https://flash.jin10.com/detail/20251212212919260800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "摩尔线程低开6.6％，此前该公司在近期股价大幅上涨后提示风险。",
@@ -1104,6 +1150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "花旗集团(C.N)盘前上涨1.6%，此前摩根大通将其评级从中性评级上调至超配评级。",
+          "url": "https://flash.jin10.com/detail/20251212212630173800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "上证指数开盘报3869.41点，跌0.10%。 深证成指开盘报13174.45点，涨0.21%。 创业板指开盘报3172.73点，涨0.29%。 沪深300开盘报4558.74点，涨0.14%。 科创50开盘报1324.30点，跌0.12%。 中证500开盘报7088.10点，涨0.07%。 中证1000开盘报7312.87点，涨0.01%。",
@@ -1252,7 +1309,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "专家解读中央经济工作会议: 新增专项债额度有望扩至5万亿 新型政策性金融工具或适时继续推出",
@@ -1317,6 +1374,45 @@
           "time_info": "[01时34分 ~ 07时28分]"
         },
         {
+          "title": "何立峰：继续实施好适度宽松的货币政策 加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2228052",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 21时44分]"
+        },
+        {
+          "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
+          "url": "https://www.cls.cn/detail/2228098",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 21时44分]"
+        },
+        {
+          "title": "央视解读：2026年房地产政策有四个“新变化”",
+          "url": "https://wallstreetcn.com/articles/3761254",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 21时44分]"
+        },
+        {
           "title": "日本高市内阁被曝丑闻：外相涉嫌将政治资金用于奢侈品牌消费",
           "url": "https://news.ifeng.com/c/8p1KgpgNO8P",
           "source": "凤凰网",
@@ -1329,17 +1425,15 @@
           "time_info": "[12时44分 ~ 15时31分]"
         },
         {
-          "title": "何立峰：继续实施好适度宽松的货币政策 加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
-          "url": "https://www.cls.cn/detail/2228052",
-          "source": "财联社热门",
+          "title": "美联储施密德：通胀仍然过高 应适度保持限制性货币政策",
+          "url": "https://flash.jin10.com/detail/20251212213239144800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            3,
             2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 21时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "消息人士：日本央行将在下周的政策会议上承诺进一步加息",
@@ -1373,19 +1467,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
-        },
-        {
-          "title": "央视解读：2026年房地产政策有四个“新变化”",
-          "url": "https://wallstreetcn.com/articles/3761254",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 21时01分]"
         },
         {
           "title": "债券视角看中央经济工作会议，多家机构解读：10年国债利率明年可至1.5%，货币政策实质落地成关键",
@@ -1436,15 +1517,15 @@
           "time_info": "[00时42分 ~ 01时34分]"
         },
         {
-          "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
-          "url": "https://www.cls.cn/detail/2228098",
-          "source": "财联社热门",
+          "title": "中央定调投资于人 哪些产业有望起飞",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%AE%9A%E8%B0%83%E6%8A%95%E8%B5%84%E4%BA%8E%E4%BA%BA+%E5%93%AA%E4%BA%9B%E4%BA%A7%E4%B8%9A%E6%9C%89%E6%9C%9B%E8%B5%B7%E9%A3%9E",
+          "source": "百度热搜",
           "ranks": [
-            6
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 21时01分]"
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 21时44分]"
         },
         {
           "title": "央视解读：2026年房地产政策有四个“新变化”",
@@ -1509,6 +1590,17 @@
           "time_info": "[03时28分 ~ 04时33分]"
         },
         {
+          "title": "央行：继续实施适度宽松的货币政策，加快推进金融供给侧结构性改革",
+          "url": "https://www.cls.cn/detail/2228342",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
+        },
+        {
           "title": "中兴通讯：拟使用自有资金10亿元-12亿元回购公司股票。",
           "url": "https://wallstreetcn.com/livenews/3019610",
           "source": "华尔街见闻-快讯",
@@ -1519,17 +1611,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 13时31分]"
-        },
-        {
-          "title": "中央定调投资于人 哪些产业有望起飞",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%AE%9A%E8%B0%83%E6%8A%95%E8%B5%84%E4%BA%8E%E4%BA%BA+%E5%93%AA%E4%BA%9B%E4%BA%A7%E4%B8%9A%E6%9C%89%E6%9C%9B%E8%B5%B7%E9%A3%9E",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 21时01分]"
         },
         {
           "title": "土耳其央行行长：若通胀前景偏离中期目标，将收紧政策立场。",
@@ -1659,9 +1740,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
+        },
+        {
+          "title": "富国基金：预计财政与货币政策更加强调提质增效",
+          "url": "https://wallstreetcn.com/livenews/3019986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "土耳其央行行长：只有在通胀得到控制的情况下，降息政策才能真正奏效。",
@@ -1692,7 +1784,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -1717,6 +1809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "美联储保尔森：更关注就业风险 货币政策具有限制性",
+          "url": "https://flash.jin10.com/detail/20251212210859246800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "《山东省铜产业高质量发展行动计划（2025—2027年）》发布",
@@ -1942,7 +2045,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -1952,8 +2055,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时14分 ~ 21时01分]"
+          "appearance_count": 14,
+          "time_info": "[10时14分 ~ 21时44分]"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.0554，较上一交易日官方收盘价涨26点，较上日夜盘收盘涨16点。",
@@ -2001,6 +2104,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
+          "title": "中国11月新增社融2.49万亿元，新增人民币贷款3900亿元，M2-M1剪刀差扩大",
+          "url": "https://wallstreetcn.com/articles/3761280",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "前十一个月人民币存款增加24.73万亿",
@@ -2247,8 +2361,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价延续涨势 德商银行：预计美联储降息幅度将超过市场预期",
+          "url": "https://flash.jin10.com/detail/20251212212056056800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
         {
           "title": "PIMCO：未来一年黄金价格或涨10%",
           "url": "https://www.toutiao.com/trending/7582808002890042922/",
