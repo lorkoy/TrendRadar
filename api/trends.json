@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T14:48:46.648385+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2025-12-15T15:33:20.861427+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 26,
+      "match_count": 36,
       "titles": [
         {
           "title": "11条政策措施更大力度提振消费",
@@ -44,18 +44,6 @@
           "time_info": "[00时33分 ~ 13时34分]"
         },
         {
-          "title": "【早报】更大力度提振消费，三部门最新部署；茅台推出控量政策",
-          "url": "https://www.cls.cn/detail/2229090",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时34分]"
-        },
-        {
           "title": "海滩枪击刺痛澳大利亚：一向严格的控枪措施出现漏洞，巴以政策或难辞其咎",
           "url": "https://m.thepaper.cn/newsDetail_forward_32176172",
           "source": "澎湃新闻",
@@ -65,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 15时33分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -78,8 +66,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 14时48分]"
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 15时33分]"
+        },
+        {
+          "title": "【早报】更大力度提振消费，三部门最新部署；茅台推出控量政策",
+          "url": "https://www.cls.cn/detail/2229090",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 13时34分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 06时27分]"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出556.49亿元，占比3.14%；大单资金净流出265.63亿元，占比1.5%；小单资金净流入458.98亿元，占比2.59%。",
+          "url": "https://flash.jin10.com/detail/20251215150623154800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "新西兰联储主席布雷曼：重申11月货币政策声明中公布的官方现金利率前瞻路径，表明近期再次降息的可能性略增。",
@@ -114,7 +125,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -168,6 +179,17 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
+          "title": "政策红利将如何惠及千家万户",
+          "url": "https://www.douyin.com/hot/2337076",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时33分]"
+        },
+        {
           "title": "新西兰联储主席布雷曼：经济前景的演变总体上与货币政策委员会的预期一致。",
           "url": "https://flash.jin10.com/detail/20251215100336245800",
           "source": "金十数据",
@@ -179,17 +201,6 @@
           "time_info": "10时23分"
         },
         {
-          "title": "政策红利将如何惠及千家万户",
-          "url": "https://www.douyin.com/hot/2337076",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
           "title": "日本10月第三产业活动指数月率 0.9%，预期0.2%，前值0.30%。",
           "url": "https://flash.jin10.com/detail/20251215123022217800",
           "source": "金十数据",
@@ -199,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "顶层关注度提升 氢能产业链有望迎来发展大机遇",
+          "url": "https://www.cls.cn/detail/2229115",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "新西兰联储主席：政策利率可能在一段时间内维持在2.25%。 我们持续看到经济复苏的迹象。 经济前景的进展大致与货币政策委员会的预期一致。",
@@ -245,15 +267,59 @@
           "time_info": "13时34分"
         },
         {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：让比利时加入赔偿贷款工作至关重要。",
+          "url": "https://flash.jin10.com/detail/20251215143840096800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "HashKey据悉将香港IPO价格定在接近区间上限 筹集资金16亿港元",
           "url": "https://wallstreetcn.com/livenews/3020751",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：关于乌克兰赔偿贷款的工作“正变得越来越困难”，但各方仍有几天时间达成协议。",
+          "url": "https://flash.jin10.com/detail/20251215143826983800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：如果俄罗斯的军事行为得到回报，我们将看到更多此类行为。",
+          "url": "https://flash.jin10.com/detail/20251215143621877800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：本周不会在未就乌克兰援助资金作出决定的情况下结束欧盟峰会。",
+          "url": "https://flash.jin10.com/detail/20251215143608466800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "日本10月第三产业活动指数环比 0.9%，预期 0.2%，前值 0.3%。",
@@ -265,6 +331,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：对乌克兰的安全保障必须是实实在在的部队和实实在在的能力。",
+          "url": "https://flash.jin10.com/detail/20251215143458752800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：顿巴斯不是普京的最终目标，如果他得到了顿巴斯，他还会继续索取更多。",
+          "url": "https://flash.jin10.com/detail/20251215143444622800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟今年已向乌克兰交付了200万发炮弹。",
+          "url": "https://flash.jin10.com/detail/20251215143236586800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：今天我们将对俄罗斯“影子船队”实施新制裁一事做出决定。",
+          "url": "https://flash.jin10.com/detail/20251215143227091800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "摩尔线程一度跌6%，目前跌3%。公司上周五盘后公告称，拟将IPO募集的资金不超过75亿元人民币进行现金管理。",
@@ -295,7 +405,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -306,7 +416,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         }
@@ -314,7 +424,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
@@ -341,8 +451,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 14时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时33分]"
         },
         {
           "title": "铂期货触及涨停！为上市以来首次",
@@ -351,7 +461,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -367,15 +477,38 @@
           "time_info": "07时26分"
         },
         {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251215150124281800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。铂涨7%，钯涨超4%，多晶硅、集运欧线、焦煤涨超3%，烧碱、氧化铝涨近3%；跌幅方面，苹果跌超2%，国际铜、沪铝、沪铜、菜油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251215150105581800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "国债期货走弱，30年期主力合约跌0.94%，10年期主力合约跌0.14%，5年期主力合约跌0.06%，2年期主力合约跌0.02%。",
           "url": "https://wallstreetcn.com/livenews/3020769",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时33分]"
         },
         {
           "title": "现货黄金、布伦特原油小幅低开。",
@@ -395,9 +528,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "国债期货收跌，30年期主力合约跌0.99%",
+          "url": "https://wallstreetcn.com/livenews/3020791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "期货热点追踪",
@@ -417,7 +561,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -439,9 +583,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至2.00%，现报63.21美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251215144707670800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "股指期货早盘收盘",
@@ -488,13 +643,24 @@
           "time_info": "12时09分"
         },
         {
+          "title": "30年期国债期货（TL）主力合约日内跌超1.00%，现报111.51元。",
+          "url": "https://flash.jin10.com/detail/20251215144620096800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "现货钯金上涨近3%至每盎司1,531.74美元。",
           "url": "https://wallstreetcn.com/livenews/3020757",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -510,13 +676,24 @@
           "time_info": "10时23分"
         },
         {
+          "title": "商品期货收盘，铂主力合约涨停，钯涨超4%，多晶硅、集运欧线、焦煤涨超3%。苹果跌近3%，菜籽油、国际铜、沪铜、沪铝跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3020779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "铂金期货涨停 为上市以来首次",
           "url": "https://wallstreetcn.com/livenews/3020750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -549,7 +726,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -576,6 +753,17 @@
           "time_info": "12时09分"
         },
         {
+          "title": "30年期国债期货（TL）主力合约日内走低1.00元，现报111.64元，跌幅0.89%。",
+          "url": "https://flash.jin10.com/detail/20251215143232586800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "现货白银日内涨1%报62.6美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3020567",
           "source": "华尔街见闻-快讯",
@@ -590,7 +778,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "近一个月这些上市公司被“踏破门槛”！算力芯片“双龙头”获机构组团调研，机构来访接待量居前的个股名单一览",
@@ -700,6 +888,17 @@
           "time_info": "[00时34分 ~ 05时26分]"
         },
         {
+          "title": "金十图示：2025年12月15日（周一）富时中国A50指数成分股今日收盘行情一览：半导体、煤炭、消费电子板块低收，证券、家电等板块收涨",
+          "url": "https://flash.jin10.com/detail/20251215150237126800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "澳大利亚S&P/ASX200指数收盘下跌0.7%至8,635.00点。",
           "url": "https://wallstreetcn.com/livenews/3020705",
           "source": "华尔街见闻-快讯",
@@ -721,8 +920,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 14时48分]"
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 15时33分]"
         },
         {
           "title": "你觉得目前影视市场观众想看但是又稀缺的题材是什么？",
@@ -746,6 +945,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 03时23分]"
+        },
+        {
+          "title": "日经225指数收盘跌1.3%，报50168.11点。日本东证指数收盘上涨0.2%。 韩国首尔综合指数收跌1.84%。",
+          "url": "https://wallstreetcn.com/livenews/3020761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时33分]"
+        },
+        {
+          "title": "如何评价兰晓龙编剧，孔笙导演的抗日题材电影《得闲谨制》？",
+          "url": "https://www.zhihu.com/question/1980664293465794088",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时33分]"
         },
         {
           "title": "上证指数早盘收报3884.93点，跌0.11%。 深证成指早盘收报13164.03点，跌0.71%。 创业板指早盘收报3153.07点，跌1.29%。 沪深300早盘收报4573.30点，跌0.17%。 科创50早盘收报1331.33点，跌1.30%。 中证500早盘收报7137.42点，跌0.45%。 中证1000早盘收报7335.05点，跌0.49%。",
@@ -792,15 +1015,15 @@
           "time_info": "12时09分"
         },
         {
-          "title": "日经225指数收盘跌1.3%，报50168.11点。日本东证指数收盘上涨0.2%。 韩国首尔综合指数收跌1.84%。",
-          "url": "https://wallstreetcn.com/livenews/3020761",
-          "source": "华尔街见闻-快讯",
+          "title": "黄牛坐地起价！白酒龙头给出积极信号 2026年板块估值修复可期",
+          "url": "https://www.cls.cn/detail/2229106",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时48分"
+          "time_info": "15时33分"
         },
         {
           "title": "国家统计局：PPI连续2个月环比上涨，支持价格合理回升的积极因素继续累积",
@@ -814,6 +1037,28 @@
           "time_info": "12时09分"
         },
         {
+          "title": "深成指、创业板指均跌超1%，大消费板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3020784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "上证指数收报3867.92点，跌0.55%。 深证成指收报13112.09点，跌1.10%。 创业板指收报3137.80点，跌1.77%。 沪深300收报4552.06点，跌0.63%。 科创50收报1318.91点，跌2.22%。 中证500收报7113.96点，跌0.78%。 中证1000收报7309.08点，跌0.84%。",
+          "url": "https://wallstreetcn.com/livenews/3020781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "隔夜SHIBOR报1.2740%，下降0.50个基点。 7天SHIBOR报1.4320%，下降1.90个基点。 3个月SHIBOR报1.5910%，上涨0.60个基点。",
           "url": "https://wallstreetcn.com/livenews/3020645",
           "source": "华尔街见闻-快讯",
@@ -825,15 +1070,15 @@
           "time_info": "12时09分"
         },
         {
-          "title": "如何评价兰晓龙编剧，孔笙导演的抗日题材电影《得闲谨制》？",
-          "url": "https://www.zhihu.com/question/1980664293465794088",
-          "source": "知乎",
+          "title": "全国70城房价下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD70%E5%9F%8E%E6%88%BF%E4%BB%B7%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时48分"
+          "time_info": "15时33分"
         },
         {
           "title": "隔夜shibor报1.2740%，下跌0.50个基点",
@@ -871,9 +1116,64 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时33分]"
+        },
+        {
+          "title": "金十图示：2025年12月15日（周一）上海金午盘价为978.02元/克，较国际金价(983.71元/克)，低5.69元/克",
+          "url": "https://flash.jin10.com/detail/20251215150146847800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "金十图示：2025年12月15日（周一）上海金早盘价为974.55元/克，较国际金价(980.31元/克)，低5.76元/克",
+          "url": "https://flash.jin10.com/detail/20251215110053092800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
+        {
+          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
+          "url": "https://www.cls.cn/detail/2229152",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 15时33分]"
+        },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
           "url": "https://wallstreetcn.com/articles/3761364",
@@ -884,20 +1184,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 14时48分]"
-        },
-        {
-          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
-          "url": "https://www.cls.cn/detail/2229152",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时48分]"
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 15时33分]"
         },
         {
           "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
@@ -906,9 +1194,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时33分]"
         }
       ]
     },
@@ -951,7 +1239,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -965,37 +1253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
-          "url": "https://wallstreetcn.com/articles/3761367",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 14时48分]"
-        },
-        {
-          "title": "金十图示：2025年12月15日（周一）上海金早盘价为974.55元/克，较国际金价(980.31元/克)，低5.76元/克",
-          "url": "https://flash.jin10.com/detail/20251215110053092800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
         }
       ]
     },
