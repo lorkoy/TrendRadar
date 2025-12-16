@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T22:34:31.104297+08:00",
-  "total_titles_processed": 2041,
+  "generated_at": "2025-12-16T23:32:55.520006+08:00",
+  "total_titles_processed": 2141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
@@ -142,17 +142,6 @@
           "time_info": "04时34分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251216095711377800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        },
-        {
           "title": "国债期货收盘，30年期主力合约跌0.19%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约跌0.02%。",
           "url": "https://wallstreetcn.com/livenews/3021503",
           "source": "华尔街见闻-快讯",
@@ -170,7 +159,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -223,6 +212,18 @@
           "time_info": "[03时27分 ~ 04时34分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251216095711377800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 23时32分]"
+        },
+        {
           "title": "【焦点复盘】沪指低开低走创2个月新低，贵金属板块现深幅调整，智能驾驶概念逆势爆发",
           "url": "https://www.cls.cn/detail/2231107",
           "source": "财联社热门",
@@ -232,8 +233,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 22时34分]"
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 23时32分]"
+        },
+        {
+          "title": "华为多位高管调整，余承东接任华为终端公司董事长，孟晚舟、徐直军等卸任董事，对公司发展可能有哪些影响？",
+          "url": "https://www.zhihu.com/question/1984227946542692071",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时32分]"
         },
         {
           "title": "周一（12月15日）纽约尾盘，现货黄金涨0.06%，报4302.34美元/盎司，全天冲高回落，北京时间17:15曾刷新日高至4350.33美元。 COMEX黄金期货涨0.12%，报4333.30美元/盎司，17:32曾刷新日高至4384.30美元。",
@@ -282,6 +295,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时42分]"
+        },
+        {
+          "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
+          "url": "https://wallstreetcn.com/articles/3761475",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "股指期货早盘收盘",
@@ -334,7 +358,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -350,17 +374,6 @@
           "time_info": "12时02分"
         },
         {
-          "title": "华为多位高管调整，余承东接任华为终端公司董事长，孟晚舟、徐直军等卸任董事，对公司发展可能有哪些影响？",
-          "url": "https://www.zhihu.com/question/1984227946542692071",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
           "title": "随着俄乌和平谈判取得进展，美国原油期货日内下跌1美元。",
           "url": "https://flash.jin10.com/detail/20251216005103965800",
           "source": "金十数据",
@@ -372,6 +385,17 @@
           "time_info": "01时32分"
         },
         {
+          "title": "内盘期货夜市涨跌各异，低硫燃油收跌超2.8%，焦炭涨1%",
+          "url": "https://wallstreetcn.com/livenews/3021802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "布伦特原油期货自5月以来首次跌破60美元/桶",
           "url": "https://flash.jin10.com/detail/20251216162219500800",
           "source": "金十数据",
@@ -381,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "现货钯金日内涨超2.00%，现报1605.18美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251216230434844800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "国债期货早盘收盘，30年期主力合约涨0.22%，10年期主力合约涨0.08%，5年期主力合约涨0.03%，2年期主力合约跌0.02%。",
@@ -403,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "现货钯金站上1600美元/盎司，日内涨1.67%。",
+          "url": "https://flash.jin10.com/detail/20251216230347408800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国股指期货跌幅扩大，纳斯达克100指数期货下跌0.8%。",
@@ -471,6 +517,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "截至23:00收盘，国内期货主力合约跌多涨少。低硫燃料油（LU）跌近3%，棕榈油、菜油、沥青、燃油、豆二跌超1%；涨幅方面，乙二醇（EG）、焦炭涨超1%，聚氯乙烯（PVC）、铁矿涨近1%。",
+          "url": "https://flash.jin10.com/detail/20251216230035345800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "广州：大力支持广州期货交易所推进碳排放权期货市场建设",
           "url": "https://wallstreetcn.com/livenews/3021483",
           "source": "华尔街见闻-快讯",
@@ -488,7 +545,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -598,7 +655,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -609,7 +666,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -653,7 +710,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -703,7 +760,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -758,7 +815,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -930,6 +987,18 @@
           "time_info": "[18时35分 ~ 19时28分]"
         },
         {
+          "title": "经济数据难解美国经济迷雾 三大期指横盘震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2231451",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时32分]"
+        },
+        {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
           "url": "https://wallstreetcn.com/livenews/3021076",
           "source": "华尔街见闻-快讯",
@@ -1076,17 +1145,6 @@
           "time_info": "15时31分"
         },
         {
-          "title": "经济数据难解美国经济迷雾 三大期指横盘震荡 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2231451",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
           "title": "12月16日午间收评：创业板指半日跌2.35%，全市场下跌个股超4400只",
           "url": "https://wallstreetcn.com/livenews/3021383",
           "source": "华尔街见闻-快讯",
@@ -1137,7 +1195,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1365,7 +1423,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "明年经济工作政策取向确立这八个字",
@@ -1426,8 +1484,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时32分 ~ 22时34分]"
+          "appearance_count": 10,
+          "time_info": "[13时32分 ~ 23时32分]"
         },
         {
           "title": "【数据看盘】实力游资集体出逃商业航天概念股 7.61亿元资金抢筹永辉超市",
@@ -1439,8 +1497,44 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 23时32分]"
+        },
+        {
+          "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
+          "url": "https://www.cls.cn/detail/2231203",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时35分 ~ 22时34分]"
+          "time_info": "[19时28分 ~ 23时32分]"
+        },
+        {
+          "title": "海南自贸港 12 月 18 日即将封关，「零关税」和「双 15%」个税优惠政策将有什么变化？带来哪些利好？",
+          "url": "https://www.zhihu.com/question/1982799203265713880",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 23时32分]"
+        },
+        {
+          "title": "央视曝光走私孕妇血样黑色产业链",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%B5%B0%E7%A7%81%E5%AD%95%E5%A6%87%E8%A1%80%E6%A0%B7%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "海滩枪击刺痛澳大利亚：一向严格的控枪措施出现漏洞，巴以政策或难辞其咎",
@@ -1509,18 +1603,6 @@
           "time_info": "14时46分"
         },
         {
-          "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
-          "url": "https://www.cls.cn/detail/2231203",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 22时34分]"
-        },
-        {
           "title": "德国智库ZEW：扩张性财政政策将为德国经济提供新动力。",
           "url": "https://flash.jin10.com/detail/20251216181247103800",
           "source": "金十数据",
@@ -1530,19 +1612,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
-        },
-        {
-          "title": "海南自贸港 12 月 18 日即将封关，「零关税」和「双 15%」个税优惠政策将有什么变化？带来哪些利好？",
-          "url": "https://www.zhihu.com/question/1982799203265713880",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 22时34分]"
         },
         {
           "title": "委内瑞拉外交部：欧盟制裁显示其外交政策缺乏独立性",
@@ -1605,6 +1674,17 @@
           "time_info": "18时35分"
         },
         {
+          "title": "城堡投资创始人肯·格里芬：共和党纠缠的那些政策会助涨通胀。",
+          "url": "https://flash.jin10.com/detail/20251216230831013800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：降息意味着，政策在进入2026年之际准备就绪。 关税造成的（通胀）影响在很大程度上是一次性的，预计（关税的通胀影响）将在2026年消退。 关税对通胀的影响并不会蔓延至其他领域。 必须在避免影响到就业市场的情况下实现2%通胀目标。 就业市场面临的下行风险在最近数月加重。 数据表明，劳动力需求的趋软程度超过供应（的趋软程度）。",
           "url": "https://wallstreetcn.com/livenews/3021083",
           "source": "华尔街见闻-快讯",
@@ -1636,6 +1716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
+          "url": "https://wallstreetcn.com/livenews/3021805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "主力资金流向前十大个股",
@@ -1754,7 +1845,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1809,7 +1900,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1853,7 +1944,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1902,6 +1993,17 @@
           "time_info": "15时31分"
         },
         {
+          "title": "美国国家经济委员会主任凯文·哈塞特：就业调查是根据正常程序进行的。 虽然财政政策趋紧，但就业数据保持强劲。",
+          "url": "https://wallstreetcn.com/livenews/3021785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "欧盟外交与安全政策高级代表卡拉斯：每个人都理解比利时的担忧，并愿意分担负担。",
           "url": "https://flash.jin10.com/detail/20251215234521255800",
           "source": "金十数据",
@@ -1916,7 +2018,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -1926,8 +2028,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时19分 ~ 22时34分]"
+          "appearance_count": 13,
+          "time_info": "[10时19分 ~ 23时32分]"
         },
         {
           "title": "人民币“破7”在即吗",
@@ -1981,6 +2083,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "万科提议，将12月15日到期的债券展期延长12个月。 提议在12月22日前支付6000万元人民币利息。 洗衣为债券展期采取增信措施。",
+          "url": "https://wallstreetcn.com/livenews/3021811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "沪银夜盘收涨0.7%，持稳于白天所创历史最高位15192元人民币附近",
@@ -2099,7 +2212,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2132,7 +2245,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2162,7 +2275,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -2232,7 +2345,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2254,7 +2367,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2279,6 +2392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，能源业ETF跌1.46%，全球科技股指数ETF跌1.02%，半导体ETF跌0.14%，全球航空业ETF则涨0.84%。",
+          "url": "https://wallstreetcn.com/livenews/3021783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     },
@@ -2379,7 +2503,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少42.3吨，当前持仓量为16060.6吨。欢迎点击查看数据中心…",
@@ -2437,13 +2561,24 @@
           "time_info": "06时29分"
         },
         {
+          "title": "加密货币交易所HashKey将香港IPO股票发行价定在6.68港元",
+          "url": "https://wallstreetcn.com/livenews/3021792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "<a href=\"https://www.tradinghero.com/\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/72884761-794e-4338-a569-2cbbe3e21712.jpg\" height=\"120\" /></a>",
           "url": "https://flash.jin10.com/detail/20251216215320400800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         }
