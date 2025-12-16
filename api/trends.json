@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T19:28:53.106470+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2025-12-16T21:02:42.286416+08:00",
+  "total_titles_processed": 1905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "贝莱德集团下跌1%。 据彭博报道，荷兰养老基金PME认为，贝莱德不再遵守一系列可持续目标。",
@@ -80,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -272,7 +272,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -376,6 +376,17 @@
           "time_info": "15时31分"
         },
         {
+          "title": "如何看待 2025 年 12 月 16 日 A 股行情？为何突然全线下跌？",
+          "url": "https://www.zhihu.com/question/1983679610366468134",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "MSCI亚太指数下跌1%至223.05点。",
           "url": "https://wallstreetcn.com/livenews/3021305",
           "source": "华尔街见闻-快讯",
@@ -462,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "欧元/挪威克朗上涨0.5%，至11.9917，创下4月21日以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20251216203155472800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "台湾证交所加权股价指数下跌1%至27,578.36点。",
@@ -610,7 +632,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
@@ -829,6 +851,18 @@
           "time_info": "[06时29分 ~ 07时29分]"
         },
         {
+          "title": "【焦点复盘】沪指低开低走创2个月新低，贵金属板块现深幅调整，智能驾驶概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2231107",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 21时02分]"
+        },
+        {
           "title": "芝加哥小麦期货跌1.6%，大豆油跌1.2%",
           "url": "https://wallstreetcn.com/livenews/3021160",
           "source": "华尔街见闻-快讯",
@@ -929,17 +963,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "【焦点复盘】沪指低开低走创2个月新低，贵金属板块现深幅调整，智能驾驶概念逆势爆发",
-          "url": "https://www.cls.cn/detail/2231107",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
         },
         {
           "title": "布伦特原油期货自5月以来首次跌破60美元/桶",
@@ -1096,6 +1119,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20251216201824437800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "现货黄金跌破4290美元/盎司，日内跌0.25%。",
           "url": "https://flash.jin10.com/detail/20251216003632238800",
           "source": "金十数据",
@@ -1116,6 +1150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
+        },
+        {
+          "title": "辉瑞预计2026年营收595亿美元至625亿美元，市场预期为616.3亿美元。 预计2026年调整后每股收益2.80美元至3.00美元。 预计2026年全年调整后研发费用为105亿至115亿美元。 预计将再投资5亿美元，以提升研发生产力。 辉瑞美股盘前短线走低，一度跌超1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3021669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至11月25日当周，原油投机者持有的WTI净空头头寸增加了23,210手，达到53,239手。",
@@ -1198,7 +1243,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "明年经济工作政策取向确立这八个字",
@@ -1258,19 +1303,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时32分 ~ 19时28分]"
+          "appearance_count": 8,
+          "time_info": "[13时32分 ~ 21时02分]"
         },
         {
           "title": "【数据看盘】实力游资集体出逃商业航天概念股 7.61亿元资金抢筹永辉超市",
           "url": "https://www.cls.cn/detail/2231142",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时02分]"
         },
         {
           "title": "海滩枪击刺痛澳大利亚：一向严格的控枪措施出现漏洞，巴以政策或难辞其咎",
@@ -1312,7 +1358,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1350,6 +1396,18 @@
           "time_info": "18时35分"
         },
         {
+          "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
+          "url": "https://www.cls.cn/detail/2231203",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 21时02分]"
+        },
+        {
           "title": "委内瑞拉外交部：欧盟制裁显示其外交政策缺乏独立性",
           "url": "https://wallstreetcn.com/livenews/3021636",
           "source": "华尔街见闻-快讯",
@@ -1360,6 +1418,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时35分 ~ 19时28分]"
+        },
+        {
+          "title": "海南自贸港 12 月 18 日即将封关，「零关税」和「双 15%」个税优惠政策将有什么变化？带来哪些利好？",
+          "url": "https://www.zhihu.com/question/1982799203265713880",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 21时02分]"
         },
         {
           "title": "房贷贴息政策敲定 月供能降多少",
@@ -1373,18 +1444,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时28分 ~ 07时29分]"
-        },
-        {
-          "title": "海南自贸港 12 月 18 日即将封关，「零关税」和「双 15%」个税优惠政策将有什么变化？带来哪些利好？",
-          "url": "https://www.zhihu.com/question/1982799203265713880",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时28分]"
         },
         {
           "title": "中国移动发布6G传输系统原型样机 通信板块迎产业升级机遇",
@@ -1439,7 +1498,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1466,15 +1525,15 @@
           "time_info": "14时46分"
         },
         {
-          "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
-          "url": "https://www.cls.cn/detail/2231203",
-          "source": "财联社热门",
+          "title": "美国财长贝森特：猜测美联储主席人选将于1月初公布。 本周可能还有一到两次美联储的面试。 特朗普在面试中对政策相关问题一直非常直率。 沃什和哈塞特都非常非常有资格。 贝森特否认了“哈塞特无法在美联储拥有影响力”的说法。 贝森特否认了“新任美联储主席不会保持独立性”的说法。",
+          "url": "https://wallstreetcn.com/livenews/3021694",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时28分"
+          "time_info": "21时02分"
         },
         {
           "title": "美联储威廉姆斯：就业市场逐步降温指向货币政策适度收紧。",
@@ -1497,6 +1556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "最能体现沃什政策主张的一场采访：通胀是美联储的一种选择",
+          "url": "https://wallstreetcn.com/articles/3761461",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "乌克兰总统泽连斯基：如果赔偿贷款计划失败，乌克兰将寻求替代资金方案。",
@@ -1527,7 +1597,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1582,9 +1652,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "美国财长贝森特：总统特朗普在面试中对政策相关问题一直非常直率。",
+          "url": "https://flash.jin10.com/detail/20251216203835736800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "美联储理事米兰：金融市场关注的是结果，而非政策制定者的动机。",
@@ -1626,7 +1707,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1678,7 +1759,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -1688,8 +1769,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时19分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[10时19分 ~ 21时02分]"
         },
         {
           "title": "人民币“破7”在即吗",
@@ -1713,11 +1794,12 @@
           "ranks": [
             10,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 21时02分]"
         },
         {
           "title": "人民币又大涨",
@@ -1764,7 +1846,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1818,6 +1900,19 @@
           "time_info": "[13时32分 ~ 14时46分]"
         },
         {
+          "title": "人民币汇率创下 14 个月来新高，离岸升破 7.04，在岸升破 7.05，受哪些因素影响？未来怎么走？",
+          "url": "https://www.zhihu.com/question/1984235980786525743",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时02分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0482元，较上周五夜盘收盘涨64点。成交量303.39亿美元。",
           "url": "https://wallstreetcn.com/livenews/3021143",
           "source": "华尔街见闻-快讯",
@@ -1830,18 +1925,6 @@
           "time_info": "[04时34分 ~ 05时29分]"
         },
         {
-          "title": "人民币汇率创下 14 个月来新高，离岸升破 7.04，在岸升破 7.05，受哪些因素影响？未来怎么走？",
-          "url": "https://www.zhihu.com/question/1984235980786525743",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时28分]"
-        },
-        {
           "title": "在岸人民币兑美元升至7.0428，创2024年9月30日以来最高。",
           "url": "https://wallstreetcn.com/livenews/3021316",
           "source": "华尔街见闻-快讯",
@@ -1851,6 +1934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
+        },
+        {
+          "title": "中科电气：拟在四川泸州（长江）经济开发区投资建设“年产30万吨锂离子电池负极材料一体化项目”，项目计划总投资约人民币70亿元。",
+          "url": "https://wallstreetcn.com/livenews/3021688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "上交所发布关于沐曦集成电路（上海）股份有限公司人民币普通股股票科创板上市交易的公告",
