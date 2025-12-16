@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T03:26:50.096927+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2025-12-17T04:37:52.709145+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "央视曝光走私孕妇血样黑色产业链",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "【数据看盘】实力游资集体出逃商业航天概念股 7.61亿元资金抢筹永辉超市",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -48,20 +48,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
-          "url": "https://wallstreetcn.com/livenews/3021872",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储下一任主席生变！沃什的政策主张：降息+缩表",
+          "url": "https://wallstreetcn.com/articles/3761458",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普将谈论未来展望，或许会预告新年政策。",
@@ -70,7 +71,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -88,16 +89,16 @@
           "time_info": "[00时40分 ~ 02时43分]"
         },
         {
-          "title": "美联储下一任主席生变！沃什的政策主张：降息+缩表",
-          "url": "https://wallstreetcn.com/articles/3761458",
-          "source": "华尔街见闻",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
+          "url": "https://wallstreetcn.com/livenews/3021872",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时37分]"
         },
         {
           "title": "加拿大央行行长Tiff Macklem在年终讲话里谈及2026年框架评估：对短期利率路径不予置评。 重申央行并不希望评估2%通胀目标。 央行将检查通胀与住房经适性（可负担性）之间的关联。 央行将检查自身如何在一个更加动荡的世界中实施政策。 2025年以“美国保护主义转向、贸易形势突变”为特征。",
@@ -105,11 +106,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 04时37分]"
+        },
+        {
+          "title": "美联储博斯蒂克：在2026年的预测中（点阵图）未纳入任何降息，认为经济将在约2.5%的GDP增速下表现更强劲，因此政策仍需保持限制性。",
+          "url": "https://flash.jin10.com/detail/20251217040407705800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         },
         {
           "title": "社保基金会党组：充分发挥长期资金、耐心资本作用 更好支持科技创新和产业创新深度融合",
@@ -121,6 +134,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美联储博斯蒂克：进一步降息会将货币政策推向或进入宽松领域，从而使通胀和通胀预期面临风险。",
+          "url": "https://flash.jin10.com/detail/20251217040200287800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "美联储博斯蒂克：自2017年担任亚特兰大联储主席以来，当下的政策环境是最具挑战性的。",
+          "url": "https://flash.jin10.com/detail/20251217040153787800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         },
         {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
@@ -151,9 +186,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "美联储博斯蒂克：本希望在上一次美联储会议上维持货币政策不变。",
+          "url": "https://flash.jin10.com/detail/20251217040058278800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         },
         {
           "title": "美国纽约州起诉特朗普政府阻挠电动汽车基础设施建设资金。",
@@ -162,7 +208,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -181,7 +227,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
@@ -192,8 +238,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "阿根廷比索兑美元在阿根廷央行宣布调整外汇波动区间后走弱，收盘下跌0.93%，报1美元兑1,452比索。",
@@ -215,8 +261,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "现货白银跌破63美元/盎司，日内下跌1.7%。",
@@ -229,6 +275,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时43分]"
+        },
+        {
+          "title": "上期所原油期货2502合约夜盘收跌2.24%，报422.50元人民币/桶。 沪金夜盘收跌0.14%，沪银收跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3021865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时37分]"
         },
         {
           "title": "美国原油期货自2021年以来首次跌穿55美元",
@@ -255,15 +313,15 @@
           "time_info": "[00时40分 ~ 01时31分]"
         },
         {
-          "title": "上期所原油期货2502合约夜盘收跌2.24%，报422.50元人民币/桶。 沪金夜盘收跌0.14%，沪银收跌0.24%。",
-          "url": "https://wallstreetcn.com/livenews/3021865",
+          "title": "周二（12月16日）纽约尾盘，ICE原糖期货跌0.67%，ICE白糖期货跌0.61%。 ICE阿拉比卡咖啡期货跌1.33%，咖啡“C”期货跌2.16%。罗布斯塔咖啡期货跌2.52%。 纽约可可期货涨2.08%，伦敦可可期货涨2.88%。 芝加哥WCE双低油菜籽期货跌0.70%。 ICE棉花期货跌1.30%。",
+          "url": "https://wallstreetcn.com/livenews/3021879",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时26分"
+          "time_info": "04时37分"
         },
         {
           "title": "恒指期货夜盘收跌0.13%，报25219点，低水16点。",
@@ -272,7 +330,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -313,18 +371,18 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
-          "title": "白宫新闻秘书Leavitt：希望汽油价格继续下跌。",
-          "url": "https://wallstreetcn.com/livenews/3021873",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储博斯蒂克：过去五年中基础物价水平上涨了约20%，造成了严重的痛苦，特别是对中低收入和中低财富家庭。",
+          "url": "https://flash.jin10.com/detail/20251217040832730800",
+          "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时26分"
+          "time_info": "04时37分"
         },
         {
           "title": "经济数据难解美国经济迷雾 三大期指横盘震荡 | 今夜看点",
@@ -335,8 +393,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时37分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：希望汽油价格继续下跌。",
+          "url": "https://wallstreetcn.com/livenews/3021873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时37分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.8%，创11月21日以来最差单日表现，报358.04点。 在十个板块中，北欧工业板块领跌。 军工股萨博公司跌4.8%，在一众北欧个股里表现最差。",
@@ -381,7 +451,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -403,7 +473,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -414,7 +484,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -456,19 +526,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0432元，较周一夜盘收盘涨50点。成交量353.94亿美元。",
           "url": "https://wallstreetcn.com/livenews/3021870",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时37分]"
         },
         {
           "title": "万科提议，将12月15日到期的债券展期延长12个月。 提议在12月22日前支付6000万元人民币利息。 洗衣为债券展期采取增信措施。",
@@ -487,11 +558,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B8%8D%E5%85%B7%E6%9C%89%E7%82%92%E4%BD%9C%E7%A9%BA%E9%97%B4",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 04时37分]"
         }
       ]
     },
