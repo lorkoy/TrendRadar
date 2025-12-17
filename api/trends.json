@@ -1,22 +1,46 @@
 {
-  "generated_at": "2025-12-18T01:31:32.416183+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-12-18T02:45:05.577036+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
           "url": "https://wallstreetcn.com/articles/3761550",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 02时45分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.4%，连续第四个交易日走低，报356.65点，创12月4日以来收盘新低。 在十个板块中，北欧工业板块领跌。 Beijer Ref AB跌3.0%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3022536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时45分]"
+        },
+        {
+          "title": "美国20年期国债收益率在拍卖后小幅下跌，最新报4.787%。",
+          "url": "https://flash.jin10.com/detail/20251218020710667800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时45分"
         },
         {
           "title": "俄罗斯12月15日当周消费者价格环比上涨0.05%，同比上涨5.37%。俄罗斯11月生产者价格环比下跌0.9%。",
@@ -30,24 +54,13 @@
           "time_info": "00时39分"
         },
         {
-          "title": "明晟公司MSCI北欧国家指数跌0.4%，连续第四个交易日走低，报356.65点，创12月4日以来收盘新低。 在十个板块中，北欧工业板块领跌。 Beijer Ref AB跌3.0%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3022536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
           "title": "意大利银行板块收涨超1%",
           "url": "https://wallstreetcn.com/livenews/3022533",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -58,9 +71,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "博通(AVGO.O)跌至逾3个月低点，最新下跌5.3%。",
+          "url": "https://flash.jin10.com/detail/20251218014210622800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "德国股市收跌将近0.5%，“圣诞降息”预期带动英国股指涨超0.9%，意大利银行板块涨超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3022533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "纳斯达克100指数下跌1%，创11月25日以来最低盘中水平。",
@@ -99,8 +134,19 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "万科先调整20亿债券议案解“燃眉之急” 再抛37亿中票展期方案",
+          "url": "https://www.cls.cn/detail/2232766",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
+        },
         {
           "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
           "url": "https://wallstreetcn.com/articles/3761550",
@@ -124,6 +170,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "现货白银日内暴涨3.00美元，现报66.73美元/盎司，涨幅4.71%。纽约期银突破67美元/盎司，日内涨5.81%。",
+          "url": "https://flash.jin10.com/detail/20251218014200498800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
           "title": "期货盯盘神器专属文章",
           "url": "https://flash.jin10.com/detail/20251217234926287800",
           "source": "金十数据",
@@ -137,6 +194,68 @@
       ]
     },
     {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国参议院多数议员支持9010亿美元的年度国防政策法案，投票仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20251218010740016800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "美国亚特兰大联储主席Bostic（2027年FOMC票委）：尽管很难下定论，但通胀形势比就业市场更令人担忧。 希望更加强劲的经济会缓和劳动力市场的压力。 美联储政策无助于化解结构性的就业变化。",
+          "url": "https://wallstreetcn.com/livenews/3022559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国财长贝森特：“哈塞特（可能会）担任美联储主席”的任何顾虑都是“荒诞的”。 哈塞特绝对有资格出任美联储主席，他（对FOMC货币政策立场）有自己的看法。",
+          "url": "https://wallstreetcn.com/livenews/3022527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时31分]"
+        },
+        {
+          "title": "美联储博斯蒂克：美联储的政策对结构性就业变革无济于事。",
+          "url": "https://flash.jin10.com/detail/20251218020015213800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "伊朗外交部：谴责美国对委内瑞拉的非法行径。美国奉行武力胁迫和系统性霸凌的政策，公然违反了国际法和《联合国宪章》的既定原则和规则，包括航行自由、海上安全和国际贸易自由。",
+          "url": "https://flash.jin10.com/detail/20251218012504616800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SZ SH HK",
       "match_count": 3,
       "titles": [
@@ -146,11 +265,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时45分]"
         },
         {
           "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
@@ -158,11 +278,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时45分]"
         },
         {
           "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
@@ -178,31 +299,30 @@
       ]
     },
     {
-      "keyword_group": "资金 政策 产业",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "美国参议院多数议员支持9010亿美元的年度国防政策法案，投票仍在进行中。",
-          "url": "https://flash.jin10.com/detail/20251218010740016800",
+          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251218013152524800",
           "source": "金十数据",
           "ranks": [
-            3
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时45分"
         },
         {
-          "title": "美国财长贝森特：“哈塞特（可能会）担任美联储主席”的任何顾虑都是“荒诞的”。 哈塞特绝对有资格出任美联储主席，他（对FOMC货币政策立场）有自己的看法。",
-          "url": "https://wallstreetcn.com/livenews/3022527",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251218013016003800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            19
+            24
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         }
       ]
     },
@@ -218,8 +338,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时45分]"
         }
       ]
     }
