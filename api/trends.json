@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T04:34:51.045485+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2025-12-18T05:29:37.858060+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 04时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 05时29分]"
+        },
+        {
+          "title": "半导体ETF收跌3.6%，领跌美股行业ETF，标普能源板块反弹2.2%",
+          "url": "https://wallstreetcn.com/livenews/3022615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "美国20年期国债收益率在拍卖后小幅下跌，最新报4.787%。",
@@ -110,7 +121,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -146,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "周三（12月17日）纽约尾盘，ICE美元指数涨0.24%，报98.381点，日内交投区间为98.175-98.639点，亚太时段持续走高、北京时间16:05刷新日高，经过一段时间的高位震荡之后，20:00-00:00逐步回吐涨幅。 彭博美元指数涨0.20%，报1207.27点，日内交投区间为1204.77-1209.06点。",
+          "url": "https://wallstreetcn.com/livenews/3022596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "博通(AVGO.O)跌至逾3个月低点，最新下跌5.3%。",
@@ -206,7 +228,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国天然气期货在结算后交易中延续涨势，上涨5%，因流向液化天然气出口设施的气流接近历史高位，且预计下周需求将进一步增加。",
@@ -215,18 +237,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "周三（12月17日）纽约尾盘，彭博谷物分类指数涨0.15%，报29.0534点。 CBOT玉米期货涨0.97%，CBOT小麦期货跌0.64%。 CBOT大豆期货跌0.29%，豆粕期货跌1.44%，豆油期货涨0.36%。 CBOT瘦肉猪期货跌1.95%，活牛期货跌0.53%，饲牛期货跌0.21%。",
-          "url": "https://wallstreetcn.com/livenews/3022591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -238,8 +249,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时44分 ~ 04时34分]"
+          "appearance_count": 5,
+          "time_info": "[02时44分 ~ 05时29分]"
+        },
+        {
+          "title": "周三（12月17日）纽约尾盘，彭博谷物分类指数涨0.15%，报29.0534点。 CBOT玉米期货涨0.97%，CBOT小麦期货跌0.64%。 CBOT大豆期货跌0.29%，豆粕期货跌1.44%，豆油期货涨0.36%。 CBOT瘦肉猪期货跌1.95%，活牛期货跌0.53%，饲牛期货跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3022591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时29分]"
+        },
+        {
+          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
+          "url": "https://wallstreetcn.com/articles/3761532",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 05时29分]"
         },
         {
           "title": "恒指期货夜盘收跌0.57%，报25304点，低水165点。",
@@ -254,15 +288,16 @@
           "time_info": "[03时27分 ~ 04时34分]"
         },
         {
-          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
-          "url": "https://wallstreetcn.com/articles/3761532",
-          "source": "华尔街见闻",
+          "title": "美国原油期货收盘反弹1.2%，纽约天然气涨超3.5%",
+          "url": "https://wallstreetcn.com/livenews/3022586",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时34分]"
+          "time_info": "[04时34分 ~ 05时29分]"
         },
         {
           "title": "秘鲁央行：在现货市场买入2.89亿美元。",
@@ -300,15 +335,15 @@
           "time_info": "00时39分"
         },
         {
-          "title": "美国原油期货收盘反弹1.2%，纽约天然气涨超3.5%",
-          "url": "https://wallstreetcn.com/livenews/3022586",
+          "title": "美国商品期货交易委员会（CFTC），截至12月2日当周，COMEX白银投机者将净多头头寸增加1,127手至21,254手。",
+          "url": "https://wallstreetcn.com/livenews/3022604",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时34分"
+          "time_info": "05时29分"
         },
         {
           "title": "现货白银日内暴涨3.00美元，现报66.73美元/盎司，涨幅4.71%。纽约期银突破67美元/盎司，日内涨5.81%。",
@@ -320,6 +355,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，原油投机者将WTI原油净空头头寸减少2,312手，至50,928手。",
+          "url": "https://flash.jin10.com/detail/20251218043241837800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX黄金投机者将净多头头寸增加11,832手，至119,808手。",
+          "url": "https://flash.jin10.com/detail/20251218043056017800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX白银投机者将净多头头寸增加1,127手，至21,254手。",
+          "url": "https://flash.jin10.com/detail/20251218043047902800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX铜投机者将净多头头寸增加5,708手，至64,204手。",
+          "url": "https://flash.jin10.com/detail/20251218043016498800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "期货盯盘神器专属文章",
@@ -335,8 +414,91 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251218050532569800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
+          "url": "https://wallstreetcn.com/livenews/3022611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251218050513464800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后涨6%。",
+          "url": "https://flash.jin10.com/detail/20251218050240044800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
+          "url": "https://flash.jin10.com/detail/20251218050114407800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251218013152524800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251218013016003800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国参议院多数议员支持9010亿美元的年度国防政策法案，投票仍在进行中。",
@@ -375,6 +537,17 @@
           "time_info": "[00时39分 ~ 01时31分]"
         },
         {
+          "title": "美国总统特朗普在自家社交媒体平台谈论NBC和ABC，称：电视网络占用公共电波资源应当获得适当的许可证。 该行业应该支付“大量资金”，它们应该为了这个有价值的空间付费。",
+          "url": "https://wallstreetcn.com/livenews/3022602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
           "title": "美联储博斯蒂克：美联储的政策对结构性就业变革无济于事。",
           "url": "https://flash.jin10.com/detail/20251218020015213800",
           "source": "金十数据",
@@ -403,17 +576,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "亿万富翁Jared Isaacman被国会山确认为美国国家航空航天局（NASA）局长。 Isaacman是马斯克旗下SpaceX的宇航员，也是Shift4 Payments Inc.的创始人。",
-          "url": "https://wallstreetcn.com/livenews/3022593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
           "url": "https://wallstreetcn.com/livenews/3022530",
           "source": "华尔街见闻-快讯",
@@ -440,6 +602,18 @@
           "time_info": "[00时39分 ~ 02时45分]"
         },
         {
+          "title": "亿万富翁Jared Isaacman被国会山确认为美国国家航空航天局（NASA）局长。 Isaacman是马斯克旗下SpaceX的宇航员，也是Shift4 Payments Inc.的创始人。",
+          "url": "https://wallstreetcn.com/livenews/3022593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时29分]"
+        },
+        {
           "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
           "url": "https://flash.jin10.com/detail/20251218000152068800",
           "source": "金十数据",
@@ -464,8 +638,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 05时29分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0450元，较周二夜盘收盘跌18点。成交量377.88亿美元。",
@@ -482,30 +656,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
+      "keyword_group": "美债",
+      "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251218013152524800",
-          "source": "金十数据",
+          "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",
+          "url": "https://wallstreetcn.com/livenews/3022598",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251218013016003800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "05时29分"
         }
       ]
     }
