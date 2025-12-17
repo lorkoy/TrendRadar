@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T13:32:26.393537+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2025-12-17T14:45:47.521555+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时08分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 14时45分]"
         },
         {
           "title": "【焦点复盘】沪指低开低走创2个月新低，贵金属板块现深幅调整，智能驾驶概念逆势爆发",
@@ -99,7 +99,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -343,7 +343,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -387,9 +387,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "中证500股指期货（IC）主力合约日内涨超2.00%，现报7145.6点。",
+          "url": "https://flash.jin10.com/detail/20251217140604660800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.12%，10年期主力合约涨0.04%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。",
@@ -414,13 +425,24 @@
           "time_info": "10时09分"
         },
         {
+          "title": "沪深300股指期货（IF）主力合约日内涨超2.00%，现报4584.6点。上证50股指期货（IH）主力合约突破3000点，日内涨1.87%。",
+          "url": "https://flash.jin10.com/detail/20251217140412131800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "现货黄金短线走高10美元，向上触及4330美元/盎司，日内涨0.64%。",
           "url": "https://flash.jin10.com/detail/20251217124242311800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -458,6 +480,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "中证500股指期货（IC）主力合约日内涨幅达1.00%，现报7075.6点。",
+          "url": "https://flash.jin10.com/detail/20251217134857237800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "沪银期货主力合约日内涨超4%，报15358元/千克。",
           "url": "https://wallstreetcn.com/livenews/3022080",
           "source": "华尔街见闻-快讯",
@@ -480,6 +513,28 @@
           "time_info": "11时58分"
         },
         {
+          "title": "现货黄金向上触及4340美元/盎司，日内涨0.88%。",
+          "url": "https://flash.jin10.com/detail/20251217134707440800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "日本央行前副行长、政府小组成员若田部昌澄：鉴于中性利率水平，日本央行应避免过早加息和过度调整货币支持。",
+          "url": "https://flash.jin10.com/detail/20251217134653700800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "多家银行调整代理上金所贵金属业务，重点“清理”无持仓不动户",
           "url": "https://wallstreetcn.com/livenews/3021940",
           "source": "华尔街见闻-快讯",
@@ -489,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "现货白银日内涨超4%，刷新历史高点至66.43美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3022157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "商品期货开盘，钯、铂、乙二醇、焦炭、集运欧线主力合约涨超1%。LU燃油跌超2%，原油、棕榈油、菜籽油、沪锌、豆二跌超1%。",
@@ -527,7 +593,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
@@ -595,7 +661,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -606,7 +672,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -622,15 +688,15 @@
           "time_info": "03时26分"
         },
         {
-          "title": "日本首相高市早苗：我们将通过提振经济、改善企业盈利、借助薪资上涨提高家庭收入，以此增加税收收入，从而实现可持续的财政政策与社会保障体系。",
-          "url": "https://wallstreetcn.com/livenews/3022144",
+          "title": "西安：到2027年全市生物医药产业规模达到400亿元",
+          "url": "https://wallstreetcn.com/livenews/3022191",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "14时45分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
@@ -671,6 +737,18 @@
           "time_info": "[12时41分 ~ 13时32分]"
         },
         {
+          "title": "日本首相高市早苗：我们将通过提振经济、改善企业盈利、借助薪资上涨提高家庭收入，以此增加税收收入，从而实现可持续的财政政策与社会保障体系。",
+          "url": "https://wallstreetcn.com/livenews/3022144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 14时45分]"
+        },
+        {
           "title": "加拿大央行行长Tiff Macklem在年终讲话里谈及2026年框架评估：对短期利率路径不予置评。 重申央行并不希望评估2%通胀目标。 央行将检查通胀与住房经适性（可负担性）之间的关联。 央行将检查自身如何在一个更加动荡的世界中实施政策。 2025年以“美国保护主义转向、贸易形势突变”为特征。",
           "url": "https://wallstreetcn.com/livenews/3021852",
           "source": "华尔街见闻-快讯",
@@ -682,6 +760,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时37分]"
+        },
+        {
+          "title": "我国又一侵入式脑机接口产品获批 脑机接口迎来产业加速发展期",
+          "url": "https://www.cls.cn/detail/2231624",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 14时45分]"
         },
         {
           "title": "美联储博斯蒂克：在2026年的预测中（点阵图）未纳入任何降息，认为经济将在约2.5%的GDP增速下表现更强劲，因此政策仍需保持限制性。",
@@ -705,18 +795,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时08分 ~ 10时09分]"
-        },
-        {
-          "title": "我国又一侵入式脑机接口产品获批 脑机接口迎来产业加速发展期",
-          "url": "https://www.cls.cn/detail/2231624",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时32分]"
         },
         {
           "title": "阿根廷国家石油公司YPF：摩根大通将联系（至少）数百家银行和投资基金，设法为阿根廷顶级液化天然气（LNG）出口计划招揽大约140亿美元资金。",
@@ -800,15 +878,48 @@
           "time_info": "07时28分"
         },
         {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20251217141027164800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "我国下达2026年医保财政补助及建设资金4166亿元",
           "url": "https://wallstreetcn.com/livenews/3022136",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "高市政府政策小组委员：日本央行应避免过早加息",
+          "url": "https://flash.jin10.com/detail/20251217135954040800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "日本央行前副行长、政府小组成员若田部昌澄：若日本中性利率因为财政政策、增长策略而提高，日本央行自然可以就加息。",
+          "url": "https://flash.jin10.com/detail/20251217134809409800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
@@ -855,6 +966,17 @@
           "time_info": "11时58分"
         },
         {
+          "title": "日本央行前副行长、政府小组成员若田部昌澄：日本必须通过财政政策、增长策略提高中性利率。 若日本中性利率因为财政政策、增长策略而提高，日本央行自然可以升息。 鉴于中性利率水平，日本央行应避免过早加息和过度紧缩。 高市经济学带有安倍经济学的成分，但更加着重于强化经济供应面。",
+          "url": "https://wallstreetcn.com/livenews/3022165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "加央行行长：政策框架审查需考虑“更易遭受冲击”的经济格局",
           "url": "https://flash.jin10.com/detail/20251217023046706800",
           "source": "金十数据",
@@ -877,6 +999,17 @@
           "time_info": "04时37分"
         },
         {
+          "title": "韩国产业通商资源部长官：韩国锌业在美国的冶炼厂将有助于韩国的供应链。",
+          "url": "https://flash.jin10.com/detail/20251217134634605800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "美国纽约州起诉特朗普政府阻挠电动汽车基础设施建设资金。",
           "url": "https://flash.jin10.com/detail/20251217022052073800",
           "source": "金十数据",
@@ -886,6 +1019,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "韩国央行行长李昌镛：韩元走弱在很大程度上是由国内因素导致的。 外汇政策可以同时解决波动性和水平问题。 考虑到价格和增长风险，目前的汇率水平不太理想。",
+          "url": "https://wallstreetcn.com/livenews/3022152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策（关税和移民）会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
@@ -902,7 +1046,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "经济数据难解美国经济迷雾 三大期指横盘震荡 | 今夜看点",
@@ -930,13 +1074,24 @@
           "time_info": "10时09分"
         },
         {
+          "title": "日经225指数收盘上涨0.3%，报49512.28点。日本东证指数收跌0.03%。 韩国首尔综合指数收涨1.43%。",
+          "url": "https://wallstreetcn.com/livenews/3022194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "日本国债下跌，市场担心债券发行可能增加",
           "url": "https://flash.jin10.com/detail/20251217130142102800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -1154,6 +1309,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "创业板指涨超3%，沪指涨1.32%，深成指涨2.31%，算力硬件、锂电、大金融、大消费等方向涨幅居前，沪深京三市上涨个股超3300只。",
+          "url": "https://wallstreetcn.com/livenews/3022177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "上证指数开盘报3822.51点，跌0.06%。 深证成指开盘报12927.39点，涨0.10%。 创业板指开盘报3072.62点，涨0.03%。 沪深300开盘报4499.77点，涨0.05%。 科创50开盘报1294.70点，涨0.10%。 中证500开盘报7002.51点，涨0.02%。 中证1000开盘报7178.31点，跌0.05%。",
           "url": "https://wallstreetcn.com/livenews/3022020",
           "source": "华尔街见闻-快讯",
@@ -1198,6 +1364,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "沪指涨幅扩大至1%，深成指涨1.81%，创业板指涨2.38%，算力硬件、有色金属、锂电、大金融等方向涨幅居前，沪深京三市上涨个股近2300只。",
+          "url": "https://wallstreetcn.com/livenews/3022169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "辉瑞(PFE.N)股价下跌5.2%，创4月10日以来最大盘中跌幅。",
           "url": "https://flash.jin10.com/detail/20251216234024570800",
           "source": "金十数据",
@@ -1218,6 +1395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.58%，深成指涨1.38%，锂矿、算力硬件、保险、大消费等方向涨幅居前，沪深京三市上涨个股超1600只。",
+          "url": "https://wallstreetcn.com/livenews/3022164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "美国11月非农就业报告发布日，标普500指数收跌16.25点，跌幅0.24%，连续第三个交易日走低（期内累计下挫1.46%），报6800.26点，能源板块跌3%创4月份以来最差单日表现。 道琼斯工业平均指数收跌302.30点，跌幅0.62%，报48114.26点。 纳斯达克综合指数（纳指）收涨54.049点，涨幅0.23%，报23111.462点。 纳斯达克100指数收涨65.675点，涨幅0.26%，报25132.94点。",
@@ -1290,8 +1478,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 14时45分]"
         },
         {
           "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
@@ -1414,8 +1602,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 14时45分]"
         },
         {
           "title": "央行：数字人民币不具有炒作空间",
@@ -1496,6 +1684,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "如何评价小米开源的 MiMo-V2-Flash 大模型，表现如何?",
+          "url": "https://www.zhihu.com/question/1984395856611394540",
+          "source": "知乎",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 14时45分]"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日减少42.31吨，当前持仓量为16018.29吨。欢迎点击查看数据中心…",
           "url": "https://flash.jin10.com/detail/20251217065001785800",
           "source": "金十数据",
@@ -1505,17 +1705,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "如何评价小米开源的 MiMo-V2-Flash 大模型，表现如何?",
-          "url": "https://www.zhihu.com/question/1984395856611394540",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时08分 ~ 13时32分]"
         },
         {
           "title": "Doordash在美国旧金山和纽约市测试基于AI的、用于发现餐厅的APP。",
