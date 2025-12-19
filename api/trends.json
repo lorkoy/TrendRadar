@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T19:27:00.450623+08:00",
-  "total_titles_processed": 1813,
+  "generated_at": "2025-12-19T20:59:16.436761+08:00",
+  "total_titles_processed": 1928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "通胀超预期放缓！美国11月核心CPI同比上涨2.6%，创2021年以来最低水平",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时41分 ~ 19时27分]"
+          "appearance_count": 24,
+          "time_info": "[00时41分 ~ 20时59分]"
         },
         {
           "title": "城乡居民养老金将迎第八次上涨",
@@ -28,11 +28,12 @@
           "ranks": [
             1,
             5,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 19时27分]"
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 20时59分]"
         },
         {
           "title": "城乡居民养老金将迎第八次上涨",
@@ -41,11 +42,12 @@
           "ranks": [
             28,
             2,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 19时27分]"
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 20时59分]"
         },
         {
           "title": "经历白银创纪录上涨后，分析师建议：是时候获利了结了",
@@ -57,6 +59,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时01分 ~ 18时33分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡反弹小幅收红，海南概念股午后走强，多只高位股尾盘跳水",
+          "url": "https://www.cls.cn/detail/2234764",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 20时59分]"
         },
         {
           "title": "A股收评：全市近4500只个股上涨",
@@ -114,19 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
-        },
-        {
-          "title": "【每日收评】三大指数震荡反弹小幅收红，海南概念股午后走强，多只高位股尾盘跳水",
-          "url": "https://www.cls.cn/detail/2234764",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 19时27分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月18日（周四）晚盘收盘上涨0.14%报976.0元/克；<br/>上海黄金交易所白银T+D 12月18日（周四）晚盘收盘下跌1.48%报15235.0元/千克。",
@@ -374,6 +376,17 @@
           "time_info": "12时02分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 12月19日（周五）晚盘盘初暂无成交；<br/>上海黄金交易所白银T+D 12月19日（周五）晚盘盘初上涨1.03%报15373.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251219200701165800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "高盛：预计布伦特原油和WTI原油价格将进一步下跌，到2026年的平均价格分别为56美元/桶和52美元/通。 预计油价将在2026年第四季度回升，因为市场开始定价2027年下半年重新出现供应短缺，并将关注重点转向激励长周期产能投产。",
           "url": "https://wallstreetcn.com/livenews/3023287",
           "source": "华尔街见闻-快讯",
@@ -575,8 +588,19 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "植田和男：宽松政策调整步伐取决未来数据，但若加息行动过迟，未来或被迫大幅快速加息",
+          "url": "https://wallstreetcn.com/articles/3761707",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 20时59分]"
+        },
         {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251219113117109800",
@@ -609,17 +633,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
-        },
-        {
-          "title": "植田和男：宽松政策调整步伐取决未来数据，但若加息行动过迟，未来或被迫大幅快速加息",
-          "url": "https://wallstreetcn.com/articles/3761707",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 19时27分]"
         },
         {
           "title": "国债期货午盘收盘",
@@ -717,6 +730,17 @@
           "time_info": "[04时29分 ~ 05时25分]"
         },
         {
+          "title": "欧股下跌，纳指100期货上涨，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
           "title": "日央行加息引爆市场！10年期日债收益率飙破2%创18年新高，日元跌破157关口，纳指100期货上涨，黄金回落至4330美元",
           "url": "https://wallstreetcn.com/articles/3761704",
           "source": "华尔街见闻",
@@ -774,6 +798,17 @@
           "time_info": "15时29分"
         },
         {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20251219202113635800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "恒指期货夜盘收涨0.63%，报25675点，高水177点。",
           "url": "https://flash.jin10.com/detail/20251219030046139800",
           "source": "金十数据",
@@ -783,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "广期所调整碳酸锂期货相关合约交易限额",
+          "url": "https://wallstreetcn.com/livenews/3023958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "国债期货开盘，30年期主力合约跌0.14%，10年期主力合约跌0.02%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
@@ -835,7 +881,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -857,7 +903,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -871,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "广期所：调整碳酸锂期货相关合约交易限额",
+          "url": "https://flash.jin10.com/detail/20251219200559638800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "秘鲁央行表示在现货市场买入2.4亿美元。",
@@ -1055,7 +1112,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         }
@@ -1063,7 +1120,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
@@ -1097,8 +1154,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 19时27分]"
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 20时59分]"
         },
         {
           "title": "资金充裕令杠杆交易有所抬头，中国全市场隔夜质押式回购成交量周四升至逾5个月高位。",
@@ -1383,6 +1440,17 @@
           "time_info": "15时29分"
         },
         {
+          "title": "支持游戏产业发展 上海首次发布“游十条”",
+          "url": "https://wallstreetcn.com/livenews/3023943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "特朗普政府提议出台新规，禁止为患者提供性别肯定医疗的医院参与联邦医疗保险或医疗补助资金项目。",
           "url": "https://flash.jin10.com/detail/20251219001853070800",
           "source": "金十数据",
@@ -1400,7 +1468,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -1455,7 +1523,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -1469,6 +1537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "斯洛伐克总理：反对进一步为乌克兰军事需求提供资金",
+          "url": "https://wallstreetcn.com/livenews/3023933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "日本央行：若经济和物价走势与预测一致，并随着经济和物价的改善，将继续上调政策利率。",
@@ -1530,8 +1609,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时13分 ~ 19时27分]"
+          "appearance_count": 14,
+          "time_info": "[10时13分 ~ 20时59分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -1688,8 +1767,117 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
+          "url": "https://wallstreetcn.com/livenews/3023315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 05时25分]"
+        },
+        {
+          "title": "美国国防部：美国总统特朗普提名乔舒亚·鲁德（Joshua Rudd）晋升至将军级别，并任命其为国家安全局局长。",
+          "url": "https://flash.jin10.com/detail/20251219023726213800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时23分]"
+        },
+        {
+          "title": "苏扎克糖业股份德国法兰克福股价（SZU.GR）收涨0.22%，报9.055（欧元），欧股盘初一度跌至8.930，逼平12月17日所创2008年以来最低位，糖市表现疲软，让该公司发出预警。 SuedzuckerAG预计2026/27年度营收将略微下滑，称市场上那些“高度挑战性的”条件将顽固地存在。",
+          "url": "https://wallstreetcn.com/livenews/3023279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时23分]"
+        },
+        {
+          "title": "据港交所文件，截至12月15日，贝莱德在美团(03690.HK)的多头头寸由5.84%增至6.37%。",
+          "url": "https://flash.jin10.com/detail/20251219203847690800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "据港交所文件，贝莱德在赣锋锂业(01772.HK) H股中的多头头寸于12月15日从5.86%增至6.48%。",
+          "url": "https://flash.jin10.com/detail/20251219203820434800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "T&D资产管理公司首席策略师Hiroshi Namioka：如果日元继续从现在开始走弱，我认为日本央行行长植田和男将在新闻发布会上采取更强硬的语气。",
+          "url": "https://flash.jin10.com/detail/20251219123239677800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "腾讯控股(00700.HK)12月19日耗资约6.4亿港元回购103.8万股股份。",
+          "url": "https://flash.jin10.com/detail/20251219175914597800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.97%，报7574.16点。 热门中概股里，小鹏涨2.7%，美团、腾讯、文远知行、蔚来、网易、百胜中国至多涨1.7%，拼多多涨0.8%，新东方、理想、阿里至少涨约0.2%。 ETF中，中概互联网指数ETF（KWEB）收涨0.95%，中国科技指数ETF（CQQQ）收涨0.57%。 XtrackersHarvest中证50（ASHS）收涨0.25%，德银嘉实沪深300指数ETF（ASHR）收涨0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3023341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "日本考虑取消针对美国制造汽车的额外测试。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3023526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
@@ -1699,8 +1887,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时13分 ~ 19时27分]"
+          "appearance_count": 14,
+          "time_info": "[10时13分 ~ 20时59分]"
         },
         {
           "title": "“三巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
@@ -1724,6 +1912,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时29分]"
+        },
+        {
+          "title": "人民币现金收付新规发布",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E7%8E%B0%E9%87%91%E6%94%B6%E4%BB%98%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "商务部：2025年1-11月全国吸收外资6931.8亿元人民币",
@@ -1779,93 +1978,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
-          "url": "https://wallstreetcn.com/livenews/3023315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时23分 ~ 05时25分]"
-        },
-        {
-          "title": "美国国防部：美国总统特朗普提名乔舒亚·鲁德（Joshua Rudd）晋升至将军级别，并任命其为国家安全局局长。",
-          "url": "https://flash.jin10.com/detail/20251219023726213800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时23分]"
-        },
-        {
-          "title": "苏扎克糖业股份德国法兰克福股价（SZU.GR）收涨0.22%，报9.055（欧元），欧股盘初一度跌至8.930，逼平12月17日所创2008年以来最低位，糖市表现疲软，让该公司发出预警。 SuedzuckerAG预计2026/27年度营收将略微下滑，称市场上那些“高度挑战性的”条件将顽固地存在。",
-          "url": "https://wallstreetcn.com/livenews/3023279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时23分]"
-        },
-        {
-          "title": "T&D资产管理公司首席策略师Hiroshi Namioka：如果日元继续从现在开始走弱，我认为日本央行行长植田和男将在新闻发布会上采取更强硬的语气。",
-          "url": "https://flash.jin10.com/detail/20251219123239677800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "腾讯控股(00700.HK)12月19日耗资约6.4亿港元回购103.8万股股份。",
-          "url": "https://flash.jin10.com/detail/20251219175914597800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.97%，报7574.16点。 热门中概股里，小鹏涨2.7%，美团、腾讯、文远知行、蔚来、网易、百胜中国至多涨1.7%，拼多多涨0.8%，新东方、理想、阿里至少涨约0.2%。 ETF中，中概互联网指数ETF（KWEB）收涨0.95%，中国科技指数ETF（CQQQ）收涨0.57%。 XtrackersHarvest中证50（ASHS）收涨0.25%，德银嘉实沪深300指数ETF（ASHR）收涨0.18%。",
-          "url": "https://wallstreetcn.com/livenews/3023341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "日本考虑取消针对美国制造汽车的额外测试。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3023526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         }
       ]
     },
