@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T12:02:07.884687+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2025-12-19T13:31:43.131730+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "通胀超预期放缓！美国11月核心CPI同比上涨2.6%，创2021年以来最低水平",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 12时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 13时31分]"
         },
         {
           "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。",
@@ -38,9 +38,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "20年期日本国债收益率上涨3个基点至2.965%，创纪录新高。",
+          "url": "https://flash.jin10.com/detail/20251219125405356800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月18日（周四）晚盘收盘上涨0.14%报976.0元/克；<br/>上海黄金交易所白银T+D 12月18日（周四）晚盘收盘下跌1.48%报15235.0元/千克。",
@@ -101,6 +112,28 @@
           "time_info": "[06时29分 ~ 07时28分]"
         },
         {
+          "title": "10年期日本国债收益率上涨4.5个基点至2.010%，为1999年来最高水平。",
+          "url": "https://flash.jin10.com/detail/20251219125320957800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数收盘上涨0.5%至8,628.20点。",
+          "url": "https://wallstreetcn.com/livenews/3023594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "美国CPI通胀报告出炉当天，标普500指数初步收涨0.8%，可选消费板块涨1.9%，电信、科技板块涨1.5%，能源板块跌1.4%。 纳斯达克100指数初步收涨1.5%，成分股中，美光科技涨10.4%，拉姆研究涨6.5%，核电股CEG涨6.1%，Applovin、星巴克、Palantir、科磊、Doordash、特斯拉至少涨3.9%，贝克休斯则跌1.8%，PAYX跌2.1%，华纳兄弟探索WBD跌2.3%，Diamondback Energy跌4.9%。 亚马逊初步收涨2.5%，英伟达涨2%，Merck涨1.8%，微软涨1.7%，领跑道指成分股，联合健康、雪佛龙、宝洁则跌超1%。 半导体指数中行2.5%。",
           "url": "https://wallstreetcn.com/livenews/3023339",
           "source": "华尔街见闻-快讯",
@@ -118,7 +151,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -129,7 +162,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -162,7 +195,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -206,9 +239,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "10年期日本国债收益率上涨4.0个基点至2.005%。",
+          "url": "https://flash.jin10.com/detail/20251219121858376800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "12月19日午间收评：深成指、创业板指均涨近1%，大消费板块再度爆发",
@@ -217,7 +261,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -242,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "金十图示：2025年12月19日（周五）富时中国A50指数成分股午盘收盘行情一览：家电、通讯设备、电池板块走高，电力、煤炭板块走低",
+          "url": "https://flash.jin10.com/detail/20251219115740161800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "美国CPI通胀报告发布当天，标普500指数收涨53.33点，涨幅0.79%，结束此前连续四个交易日下跌的趋势，报6774.76点。 道琼斯工业平均指数收涨65.88点，涨幅0.14%，报47951.85点。 纳斯达克综合指数（纳指）收涨313.038点，涨幅1.38%，报23006.361点。 纳斯达克100指数收涨371.761点，涨幅1.51%，报25019.367点。",
@@ -277,13 +332,24 @@
           "time_info": "05时25分"
         },
         {
+          "title": "印度卢比兑美元突破90关口，日内上涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20251219115023510800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "隔夜SHIBOR报1.2733%，上涨0.03个基点。 7天SHIBOR报1.4311%，上涨0.51个基点。 3个月SHIBOR报1.6022%，下降0.08个基点。",
           "url": "https://wallstreetcn.com/livenews/3023516",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
@@ -291,7 +357,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "国债期货早盘收盘",
@@ -300,7 +366,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -311,7 +377,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -439,7 +505,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -461,7 +527,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -475,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "10年期日债期货价格跌至2008年6月来最低水平。",
+          "url": "https://flash.jin10.com/detail/20251219115844706800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "美国天然气期货日内走低3.00%，现报3.903美元/百万英热。",
@@ -505,7 +582,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -568,7 +645,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
@@ -603,6 +680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "俄罗斯总统普京特使德米特里耶夫：（就欧盟峰会的决定回应）这是对以失败的冯德莱恩为首的欧盟好战派的重大打击。欧盟内部的理性声音阻止了非法动用俄罗斯储备资金用于援助乌克兰。",
+          "url": "https://flash.jin10.com/detail/20251219130245397800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "据知情人士透露，一家由加密货币挖矿公司TeraWulf Inc.和云计算初创公司Fluidstack Ltd.间接拥有的公司，正在发行12.8亿美元五年期高级担保票据，用于为美国得克萨斯州阿伯内西（Abernathy）在建的一个数据中心提供部分资金。该交易预计将于周四定价，债券收益率可能在7.25%左右。（彭博）",
@@ -716,7 +804,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -749,7 +837,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -760,7 +848,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -771,7 +859,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -782,7 +870,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -793,7 +881,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
@@ -837,8 +925,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 13时31分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -862,6 +950,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时29分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 13时31分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）热门中概股行情一览（美股收盘）",
@@ -898,18 +998,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 12时02分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超3.4%，亚马逊涨约2.5%，谷歌和英伟达涨约1.9%",
@@ -970,6 +1058,82 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
+          "url": "https://wallstreetcn.com/livenews/3023315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 05时25分]"
+        },
+        {
+          "title": "美国国防部：美国总统特朗普提名乔舒亚·鲁德（Joshua Rudd）晋升至将军级别，并任命其为国家安全局局长。",
+          "url": "https://flash.jin10.com/detail/20251219023726213800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时23分]"
+        },
+        {
+          "title": "苏扎克糖业股份德国法兰克福股价（SZU.GR）收涨0.22%，报9.055（欧元），欧股盘初一度跌至8.930，逼平12月17日所创2008年以来最低位，糖市表现疲软，让该公司发出预警。 SuedzuckerAG预计2026/27年度营收将略微下滑，称市场上那些“高度挑战性的”条件将顽固地存在。",
+          "url": "https://wallstreetcn.com/livenews/3023279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时23分]"
+        },
+        {
+          "title": "T&D资产管理公司首席策略师Hiroshi Namioka：如果日元继续从现在开始走弱，我认为日本央行行长植田和男将在新闻发布会上采取更强硬的语气。",
+          "url": "https://flash.jin10.com/detail/20251219123239677800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.97%，报7574.16点。 热门中概股里，小鹏涨2.7%，美团、腾讯、文远知行、蔚来、网易、百胜中国至多涨1.7%，拼多多涨0.8%，新东方、理想、阿里至少涨约0.2%。 ETF中，中概互联网指数ETF（KWEB）收涨0.95%，中国科技指数ETF（CQQQ）收涨0.57%。 XtrackersHarvest中证50（ASHS）收涨0.25%，德银嘉实沪深300指数ETF（ASHR）收涨0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3023341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "日本考虑取消针对美国制造汽车的额外测试。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3023526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 6,
       "titles": [
@@ -981,8 +1145,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 13时31分]"
         },
         {
           "title": "“三巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
@@ -1039,71 +1203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
-          "url": "https://wallstreetcn.com/livenews/3023315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时23分 ~ 05时25分]"
-        },
-        {
-          "title": "美国国防部：美国总统特朗普提名乔舒亚·鲁德（Joshua Rudd）晋升至将军级别，并任命其为国家安全局局长。",
-          "url": "https://flash.jin10.com/detail/20251219023726213800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时23分]"
-        },
-        {
-          "title": "苏扎克糖业股份德国法兰克福股价（SZU.GR）收涨0.22%，报9.055（欧元），欧股盘初一度跌至8.930，逼平12月17日所创2008年以来最低位，糖市表现疲软，让该公司发出预警。 SuedzuckerAG预计2026/27年度营收将略微下滑，称市场上那些“高度挑战性的”条件将顽固地存在。",
-          "url": "https://wallstreetcn.com/livenews/3023279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时23分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.97%，报7574.16点。 热门中概股里，小鹏涨2.7%，美团、腾讯、文远知行、蔚来、网易、百胜中国至多涨1.7%，拼多多涨0.8%，新东方、理想、阿里至少涨约0.2%。 ETF中，中概互联网指数ETF（KWEB）收涨0.95%，中国科技指数ETF（CQQQ）收涨0.57%。 XtrackersHarvest中证50（ASHS）收涨0.25%，德银嘉实沪深300指数ETF（ASHR）收涨0.18%。",
-          "url": "https://wallstreetcn.com/livenews/3023341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "日本考虑取消针对美国制造汽车的额外测试。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3023526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         }
       ]
     },
