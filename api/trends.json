@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T15:27:08.861330+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2025-12-21T16:36:22.531499+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             17,
             15,
             10,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时25分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[10时25分 ~ 16时36分]"
         },
         {
           "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
@@ -46,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时04分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时04分 ~ 16时36分]"
         },
         {
           "title": "乌克兰总统泽连斯基：欧盟关于对乌克兰提供资金的决定增强了乌克兰在谈判中的实力。",
@@ -107,11 +108,12 @@
           "ranks": [
             2,
             17,
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 16时36分]"
         },
         {
           "title": "东吴证券首席战略官、研究所联席所长孙婷明确表示，券商股的风向标属性并未消失，但其信号意义趋于弱化，而保险股与市场的紧密联动，则更多源于会计准则的变化。（上证报）",
@@ -173,11 +175,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 15时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时36分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -186,11 +189,24 @@
           "ranks": [
             4,
             9,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时30分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 16时36分]"
+        },
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 16时36分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -203,17 +219,46 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 07时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "南华期货：全球发售超10亿股H股，所得款项净额估计为12.03亿港元",
+          "url": "https://wallstreetcn.com/livenews/3024407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
+          "title": "南华期货：境外孙公司获新加坡交易所交易及清算会员资格",
+          "url": "https://wallstreetcn.com/livenews/3024406",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "王一博身心疲惫正调整状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BA%AB%E5%BF%83%E7%96%B2%E6%83%AB%E6%AD%A3%E8%B0%83%E6%95%B4%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 12时05分]"
         }
       ]
     },
@@ -239,11 +284,12 @@
           "ranks": [
             17,
             20,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 15时27分]"
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 16时36分]"
         },
         {
           "title": "金价又涨了",
@@ -260,20 +306,30 @@
       ]
     },
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 1,
+      "keyword_group": "人民币",
+      "match_count": 2,
       "titles": [
         {
-          "title": "王一博身心疲惫正调整状态",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BA%AB%E5%BF%83%E7%96%B2%E6%83%AB%E6%AD%A3%E8%B0%83%E6%95%B4%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "如果人民币开始持续升值......",
+          "url": "https://wallstreetcn.com/articles/3761793",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            16
+            6
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 12时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "中信证券：推动人民币升值的因素逐渐增多，可关注三条线索",
+          "url": "https://wallstreetcn.com/livenews/3024396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
