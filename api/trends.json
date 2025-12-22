@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T06:29:51.293733+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2025-12-23T07:27:59.791825+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "466.66元！CPO龙头股价再创新高，通信板块年末压轴冲锋，ETF年内即将涨2倍",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时27分]"
         },
         {
           "title": "【每日收评】沪指高开高走重返3900点！全市场超百股涨停，海南、算力硬件板块联袂领涨",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时27分]"
         },
         {
           "title": "标普500指数初步收涨0.6%，原材料、金融、能源、工业板块至多涨1.3%，科技板块涨0.3%。 纳斯达克100指数初步收涨0.5%，成分股中，新思科技SNPS、美光科技、WBD涨超3%， 霍尼韦尔跌1.6%，华纳兄弟探索WBD跌2.3%，星巴克跌2.4%，希捷科技跌4.6%。 Merck初步收涨3.6%，摩根大通、Salesforce、英伟达至少涨1.4%，领跑道指成分股，沃尔玛、霍尼韦尔、耐克至多跌2.5%。",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美国总统特朗普：希望让14家大型医疗保险公司降费。 我们将会见其他保险公司。 汽车、住房的保费都已经上涨。",
+          "url": "https://wallstreetcn.com/livenews/3025174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "高盛：2026年全球股市牛市将延续 建议多元化投资",
@@ -148,7 +159,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -170,9 +181,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)美股盘后上涨4.7%。",
+          "url": "https://flash.jin10.com/detail/20251223065826378800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "周一（12月22日），彭博电动汽车价格回报指数涨0.82%，报3462.47点，亚太早盘显著上涨——北京时间09:29出现一波跳空上涨行情，后续高位震荡，美股开盘后，随着特斯拉股价创盘中历史最高、逼近500美元。 成分股EVgo、Lucid集团、微宏控股（MVST）涨超3领跑，小马智行涨约2.1%，特斯拉和沃尔沃涨超1%表现靠前。 “特斯拉劲敌”Rivian、禾赛科技、普拉格动力公司则跌超3%。",
@@ -181,7 +203,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -211,7 +233,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "中金所：减半收取2026年股指期货和国债期货交割手续费、股指期权行权手续费",
@@ -219,22 +241,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 07时27分]"
         },
         {
-          "title": "周一（12月22日）纽约尾盘，标普500股指期货最终涨0.58%，道指期货涨0.41%，纳斯达克100股指期货涨0.40%。 罗素2000股指期货涨1.07%。",
-          "url": "https://wallstreetcn.com/livenews/3025148",
-          "source": "华尔街见闻-快讯",
+          "title": "华纳兄弟探索公司：未对关于奈飞并购协议的评级作出任何调整。",
+          "url": "https://flash.jin10.com/detail/20251223071614051800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "07时27分"
         },
         {
           "title": "恒指期货夜盘收涨0.37%，报25909点，高水107点。",
@@ -262,6 +285,18 @@
           "time_info": "[04时33分 ~ 05时26分]"
         },
         {
+          "title": "周一（12月22日）纽约尾盘，标普500股指期货最终涨0.58%，道指期货涨0.41%，纳斯达克100股指期货涨0.40%。 罗素2000股指期货涨1.07%。",
+          "url": "https://wallstreetcn.com/livenews/3025148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
+        },
+        {
           "title": "上期所原油期货2502合约夜盘收涨2.03%，报441.30元人民币/桶。 沪金夜盘收涨1.60%，沪银收涨2.30%。",
           "url": "https://wallstreetcn.com/livenews/3025092",
           "source": "华尔街见闻-快讯",
@@ -287,6 +322,18 @@
           "time_info": "[04时33分 ~ 05时26分]"
         },
         {
+          "title": "周一（12月22日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨0.58%，报88575美元。 CME以太币期货DCR主力合约跌0.03%，报2997.50美元。 美股加密货币与加密货币关联指数涨1.41%，报63.84点，高开之后在北京时间23:10刷新日高至66.30点，随后逐步回吐涨幅。 最近24小时，MarketVector数字资产100小盘指数涨2.30%，暂报3579.08点。 MarketVector数字资产100指数涨0.12%，暂报18093.84点。",
+          "url": "https://wallstreetcn.com/livenews/3025144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
+        },
+        {
           "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32227407",
           "source": "澎湃新闻",
@@ -298,26 +345,37 @@
           "time_info": "[00时37分 ~ 01时27分]"
         },
         {
-          "title": "周一（12月22日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨0.58%，报88575美元。 CME以太币期货DCR主力合约跌0.03%，报2997.50美元。 美股加密货币与加密货币关联指数涨1.41%，报63.84点，高开之后在北京时间23:10刷新日高至66.30点，随后逐步回吐涨幅。 最近24小时，MarketVector数字资产100小盘指数涨2.30%，暂报3579.08点。 MarketVector数字资产100指数涨0.12%，暂报18093.84点。",
-          "url": "https://wallstreetcn.com/livenews/3025144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）代理主席Caroline Pham辞职。",
           "url": "https://wallstreetcn.com/livenews/3025142",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "期货公司客户权益突破2万亿元，中长期资金入市优化投资者结构",
+          "url": "https://wallstreetcn.com/livenews/3025169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "现货黄金站上4450美元/盎司，再创历史新高，日内涨0.15%。",
+          "url": "https://flash.jin10.com/detail/20251223070316738800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "现货白银涨2.8%，守在历史高位附近，铂金涨约7.5%",
@@ -326,7 +384,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -348,7 +406,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -370,7 +428,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -378,7 +436,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "央行发布一次性信用修复政策，细则详解",
@@ -388,8 +446,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时27分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
@@ -401,8 +459,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时27分]"
         },
         {
           "title": "一企业负责人被羁押十个多月：因向合作公司借款五百万，被控挪用资金罪",
@@ -414,8 +472,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时27分]"
         },
         {
           "title": "一次性信用修复政策来了",
@@ -425,11 +483,23 @@
             30,
             18,
             26,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时42分 ~ 06时29分]"
+          "appearance_count": 7,
+          "time_info": "[02时42分 ~ 07时27分]"
+        },
+        {
+          "title": "景气度持续攀升，锂电产业链多环节酝酿涨价",
+          "url": "https://wallstreetcn.com/livenews/3025176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "一次性信用修复政策打破“一朝失信，终生受限”困境 业内：惠及非恶意失信群体 非“征信洗白”",
@@ -474,9 +544,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "股票型ETF月内净申购超400亿份，宽基ETF受资金青睐",
+          "url": "https://wallstreetcn.com/livenews/3025163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "加密货币交易所交易产品（ETPs）最近一周资金外流8.913亿美元，结束之前连续三周流入的趋势。 ETPs投资者最近一个月资金流入18.2亿美元，过去一年流入467亿美元。",
@@ -488,6 +569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "上证报：内外资共振可期，2026年中国股票或迎“增量资金潮”",
+          "url": "https://wallstreetcn.com/livenews/3025153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "一次性信用修复政策来了",
@@ -504,7 +596,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
@@ -524,7 +616,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -565,13 +657,35 @@
           "time_info": "[05时26分 ~ 06时29分]"
         },
         {
+          "title": "诺和诺德ADR美股盘后短线飙升，目前涨7.67%。",
+          "url": "https://wallstreetcn.com/livenews/3025171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "航空业ETF收涨1.6%，和生物科技ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3025133",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -619,22 +733,24 @@
           "url": "https://wallstreetcn.com/articles/3761809",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时27分]"
         },
         {
           "title": "周一（12月22日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报7.0311元，较上周五纽约尾盘涨31点，日内整体交投于7.0369-7.0298元区间。 亚太盘初，离岸人民币逼近2024年10月2日顶部7.0061元和当年9月30日顶部6.9735元。",
           "url": "https://wallstreetcn.com/livenews/3025147",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0368元，较上周五夜盘收盘涨40点。成交量230.25亿美元。",
@@ -653,11 +769,12 @@
           "url": "https://www.toutiao.com/trending/7585764966561972251/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
         }
       ]
     },
@@ -726,7 +843,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -745,11 +862,12 @@
             21,
             25,
             20,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时27分]"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
