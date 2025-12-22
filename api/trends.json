@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T13:33:38.401364+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2025-12-22T14:48:00.023079+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "印度NIFTY50指数期货在盘前交易中上涨0.46%",
@@ -63,15 +63,15 @@
           "time_info": "07时26分"
         },
         {
-          "title": "国债期货午后走弱，30年期主力合约盘中跌0.10%，10年期跌0.08%，5年期跌0.01%，2年期跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3024710",
-          "source": "华尔街见闻-快讯",
+          "title": "“降息预期+地缘冲突”推动，黄金站上4400，白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "14时47分"
         },
         {
           "title": "国债期货早盘收盘",
@@ -109,6 +109,18 @@
           "time_info": "[10时25分 ~ 12时09分]"
         },
         {
+          "title": "国债期货午后走弱，30年期主力合约盘中跌0.10%，10年期跌0.08%，5年期跌0.01%，2年期跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3024710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时47分]"
+        },
+        {
           "title": "现货白银日内涨超3%，再创新高",
           "url": "https://wallstreetcn.com/livenews/3024673",
           "source": "华尔街见闻-快讯",
@@ -131,6 +143,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 13时33分]"
+        },
+        {
+          "title": "降息窗口暂闭？美联储大鹰派发声：未来几个月没必要调整利率",
+          "url": "https://www.cls.cn/detail/2235843",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时47分]"
         },
         {
           "title": "股指期货早盘收盘",
@@ -183,7 +207,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -194,7 +218,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -232,26 +256,26 @@
           "time_info": "10时25分"
         },
         {
-          "title": "降息窗口暂闭？美联储大鹰派发声：未来几个月没必要调整利率",
-          "url": "https://www.cls.cn/detail/2235843",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
           "title": "金十期货图示",
           "url": "https://flash.jin10.com/detail/20251222124751535800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "美国天然气期货日内涨超3.00%，现报4.104美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20251222135851117800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "现货黄金创历史新高",
@@ -263,6 +287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面震荡走强，富宝电池级碳酸锂报102000元/吨",
+          "url": "https://flash.jin10.com/detail/20251222134320176800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "现货金银周一双双再创新高，目前多头情绪占主导；受市场对日本当局干预的担忧推动，日元周一走强，野村证券认为日本当局的大胆行动可能已为时不远。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -285,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "30年期国债期货（TL）主力合约日内跌超0.30%，现报111.95元。",
+          "url": "https://flash.jin10.com/detail/20251222134030834800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "钯期货主力合约盘中涨7%，触及涨停。 铂期货主力合约盘中涨近7%。",
@@ -345,7 +391,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
@@ -388,6 +434,30 @@
           "time_info": "[02时38分 ~ 13时33分]"
         },
         {
+          "title": "一次性信用修复政策来了",
+          "url": "https://www.toutiao.com/trending/7585770264891654150/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时47分]"
+        },
+        {
+          "title": "一次性信用修复政策来了",
+          "url": "https://www.douyin.com/hot/2343848",
+          "source": "抖音",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时47分]"
+        },
+        {
           "title": "中金公司刘刚：政策面发力对提振消费至关重要 关注明年两会前节点",
           "url": "https://wallstreetcn.com/livenews/3024444",
           "source": "华尔街见闻-快讯",
@@ -400,17 +470,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时28分]"
-        },
-        {
-          "title": "一次性信用修复政策来了",
-          "url": "https://www.toutiao.com/trending/7585770264891654150/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时33分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -427,18 +486,6 @@
           "time_info": "[00时34分 ~ 06时28分]"
         },
         {
-          "title": "一次性信用修复政策来了",
-          "url": "https://www.douyin.com/hot/2343848",
-          "source": "抖音",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时33分]"
-        },
-        {
           "title": "央行发布一次性信用修复政策，细则详解",
           "url": "https://www.cls.cn/detail/2235872",
           "source": "财联社热门",
@@ -448,8 +495,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时47分]"
+        },
+        {
+          "title": "研究显示：特朗普关税政策重创德国汽车出口",
+          "url": "https://flash.jin10.com/detail/20251222143450289800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "央视曝光旧衣回收产业",
@@ -457,11 +515,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            18
+            18,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时47分]"
         },
         {
           "title": "“游戏+”跨界融合打开产业新空间",
@@ -483,8 +542,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时47分]"
+        },
+        {
+          "title": "央视曝光旧衣回收产业链内幕",
+          "url": "https://www.douyin.com/hot/2343610",
+          "source": "抖音",
+          "ranks": [
+            8,
+            20,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时47分]"
         },
         {
           "title": "一次性信用修复政策来了",
@@ -500,17 +573,17 @@
           "time_info": "[10时25分 ~ 13时33分]"
         },
         {
-          "title": "央视曝光旧衣回收产业链内幕",
-          "url": "https://www.douyin.com/hot/2343610",
-          "source": "抖音",
+          "title": "央行发布一次性信用修复政策，细则详解",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32226444",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            20,
-            17
+            17,
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时33分]"
+          "time_info": "[12时09分 ~ 14时47分]"
         },
         {
           "title": "日本货币政策重大转向",
@@ -523,18 +596,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时30分 ~ 05时25分]"
-        },
-        {
-          "title": "央行发布一次性信用修复政策，细则详解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32226444",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时33分]"
         },
         {
           "title": "增量资金借道ETF进场，机构建议布局“春季躁动”行情",
@@ -606,7 +667,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "金十图示：2025年12月22日（周一）富时中国A50指数成分股午盘收盘行情一览：成分股涨跌互现，半导体、光伏设备等板块飘红",
@@ -644,6 +705,17 @@
           "time_info": "[12时09分 ~ 13时33分]"
         },
         {
+          "title": "日经225指数收盘上涨1.8%，报50402.39点。 日本东证指数收涨0.6%，报3405.17点。 韩国首尔综指收盘涨2.1%，报4105.93点。",
+          "url": "https://wallstreetcn.com/livenews/3024741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "福建漳州“十五五”规划建议：着力深化漳台“五大板块”融合 打造两岸融合发展先行城市",
           "url": "https://wallstreetcn.com/livenews/3024618",
           "source": "华尔街见闻-快讯",
@@ -661,7 +733,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -677,6 +749,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "国内金店金饰价格较上周上涨15元/克",
+          "url": "https://wallstreetcn.com/livenews/3024733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "卓创资讯：国际原油下跌 2025年成品油零售价格下调收尾",
           "url": "https://wallstreetcn.com/livenews/3024652",
           "source": "华尔街见闻-快讯",
@@ -688,13 +771,24 @@
           "time_info": "12时09分"
         },
         {
+          "title": "A股锂电池板块震荡走强，恩捷股份午后涨停，壹石通、星云股份、金圆股份、星源材质、中矿资源、盐湖股份等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3024719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "马来西亚11月CPI同比上涨1.4%，预期为上涨1.5%；11月CPI环比为0.0%。",
           "url": "https://flash.jin10.com/detail/20251222120220766800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -724,7 +818,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如果人民币开始持续升值......",
@@ -735,8 +829,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 13时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 14时47分]"
         },
         {
           "title": "中金：恒科和人民币谁“错”了？",
@@ -746,8 +840,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时47分]"
         },
         {
           "title": "黄奇帆：今后十年人民币将逐步升值",
@@ -756,11 +850,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时47分]"
         },
         {
           "title": "黄奇帆：今后十年人民币将逐步升值",
@@ -773,6 +868,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时25分 ~ 12时09分]"
+        },
+        {
+          "title": "中国央行在香港发行400亿元人民币6个月期央行票据 息率1.67%",
+          "url": "https://wallstreetcn.com/livenews/3024736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "中信证券：推动人民币升值的因素逐渐增多 可关注三条线索",
@@ -792,7 +898,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         }
@@ -850,11 +956,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时33分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时47分]"
         }
       ]
     },
