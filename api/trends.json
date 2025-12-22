@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T21:43:04.912056+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2025-12-22T22:31:15.032661+08:00",
+  "total_titles_processed": 1766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 61,
+      "match_count": 67,
       "titles": [
         {
           "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
+          "appearance_count": 4,
+          "time_info": "[21时42分 ~ 22时31分]"
         },
         {
           "title": "“降息预期+地缘冲突”推动，黄金站上4400，白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
@@ -82,7 +82,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -142,6 +142,19 @@
           "time_info": "12时09分"
         },
         {
+          "title": "现货铂金日内上涨逾5%，报2085.95美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3024973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 22时31分]"
+        },
+        {
           "title": "今日港股四只新股上市，印象大红袍、华芢生物、明基医院、南华期货挂牌，截至早盘收盘，分别下跌25%、8.5%、42.3%和20.7%。",
           "url": "https://wallstreetcn.com/livenews/3024682",
           "source": "华尔街见闻-快讯",
@@ -152,18 +165,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 13时33分]"
-        },
-        {
-          "title": "现货铂金日内上涨逾5%，报2085.95美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3024973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时43分]"
         },
         {
           "title": "期货热点追踪",
@@ -239,6 +240,18 @@
           "time_info": "[12时09分 ~ 13时33分]"
         },
         {
+          "title": "现货黄金日内涨幅达2%，报4425.49美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3024985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时31分]"
+        },
+        {
           "title": "金十期货图示",
           "url": "https://flash.jin10.com/detail/20251222124751535800",
           "source": "金十数据",
@@ -263,6 +276,18 @@
           "time_info": "[19时27分 ~ 20时59分]"
         },
         {
+          "title": "夜盘期货开盘，沪银、原油、燃油涨逾2%，沥青、低硫燃油、沪镍、棕榈油、沪金、焦煤、液化石油气涨逾1%；沪锡、塑料、沪铝等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3024978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时31分]"
+        },
+        {
           "title": "股指期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251222113115817800",
           "source": "金十数据",
@@ -280,7 +305,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -305,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "沪镍主力合约涨超3%，沪银期货主力合约涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3025007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "现货黄金突破4390美元/盎司，日内涨1.19%。",
@@ -384,17 +420,6 @@
           "time_info": "12时09分"
         },
         {
-          "title": "现货黄金日内涨幅达2%，报4425.49美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3024985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
           "title": "沪银期货突破16000元/千克关口，续创历史新高",
           "url": "https://flash.jin10.com/detail/20251222094450091800",
           "source": "金十数据",
@@ -415,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "中金所：减半收取2026年股指期货和国债期货交割手续费、股指期权行权手续费",
+          "url": "https://www.cls.cn/detail/2236604",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "国际现货铂金、钯金午盘报价",
@@ -459,6 +495,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "WTI原油期货突破58美元/桶，日内涨2.62%。",
+          "url": "https://flash.jin10.com/detail/20251222214650693800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "美联储理事米兰：近期数据应该会促使人们向鸽派方向转变。 全年CPI都存在严重的向上偏差。 住房CPI因政府关门受到一定程度的扭曲。 公众未能更新观点反映出机构公信力不足。 我认为短期内不会出现经济衰退。 如果我们不调整政策，我们将面临日益严重的经济衰退风险。 我还没决定是投票支持降息25个基点还是50个基点。 若1月31日前无人获确认任命，我预计将继续留任美联储。 不得不称赞鲍威尔在降息问题上的努力。 美联储在平衡物价与就业市场方面做得不够好。",
+          "url": "https://wallstreetcn.com/livenews/3024994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "现货黄金创历史新高",
@@ -514,17 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
-        },
-        {
-          "title": "夜盘期货开盘，沪银、原油、燃油涨逾2%，沥青、低硫燃油、沪镍、棕榈油、沪金、焦煤、液化石油气涨逾1%；沪锡、塑料、沪铝等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3024978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "现货金银周一双双再创新高，目前多头情绪占主导；受市场对日本当局干预的担忧推动，日元周一走强，野村证券认为日本当局的大胆行动可能已为时不远。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -626,6 +673,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "印度央行10月在现货外汇市场净卖出118.8亿美元。",
+          "url": "https://flash.jin10.com/detail/20251222213935999800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "碳酸锂期货主力合约涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3024584",
           "source": "华尔街见闻-快讯",
@@ -654,7 +712,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -670,13 +728,24 @@
           "time_info": "10时25分"
         },
         {
+          "title": "美联储理事米兰：如果我们不调整政策，我们将面临日益升高的衰退风险。",
+          "url": "https://flash.jin10.com/detail/20251222213541338800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "现货铂金延续涨势，日内上涨逾5%，报2085.95美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251222204950886800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -695,7 +764,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
@@ -720,8 +789,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时40分 ~ 21时43分]"
+          "appearance_count": 12,
+          "time_info": "[16时40分 ~ 22时31分]"
         },
         {
           "title": "一次性信用修复政策来了",
@@ -764,6 +833,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时38分 ~ 13时33分]"
+        },
+        {
+          "title": "中国人民银行宣布实施一次性信用修复政策，支持信用受损但积极还款的个人高效重塑信用，怎样解读这一政策？",
+          "url": "https://www.zhihu.com/question/1986360231702262223",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[10时25分 ~ 22时31分]"
         },
         {
           "title": "央行发布一次性信用修复政策，细则详解",
@@ -811,20 +893,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时09分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[12时09分 ~ 22时31分]"
         },
         {
-          "title": "中国人民银行宣布实施一次性信用修复政策，支持信用受损但积极还款的个人高效重塑信用，怎样解读这一政策？",
-          "url": "https://www.zhihu.com/question/1986360231702262223",
-          "source": "知乎",
+          "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
+          "url": "https://www.cls.cn/detail/2236551",
+          "source": "财联社热门",
           "ranks": [
+            13,
+            8,
             10,
-            8
+            9,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时25分 ~ 21时43分]"
+          "appearance_count": 10,
+          "time_info": "[17时37分 ~ 22时31分]"
         },
         {
           "title": "山西废除烟花爆竹禁放令，政策从全面禁放转向有序管控，意味着什么？其他地方会跟进吗？",
@@ -883,20 +969,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时28分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
-          "url": "https://www.cls.cn/detail/2236551",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时37分 ~ 21时43分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -970,6 +1042,18 @@
           "time_info": "19时27分"
         },
         {
+          "title": "直播间“大牌尾货”竟是回收箱旧衣服，央视曝光旧衣回收产业链内幕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225282",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时59分 ~ 22时31分]"
+        },
+        {
           "title": "一次性信用修复政策来了",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%AC%A1%E6%80%A7%E4%BF%A1%E7%94%A8%E4%BF%AE%E5%A4%8D%E6%94%BF%E7%AD%96%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -981,18 +1065,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时25分 ~ 13时33分]"
-        },
-        {
-          "title": "直播间“大牌尾货”竟是回收箱旧衣服，央视曝光旧衣回收产业链内幕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225282",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 21时43分]"
         },
         {
           "title": "日本货币政策重大转向",
@@ -1041,6 +1113,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时27分 ~ 20时59分]"
+        },
+        {
+          "title": "今日沪市A股主力资金增仓前十",
+          "url": "https://www.toutiao.com/trending/7585650111787810842/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 22时31分]"
         },
         {
           "title": "波兰总统任命Marcin Zarzecki为货币政策委员会成员。",
@@ -1151,12 +1234,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "美联储理事米兰：我们认为最终会下调政策利率。",
+          "url": "https://flash.jin10.com/detail/20251222213611801800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "466.66元！CPO龙头股价再创新高，通信板块年末压轴冲锋，ETF年内即将涨2倍",
@@ -1168,8 +1262,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时37分 ~ 21时43分]"
+          "appearance_count": 10,
+          "time_info": "[17时37分 ~ 22时31分]"
         },
         {
           "title": "【每日收评】沪指高开高走重返3900点！全市场超百股涨停，海南、算力硬件板块联袂领涨",
@@ -1182,8 +1276,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时37分 ~ 21时43分]"
+          "appearance_count": 10,
+          "time_info": "[17时37分 ~ 22时31分]"
         },
         {
           "title": "【午报】沪指重新站上3900点，海南概念股全线爆发，科技股方向震荡走强",
@@ -1221,6 +1315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
+        },
+        {
+          "title": "芝加哥期权交易所波动率指数跌至逾三个月低点，最新下跌0.08点，报14.83。",
+          "url": "https://flash.jin10.com/detail/20251222220809885800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "金十图示：2025年12月22日（周一）富时中国A50指数成分股午盘收盘行情一览：成分股涨跌互现，半导体、光伏设备等板块飘红",
@@ -1354,7 +1459,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1442,7 +1547,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1489,6 +1594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "芝加哥联储数据公布后，美国2年期国债收益率小幅下跌0.4个基点，最新报3.494%。",
+          "url": "https://flash.jin10.com/detail/20251222214112965800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "菲律宾股指上涨2%，至6041.26点。",
@@ -1550,8 +1666,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时25分 ~ 21时43分]"
+          "appearance_count": 17,
+          "time_info": "[10时25分 ~ 22时31分]"
         },
         {
           "title": "黄奇帆：今后十年人民币将逐步升值",
@@ -1670,7 +1786,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1722,7 +1838,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
@@ -1736,8 +1852,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时32分 ~ 21时43分]"
+          "appearance_count": 12,
+          "time_info": "[15时32分 ~ 22时30分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -1790,6 +1906,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时59分 ~ 21时43分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3025002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         }
       ]
     },
