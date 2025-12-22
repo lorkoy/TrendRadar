@@ -1,55 +1,81 @@
 {
-  "generated_at": "2025-12-23T00:37:20.601552+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-23T01:27:22.599912+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "466.66元！CPO龙头股价再创新高，通信板块年末压轴冲锋，ETF年内即将涨2倍",
           "url": "https://www.cls.cn/detail/2236501",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时27分]"
         },
         {
           "title": "【每日收评】沪指高开高走重返3900点！全市场超百股涨停，海南、算力硬件板块联袂领涨",
           "url": "https://www.cls.cn/detail/2236495",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时27分]"
         },
         {
           "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
           "url": "https://wallstreetcn.com/livenews/3025047",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时27分]"
         },
         {
           "title": "标普500指数抹去12月以来的跌幅，有望实现连续第八个月上涨，那将是2018年以来的最长连涨。",
           "url": "https://wallstreetcn.com/livenews/3025045",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时27分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.2%，报362.33点。 在十个板块中，北欧医疗保健板块跌幅最大。 沃旭能源Orsted AS跌12.7%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3025065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时27分"
+        },
+        {
+          "title": "高盛：2026年全球股市牛市将延续 建议多元化投资",
+          "url": "https://www.cls.cn/detail/2236392",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时27分"
         },
         {
           "title": "希捷科技股价在回吐开盘涨幅后下跌5.5%。",
@@ -98,8 +124,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时27分]"
         },
         {
           "title": "一次性信用修复政策打破“一朝失信，终生受限”困境 业内：惠及非恶意失信群体 非“征信洗白”",
@@ -117,22 +143,24 @@
           "url": "https://www.cls.cn/detail/2236551",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时27分]"
         },
         {
           "title": "一企业负责人被羁押十个多月：因向合作公司借款五百万，被控挪用资金罪",
           "url": "https://m.thepaper.cn/newsDetail_forward_32227050",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时27分]"
         },
         {
           "title": "加密货币交易所交易产品（ETPs）最近一周资金外流8.913亿美元，结束之前连续三周流入的趋势。 ETPs投资者最近一个月资金流入18.2亿美元，过去一年流入467亿美元。",
@@ -149,25 +177,36 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "现货黄金向上触及4430美元/盎司，日内涨2.11%。",
-          "url": "https://flash.jin10.com/detail/20251222234509712800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
         {
           "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32227407",
           "source": "澎湃新闻",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时27分]"
+        },
+        {
+          "title": "中金所：减半收取2026年股指期货和国债期货交割手续费、股指期权行权手续费",
+          "url": "https://www.cls.cn/detail/2236604",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "现货黄金向上触及4430美元/盎司，日内涨2.11%。",
+          "url": "https://flash.jin10.com/detail/20251222234509712800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -187,8 +226,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时27分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
@@ -204,6 +243,23 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "加拿大帝国商业银行经济学家Avery Shenfeld：加拿大消费者情况在2026年将更加稳定。",
+          "url": "https://flash.jin10.com/detail/20251223004050640800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
@@ -215,8 +271,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时27分]"
         }
       ]
     },
@@ -232,8 +288,25 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3025071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时27分"
         }
       ]
     }
