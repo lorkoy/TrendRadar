@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T03:24:57.984187+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2025-12-23T04:33:00.493701+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时33分]"
         },
         {
           "title": "【每日收评】沪指高开高走重返3900点！全市场超百股涨停，海南、算力硬件板块联袂领涨",
@@ -29,8 +30,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时33分]"
+        },
+        {
+          "title": "高盛：2026年全球股市牛市将延续 建议多元化投资",
+          "url": "https://www.cls.cn/detail/2236392",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 04时33分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报362.33点。 在十个板块中，北欧医疗保健板块跌幅最大。 沃旭能源Orsted AS跌12.7%，在一众北欧个股里表现最差。",
@@ -46,27 +59,17 @@
           "time_info": "[01时27分 ~ 03时24分]"
         },
         {
-          "title": "高盛：2026年全球股市牛市将延续 建议多元化投资",
-          "url": "https://www.cls.cn/detail/2236392",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时24分]"
-        },
-        {
           "title": "芝加哥小麦和大豆上涨，受黑海港口袭击和出口前景影响",
           "url": "https://wallstreetcn.com/livenews/3025076",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时33分]"
         },
         {
           "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
@@ -93,6 +96,18 @@
           "time_info": "[00时37分 ~ 01时27分]"
         },
         {
+          "title": "上海黄金交易所黄金T+D 12月22日（周一）晚盘收盘上涨1.12%报996.62元/克；<br/>上海黄金交易所白银T+D 12月22日（周一）晚盘收盘上涨0.47%报16145.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251223023151598800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时33分]"
+        },
+        {
           "title": "希捷科技股价在回吐开盘涨幅后下跌5.5%。",
           "url": "https://flash.jin10.com/detail/20251222233847422800",
           "source": "金十数据",
@@ -102,17 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月22日（周一）晚盘收盘上涨1.12%报996.62元/克；<br/>上海黄金交易所白银T+D 12月22日（周一）晚盘收盘上涨0.47%报16145.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251223023151598800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
         },
         {
           "title": "斯泰兰蒂斯米兰上市股票恢复交易，下跌4.6%。",
@@ -139,106 +143,55 @@
       ]
     },
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "keyword_group": "调整 期货 现货",
+      "match_count": 7,
       "titles": [
         {
-          "title": "央行发布一次性信用修复政策，细则详解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32226444",
-          "source": "澎湃新闻",
+          "title": "芝加哥小麦期货涨1%，大豆油涨超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3025113",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时24分]"
-        },
-        {
-          "title": "一次性信用修复政策打破“一朝失信，终生受限”困境 业内：惠及非恶意失信群体 非“征信洗白”",
-          "url": "https://www.cls.cn/detail/2236284",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
-          "url": "https://www.cls.cn/detail/2236551",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时24分]"
-        },
-        {
-          "title": "一企业负责人被羁押十个多月：因向合作公司借款五百万，被控挪用资金罪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32227050",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时24分]"
-        },
-        {
-          "title": "一次性信用修复政策来了",
-          "url": "https://www.toutiao.com/trending/7585770264891654150/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时24分]"
-        },
-        {
-          "title": "加密货币交易所交易产品（ETPs）最近一周资金外流8.913亿美元，结束之前连续三周流入的趋势。 ETPs投资者最近一个月资金流入18.2亿美元，过去一年流入467亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3025037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "恒指期货夜盘收涨0.37%，报25909点，高水107点。",
-          "url": "https://flash.jin10.com/detail/20251223030030891800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "04时33分"
         },
         {
           "title": "中金所：减半收取2026年股指期货和国债期货交割手续费、股指期权行权手续费",
           "url": "https://www.cls.cn/detail/2236604",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 04时33分]"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.37%，报25909点，高水107点。",
+          "url": "https://flash.jin10.com/detail/20251223030030891800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时33分]"
+        },
+        {
+          "title": "上期所原油期货2502合约夜盘收涨2.03%，报441.30元人民币/桶。 沪金夜盘收涨1.60%，沪银收涨2.30%。",
+          "url": "https://wallstreetcn.com/livenews/3025092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时33分]"
         },
         {
           "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
@@ -252,15 +205,15 @@
           "time_info": "[00时37分 ~ 01时27分]"
         },
         {
-          "title": "上期所原油期货2502合约夜盘收涨2.03%，报441.30元人民币/桶。 沪金夜盘收涨1.60%，沪银收涨2.30%。",
-          "url": "https://wallstreetcn.com/livenews/3025092",
+          "title": "美国原油期货收涨超2.6%，特朗普试图在封锁委内瑞拉期间截获第三艘油轮",
+          "url": "https://wallstreetcn.com/livenews/3025107",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "04时33分"
         },
         {
           "title": "现货黄金向上触及4430美元/盎司，日内涨2.11%。",
@@ -268,6 +221,95 @@
           "source": "金十数据",
           "ranks": [
             13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "央行发布一次性信用修复政策，细则详解",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32226444",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时33分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
+          "url": "https://www.cls.cn/detail/2236551",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时33分]"
+        },
+        {
+          "title": "美国纽约市将在下一个财政年度面临100亿美元预算缺口，受到税收放缓和联邦资金流不确定性的影响。",
+          "url": "https://wallstreetcn.com/livenews/3025114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "一企业负责人被羁押十个多月：因向合作公司借款五百万，被控挪用资金罪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32227050",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时33分]"
+        },
+        {
+          "title": "一次性信用修复政策打破“一朝失信，终生受限”困境 业内：惠及非恶意失信群体 非“征信洗白”",
+          "url": "https://www.cls.cn/detail/2236284",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "一次性信用修复政策来了",
+          "url": "https://www.toutiao.com/trending/7585770264891654150/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时42分 ~ 04时33分]"
+        },
+        {
+          "title": "加密货币交易所交易产品（ETPs）最近一周资金外流8.913亿美元，结束之前连续三周流入的趋势。 ETPs投资者最近一个月资金流入18.2亿美元，过去一年流入467亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3025037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -287,8 +329,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时33分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览（美股盘中）",
@@ -326,21 +368,37 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "人民币",
       "match_count": 2,
       "titles": [
         {
-          "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
-          "url": "https://flash.jin10.com/detail/20251223020756394800",
-          "source": "金十数据",
+          "title": "中金：恒科和人民币谁“错”了？",
+          "url": "https://wallstreetcn.com/articles/3761809",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            19
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时33分]"
         },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0368元，较上周五夜盘收盘涨40点。成交量230.25亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3025103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
           "url": "https://www.toutiao.com/trending/7586259723437064246/",
@@ -348,11 +406,25 @@
           "ranks": [
             7,
             21,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时33分]"
+        },
+        {
+          "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
+          "url": "https://flash.jin10.com/detail/20251223020756394800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19,
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时33分]"
         }
       ]
     },
@@ -366,22 +438,54 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时33分]"
         },
         {
           "title": "交易员大举押注10年期美债收益率数周内将重返4%",
           "url": "https://flash.jin10.com/detail/20251223022902184800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数跌0.3%",
+          "url": "https://wallstreetcn.com/livenews/3025112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "04时33分"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3025071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时24分]"
         }
       ]
     },
@@ -399,42 +503,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中金：恒科和人民币谁“错”了？",
-          "url": "https://wallstreetcn.com/articles/3761809",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
-          "url": "https://wallstreetcn.com/livenews/3025071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时24分]"
         }
       ]
     }
