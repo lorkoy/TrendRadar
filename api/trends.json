@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T15:32:02.097885+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2025-12-23T16:40:29.262511+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "中金所：减半收取2026年股指期货和国债期货交割手续费、股指期权行权手续费",
@@ -39,11 +39,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时33分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[13时33分 ~ 16时40分]"
         },
         {
           "title": "六大行集体调整中长期存款产品",
@@ -78,7 +79,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -179,6 +180,18 @@
           "time_info": "[06时29分 ~ 07时27分]"
         },
         {
+          "title": "国债期货收盘，30年期主力合约涨0.89%，10年期主力合约涨0.26%，5年期主力合约涨0.17%，2年期主力合约涨0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3025448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 16时40分]"
+        },
+        {
           "title": "国债期货早盘集体收高",
           "url": "https://wallstreetcn.com/livenews/3025331",
           "source": "华尔街见闻-快讯",
@@ -189,17 +202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 13时33分]"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约涨0.89%，10年期主力合约涨0.26%，5年期主力合约涨0.17%，2年期主力合约涨0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3025448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
         },
         {
           "title": "现货黄金突破4490美元/盎司，日内涨1.05%。",
@@ -222,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股快手下挫3.6%",
+          "url": "https://wallstreetcn.com/articles/3761889",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "伦铜高位震荡 现货需求疲软限制涨幅",
@@ -373,7 +386,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -472,7 +485,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -494,7 +507,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -516,7 +529,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -590,8 +603,22 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "福建平潭：新一轮封关运作已进入攻坚阶段 三大板块工作正加紧推进中",
+          "url": "https://www.cls.cn/detail/2237276",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时03分 ~ 16时40分]"
+        },
         {
           "title": "466.66元！CPO龙头股价再创新高，通信板块年末压轴冲锋，ETF年内即将涨2倍",
           "url": "https://www.cls.cn/detail/2236501",
@@ -604,19 +631,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 07时27分]"
-        },
-        {
-          "title": "福建平潭：新一轮封关运作已进入攻坚阶段 三大板块工作正加紧推进中",
-          "url": "https://www.cls.cn/detail/2237276",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时03分 ~ 15时32分]"
         },
         {
           "title": "【每日收评】沪指高开高走重返3900点！全市场超百股涨停，海南、算力硬件板块联袂领涨",
@@ -641,6 +655,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 12时04分]"
+        },
+        {
+          "title": "欧洲斯托克600指数盘中创下588.45点的历史新高，最新上涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20251223162113325800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "三大指数集体翻绿，创业板指此前一度涨超1%，商业航天、旅游、房地产、数字货币等方向跌幅居前，沪深京三市下跌个股超4100只。",
@@ -850,7 +875,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -883,7 +908,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -916,7 +941,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -938,7 +963,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -952,6 +977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "英镑兑美元上涨0.3%至1.3502，创10月2日以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3025470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "希捷科技股价在回吐开盘涨幅后下跌5.5%。",
@@ -1075,6 +1111,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "诺和诺德在赢得美国减肥药批准后，股价上涨5%。",
+          "url": "https://flash.jin10.com/detail/20251223160143196800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "上证指数开盘报3919.11点，涨0.04%。 深证成指开盘报13338.93点，涨0.05%。 创业板指开盘报3196.31点，涨0.14%。 沪深300开盘报4616.03点，涨0.10%。 科创50开盘报1333.54点，跌0.13%。 中证500开盘报7257.91点，涨0.03%。 中证1000开盘报7410.22点，涨0.03%。",
           "url": "https://wallstreetcn.com/livenews/3025242",
           "source": "华尔街见闻-快讯",
@@ -1092,7 +1139,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1122,7 +1169,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "央行发布一次性信用修复政策，细则详解",
@@ -1169,11 +1216,12 @@
             18,
             19,
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 15时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 16时40分]"
         },
         {
           "title": "一次性信用修复政策来了",
@@ -1222,6 +1270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时20分"
+        },
+        {
+          "title": "国家发展改革委等三部门发布关于完善幼儿园收费政策的通知",
+          "url": "https://wallstreetcn.com/livenews/3025494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "我国冰雪产业规模将破万亿元",
@@ -1290,7 +1349,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1334,9 +1393,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "金十图示：2025年12月23日（周二）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20251223161520580800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "韩国福利部：韩国养老基金将成立战略外汇对冲政策工作组。",
+          "url": "https://flash.jin10.com/detail/20251223161446594800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "【午报】三大指数震荡走高集体收红，锂电产业链全线爆发，半导体设备延续强势",
+          "url": "https://www.cls.cn/detail/2237376",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "美国民主党籍州总检察长就资金问题起诉CFPB代理局长",
@@ -1367,7 +1459,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1400,7 +1492,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1654,6 +1746,19 @@
           "time_info": "[00时37分 ~ 07时27分]"
         },
         {
+          "title": "人民币持续升值，对普通老百姓来说，总体来看是好是坏？",
+          "url": "https://www.zhihu.com/question/1986738633022076242",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 16时40分]"
+        },
+        {
           "title": "周一（12月22日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报7.0311元，较上周五纽约尾盘涨31点，日内整体交投于7.0369-7.0298元区间。 亚太盘初，离岸人民币逼近2024年10月2日顶部7.0061元和当年9月30日顶部6.9735元。",
           "url": "https://wallstreetcn.com/livenews/3025147",
           "source": "华尔街见闻-快讯",
@@ -1664,18 +1769,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时27分]"
-        },
-        {
-          "title": "人民币持续升值，对普通老百姓来说，总体来看是好是坏？",
-          "url": "https://www.zhihu.com/question/1986738633022076242",
-          "source": "知乎",
-          "ranks": [
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 15时32分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0368元，较上周五夜盘收盘涨40点。成交量230.25亿美元。",
@@ -1749,7 +1842,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -1785,11 +1878,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B41400%E5%85%83%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 16时40分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -1809,9 +1903,73 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "金价银价同日创新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%90%8C%E6%97%A5%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3025071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时24分]"
+        },
+        {
+          "title": "美元指数跌0.3%",
+          "url": "https://wallstreetcn.com/livenews/3025112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时26分]"
+        },
+        {
+          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "美元指数DXY跌破98，创5日新低。",
+          "url": "https://flash.jin10.com/detail/20251223161014189800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
@@ -1894,37 +2052,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
-          "url": "https://wallstreetcn.com/livenews/3025071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时24分]"
-        },
-        {
-          "title": "美元指数跌0.3%",
-          "url": "https://wallstreetcn.com/livenews/3025112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时26分]"
         }
       ]
     }
