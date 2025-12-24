@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-25T01:26:11.489588+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2025-12-25T02:41:11.420403+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "北京调整住房限购政策",
           "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%B0%83%E6%95%B4%E4%BD%8F%E6%88%BF%E9%99%90%E8%B4%AD%E6%94%BF%E7%AD%96",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 02时41分]"
+        },
+        {
+          "title": "WTI 2月原油期货收报58.35美元/桶。 NYMEX 1月天然气期货收报4.2420美元/百万英热单位。 NYMEX 1月汽油期货收报1.7471美元/加仑，NYMEX 1月取暖油期货收报2.1576美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3026319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "北京优化调整住房限购政策，放宽非京籍家庭购房条件，京籍多子女家庭五环内可买 3 套房，将带来哪些影响？",
@@ -26,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 02时41分]"
         },
         {
           "title": "现货黄金突破4500美元创新高 避险共识下机构现分歧：到顶了还是仍看涨？",
@@ -38,8 +50,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 02时41分]"
+        },
+        {
+          "title": "上期所原油期货2502合约夜盘收跌0.02%，报442.50元人民币/桶。 沪金夜盘收跌0.23%，沪银收涨1.54%。",
+          "url": "https://wallstreetcn.com/livenews/3026318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "北京科技大学党委书记校长同时调整",
+          "url": "https://www.toutiao.com/trending/7587417598296801343/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 02时41分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，乙二醇涨2.8%，焦煤涨则跌0.9%，焦炭跌1%",
@@ -135,6 +169,90 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251225020922155800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "金十图示：2025年12月24日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251225020759823800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美股收盘：三大股指齐涨 标普500续创新高",
+          "url": "https://flash.jin10.com/detail/20251225020220573800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3026315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
+          "url": "https://wallstreetcn.com/livenews/3026260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时26分]"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3026259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "美股交投清淡 三大指数均持稳",
+          "url": "https://flash.jin10.com/detail/20251224230659751800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
       "match_count": 6,
       "titles": [
@@ -146,19 +264,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 02时41分]"
         },
         {
           "title": "经销商直呼现在行情看不懂！茅台价格全线上涨，非标产品涨幅显著",
           "url": "https://m.thepaper.cn/newsDetail_forward_32245717",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 02时41分]"
         },
         {
           "title": "国际铜主力合约日内下跌1020.00元，现报84390.00元/吨，跌幅1.19%。",
@@ -230,8 +349,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 02时41分]"
         },
         {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
@@ -242,8 +361,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 02时41分]"
         },
         {
           "title": "内塔尼亚胡：以色列将打造独立军工产业",
@@ -260,42 +379,30 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "SZ SH HK",
+      "match_count": 2,
       "titles": [
         {
-          "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
-          "url": "https://wallstreetcn.com/livenews/3026260",
+          "title": "纳斯达克金龙中国指数收跌0.07%，报7633.83点。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.20%，中国科技指数ETF（CQQQ）收涨0.66%。 德银嘉实沪深300指数ETF（ASHR）收涨0.31%，XtrackersHarvest中证50（ASHS）收涨0.98%。",
+          "url": "https://wallstreetcn.com/livenews/3026308",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22,
-            30
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
-          "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3026259",
+          "title": "美国交通部针对加州输油管道发布紧急许可，为Sable Offshore Corp.从海上油井产油铺平道路。",
+          "url": "https://wallstreetcn.com/livenews/3026302",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "美股交投清淡 三大指数均持稳",
-          "url": "https://flash.jin10.com/detail/20251224230659751800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "02时41分"
         }
       ]
     },
@@ -312,8 +419,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 02时41分]"
         },
         {
           "title": "人民币现金收付新规明年2月起施行",
@@ -321,11 +428,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 02时41分]"
         }
       ]
     }
