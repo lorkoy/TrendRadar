@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T20:58:14.907259+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2025-12-25T21:39:43.537622+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "北京调整住房限购政策",
@@ -58,11 +58,12 @@
             10,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时32分 ~ 20时58分]"
+          "appearance_count": 8,
+          "time_info": "[17时32分 ~ 21时39分]"
         },
         {
           "title": "上期所原油期货2502合约夜盘收跌0.02%，报442.50元人民币/桶。 沪金夜盘收跌0.23%，沪银收涨1.54%。",
@@ -90,6 +91,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "广期所调整铂、钯期货相关合约交易指令每次最小开仓下单数量、交易限额",
+          "url": "https://wallstreetcn.com/livenews/3026765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "中证500股指期货（IC）主力合约向上触及7300点，日内涨0.69%。中证1000股指期货（IM）主力合约向上触及7400点，日内涨0.91%。",
           "url": "https://flash.jin10.com/detail/20251225132006394800",
           "source": "金十数据",
@@ -99,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "广期所：自2025年12月29日交易时起，多晶硅期货PS2601、PS2602、PS2603、PS2604、PS2605、PS2606、PS2607、PS2608、PS2609、PS2610、PS2611、PS2612合约的交易手续费标准调整为成交金额的万分之五，日内平今仓交易手续费标准调整为成交金额的万分之五。",
+          "url": "https://wallstreetcn.com/livenews/3026764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "股指期货早盘开盘",
@@ -221,6 +244,18 @@
           "time_info": "[15时29分 ~ 16时38分]"
         },
         {
+          "title": "结算锚定“Mysteel+期货”，天齐锂业定价体系重构",
+          "url": "https://wallstreetcn.com/livenews/3026732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时39分]"
+        },
+        {
           "title": "广期所钯期货主力合约打开跌停板，目前跌7.8%。铂期货主力合约跌幅收窄至0.05%。",
           "url": "https://wallstreetcn.com/livenews/3026573",
           "source": "华尔街见闻-快讯",
@@ -291,6 +326,17 @@
           "time_info": "17时32分"
         },
         {
+          "title": "夜盘期货开盘，国际铜、沪锡、沪银、沪铜涨逾1%，菜粕、豆粕、燃油等上涨；玻璃、液化石油气、焦煤等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3026758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "国债期货走弱，30年期主力合约盘中跌0.20%，10年期跌0.01%，5年期跌0.04%，2年期跌0.01%。",
           "url": "https://flash.jin10.com/detail/20251225145413927800",
           "source": "金十数据",
@@ -335,6 +381,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "夜盘开盘，国内期货主力合约多数上涨。国际铜、沪锡、沪银、沪铜涨超1%，菜粕、PTA涨近1%。跌幅方面，玻璃、液化石油气（LPG）、焦煤跌超0.4%。",
+          "url": "https://flash.jin10.com/detail/20251225210003112800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "现货黄金跌破4450美元",
           "url": "https://flash.jin10.com/detail/20251224234419389800",
           "source": "金十数据",
@@ -355,17 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
-        },
-        {
-          "title": "结算锚定“Mysteel+期货”，天齐锂业定价体系重构",
-          "url": "https://wallstreetcn.com/livenews/3026732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
         },
         {
           "title": "钯期货触及跌停，为上市以来第一次跌停",
@@ -418,7 +464,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -570,8 +616,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时32分 ~ 20时58分]"
+          "appearance_count": 8,
+          "time_info": "[17时32分 ~ 21时39分]"
         },
         {
           "title": "日本两年期国债收益率上涨1个基点，至1.11%。",
@@ -608,6 +654,18 @@
           "time_info": "15时29分"
         },
         {
+          "title": "突破4500大关后，黄金仍在牛市“早期”？华尔街先知Yardeni：2029年有望冲击10000美元！",
+          "url": "https://wallstreetcn.com/articles/3762021",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 21时39分]"
+        },
+        {
           "title": "日本40年期国债收益率下跌7个基点至3.62%，创11月17日以来新低。",
           "url": "https://flash.jin10.com/detail/20251225142831548800",
           "source": "金十数据",
@@ -630,18 +688,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时38分 ~ 17时32分]"
-        },
-        {
-          "title": "突破4500大关后，黄金仍在牛市“早期”？华尔街先知Yardeni：2029年有望冲击10000美元！",
-          "url": "https://wallstreetcn.com/articles/3762021",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 20时58分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘收盘下跌0.41%报1005.5元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘收盘下跌0.64%报17210.0元/千克。",
@@ -779,7 +825,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -955,6 +1001,17 @@
       "match_count": 29,
       "titles": [
         {
+          "title": "自己菜竟怪别人打压，“中方阻碍美国自主化稀土加工产业”",
+          "url": "https://news.ifeng.com/c/8pNJR35BTlS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 21时39分]"
+        },
+        {
           "title": "央行四季度例会：继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
           "url": "https://wallstreetcn.com/articles/3762015",
           "source": "华尔街见闻",
@@ -969,15 +1026,16 @@
           "time_info": "[10时20分 ~ 19时26分]"
         },
         {
-          "title": "自己菜竟怪别人打压，“中方阻碍美国自主化稀土加工产业”",
-          "url": "https://news.ifeng.com/c/8pNJR35BTlS",
-          "source": "凤凰网",
+          "title": "【数据看盘】实力游资联手量化资金抢筹英唐智控 机构“爆买”天银机电",
+          "url": "https://www.cls.cn/detail/2239022",
+          "source": "财联社热门",
           "ranks": [
-            2
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 20时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时28分]"
         },
         {
           "title": "印度为啥搞不定化肥产业",
@@ -990,23 +1048,12 @@
             19,
             9,
             17,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时20分 ~ 20时58分]"
-        },
-        {
-          "title": "【数据看盘】实力游资联手量化资金抢筹英唐智控 机构“爆买”天银机电",
-          "url": "https://www.cls.cn/detail/2239022",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时28分]"
+          "appearance_count": 14,
+          "time_info": "[10时20分 ~ 21时39分]"
         },
         {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
@@ -1031,11 +1078,36 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 20时58分]"
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 21时39分]"
+        },
+        {
+          "title": "国防部：日方推行进攻性太空政策极其危险",
+          "url": "https://www.cls.cn/detail/2239941",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时32分 ~ 21时39分]"
+        },
+        {
+          "title": "【数据看盘】7.39亿元资金抢筹金风科技 多家实力游资集体出逃海南发展",
+          "url": "https://www.cls.cn/detail/2240089",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 21时39分]"
         },
         {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
@@ -1049,27 +1121,18 @@
           "time_info": "[00时35分 ~ 00时36分]"
         },
         {
-          "title": "国防部：日方推行进攻性太空政策极其危险",
-          "url": "https://www.cls.cn/detail/2239941",
+          "title": "广州首个游戏电竞产业专项扶持政策发布",
+          "url": "https://www.cls.cn/detail/2239755",
           "source": "财联社热门",
           "ranks": [
+            10,
+            8,
+            12,
             13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时32分 ~ 20时58分]"
-        },
-        {
-          "title": "【数据看盘】7.39亿元资金抢筹金风科技 多家实力游资集体出逃海南发展",
-          "url": "https://www.cls.cn/detail/2240089",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 20时58分]"
+          "time_info": "[16时38分 ~ 21时39分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出235.59亿元，占比1.22%；大单资金净流出178.94亿元，占比0.93%；小单资金净流入301.72亿元，占比1.57%。",
@@ -1081,19 +1144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
-        },
-        {
-          "title": "广州首个游戏电竞产业专项扶持政策发布",
-          "url": "https://www.cls.cn/detail/2239755",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时38分 ~ 19时26分]"
         },
         {
           "title": "央行最新例会释放下阶段货币政策信号，哪些表述发生了变化？",
@@ -1114,11 +1164,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 20时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 21时39分]"
         },
         {
           "title": "国家税务总局：将持续落实落细支持科技创新的税费优惠政策",
@@ -1156,6 +1207,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时45分 ~ 15时29分]"
+        },
+        {
+          "title": "国投白银LOF：限制A类基金份额定期定额投资金额为100元",
+          "url": "https://wallstreetcn.com/livenews/3026745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时39分]"
         },
         {
           "title": "优必选拟16.65亿元入主锋龙股份 机器人产业链迎全新强催化",
@@ -1228,17 +1291,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时26分]"
-        },
-        {
-          "title": "国投白银LOF：限制A类基金份额定期定额投资金额为100元",
-          "url": "https://wallstreetcn.com/livenews/3026745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
         },
         {
           "title": "金十图示：2025年12月25日（周四）沪深港通南向资金流向",
@@ -1321,8 +1373,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时20分 ~ 20时58分]"
+          "appearance_count": 14,
+          "time_info": "[10时20分 ~ 21时39分]"
         },
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -1360,11 +1412,12 @@
             8,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时33分 ~ 20时58分]"
+          "appearance_count": 12,
+          "time_info": "[13时33分 ~ 21时39分]"
         },
         {
           "title": "人民币年底升值加速！离岸升破7.0大关，在岸升破7.01关口，均创下去年9月底来新高",
@@ -1378,8 +1431,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时04分 ~ 20时58分]"
+          "appearance_count": 13,
+          "time_info": "[12时04分 ~ 21时39分]"
         },
         {
           "title": "离岸人民币兑美元升破7.0大关",
@@ -1407,8 +1460,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时38分 ~ 20时58分]"
+          "appearance_count": 9,
+          "time_info": "[16时38分 ~ 21时39分]"
         },
         {
           "title": "人民币升值，“结汇潮”的助推？",
@@ -1431,11 +1484,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 21时39分]"
         },
         {
           "title": "人民币大升值 有人存美元如今亏钱",
@@ -1503,6 +1557,18 @@
           "time_info": "[12时04分 ~ 15时29分]"
         },
         {
+          "title": "人民币升值，只是开始？",
+          "url": "https://wallstreetcn.com/articles/3762058",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 21时39分]"
+        },
+        {
           "title": "人民币升值使美元存款成“负收益”",
           "url": "https://www.toutiao.com/trending/7587608528857075254/",
           "source": "今日头条",
@@ -1550,17 +1616,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时32分 ~ 18时32分]"
-        },
-        {
-          "title": "人民币升值，只是开始？",
-          "url": "https://wallstreetcn.com/articles/3762058",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.0066，较上一交易日官方收盘价涨95点，较上日夜盘收盘涨94点。",
@@ -1862,7 +1917,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1873,7 +1928,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
@@ -1884,17 +1939,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
-          "url": "https://flash.jin10.com/detail/20251225150449280800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
           "url": "https://www.zhihu.com/question/1987171318681068732",
           "source": "知乎",
@@ -1904,8 +1948,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 20时58分]"
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 21时39分]"
+        },
+        {
+          "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
+          "url": "https://flash.jin10.com/detail/20251225150449280800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
