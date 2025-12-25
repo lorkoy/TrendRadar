@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T13:33:37.115786+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2025-12-25T14:45:31.837092+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "北京调整住房限购政策",
@@ -17,11 +17,12 @@
             14,
             13,
             16,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 13时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 14时45分]"
         },
         {
           "title": "北京优化调整住房限购政策，放宽非京籍家庭购房条件，京籍多子女家庭五环内可买 3 套房，将带来哪些影响？",
@@ -80,7 +81,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -193,6 +194,17 @@
           "time_info": "[00时36分 ~ 01时26分]"
         },
         {
+          "title": "广期所钯期货主力合约打开跌停板，现跌幅收窄至7.37%，报528元/克。铂主力合约日内涨幅扩大至2.00%，现报671.00元/克，此前一度跌超9%。",
+          "url": "https://flash.jin10.com/detail/20251225135847794800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251225113122788800",
           "source": "金十数据",
@@ -259,6 +271,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "广期所钯期货主力合约打开跌停板，目前跌7.8%。铂期货主力合约跌幅收窄至0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3026573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "现货黄金跌破4460美元/盎司，日内跌0.58%。现货白银日内跌超1美元，现报70.42美元/盎司，跌幅1.45%。纽约期银日内下跌1.00%，现报70.42美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251224233737172800",
           "source": "金十数据",
@@ -287,7 +310,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -361,7 +384,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "经销商直呼现在行情看不懂！茅台价格全线上涨，非标产品涨幅显著",
@@ -375,8 +398,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 13时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 14时45分]"
+        },
+        {
+          "title": "为什么国产 3A 游戏不喜欢做《赛博 2077》《死亡搁浅》等末世科幻题材，而喜欢做古代题材？",
+          "url": "https://www.zhihu.com/question/1986740311309981488",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            12,
+            4,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时31分 ~ 14时45分]"
         },
         {
           "title": "康波的年轮，走向1978：迎接商品和 A 股的历史级牛市",
@@ -392,20 +431,15 @@
           "time_info": "[00时35分 ~ 07时28分]"
         },
         {
-          "title": "为什么国产 3A 游戏不喜欢做《赛博 2077》《死亡搁浅》等末世科幻题材，而喜欢做古代题材？",
-          "url": "https://www.zhihu.com/question/1986740311309981488",
-          "source": "知乎",
+          "title": "日本40年期国债收益率下跌7个基点至3.62%，创11月17日以来新低。",
+          "url": "https://flash.jin10.com/detail/20251225142831548800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            14,
-            12,
-            4,
-            7,
-            11
+            2
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时31分 ~ 13时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "日本两年期国债收益率上涨1个基点，至1.11%。",
@@ -427,8 +461,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时20分 ~ 14时45分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘收盘下跌0.41%报1005.5元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘收盘下跌0.64%报17210.0元/千克。",
@@ -442,6 +476,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 05时27分]"
+        },
+        {
+          "title": "多晶硅1月排产减量有限 电池片价格继续上涨",
+          "url": "https://wallstreetcn.com/livenews/3026586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "日本5年期国债收益率下跌0.5个基点，至1.485%",
@@ -475,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "A股上海板块局部异动，上海沪工直线拉升触达涨停。",
+          "url": "https://wallstreetcn.com/livenews/3026579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "上证指数早盘收报3952.50点，涨0.29%。 深证成指早盘收报13472.22点，跌0.11%。 创业板指早盘收报3217.47点，跌0.37%。 沪深300早盘收报4631.00点，跌0.07%。 科创50早盘收报1344.45点，跌0.57%。 中证500早盘收报7375.81点，涨0.32%。 中证1000早盘收报7548.12点，涨0.56%。",
@@ -527,7 +583,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -549,9 +605,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "白酒股震荡拉升，水井坊午后涨停，中锐股份触及涨停，金徽酒、皇台酒业、酒鬼酒、舍得酒业涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3026559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "隔夜shibor报1.2620%，下跌0.50个基点",
@@ -563,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "A股三大指数午后集体翻红，商业航天、机器人、造纸、保险等方向领涨，沪深京三市上涨个股超3800只。",
+          "url": "https://wallstreetcn.com/livenews/3026553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "标普500指数创盘中历史新高，上涨0.16%。",
@@ -593,7 +671,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -604,7 +682,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         }
@@ -612,7 +690,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "【数据看盘】实力游资联手量化资金抢筹英唐智控 机构“爆买”天银机电",
@@ -639,8 +717,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 13时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 14时45分]"
         },
         {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
@@ -654,6 +732,17 @@
           "time_info": "[00时35分 ~ 00时36分]"
         },
         {
+          "title": "国家税务总局：将持续落实落细支持科技创新的税费优惠政策",
+          "url": "https://wallstreetcn.com/livenews/3026588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "央行四季度例会：继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
           "url": "https://wallstreetcn.com/articles/3762015",
           "source": "华尔街见闻",
@@ -662,8 +751,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时20分 ~ 14时45分]"
         },
         {
           "title": "印度为啥搞不定化肥产业",
@@ -672,11 +761,12 @@
           "ranks": [
             6,
             14,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时20分 ~ 14时45分]"
         },
         {
           "title": "中芯国际部分产能涨价10% 国内半导体产业链迎黄金上升期",
@@ -684,11 +774,36 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 14时45分]"
+        },
+        {
+          "title": "优必选拟16.65亿元入主锋龙股份 机器人产业链迎全新强催化",
+          "url": "https://www.cls.cn/detail/2239437",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时33分]"
+          "time_info": "[13时33分 ~ 14时45分]"
+        },
+        {
+          "title": "A股游戏板块午后走强，名臣健康、顺网科技双双涨超2%。广州印发《广州市扶持游戏电竞产业发展的十八条措施》。",
+          "url": "https://wallstreetcn.com/livenews/3026542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时45分]"
         },
         {
           "title": "内塔尼亚胡：以色列将打造独立军工产业",
@@ -703,26 +818,26 @@
           "time_info": "[00时36分 ~ 01时26分]"
         },
         {
-          "title": "A股游戏板块午后走强，名臣健康、顺网科技双双涨超2%。广州印发《广州市扶持游戏电竞产业发展的十八条措施》。",
-          "url": "https://wallstreetcn.com/livenews/3026542",
-          "source": "华尔街见闻-快讯",
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20251225141320156800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "14时45分"
         },
         {
-          "title": "优必选拟16.65亿元入主锋龙股份 机器人产业链迎全新强催化",
-          "url": "https://www.cls.cn/detail/2239437",
-          "source": "财联社热门",
+          "title": "上海：围绕卫星制造与商业运营等产业链关键环节，引育上下游重点项目",
+          "url": "https://wallstreetcn.com/livenews/3026578",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "14时45分"
         },
         {
           "title": "广州首个游戏电竞产业专项扶持政策发布",
@@ -731,9 +846,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "中欧基金罗佳明：AI产业中，明年更看好国产半导体与制造领域",
+          "url": "https://wallstreetcn.com/livenews/3026572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "日本首相高市早苗：日本需借助扩张性财政政策实现更强劲的经济增长。 旨在降低债务占GDP比率，赢得市场信任。 力求实现不加税即可增加财政收入的目标。 可预测性有助于提振私人投资。 为企业发展创造可预测性至关重要。 目标是在不加税的情况下实现增收。",
@@ -742,7 +868,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -753,7 +879,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -783,7 +909,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -820,8 +946,34 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时20分 ~ 14时45分]"
+        },
+        {
+          "title": "离岸人民币兑美元升破7.0大关",
+          "url": "https://www.cls.cn/detail/2239636",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时20分 ~ 13时33分]"
+          "time_info": "[12时04分 ~ 14时45分]"
+        },
+        {
+          "title": "人民币年底升值加速！离岸升破7.0大关，在岸升破7.01关口，均创下去年9月底来新高",
+          "url": "https://wallstreetcn.com/articles/3762050",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 14时45分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0160元，较周二夜盘收盘涨120点。成交量489.31亿美元。",
@@ -837,41 +989,18 @@
           "time_info": "[04时31分 ~ 06时28分]"
         },
         {
-          "title": "离岸人民币兑美元升破7.0大关",
-          "url": "https://www.cls.cn/detail/2239636",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时33分]"
-        },
-        {
           "title": "人民币升值，“结汇潮”的助推？",
           "url": "https://wallstreetcn.com/articles/3762001",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 13时33分]"
-        },
-        {
-          "title": "人民币年底升值加速！离岸升破7.0大关，在岸升破7.01关口，均创下去年9月底来新高",
-          "url": "https://wallstreetcn.com/articles/3762050",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
+            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时20分 ~ 14时45分]"
         },
         {
           "title": "离岸人民币兑美元升破7.0大关",
@@ -879,11 +1008,35 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            12
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 14时45分]"
+        },
+        {
+          "title": "离岸人民币兑美元升破 7.0 大关，主要受哪些因素影响？「破 7」将带来哪些改变？",
+          "url": "https://www.zhihu.com/question/1987142144352335062",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时33分]"
+          "time_info": "[13时33分 ~ 14时45分]"
+        },
+        {
+          "title": "人民币大升值 有人存美元如今亏钱",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%A4%A7%E5%8D%87%E5%80%BC+%E6%9C%89%E4%BA%BA%E5%AD%98%E7%BE%8E%E5%85%83%E5%A6%82%E4%BB%8A%E4%BA%8F%E9%92%B1",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时45分]"
         },
         {
           "title": "在岸人民币兑美元升破7.01元关口",
@@ -896,28 +1049,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 13时33分]"
-        },
-        {
-          "title": "离岸人民币兑美元升破 7.0 大关，主要受哪些因素影响？「破 7」将带来哪些改变？",
-          "url": "https://www.zhihu.com/question/1987142144352335062",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "人民币大升值 有人存美元如今亏钱",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%A4%A7%E5%8D%87%E5%80%BC+%E6%9C%89%E4%BA%BA%E5%AD%98%E7%BE%8E%E5%85%83%E5%A6%82%E4%BB%8A%E4%BA%8F%E9%92%B1",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         },
         {
           "title": "周三（12月24日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报7.0074元，较周二纽约尾盘涨119点，日内整体交投于7.0195-7.0015元区间。",
@@ -942,6 +1073,17 @@
           "time_info": "10时20分"
         },
         {
+          "title": "离岸人民币兑美元破7大关",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E7%A0%B47%E5%A4%A7%E5%85%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "离岸人民币兑美元升破7.0关口，为2024年9月底以来首次。 在岸人民币兑美元升破7.01关口，创2024年9月27日以来新高。",
           "url": "https://wallstreetcn.com/livenews/3026465",
           "source": "华尔街见闻-快讯",
@@ -956,7 +1098,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -1062,6 +1204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时26分]"
+        },
+        {
+          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
+          "url": "https://wallstreetcn.com/articles/3762016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
