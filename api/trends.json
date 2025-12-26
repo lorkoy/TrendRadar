@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T12:01:57.192067+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2025-12-26T13:32:31.672807+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
@@ -31,11 +31,23 @@
             25,
             17,
             12,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 12时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 13时32分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251226132129495800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "沪银收涨5.50%，报18131元人民币/公斤。 沪金夜盘收涨1.07%。 上期所原油期货2502合约夜盘收涨0.38%，报447.00元人民币/桶。",
@@ -98,6 +110,30 @@
           "time_info": "[00时36分 ~ 04时32分]"
         },
         {
+          "title": "白银“不断创新高”的底气：伦敦现货白银的挤兑愈演愈烈",
+          "url": "https://wallstreetcn.com/articles/3762108",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.33%，10年期主力合约涨0.09%，5年期主力合约涨0.06%，2年期主力合约涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3027017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
+        },
+        {
           "title": "截至23:00收盘，国内期货主力合约多数上涨，燃料油、菜粕涨近2%，PX、PTA涨超1.5%。跌幅方面，焦煤、焦炭、液化石油气（LPG）、玻璃跌超1%。",
           "url": "https://flash.jin10.com/detail/20251225230021927800",
           "source": "金十数据",
@@ -110,15 +146,16 @@
           "time_info": "[00时36分 ~ 01时26分]"
         },
         {
-          "title": "白银“不断创新高”的底气：伦敦现货白银的挤兑愈演愈烈",
-          "url": "https://wallstreetcn.com/articles/3762108",
-          "source": "华尔街见闻",
+          "title": "现货铂金上涨8%至每盎司2,413.62美元，创纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3027004",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            15,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
         },
         {
           "title": "现货钯金向上触及1800美元/盎司，日内涨6.27%。",
@@ -138,7 +175,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -160,7 +197,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -174,17 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.33%，10年期主力合约涨0.09%，5年期主力合约涨0.06%，2年期主力合约涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3027017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -204,7 +230,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -242,26 +268,26 @@
           "time_info": "10时14分"
         },
         {
-          "title": "现货铂金上涨8%至每盎司2,413.62美元，创纪录新高。",
-          "url": "https://wallstreetcn.com/livenews/3027004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
           "title": "现货铂金上涨8%，创下每盎司2,413.62美元的历史新高。",
           "url": "https://flash.jin10.com/detail/20251226110400395800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "12月26日碳酸锂现货价格持续上行",
+          "url": "https://flash.jin10.com/detail/20251226120712707800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "碳酸锂期货主力合约涨超8%，突破13万元关口，创2023年11月以来新高。",
@@ -322,7 +348,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "【每日收评】沪指迎7连阳！商业航天概念持续爆发，市场再现10连板个股",
@@ -348,17 +374,6 @@
           "time_info": "10时14分"
         },
         {
-          "title": "日本30年期国债收益率下跌1个基点，至3.390%。",
-          "url": "https://flash.jin10.com/detail/20251226115129599800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 12月25日（周四）晚盘收盘上涨1.06%报1013.11元/克；<br/>上海黄金交易所白银T+D 12月25日（周四）晚盘收盘上涨5.09%报18118.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251226023045114800",
           "source": "金十数据",
@@ -374,16 +389,111 @@
           "time_info": "[03时24分 ~ 07时27分]"
         },
         {
+          "title": "日本30年期国债收益率下跌1.5BP至3.385%。",
+          "url": "https://wallstreetcn.com/livenews/3027052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "新加坡富时海峡时报指数上涨0.1%，报4642.42点；此前曾触及4643.73点。",
+          "url": "https://flash.jin10.com/detail/20251226131644757800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "日本30年期国债收益率下跌1个基点，至3.390%。",
+          "url": "https://flash.jin10.com/detail/20251226115129599800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
+        },
+        {
           "title": "离岸人民币兑美元升穿 7.0 关口，是什么在助推这波上涨，其叠加国际金属涨价潮，对哪些行业有较大影响？",
           "url": "https://www.zhihu.com/question/1987272426950780464",
           "source": "知乎",
           "ranks": [
             13,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 13时32分]"
+        },
+        {
+          "title": "上证指数早盘收报3952.09点，跌0.19%。 深证成指早盘收报13554.07点，涨0.17%。 创业板指早盘收报3234.63点，跌0.15%。 沪深300早盘收报4643.95点，涨0.03%。 科创50早盘收报1342.12点，跌0.51%。 中证500早盘收报7415.97点，涨0.07%。 中证1000早盘收报7570.90点，跌0.11%。",
+          "url": "https://wallstreetcn.com/livenews/3027020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 12时01分]"
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
+        },
+        {
+          "title": "12月26日午间收评：三大指数集体冲高回落，全市场下跌个股近4000只",
+          "url": "https://wallstreetcn.com/livenews/3027019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
+        },
+        {
+          "title": "沪指、创业板指双双跳水翻绿，深成指涨幅快速收窄，造纸、光刻机、白酒、算力硬件等方向跌幅居前，沪深京三市下跌个股近3600只。",
+          "url": "https://wallstreetcn.com/livenews/3027012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
+        },
+        {
+          "title": "深成指涨超1%，沪指涨0.41%，创业板指涨0.89%，海南自贸区、光伏、锂电池、商业航天等方向领涨，沪深京三市上涨个股近2900只。",
+          "url": "https://wallstreetcn.com/livenews/3027008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
+        },
+        {
+          "title": "隔夜SHIBOR报1.2580%，下降0.40个基点。 7天SHIBOR报1.4480%，上涨4.80个基点。 3个月SHIBOR报1.6000%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3027000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）富时中国A50指数成分股午盘收盘行情一览：银行板块多数走低，光伏设备、小金属板块大幅上扬",
@@ -392,29 +502,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "上证指数早盘收报3952.09点，跌0.19%。 深证成指早盘收报13554.07点，涨0.17%。 创业板指早盘收报3234.63点，跌0.15%。 沪深300早盘收报4643.95点，涨0.03%。 科创50早盘收报1342.12点，跌0.51%。 中证500早盘收报7415.97点，涨0.07%。 中证1000早盘收报7570.90点，跌0.11%。",
-          "url": "https://wallstreetcn.com/livenews/3027020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "12月26日午间收评：三大指数集体冲高回落，全市场下跌个股近4000只",
-          "url": "https://wallstreetcn.com/livenews/3027019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -452,28 +540,6 @@
           "time_info": "10时14分"
         },
         {
-          "title": "沪指、创业板指双双跳水翻绿，深成指涨幅快速收窄，造纸、光刻机、白酒、算力硬件等方向跌幅居前，沪深京三市下跌个股近3600只。",
-          "url": "https://wallstreetcn.com/livenews/3027012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "深成指涨超1%，沪指涨0.41%，创业板指涨0.89%，海南自贸区、光伏、锂电池、商业航天等方向领涨，沪深京三市上涨个股近2900只。",
-          "url": "https://wallstreetcn.com/livenews/3027008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
           "title": "锂电池板块开盘大涨，丰元股份、天际股份竞价涨停，湖南裕能、华盛锂电、龙蟠科技、金圆股份等涨超7%，消息面上，碳酸锂主力合约盘中强势突破13万关口，日内涨超8%，创2023年11月以来新高。",
           "url": "https://wallstreetcn.com/livenews/3026934",
           "source": "华尔街见闻-快讯",
@@ -485,24 +551,13 @@
           "time_info": "10时14分"
         },
         {
-          "title": "隔夜SHIBOR报1.2580%，下降0.40个基点。 7天SHIBOR报1.4480%，上涨4.80个基点。 3个月SHIBOR报1.6000%，上涨0.00个基点。",
-          "url": "https://wallstreetcn.com/livenews/3027000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
           "title": "隔夜shibor报1.2580%，下跌0.40个基点",
           "url": "https://flash.jin10.com/detail/20251226110034515800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -513,7 +568,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -535,7 +590,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         }
@@ -543,7 +598,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "商业航天、6G等成产业布局重点 上海发布G60科创走廊策源地支持措施",
@@ -618,19 +673,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 12时01分]"
-        },
-        {
-          "title": "领益智造、浩海星空、浙江仙通三方携手 共拓具身智能机器人产业生态",
-          "url": "https://wallstreetcn.com/livenews/3027027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 13时32分]"
         },
         {
           "title": "中信明明：央行仍可能通过国债买入等方式，对冲阶段性扰动，平抑资金面波动",
@@ -670,6 +714,18 @@
           "time_info": "[06时29分 ~ 07时27分]"
         },
         {
+          "title": "领益智造、浩海星空、浙江仙通三方携手 共拓具身智能机器人产业生态",
+          "url": "https://wallstreetcn.com/livenews/3027027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
+        },
+        {
           "title": "光大证券策略首席分析师：政策、产业、资金“三重共振”，2026年A股市场将依然乐观。",
           "url": "https://wallstreetcn.com/livenews/3026846",
           "source": "华尔街见闻-快讯",
@@ -694,6 +750,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 04时32分]"
+        },
+        {
+          "title": "我国创造超导电动磁悬浮推进世界纪录 超导产业链迈入高速成长期",
+          "url": "https://www.cls.cn/detail/2240473",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
         },
         {
           "title": "国家发改委：对高端数控机床、高端船舶等重大装备产业，关键在于重点突破、协同联动",
@@ -740,15 +807,26 @@
           "time_info": "10时14分"
         },
         {
-          "title": "我国创造超导电动磁悬浮推进世界纪录 超导产业链迈入高速成长期",
-          "url": "https://www.cls.cn/detail/2240473",
-          "source": "财联社热门",
+          "title": "深技大半导体微纳加工中心落成，打造大湾区化合物半导体光电产业支撑平台",
+          "url": "https://wallstreetcn.com/livenews/3027037",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时01分"
+          "time_info": "13时32分"
+        },
+        {
+          "title": "日本经济产业省：日本11月原油进口同比增加2.6%；日本11月石油产品总销量同比下降4.5%；日本11月汽油销量同比下降3.2%。",
+          "url": "https://flash.jin10.com/detail/20251226123349038800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "财政部：发挥财政资金“四两拨千斤”效应，为创投领域注入源头活水",
@@ -757,7 +835,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         }
@@ -815,8 +893,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 12时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 13时32分]"
         },
         {
           "title": "人民币重返6时代 钱袋子正在被重写",
@@ -829,6 +907,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时35分 ~ 10时14分]"
+        },
+        {
+          "title": "圣诞美欧韩股休市，人民币一年多来首次盘中破7，沪银涨超5%续创新高",
+          "url": "https://wallstreetcn.com/articles/3762066",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时28分 ~ 13时32分]"
         },
         {
           "title": "离岸人民币汇率升破7",
@@ -844,20 +936,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时26分 ~ 07时27分]"
-        },
-        {
-          "title": "圣诞美欧韩股休市，人民币一年多来首次盘中破7，沪银涨超5%续创新高",
-          "url": "https://wallstreetcn.com/articles/3762066",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时28分 ~ 12时01分]"
         },
         {
           "title": "圣诞美欧韩股休市，离岸人民币破7，黄金失守4500美元，沪银涨近4%续创新高",
@@ -937,7 +1015,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         }
@@ -983,11 +1061,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 13时32分]"
+        },
+        {
+          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3026999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
@@ -996,18 +1087,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3026999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         }
@@ -1024,7 +1104,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         }
