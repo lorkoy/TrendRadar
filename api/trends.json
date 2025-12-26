@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T06:28:58.447036+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2025-12-27T07:27:34.721861+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "白银“不断创新高”的底气：伦敦现货白银的挤兑愈演愈烈",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时27分]"
         },
         {
           "title": "成都8县市优化调整烟花爆竹管理措施，部分区域春节期间可限时燃放",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时27分]"
         },
         {
           "title": "WTI 2月原油期货收跌1.61美元，跌幅2.76%，报56.74美元/桶。 NYMEX 1月天然气期货收报4.3660美元/百万英热单位。 NYMEX 1月汽油期货收报1.6971美元/加仑，NYMEX 1月取暖油期货收报2.1070美元/加仑。",
@@ -42,28 +42,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "周五（12月26日）纽约尾盘，标普500股指期货最终跌0.02%，道指期货跌0.11%，纳斯达克100股指期货微涨不到0.01%。 罗素2000股指期货跌0.48%。",
-          "url": "https://wallstreetcn.com/livenews/3027477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "白银期货涨超10，创历史新高逼近80美元关口，纽约铜涨5%追随沪铜创历史新高的表现",
-          "url": "https://wallstreetcn.com/livenews/3027475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "沪银期货主力合约日内涨幅扩大至5%，续创新高。",
@@ -78,6 +56,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时25分 ~ 04时31分]"
+        },
+        {
+          "title": "现货白银日内暴涨7%",
+          "url": "https://flash.jin10.com/detail/20251227022449939800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时23分 ~ 07时27分]"
         },
         {
           "title": "现货白银日内涨幅达6.5%，报76.58美元/盎司。",
@@ -122,6 +112,17 @@
           "time_info": "[03时23分 ~ 06时28分]"
         },
         {
+          "title": "现货白银日内暴涨8%",
+          "url": "https://flash.jin10.com/detail/20251227031731256800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 07时27分]"
+        },
+        {
           "title": "现货白银日内涨幅达8.0%，报77.64美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3027448",
           "source": "华尔街见闻-快讯",
@@ -135,27 +136,41 @@
           "time_info": "[04时31分 ~ 06时28分]"
         },
         {
-          "title": "现货白银日内暴涨7%",
-          "url": "https://flash.jin10.com/detail/20251227022449939800",
-          "source": "金十数据",
+          "title": "周五（12月26日）纽约尾盘，标普500股指期货最终跌0.02%，道指期货跌0.11%，纳斯达克100股指期货微涨不到0.01%。 罗素2000股指期货跌0.48%。",
+          "url": "https://wallstreetcn.com/livenews/3027477",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            15
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 06时28分]"
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
         },
         {
-          "title": "现货白银日内暴涨8%",
-          "url": "https://flash.jin10.com/detail/20251227031731256800",
-          "source": "金十数据",
+          "title": "白银期货涨超10，创历史新高逼近80美元关口，纽约铜涨5%追随沪铜创历史新高的表现",
+          "url": "https://wallstreetcn.com/livenews/3027475",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "纽约银日内涨幅达10.0%，报78.87美元/盎司。 现货白银日内涨幅达9.0%，报78.36美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3027459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时28分]"
+          "time_info": "[05时27分 ~ 07时27分]"
         },
         {
           "title": "沪银期货主力合约日内涨幅扩大至5%，报19030元/千克，续创新高。",
@@ -197,16 +212,17 @@
           "time_info": "[00时34分 ~ 02时40分]"
         },
         {
-          "title": "纽约银日内涨幅达10.0%，报78.87美元/盎司。 现货白银日内涨幅达9.0%，报78.36美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3027459",
+          "title": "芝加哥小麦期货与豆粕本周涨超2%，大豆涨超1.1%",
+          "url": "https://wallstreetcn.com/livenews/3027454",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            15
+            10,
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时27分]"
         },
         {
           "title": "现货白银站上76美元",
@@ -221,16 +237,16 @@
           "time_info": "[00时34分 ~ 01时25分]"
         },
         {
-          "title": "芝加哥小麦期货与豆粕本周涨超2%，大豆涨超1.1%",
-          "url": "https://wallstreetcn.com/livenews/3027454",
+          "title": "纽约银日内涨幅达11.0%，报79.58美元/盎司。 现货白银日内涨幅达10.0%，报79.14美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3027471",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            19
+            7,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时28分]"
+          "time_info": "[06时28分 ~ 07时27分]"
         },
         {
           "title": "现货黄金站上4540美元/盎司，日内涨1.35%。现货钯金突破1900美元/盎司，日内涨超12%。",
@@ -293,15 +309,15 @@
           "time_info": "[00时34分 ~ 01时25分]"
         },
         {
-          "title": "纽约银日内涨幅达11.0%，报79.58美元/盎司。 现货白银日内涨幅达10.0%，报79.14美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3027471",
+          "title": "比特币期货本周跌超1.4%，以太坊期货跌约2.2%",
+          "url": "https://wallstreetcn.com/livenews/3027478",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时27分"
         },
         {
           "title": "现货钯金日内暴涨12.00%，现报1899.57美元/盎司。",
@@ -362,7 +378,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "白银狂飙之际市场看法分化 分析师警示抛物线式上涨后的崩盘",
@@ -373,19 +389,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[03时23分 ~ 07时27分]"
         },
         {
-          "title": "周五（12月26日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报7.0045元，较周四纽约尾盘跌28点，日内整体交投于6.9997-7.0085元区间。 本周，离岸人民币累计上涨297点，涨幅0.42%，周一至周四持续上涨，周五高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3027476",
+          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3027489",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时27分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月26日（周五）晚盘收盘上涨0.16%报1012.2元/克；<br/>上海黄金交易所白银T+D 12月26日（周五）晚盘收盘上涨4.2%报19140.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251227023104715800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时23分 ~ 07时27分]"
         },
         {
           "title": "本周，标普累涨约1.4%，道指累涨1.1%，纳指累涨1.2%，半导体指数累涨2.1%，科技股七巨头指数累涨1.7%，生物科技指数累涨1.2%，银行指数累涨1.7%。 周五当天，标普500指数初步微幅收跌不到0.01%，可选消费、能源、金融、电信等板块至多跌0.4%，科技板块涨0.2%。 纳斯达克100指数初步收跌0.08%，成分股中，Workday、TTWO、拼多多、TEAM、西部数据、英伟达至多涨1.8%，Arm控股跌1.2%，华纳兄弟探索跌1.2%，Applovin与特斯拉跌2.1%，Palantir跌2.8%。 迪士尼、麦当劳、迪士尼跌超0.7%，3M涨1%，联合健康涨1.12%，耐克涨1.4%，与英伟达领跑。",
@@ -397,17 +425,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3027473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "俄罗斯统计局：俄罗斯10月实际工资同比上涨6.1%，高于前月的4.7%。",
@@ -436,6 +453,18 @@
           "time_info": "[00时34分 ~ 02时40分]"
         },
         {
+          "title": "周五（12月26日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报7.0045元，较周四纽约尾盘跌28点，日内整体交投于6.9997-7.0085元区间。 本周，离岸人民币累计上涨297点，涨幅0.42%，周一至周四持续上涨，周五高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3027476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
           "title": "周五（12月26日），韩元兑美元最终涨0.31%，报1441.66韩元。 本周，韩元累计上涨2.43%，周一至周二维持微跌状态——交投于1480韩元附近，周三显著上涨，周四（和周五）在清淡行情中持稳。",
           "url": "https://wallstreetcn.com/livenews/3027428",
           "source": "华尔街见闻-快讯",
@@ -449,16 +478,16 @@
           "time_info": "[02时40分 ~ 04时31分]"
         },
         {
-          "title": "上海黄金交易所黄金T+D 12月26日（周五）晚盘收盘上涨0.16%报1012.2元/克；<br/>上海黄金交易所白银T+D 12月26日（周五）晚盘收盘上涨4.2%报19140.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251227023104715800",
-          "source": "金十数据",
+          "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3027473",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            14
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 06时28分]"
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
         },
         {
           "title": "越南房地产开发公司Vingroup（VIC.VN）收跌3.23%，报15.3万（越南盾），交易时段内大部分时间延续开盘跌停的状态，尾盘跌幅两度收窄。 本周，该公司股价累计涨幅收窄至4.38%——周一至周三持续上涨（周二至周四处于高位震荡状态）。 周四尾盘，该公司宣布放弃对（关于南北高铁）政府项目的投资计划。",
@@ -480,11 +509,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时27分]"
         },
         {
           "title": "周五（12月26日）纽约尾盘，美国10年期国债收益率跌0.38个基点，报4.1297%，本周累计下跌1.74个基点 两年期美债收益率跌2.04个基点，报3.4810%，本周累跌0.24个基点；30年期美债收益率本周累跌0.71个基点，报4.8171%。",
@@ -492,11 +522,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时27分]"
+        },
+        {
+          "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
+          "url": "https://wallstreetcn.com/livenews/3027470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时28分]"
+          "time_info": "[06时28分 ~ 07时27分]"
         },
         {
           "title": "【每日收评】沪指放量震荡微涨0.1%，全市场超3400股收跌，商业航天概念持续火爆",
@@ -508,6 +551,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时25分]"
+        },
+        {
+          "title": "标普500指数收跌2.11点，跌幅0.03%，报6929.94点，本周累计上涨1.40%。 道琼斯工业平均指数收跌20.19点，跌幅0.04%，报48710.97点，本周累涨1.20%。 纳斯达克综合指数（纳指）收跌20.21点，跌幅0.09%，报23593.097点，本周累涨1.22%。 纳斯达克100指数收跌11.756点，跌幅0.05%，报25644.39点，本周累涨1.18%。",
+          "url": "https://wallstreetcn.com/livenews/3027460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
         },
         {
           "title": "美国三大股指悉数下跌，纳指跌0.1%。 纳斯达克生物科技指数跌超0.7%，成分股Vor Biopharma目前跌4.34%，奥麦罗制药（OMER）跌5.57%，Pyxis Oncology跌5.41%，Kodiak Sciences跌5.76%，Gossamer Bio跌5.38%。 Orchestra Biomed Holdings则涨0.92%暂时表现第三，Silence Therapeutics涨2.61%，Vanda Pharmaceuticals涨2.89%。",
@@ -534,26 +589,15 @@
           "time_info": "[00时34分 ~ 01时25分]"
         },
         {
-          "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
-          "url": "https://wallstreetcn.com/livenews/3027470",
+          "title": "周五（12月26日），明晟公司MSCI发展中国家股票指数收涨0.4%，科技板块领跑；2025年迄今，该指数已经累计上涨30%，有望创2017年以来最佳年度表现。 MSCI新兴市场外汇指数创9月中旬以来新高，（南美）哥伦比亚比索、（东欧）匈牙利福林领跑，巴西雷亚尔则一度跌0.5%——受到与大选相关的政治局势的拖累。",
+          "url": "https://wallstreetcn.com/livenews/3027480",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "标普500指数收跌2.11点，跌幅0.03%，报6929.94点，本周累计上涨1.40%。 道琼斯工业平均指数收跌20.19点，跌幅0.04%，报48710.97点，本周累涨1.20%。 纳斯达克综合指数（纳指）收跌20.21点，跌幅0.09%，报23593.097点，本周累涨1.22%。 纳斯达克100指数收跌11.756点，跌幅0.05%，报25644.39点，本周累涨1.18%。",
-          "url": "https://wallstreetcn.com/livenews/3027460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时27分"
         },
         {
           "title": "塔吉特(TGT.N)最高上涨6.7%，创7月以来最大涨幅。",
@@ -591,22 +635,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时27分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
           "url": "https://wallstreetcn.com/articles/3762133",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -614,11 +660,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时27分]"
+        },
+        {
+          "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3027472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时28分]"
+          "time_info": "[06时28分 ~ 07时27分]"
         },
         {
           "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
@@ -631,17 +690,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时25分]"
-        },
-        {
-          "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
-          "url": "https://wallstreetcn.com/livenews/3027472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "韩国电商Coupang美股盘初涨11%，创5月7日以来最佳盘中表现。",
@@ -680,8 +728,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时27分]"
         },
         {
           "title": "海南封关后海南存的人民币是不是离岸人民币？",
@@ -696,8 +744,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时27分]"
         },
         {
           "title": "今日中间价远低于市场预期，偏离度创2018年以来最大！央行亮姿态：人民币升太快了吗？",
@@ -707,8 +755,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时27分]"
         },
         {
           "title": "人民币破7之后",
@@ -719,8 +767,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时27分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0063元，较周四夜盘收盘跌5点。成交量311.83亿美元。",
@@ -750,8 +798,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时27分]"
         },
         {
           "title": "【数据看盘】机构豪掷4.82亿买入航天发展 多路资金联手抢筹德明利",
@@ -761,8 +809,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时27分]"
         },
         {
           "title": "日本将划拨460亿美元用于支持在美国的投资。 这笔资金将来自低息贷款和担保。（日经新闻）",
@@ -789,11 +837,12 @@
           "url": "https://wallstreetcn.com/livenews/3027463",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
         }
       ]
     },
@@ -810,8 +859,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时27分]"
         }
       ]
     },
@@ -825,11 +874,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时27分]"
         }
       ]
     }
