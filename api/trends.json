@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T14:49:51.447133+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2025-12-29T15:34:58.417689+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 37,
+      "match_count": 48,
       "titles": [
         {
           "title": "不团结搞内耗、工作不在状态，16名干部被甘肃省委调整",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 14时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时34分]"
         },
         {
           "title": "期货热点追踪",
@@ -97,6 +97,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "金属全线回落，黄金跌破4500，白银跌超2%，现货钯金跌超11%，内盘碳酸锂、铂主力合约跌停",
+          "url": "https://wallstreetcn.com/articles/3762216",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "80美元！现货白银价格创下新记录",
           "url": "https://flash.jin10.com/detail/20251229070052122800",
           "source": "金十数据",
@@ -108,15 +119,15 @@
           "time_info": "07时27分"
         },
         {
-          "title": "现货钯金跌超11%，现报1726.23美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3027954",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金持续走低，向下触及4450美元/盎司，日内跌1.89%。",
+          "url": "https://flash.jin10.com/detail/20251229150412597800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "15时34分"
         },
         {
           "title": "金银跳水，白银从涨6%到跌2%，黄金跌破4500美元关口，现货钯金跌近7%，铂主力合约触及跌停",
@@ -125,7 +136,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -141,17 +152,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "30年期国债期货（TL）主力合约日内跌幅达1.20%，现报111.49元。",
-          "url": "https://flash.jin10.com/detail/20251229141932677800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
           "title": "现货白银亚市开盘一度大涨超4%",
           "url": "https://wallstreetcn.com/livenews/3027712",
           "source": "华尔街见闻-快讯",
@@ -161,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.91%，10年期主力合约跌0.28%，5年期主力合约跌0.18%，2年期主力合约跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3027979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "国债期货午后持续走弱，30年期主力合约盘中跌1.10%，10年期跌0.26%，5年期跌0.19%，2年期跌0.07%。",
@@ -173,6 +184,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 14时49分]"
+        },
+        {
+          "title": "现货钯金跌超11%，现报1726.23美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3027954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时34分]"
+        },
+        {
+          "title": "30年期国债期货（TL）主力合约日内跌幅达1.20%，现报111.49元。",
+          "url": "https://flash.jin10.com/detail/20251229141932677800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时34分]"
         },
         {
           "title": "国债期货早盘收盘",
@@ -211,6 +246,18 @@
           "time_info": "[12时16分 ~ 13时37分]"
         },
         {
+          "title": "国债期货持续走弱，30年期主力合约盘中跌超1.2%，10年期跌0.29%，5年期跌0.20%，2年期跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3027948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时34分]"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约有涨有跌。沪银涨超9%，铁矿石、沪铜涨超3%，国际铜、沪锡涨超2%。跌幅方面，钯跌超5%，PX、SC原油跌超2%，铂、PTA跌近2%。",
           "url": "https://flash.jin10.com/detail/20251229113042275800",
           "source": "金十数据",
@@ -221,6 +268,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时16分 ~ 13时37分]"
+        },
+        {
+          "title": "现货钯金跌超10%，现报1745.38美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3027947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时34分]"
+        },
+        {
+          "title": "广期所铂主力合约触及跌停，跌幅10%，报634.35元/克。 沪银期货主力合约快速跳水，涨幅收窄至5%，此前一度涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3027938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时34分]"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。钯、铂封跌停板，跌幅均为10%；碳酸锂跌超7%，多晶硅跌超4%，PX、PTA跌超2%。涨幅方面，铁矿石涨超2%，双胶纸、玉米、淀粉、生猪、塑料、塑料月均价涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251229150103651800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "国债期货早盘收盘，30年期主力合约跌1.04%，10年期主力合约跌0.24%，5年期主力合约跌0.17%，2年期主力合约跌0.06%。",
@@ -234,17 +316,6 @@
           "time_info": "12时16分"
         },
         {
-          "title": "国债期货持续走弱，30年期主力合约盘中跌超1.2%，10年期跌0.29%，5年期跌0.20%，2年期跌0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3027948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
           "title": "30年期国债期货（TL）主力合约日内跌超0.90%，现报111.83元。",
           "url": "https://flash.jin10.com/detail/20251229094512150800",
           "source": "金十数据",
@@ -254,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "现货黄金短线走低20美元，向下触及4460美元/盎司，日内跌1.67%。",
+          "url": "https://flash.jin10.com/detail/20251229150058083800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "沪银期货主力合约涨超10%。",
@@ -267,15 +349,15 @@
           "time_info": "12时16分"
         },
         {
-          "title": "现货钯金跌超10%，现报1745.38美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3027947",
+          "title": "现货黄金5分钟内下跌8.59美元/盎司，报4453.41美元/盎司，日内跌幅达1.75%。",
+          "url": "https://wallstreetcn.com/livenews/3027975",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "15时34分"
         },
         {
           "title": "现货黄金亚盘下跌 但价格可能维持高位",
@@ -289,6 +371,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "现货铂金跌幅扩大逾7%，现报2262.60美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251229145351437800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "受供应紧张、工业需求强劲等因素支撑 现货白银今日一度突破80美元大关",
           "url": "https://flash.jin10.com/detail/20251229093652007800",
           "source": "金十数据",
@@ -300,15 +393,15 @@
           "time_info": "10时31分"
         },
         {
-          "title": "广期所铂主力合约触及跌停，跌幅10%，报634.35元/克。 沪银期货主力合约快速跳水，涨幅收窄至5%，此前一度涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3027938",
-          "source": "华尔街见闻-快讯",
+          "title": "现货钯金失守1700美元/盎司，日内跌幅10.70%。",
+          "url": "https://flash.jin10.com/detail/20251229145033337800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "15时34分"
         },
         {
           "title": "国债期现货全新走低",
@@ -328,9 +421,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        },
+        {
+          "title": "商品期货收盘，钯、铂主力合约跌停，跌幅10%。碳酸锂跌超7%，多晶硅跌超4%，对二甲苯、PTA跌超2%。铁矿石涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3027967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "国债期货跌幅扩大，30年期主力合约盘中一度跌超0.7%，10年期主力合约跌超0.2%。",
@@ -388,6 +492,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "现货钯金日内暴跌10.00%，现报1712.93美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251229143552080800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "2026年国补可能有哪些调整",
           "url": "https://www.toutiao.com/trending/7589079387580927551/",
           "source": "今日头条",
@@ -430,12 +545,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "浙江明年起调整最低工资标准",
+          "url": "https://www.toutiao.com/trending/7588083102733434923/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -449,15 +575,15 @@
           "time_info": "[00时35分 ~ 07时27分]"
         },
         {
-          "title": "创业板指跌幅扩大至1%，沪指回落翻绿，医药商业、电池、食品饮料板块跌幅居前，全市场超3500只个股下跌。",
-          "url": "https://wallstreetcn.com/livenews/3027952",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2025年12月29日（周一）富时中国A50指数成分股今日收盘行情一览：银行股全线上涨、保险股、酿酒行业股全线下跌",
+          "url": "https://flash.jin10.com/detail/20251229150227262800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "15时34分"
         },
         {
           "title": "澳大利亚S&P/ASX200指数收盘下跌0.4%，报8725.70点。",
@@ -496,6 +622,18 @@
           "time_info": "[12时16分 ~ 13时37分]"
         },
         {
+          "title": "创业板指跌幅扩大至1%，沪指回落翻绿，医药商业、电池、食品饮料板块跌幅居前，全市场超3500只个股下跌。",
+          "url": "https://wallstreetcn.com/livenews/3027952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时34分]"
+        },
+        {
           "title": "为什么常见的日式西幻题材中，魔法使一旦没有魔导书、魔法杖等魔法道具，就会失去施法能力？",
           "url": "https://www.zhihu.com/question/622908408",
           "source": "知乎",
@@ -517,8 +655,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 14时49分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 15时34分]"
         },
         {
           "title": "低硫燃料油（LU）主力合约日内下跌2.00%，现报2962.00元/吨。",
@@ -543,6 +681,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "印尼基准股指上涨1%，至8,622.49点。",
+          "url": "https://flash.jin10.com/detail/20251229145929919800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "燃油主力合约日内下跌2.00%，现报2452.00元/吨。",
           "url": "https://flash.jin10.com/detail/20251229094110374800",
           "source": "金十数据",
@@ -565,6 +714,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "沪镍主力合约日内下跌2.00%，现报124240.00元/吨；沪锡主力合约日内下跌2.00%，现报331030.00元/吨。",
+          "url": "https://flash.jin10.com/detail/20251229145319006800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "台湾证交所加权股价指数上涨1%至28,841.64点，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3027898",
           "source": "华尔街见闻-快讯",
@@ -574,6 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "上证指数收报3965.28点，涨0.04%。 深证成指收报13537.10点，跌0.49%。 创业板指收报3222.61点，跌0.66%。 沪深300收报4639.37点，跌0.38%。 科创50收报1346.32点，涨0.04%。 中证500收报7430.61点，跌0.38%。 中证1000收报7594.16点，跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3027970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "巴基斯坦KSE-100指数上涨1%。",
@@ -598,6 +769,17 @@
           "time_info": "12时16分"
         },
         {
+          "title": "印尼基准股指上涨1%，至8,622.49点。",
+          "url": "https://wallstreetcn.com/livenews/3027964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "隔夜shibor报1.2480%，下跌1.00个基点",
           "url": "https://flash.jin10.com/detail/20251229110012392800",
           "source": "金十数据",
@@ -609,6 +791,17 @@
           "time_info": "12时16分"
         },
         {
+          "title": "铂主力合约再次触及跌停，跌幅10%，报634.35元/克；此前在触及跌停板后立马反弹，并上涨至659.65元/克，将跌幅收窄至6.41%。",
+          "url": "https://flash.jin10.com/detail/20251229143711569800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "上证指数开盘报3964.65点，涨0.02%。 深证成指开盘报13604.30点，涨0.00%。 创业板指开盘报3237.77点，跌0.19%。 沪深300开盘报4658.27点，涨0.02%。 科创50开盘报1345.98点，涨0.01%。 中证500开盘报7467.50点，涨0.12%。 中证1000开盘报7606.44点，涨0.01%。",
           "url": "https://wallstreetcn.com/livenews/3027784",
           "source": "华尔街见闻-快讯",
@@ -618,12 +811,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "日经225指数收涨0.4%，报50526.92点。 日本东证指数收涨0.1%，报3426.52点。 韩国首尔综指收涨2.2%，报4220.56点，为11月3日以来最高收盘水平。 三星电子收盘上涨2.14%，SK海力士上涨6.84%，均创下史上最高收盘价。",
+          "url": "https://wallstreetcn.com/livenews/3027950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "财政部：2026年继续实施更加积极的财政政策，扩大财政支出盘子，继续支持消费品以旧换新",
@@ -670,8 +874,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时30分 ~ 14时49分]"
+          "appearance_count": 7,
+          "time_info": "[10时30分 ~ 15时34分]"
         },
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -687,15 +891,37 @@
           "time_info": "[00时35分 ~ 05时27分]"
         },
         {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出718.28亿元，占比3.36%；大单资金净流出387.20亿元，占比1.81%；小单资金净流入602.06亿元，占比2.81%。",
+          "url": "https://flash.jin10.com/detail/20251229150617206800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "主力资金流向前十大个股",
           "url": "https://flash.jin10.com/detail/20251229141158403800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        },
+        {
+          "title": "西安半导体产业链发展基金成立，出资额10亿",
+          "url": "https://wallstreetcn.com/livenews/3027977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "上交所明确商业火箭科创板上市新规 商业航天产业进入壮大期",
@@ -704,9 +930,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时34分]"
         },
         {
           "title": "韩国产业通商资源部：韩国2025年出口额创历史新高，首次突破7000亿美元。",
@@ -715,9 +941,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        },
+        {
+          "title": "现在的零零后都不抽烟，那么若干年后，烟草公司会不会像钢铁，煤炭一样成为夕阳产业？",
+          "url": "https://www.zhihu.com/question/1921304555095819235",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "专家：氢能产业迎接规模化拐点",
@@ -769,8 +1006,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时30分 ~ 14时49分]"
+          "appearance_count": 7,
+          "time_info": "[10时30分 ~ 15时34分]"
         },
         {
           "title": "权威专家谈人民币汇率“破7”：系多空分歧点位，切忌赌汇率走势",
@@ -782,8 +1019,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 14时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时34分]"
         },
         {
           "title": "央行已出台数字人民币行动方案 明年1月1日正式启动实施",
@@ -833,7 +1070,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
@@ -848,6 +1085,29 @@
           "time_info": "[00时35分 ~ 12时16分]"
         },
         {
+          "title": "金十图示：2025年12月29日（周一）上海金午盘价为1001.63元/克，较国际金价(1004.09元/克)，低2.46元/克",
+          "url": "https://flash.jin10.com/detail/20251229150239734800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时34分]"
+        },
+        {
           "title": "金十图示：2025年12月29日（周一）上海金早盘价为1010.41元/克，较国际金价(1016.45元/克)，低6.04元/克",
           "url": "https://flash.jin10.com/detail/20251229105826518800",
           "source": "金十数据",
@@ -857,17 +1117,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "title": "曝GEN曾想签下TheShy",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9DGEN%E6%9B%BE%E6%83%B3%E7%AD%BE%E4%B8%8BTheShy&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "15时34分"
         }
       ]
     }
