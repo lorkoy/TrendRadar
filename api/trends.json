@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T16:42:45.685200+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2025-12-29T17:39:37.254113+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 49,
+      "match_count": 55,
       "titles": [
         {
           "title": "女子发现接触两根手指能调整呼吸，拇指碰食指为胸式呼吸，接触无名指为腹式呼吸，是真的吗？背后有什么原理？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 17时39分]"
         },
         {
           "title": "不团结搞内耗、工作不在状态，16名干部被甘肃省委调整",
@@ -47,6 +47,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 07时27分]"
+        },
+        {
+          "title": "金属全线回落，黄金跌破4500，白银跌超3.7%，现货钯金跌超11%，内盘碳酸锂、铂主力合约跌停",
+          "url": "https://wallstreetcn.com/articles/3762216",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时39分]"
         },
         {
           "title": "期货热点追踪",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
-        },
-        {
-          "title": "金属全线回落，黄金跌破4500，白银跌超3.7%，现货钯金跌超11%，内盘碳酸锂、铂主力合约跌停",
-          "url": "https://wallstreetcn.com/articles/3762216",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         },
         {
           "title": "80美元！现货白银价格创下新记录",
@@ -385,6 +385,28 @@
           "time_info": "12时16分"
         },
         {
+          "title": "国务院关税税则委员会：2026年1月1日起我国调整部分商品关税税率税目",
+          "url": "https://www.cls.cn/detail/2242897",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20251229170123670800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "现货黄金亚盘下跌 但价格可能维持高位",
           "url": "https://flash.jin10.com/detail/20251229093859229800",
           "source": "金十数据",
@@ -418,6 +440,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "纳斯达克100指数期货跌幅扩大至0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3028038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "现货钯金失守1700美元/盎司，日内跌幅10.70%。",
           "url": "https://flash.jin10.com/detail/20251229145033337800",
           "source": "金十数据",
@@ -427,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "现货白银日内暴跌6.00%，现报74.37美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251229165231299800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "国债期现货全新走低",
@@ -473,6 +517,17 @@
           "time_info": "12时16分"
         },
         {
+          "title": "现货白银日内跌幅达6%，报74.58美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "现货钯金跌近9%，至1750.75美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251229110200455800",
           "source": "金十数据",
@@ -504,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "国务院关税税则委员会：2026年1月1日起我国调整部分商品关税税率税目",
+          "url": "https://wallstreetcn.com/livenews/3028025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "现货钯金日内暴跌10.00%，现报1712.93美元/盎司。",
@@ -575,7 +641,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -589,15 +655,17 @@
           "time_info": "[00时35分 ~ 07时27分]"
         },
         {
-          "title": "瑞银集团：我们仍持多头立场，并将我们对2026年3月、6月和9月的黄金价格目标上调至每盎司5000美元（此前为每盎司4500美元）。预计到2026年底，黄金价格将小幅下跌至每盎司4800美元。",
-          "url": "https://flash.jin10.com/detail/20251229164025888800",
-          "source": "金十数据",
+          "title": "2025 年上证指数重回 4000 点，A 股成交额突破 400 万亿元，A 股这一年都有哪些看点？",
+          "url": "https://www.zhihu.com/question/1986751461766484039",
+          "source": "知乎",
           "ranks": [
-            2
+            20,
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时36分 ~ 17时39分]"
         },
         {
           "title": "金十图示：2025年12月29日（周一）富时中国A50指数成分股今日收盘行情一览：银行股全线上涨、保险股、酿酒行业股全线下跌",
@@ -611,17 +679,16 @@
           "time_info": "15时34分"
         },
         {
-          "title": "2025 年上证指数重回 4000 点，A 股成交额突破 400 万亿元，A 股这一年都有哪些看点？",
-          "url": "https://www.zhihu.com/question/1986751461766484039",
-          "source": "知乎",
+          "title": "瑞银集团：我们仍持多头立场，并将我们对2026年3月、6月和9月的黄金价格目标上调至每盎司5000美元（此前为每盎司4500美元）。预计到2026年底，黄金价格将小幅下跌至每盎司4800美元。",
+          "url": "https://flash.jin10.com/detail/20251229164025888800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            10,
-            9
+            2,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时36分 ~ 16时42分]"
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时39分]"
         },
         {
           "title": "澳大利亚S&P/ASX200指数收盘下跌0.4%，报8725.70点。",
@@ -685,6 +752,18 @@
           "time_info": "[04时32分 ~ 06时28分]"
         },
         {
+          "title": "欧洲Stoxx 600指数盘中创历史新高，最新上涨0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3028008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时39分]"
+        },
+        {
           "title": "上证指数收报3965.28点，涨0.04%。 深证成指收报13537.10点，跌0.49%。 创业板指收报3222.61点，跌0.66%。 沪深300收报4639.37点，跌0.38%。 科创50收报1346.32点，涨0.04%。 中证500收报7430.61点，跌0.38%。 中证1000收报7594.16点，跌0.15%。",
           "url": "https://wallstreetcn.com/livenews/3027970",
           "source": "华尔街见闻-快讯",
@@ -730,17 +809,6 @@
           "time_info": "15时34分"
         },
         {
-          "title": "欧洲Stoxx 600指数盘中创历史新高，最新上涨0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3028008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
           "title": "燃油主力合约日内下跌2.00%，现报2452.00元/吨。",
           "url": "https://flash.jin10.com/detail/20251229094110374800",
           "source": "金十数据",
@@ -761,6 +829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "年末商业航天板块“起飞”：15股股价翻倍，超捷股份涨超2倍",
+          "url": "https://www.cls.cn/detail/2242775",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "沪镍主力合约日内下跌2.00%，现报124240.00元/吨；沪锡主力合约日内下跌2.00%，现报331030.00元/吨。",
@@ -818,6 +897,17 @@
           "time_info": "15时34分"
         },
         {
+          "title": "瑞银：2026年前三个季度黄金目标价为每盎司5,000美元（此前预计为每盎司4500美元）。 预计到2026年底，黄金价格将小幅下跌至每盎司4,800美元。",
+          "url": "https://wallstreetcn.com/livenews/3028031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "隔夜shibor报1.2480%，下跌1.00个基点",
           "url": "https://flash.jin10.com/detail/20251229110012392800",
           "source": "金十数据",
@@ -827,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "金十整理：2025年史诗级牛市后，金银铂钯四大贵金属2026年能否再创传奇？",
+          "url": "https://flash.jin10.com/detail/20251229164727998800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "铂主力合约再次触及跌停，跌幅10%，报634.35元/克；此前在触及跌停板后立马反弹，并上涨至659.65元/克，将跌幅收窄至6.41%。",
@@ -865,7 +966,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "财政部：2026年继续实施更加积极的财政政策，扩大财政支出盘子，继续支持消费品以旧换新",
@@ -964,6 +1065,19 @@
           "time_info": "[15时34分 ~ 16时42分]"
         },
         {
+          "title": "现在的零零后都不抽烟，那么若干年后，烟草公司会不会像钢铁，煤炭一样成为夕阳产业？",
+          "url": "https://www.zhihu.com/question/1921304555095819235",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 17时39分]"
+        },
+        {
           "title": "上交所明确商业火箭科创板上市新规 商业航天产业进入壮大期",
           "url": "https://www.cls.cn/detail/2242283",
           "source": "财联社热门",
@@ -976,16 +1090,15 @@
           "time_info": "[14时49分 ~ 16时42分]"
         },
         {
-          "title": "现在的零零后都不抽烟，那么若干年后，烟草公司会不会像钢铁，煤炭一样成为夕阳产业？",
-          "url": "https://www.zhihu.com/question/1921304555095819235",
-          "source": "知乎",
+          "title": "【焦点复盘】沪指创年内连阳纪录剑指4000点，机器人概念持续火热，锂电池产业链现深幅回调",
+          "url": "https://www.cls.cn/detail/2242927",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            14
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 16时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "金十图示：2025年12月29日（周一）沪深港通南向资金流向",
@@ -994,7 +1107,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -1071,22 +1184,24 @@
             11,
             9,
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 17时39分]"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.0098，较上一交易日官方收盘价跌13点，较上日夜盘收盘跌35点。",
           "url": "https://wallstreetcn.com/livenews/3028022",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时39分]"
         },
         {
           "title": "央行已出台数字人民币行动方案 明年1月1日正式启动实施",
@@ -1136,7 +1251,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
@@ -1149,6 +1264,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时35分 ~ 12时16分]"
+        },
+        {
+          "title": "机构：金价在投资者锁定利润的背景下回落",
+          "url": "https://flash.jin10.com/detail/20251229170742878800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "金十图示：2025年12月29日（周一）上海金午盘价为1001.63元/克，较国际金价(1004.09元/克)，低2.46元/克",
@@ -1200,6 +1326,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "瑞银集团：目标在2026年前三个季度将黄金目标价格定为每盎司5000美元。",
+          "url": "https://flash.jin10.com/detail/20251229164251013800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         }
       ]
     }
