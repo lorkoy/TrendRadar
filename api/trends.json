@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T06:28:23.450164+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2025-12-31T07:27:56.569582+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -52,8 +52,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
+        },
+        {
+          "title": "现货白银周三小幅低开，回落至76美元/盎司下方，跌幅0.28%。",
+          "url": "https://flash.jin10.com/detail/20251231070043326800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "WTI 2月原油期货收报57.95美元/桶。 NYMEX 2月天然气期货收报3.9720美元/百万英热单位。 NYMEX 1月汽油期货收报1.7210美元/加仑，NYMEX 1月取暖油期货收报2.1505美元/加仑。",
@@ -65,17 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
-        },
-        {
-          "title": "周二（12月30日）纽约尾盘，标普500股指期货最终跌0.10%，道指期货跌0.14%，纳斯达克100股指期货跌0.23%。 罗素2000股指期货跌0.68%。",
-          "url": "https://wallstreetcn.com/livenews/3028940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "恒指期货夜盘收跌0.17%，报25880点，低水25点。",
@@ -129,6 +129,18 @@
           "time_info": "[01时29分 ~ 02时43分]"
         },
         {
+          "title": "周二（12月30日）纽约尾盘，标普500股指期货最终跌0.10%，道指期货跌0.14%，纳斯达克100股指期货跌0.23%。 罗素2000股指期货跌0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3028940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
           "title": "纽约银日内涨幅达9.0%，报76.83美元/盎司。 现货白银日内涨幅达7.0%，报77.19美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3028871",
           "source": "华尔街见闻-快讯",
@@ -164,6 +176,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时28分]"
+        },
+        {
+          "title": "周二（12月30日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.31%，报88710美元，在震荡上行行情中，北京时间00:22刷新日高至89960美元。 CME以太币期货DCR主力合约涨1.29%，报2978.50美元，22:53刷新日高至3023美元。",
+          "url": "https://wallstreetcn.com/livenews/3028936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
         },
         {
           "title": "现货白银站上78美元/盎司，日内涨8.17%。",
@@ -225,17 +249,6 @@
           "time_info": "[00时38分 ~ 02时43分]"
         },
         {
-          "title": "周二（12月30日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.31%，报88710美元，在震荡上行行情中，北京时间00:22刷新日高至89960美元。 CME以太币期货DCR主力合约涨1.29%，报2978.50美元，22:53刷新日高至3023美元。",
-          "url": "https://wallstreetcn.com/livenews/3028936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20251230234135335800",
           "source": "金十数据",
@@ -267,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "2026年首次油价调整时间定了",
+          "url": "https://www.douyin.com/hot/2351819",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     },
@@ -282,19 +306,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "【数据看盘】超10亿元资金买入三花智控 机构抢筹商业航天概念股",
           "url": "https://www.cls.cn/detail/2244252",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "2026年国补政策来了",
@@ -304,8 +329,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "2026 年国补政策来了，在支持范围、补贴标准、实施机制 3 个方面有优化，哪些信息值得关注？",
@@ -315,23 +340,12 @@
             14,
             9,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
-        },
-        {
-          "title": "“箭”已上弦：万亿商业航天产业迎来哪些新期待？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32275680",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "明年“两新”政策优化升级 智能产品纳入补贴范围",
@@ -342,8 +356,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
+        },
+        {
+          "title": "“箭”已上弦：万亿商业航天产业迎来哪些新期待？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32275680",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "2026年“两新”政策部署来了，智能产品纳入补贴范围",
@@ -352,11 +379,12 @@
           "ranks": [
             13,
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "2026年“国补”政策来了",
@@ -366,33 +394,24 @@
             19,
             20,
             25,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "核聚变能“破晓”，双轨并行产业格局初步形成",
           "url": "https://wallstreetcn.com/livenews/3028941",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "美国上诉法院允许特朗普政府在22个州执行一项剥夺计划生育组织医疗补助资金的法律。",
-          "url": "https://flash.jin10.com/detail/20251231054352146800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
         },
         {
           "title": "美联储会议纪要：政策制定者强调，必须明确传达国债购买的目的仅在于确保利率稳定，与货币政策无关。",
@@ -405,6 +424,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时33分]"
+        },
+        {
+          "title": "美国上诉法院允许特朗普政府在22个州执行一项剥夺计划生育组织医疗补助资金的法律。",
+          "url": "https://flash.jin10.com/detail/20251231054352146800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
         },
         {
           "title": "美联储会议纪要：多数与会者指出，转向更为中性的政策立场有助于防范可能出现的就业市场恶化。",
@@ -503,7 +534,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点，2025年以来已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨，后续高位持稳——试探2010年（欧债危机期间）年初顶部，年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
@@ -579,6 +610,18 @@
           "time_info": "[05时28分 ~ 06时28分]"
         },
         {
+          "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
+          "url": "https://wallstreetcn.com/livenews/3028934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
           "title": "黄金白银或现更严重下跌",
           "url": "https://www.douyin.com/hot/2351629",
           "source": "抖音",
@@ -591,15 +634,15 @@
           "time_info": "[00时38分 ~ 01时29分]"
         },
         {
-          "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
-          "url": "https://wallstreetcn.com/livenews/3028934",
+          "title": "券商2025年调研路线图揭晓，三大板块最受青睐",
+          "url": "https://wallstreetcn.com/livenews/3028947",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时27分"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
@@ -611,6 +654,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "巴西圣保罗证交所指数收涨0.71%，报16.2万点，2025年累计上涨大约35%。 12月30日，巴西雷亚尔兑美元涨1.74%，报5.4753雷亚尔，2025年以来累计上涨11.31%。 巴西股市将于12月31日休市。",
+          "url": "https://wallstreetcn.com/livenews/3028943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "意大利银行板块收涨超1.8%，和英国股市创收盘历史新高",
@@ -638,7 +692,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
@@ -647,9 +701,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
@@ -657,11 +722,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时27分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股收盘）",
@@ -669,11 +735,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时27分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
@@ -681,22 +748,24 @@
           "source": "金十数据",
           "ranks": [
             4,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时27分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2244587",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "生物科技ETF收跌将近1.1%，领跌美股行业ETF，能源ETF涨约0.8%",
@@ -715,11 +784,12 @@
           "url": "https://wallstreetcn.com/livenews/3028929",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股盘中）",
@@ -768,6 +838,58 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加149.46吨，当前持仓量为16455.42吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20251231070211356800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.27%，报7616.03点，全天呈现出高开低走状态。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.58%。 中国科技指数ETF（CQQQ）收涨0.89%，中概互联网指数ETF（KWEB）收跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3028919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时28分]"
+        },
+        {
+          "title": "丰业银行首席外汇策略师Shaun Osborne：若人民币进一步走强，目标将指向2023年初的水平，并为日元、韩元等区域内货币的更广泛走强铺平道路。",
+          "url": "https://wallstreetcn.com/livenews/3028913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时28分]"
+        },
+        {
+          "title": "碧桂园(02007.HK)：重组生效日期已于2025年12月30日落实。",
+          "url": "https://flash.jin10.com/detail/20251231062520423800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -781,19 +903,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "金价周二略微反弹",
           "url": "https://wallstreetcn.com/livenews/3028932",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
         },
         {
           "title": "金价波动",
@@ -853,36 +976,6 @@
       ]
     },
     {
-      "keyword_group": "SZ SH HK",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数收跌0.27%，报7616.03点，全天呈现出高开低走状态。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.58%。 中国科技指数ETF（CQQQ）收涨0.89%，中概互联网指数ETF（KWEB）收跌0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3028919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时28分]"
-        },
-        {
-          "title": "丰业银行首席外汇策略师Shaun Osborne：若人民币进一步走强，目标将指向2023年初的水平，并为日元、韩元等区域内货币的更广泛走强铺平道路。",
-          "url": "https://wallstreetcn.com/livenews/3028913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 2,
       "titles": [
@@ -904,11 +997,12 @@
           "url": "https://wallstreetcn.com/livenews/3028937",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
         }
       ]
     },
