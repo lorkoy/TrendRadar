@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T17:34:04.936380+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2025-12-31T18:32:21.646227+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
@@ -20,6 +20,18 @@
           "time_info": "[00时38分 ~ 17时34分]"
         },
         {
+          "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32284463",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时04分 ~ 18时32分]"
+        },
+        {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
           "url": "https://wallstreetcn.com/articles/3762238",
           "source": "华尔街见闻",
@@ -31,18 +43,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 07时27分]"
-        },
-        {
-          "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32284463",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时04分 ~ 17时34分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -582,6 +582,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "中国外汇交易中心：调整CFETS人民币汇率指数货币篮子的权重 1月1日起生效",
+          "url": "https://wallstreetcn.com/livenews/3029258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "金十期货图示",
           "url": "https://flash.jin10.com/detail/20251231153832822800",
           "source": "金十数据",
@@ -717,7 +728,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -976,7 +987,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -992,6 +1003,17 @@
           "time_info": "10时21分"
         },
         {
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "券商2025年调研路线图揭晓，三大板块最受青睐",
           "url": "https://wallstreetcn.com/livenews/3028947",
           "source": "华尔街见闻-快讯",
@@ -1003,6 +1025,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "印度NIFTY中盘股100指数上涨1%，小盘股100指数涨1.1%。",
+          "url": "https://flash.jin10.com/detail/20251231173811817800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
           "url": "https://wallstreetcn.com/livenews/3028855",
           "source": "华尔街见闻-快讯",
@@ -1012,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32291082",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "隔夜shibor报1.3270%，上涨8.00个基点",
@@ -1064,7 +1108,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -1105,7 +1149,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "事关国补，最新政策发布",
@@ -1179,6 +1223,17 @@
           "time_info": "[00时38分 ~ 17时34分]"
         },
         {
+          "title": "2026年一大批重磅政策来了",
+          "url": "https://www.douyin.com/hot/2353189",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时32分]"
+        },
+        {
           "title": "明年“两新”政策优化升级 智能产品纳入补贴范围",
           "url": "https://www.cls.cn/detail/2244354",
           "source": "财联社热门",
@@ -1219,17 +1274,6 @@
           "time_info": "[00时38分 ~ 07时27分]"
         },
         {
-          "title": "2026年一大批重磅政策来了",
-          "url": "https://www.douyin.com/hot/2353189",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 17时34分]"
-        },
-        {
           "title": "【早报】2026年“国补”政策来了；汽车以旧换新补贴实施细则出炉",
           "url": "https://www.cls.cn/detail/2244743",
           "source": "财联社热门",
@@ -1239,6 +1283,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时21分 ~ 12时04分]"
+        },
+        {
+          "title": "如何理解2026“新国补”政策",
+          "url": "https://wallstreetcn.com/articles/3762347",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时32分]"
         },
         {
           "title": "商务部：对进口牛肉实施保障措施旨在阶段性地帮助国内产业渡过难关",
@@ -1263,18 +1320,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "如何理解2026“新国补”政策",
-          "url": "https://wallstreetcn.com/articles/3762347",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 17时34分]"
         },
         {
           "title": "美联储会议纪要：政策制定者强调，必须明确传达国债购买的目的仅在于确保利率稳定，与货币政策无关。",
@@ -1371,6 +1416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "【住房城乡建设部发布《关于提升住房品质的意见》】其中指出，推动房地产开发企业、建设工程企业等向“好房子”建设集成商转型，打通研发、设计、生产、施工、装修、运维、服务等产业链，培育行业新质生产力。选择具有一定工作基础的地区，打造涵盖建材、家居、家电等多个领域的产业集群，创新产品体系和服务模式。开展培育绿色建筑新增长点试点，加快绿色建筑提标升级，带动上下游产业链健康发展。",
+          "url": "https://wallstreetcn.com/livenews/3029269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "美联储会议纪要：多数官员支持进一步降息 但政策路径分歧显著",
@@ -1475,8 +1531,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 17时34分]"
+          "appearance_count": 11,
+          "time_info": "[07时27分 ~ 18时32分]"
         },
         {
           "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
@@ -1613,7 +1669,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "数字人民币钱包余额如何计息？交行、建行率先披露细则，数字人民币定义也有了新变化",
@@ -1625,8 +1681,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时34分 ~ 17时34分]"
+          "appearance_count": 8,
+          "time_info": "[13时34分 ~ 18时32分]"
         },
         {
           "title": "在岸人民币夜盘收涨至7元上方",
@@ -1713,6 +1769,17 @@
           "time_info": "[17时33分 ~ 17时34分]"
         },
         {
+          "title": "数字人民币将于 2026 年起全面升级，本次改革有哪些亮点？新增计息制度等对居民日用有何影响？",
+          "url": "https://www.zhihu.com/question/1988984379352039846",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "明年起数字人民币钱包余额可计息",
           "url": "https://www.douyin.com/hot/2351599",
           "source": "抖音",
@@ -1793,7 +1860,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         }
