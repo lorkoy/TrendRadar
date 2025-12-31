@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T14:46:46.056921+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2025-12-31T15:31:39.252127+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 52,
+      "match_count": 58,
       "titles": [
         {
           "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 14时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 15时31分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -53,19 +53,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 14时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 15时31分]"
         },
         {
           "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32284463",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 15时31分]"
         },
         {
           "title": "一周内第二次 芝商所再次上调贵金属期货保证金",
@@ -77,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251231152133117800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "现货白银周三小幅低开，回落至76美元/盎司下方，跌幅0.28%。",
@@ -107,7 +119,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -129,9 +141,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.35%，10年期主力合约跌0.07%，5年期主力合约跌0.04%，2年期主力合约跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3029162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "恒指期货夜盘收跌0.17%，报25880点，低水25点。",
@@ -319,6 +342,18 @@
           "time_info": "[12时04分 ~ 13时34分]"
         },
         {
+          "title": "现货白银一度跌破71美元/盎司，日内跌近7%。",
+          "url": "https://wallstreetcn.com/livenews/3029117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 15时31分]"
+        },
+        {
           "title": "现货铂金跌超7%，报2038.55美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3029068",
           "source": "华尔街见闻-快讯",
@@ -436,6 +471,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "大商所：焦煤期权交易可以使用限价指令和限价止损（盈）指令，每次最大下单数量与标的期货相同，为1000手。",
+          "url": "https://flash.jin10.com/detail/20251231151905188800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约有涨有跌。铂跌超10%，钯跌超9%，燃料油、沪银跌近2%，低硫燃料油（LU）、沪铅、焦炭、硅铁、SC原油、菜粕跌超1%。涨幅方面，集运欧线、沪铝、液化石油气（LPG）、沪铜、甲醇、国际铜、沪镍、玻璃、铝合金涨超1%。",
           "url": "https://flash.jin10.com/detail/20251231113049552800",
           "source": "金十数据",
@@ -447,15 +493,15 @@
           "time_info": "12时04分"
         },
         {
-          "title": "现货白银一度跌破71美元/盎司，日内跌近7%。",
-          "url": "https://wallstreetcn.com/livenews/3029117",
-          "source": "华尔街见闻-快讯",
+          "title": "大商所：焦煤期权首批上市交易合约是以JM2604、JM2605、JM2606、JM2607、JM2608、JM2609、JM2610、JM2611、JM2612期货合约为标的的期权合约。",
+          "url": "https://flash.jin10.com/detail/20251231151829798800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时46分"
+          "time_info": "15时31分"
         },
         {
           "title": "现货白银日内大跌5%，现报72.32美元/盎司。纽约期银日内重挫7%，现报72.35美元/盎司。",
@@ -486,7 +532,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -497,7 +543,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -522,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "商品期货收盘，铂主力合约跌超12%，钯跌超5%，沪银跌超4%，LU燃油跌超2%。沪镍、沪铝涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3029145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "现货金银持续承压走弱",
@@ -555,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。沪镍、沪铝涨超2%，氧化铝、铝合金、玻璃、多晶硅涨超1%。跌幅方面，铂跌超12%，钯跌超5%，沪银跌超4%，低硫燃料油（LU）跌超2%，燃料油、焦炭、SC原油、硅铁跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251231150049422800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "纽约期银日内暴涨10.00%，现报77.51美元/盎司；现货白银现涨7.7%。",
@@ -615,7 +683,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -638,8 +706,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时21分 ~ 14时46分]"
+          "appearance_count": 5,
+          "time_info": "[10时21分 ~ 15时31分]"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点，2025年以来已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨，后续高位持稳——试探2010年（欧债危机期间）年初顶部，年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
@@ -691,6 +759,20 @@
           "time_info": "[01时29分 ~ 03时24分]"
         },
         {
+          "title": "无惧金属年末震荡？专家：全球正掀起资源争夺大战，银价仍太便宜！",
+          "url": "https://www.cls.cn/detail/2244802",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 15时31分]"
+        },
+        {
           "title": "上证指数早盘收报3962.24点，跌0.07%。 深证成指早盘收报13513.21点，跌0.67%。 创业板指早盘收报3207.24点，跌1.10%。 沪深300早盘收报4630.63点，跌0.44%。 科创50早盘收报1347.95点，跌0.88%。 中证500早盘收报7444.43点，跌0.19%。 中证1000早盘收报7583.94点，跌0.18%。",
           "url": "https://wallstreetcn.com/livenews/3029073",
           "source": "华尔街见闻-快讯",
@@ -701,19 +783,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 13时34分]"
-        },
-        {
-          "title": "无惧金属年末震荡？专家：全球正掀起资源争夺大战，银价仍太便宜！",
-          "url": "https://www.cls.cn/detail/2244802",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时46分]"
         },
         {
           "title": "美元指数30日上涨",
@@ -812,6 +881,17 @@
           "time_info": "[00时38分 ~ 01时29分]"
         },
         {
+          "title": "恒指全年涨27.77% 连续两年上涨",
+          "url": "https://www.toutiao.com/trending/7589899393474498091/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "新加坡富时海峡时报指数收盘下跌0.2%，报4646.21点。纵观全年，富时海峡时报指数累计上涨23%。",
           "url": "https://flash.jin10.com/detail/20251231122623017800",
           "source": "金十数据",
@@ -889,6 +969,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "上证指数收报3968.84点，涨0.09%。 深证成指收报13525.02点，跌0.58%。 创业板指收报3203.17点，跌1.23%。 沪深300收报4629.94点，跌0.46%。 科创50收报1344.20点，跌1.15%。 中证500收报7465.57点，涨0.09%。 中证1000收报7595.28点，跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3029147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "巴西圣保罗证交所指数收涨0.71%，报16.2万点，2025年累计上涨大约35%。 12月30日，巴西雷亚尔兑美元涨1.74%，报5.4753雷亚尔，2025年以来累计上涨11.31%。 巴西股市将于12月31日休市。",
           "url": "https://wallstreetcn.com/livenews/3028943",
           "source": "华尔街见闻-快讯",
@@ -898,6 +989,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）富时中国A50指数成分股今日收盘行情一览：银行、保险、证券走势分化，酿酒行业全线下跌，半导体多数走低",
+          "url": "https://flash.jin10.com/detail/20251231150340494800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "上证指数开盘报3968.73点，涨0.09%。 深证成指开盘报13627.26点，涨0.17%。 创业板指开盘报3247.74点，涨0.15%。 沪深300开盘报4656.48点，涨0.11%。 科创50开盘报1367.17点，涨0.54%。 中证500开盘报7473.75点，涨0.20%。 中证1000开盘报7606.65点，涨0.12%。",
@@ -936,7 +1038,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "事关国补，最新政策发布",
@@ -1002,11 +1104,12 @@
             10,
             7,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 14时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 15时31分]"
         },
         {
           "title": "明年“两新”政策优化升级 智能产品纳入补贴范围",
@@ -1058,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时21分 ~ 12时04分]"
+        },
+        {
+          "title": "商务部：对进口牛肉实施保障措施旨在阶段性地帮助国内产业渡过难关",
+          "url": "https://wallstreetcn.com/livenews/3029169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "核聚变能“破晓”，双轨并行产业格局初步形成",
@@ -1163,7 +1277,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -1199,6 +1313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出397.51亿元，占比1.94%；大单资金净流出278.47亿元，占比1.36%；小单资金净流入381.14亿元，占比1.86%。",
+          "url": "https://flash.jin10.com/detail/20251231150807564800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "美联储将于十分钟后公布货币政策会议纪要。",
@@ -1259,8 +1384,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 14时46分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 15时31分]"
         },
         {
           "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
@@ -1397,7 +1522,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "数字人民币钱包余额如何计息？交行、建行率先披露细则，数字人民币定义也有了新变化",
@@ -1408,8 +1533,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 14时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时34分 ~ 15时31分]"
+        },
+        {
+          "title": "人民币兑美元短线走低，在岸人民币兑美元和离岸人民币兑美元均抹去涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3029165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "在岸人民币夜盘收涨至7元上方",
@@ -1473,6 +1609,70 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 07时27分]"
+        },
+        {
+          "title": "金价周二略微反弹",
+          "url": "https://wallstreetcn.com/livenews/3028932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）上海金午盘价为973.33元/克，较国际金价(971.38元/克)，高1.95元/克",
+          "url": "https://flash.jin10.com/detail/20251231151034955800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）上海金早盘价为980.89元/克，较国际金价(976.71元/克)，高4.18元/克",
+          "url": "https://flash.jin10.com/detail/20251231105932049800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SZ SH HK",
       "match_count": 4,
       "titles": [
@@ -1521,59 +1721,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 07时27分]"
-        },
-        {
-          "title": "金价周二略微反弹",
-          "url": "https://wallstreetcn.com/livenews/3028932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）上海金早盘价为980.89元/克，较国际金价(976.71元/克)，高4.18元/克",
-          "url": "https://flash.jin10.com/detail/20251231105932049800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
         }
       ]
     },
