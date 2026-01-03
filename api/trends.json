@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T11:59:55.433380+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-01-03T12:40:58.596437+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 11时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 12时40分]"
         },
         {
           "title": "周五（1月2日），彭博电动汽车价格回报指数涨1.09%，报3481.40点，本周累计上涨0.01%，整体呈现出平坦的V形走势。 成分股中，普拉格动力公司涨约13.9%，小马智行涨10.6%，MP材料涨9%表现第三，“特斯拉劲敌”Rivian则跌1.7%，特斯拉跌2.6%，智利化学矿业公司（SQM）跌2.6%。",
@@ -30,11 +30,38 @@
             11,
             14,
             21,
-            23
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时24分 ~ 12时40分]"
+        },
+        {
+          "title": "荀玉根：26年牛市将逐步走向第三阶段 科技行情有望从算力基建向应用扩散",
+          "url": "https://flash.jin10.com/detail/20260103120901121800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3029945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            13,
+            15,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[05时24分 ~ 11时59分]"
+          "time_info": "[06时31分 ~ 12时40分]"
         },
         {
           "title": "特斯拉连续七个交易日下跌。",
@@ -48,18 +75,18 @@
           "time_info": "05时24分"
         },
         {
-          "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
-          "url": "https://wallstreetcn.com/livenews/3029945",
+          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
+          "url": "https://wallstreetcn.com/livenews/3029953",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
+            1,
             7,
-            13,
-            15
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时31分 ~ 11时59分]"
+          "time_info": "[07时27分 ~ 12时40分]"
         },
         {
           "title": "Strategy公司因比特币下跌将录得数十亿美元亏损",
@@ -74,19 +101,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时41分 ~ 05时24分]"
-        },
-        {
-          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
-          "url": "https://wallstreetcn.com/livenews/3029953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 11时59分]"
         },
         {
           "title": "非洲股市收盘播报｜周五（1月2日），南非富时/JSE非洲领先40可交易指数收涨0.23%，至10.8万点上方，本周（四个交易日）累计下跌1.26%。",
@@ -143,6 +157,33 @@
           "time_info": "[05时24分 ~ 10时10分]"
         },
         {
+          "title": "AI软件指数收跌超2.7%，成分股Palantir、MongoDB、Adobe表现最差，美光涨超10%在信息技术板块表现不俗",
+          "url": "https://wallstreetcn.com/livenews/3029935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 12时40分]"
+        },
+        {
+          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
+          "url": "https://www.cls.cn/detail/2246526",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时40分]"
+        },
+        {
           "title": "欧洲斯托克航空航天与防务指数上涨3.2%，创下自2025年5月以来的最大单日涨幅。",
           "url": "https://flash.jin10.com/detail/20260102235232245800",
           "source": "金十数据",
@@ -154,31 +195,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 02时41分]"
-        },
-        {
-          "title": "AI软件指数收跌超2.7%，成分股Palantir、MongoDB、Adobe表现最差，美光涨超10%在信息技术板块表现不俗",
-          "url": "https://wallstreetcn.com/livenews/3029935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 11时59分]"
-        },
-        {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 11时59分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨4.38%，报7859.65点，本周累计上涨2.23%。 热门中概股里，百度初步收涨15%，小马智行涨11.1%，文远知行涨8.2%，网易涨7.2%，阿里巴巴涨6.2%，新东方、小米、京东、美团、拼多多、理想、百胜中国至多涨5.3%。 ETF中，中概互联网指数ETF（KWEB）收涨4.64%，中国科技指数ETF（CQQQ）收涨4.48%，德银嘉实沪深300指数ETF（ASHR）收涨1.43%，XtrackersHarvest中证50（ASHS）收涨1.12%。",
@@ -277,8 +293,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时40分 ~ 11时59分]"
+          "appearance_count": 13,
+          "time_info": "[02时40分 ~ 12时40分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -325,11 +341,51 @@
             10,
             13,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 11时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 12时40分]"
+        },
+        {
+          "title": "半导体概念股美股新年首日普遍收涨",
+          "url": "https://wallstreetcn.com/livenews/3029957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时40分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260103083241410800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时40分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260103083228341800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时40分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -342,42 +398,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时26分]"
-        },
-        {
-          "title": "半导体概念股美股新年首日普遍收涨",
-          "url": "https://wallstreetcn.com/livenews/3029957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 11时59分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260103083241410800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 11时59分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260103083228341800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 11时59分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一，中概股指大涨4%",
@@ -409,7 +429,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -428,7 +448,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "现货黄金回落至4310美元/盎司下方，日内跌0.21%。",
@@ -451,11 +471,12 @@
             2,
             4,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 11时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 12时40分]"
         },
         {
           "title": "WTI 2月原油期货收报57.32美元/桶。 NYMEX 2月天然气期货收报3.6180美元/百万英热单位。 NYMEX 2月汽油期货收报1.6982美元/加仑，NYMEX 2月取暖油期货收报2.1151美元/加仑。",
@@ -476,11 +497,28 @@
             4,
             6,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 11时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 12时40分]"
+        },
+        {
+          "title": "本周芝加哥玉米期货跌约2.9%，大豆跌约2.4%",
+          "url": "https://wallstreetcn.com/livenews/3029928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            20,
+            27,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时24分 ~ 12时40分]"
         },
         {
           "title": "现货黄金转跌，最低至4315.28美元/盎司。",
@@ -497,21 +535,6 @@
           "time_info": "[00时36分 ~ 03时20分]"
         },
         {
-          "title": "本周芝加哥玉米期货跌约2.9%，大豆跌约2.4%",
-          "url": "https://wallstreetcn.com/livenews/3029928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17,
-            20,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时24分 ~ 11时59分]"
-        },
-        {
           "title": "周五（1月2日）纽约尾盘，现货黄金涨0.20%，报4327.96美元/盎司，本周累计下跌4.51%，12月29日显著走低，后续低位持稳。 COMEX黄金期货跌0.04%，报4339.50美元/盎司，本周累跌4.67%。",
           "url": "https://wallstreetcn.com/livenews/3029944",
           "source": "华尔街见闻-快讯",
@@ -519,11 +542,38 @@
             6,
             8,
             14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 12时40分]"
+        },
+        {
+          "title": "王者下赛季对抗路调整",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E4%B8%8B%E8%B5%9B%E5%AD%A3%E5%AF%B9%E6%8A%97%E8%B7%AF%E8%B0%83%E6%95%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时40分]"
+        },
+        {
+          "title": "王者下赛季对抗路调整",
+          "url": "https://www.douyin.com/hot/2355651",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时40分]"
         },
         {
           "title": "泽连斯基宣布调整乌国防部运作，提名新防长人选",
@@ -552,28 +602,15 @@
           "time_info": "[05时24分 ~ 07时27分]"
         },
         {
-          "title": "王者下赛季对抗路调整",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E4%B8%8B%E8%B5%9B%E5%AD%A3%E5%AF%B9%E6%8A%97%E8%B7%AF%E8%B0%83%E6%95%B4",
-          "source": "bilibili 热搜",
+          "title": "港媒：中国点名安全风险之际，星链宣布重大调整",
+          "url": "https://news.ifeng.com/c/8paxjUIlPsw",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 11时59分]"
-        },
-        {
-          "title": "王者下赛季对抗路调整",
-          "url": "https://www.douyin.com/hot/2355651",
-          "source": "抖音",
-          "ranks": [
-            8,
             10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 11时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "现货金银价格短线下挫",
@@ -601,8 +638,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 11时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 12时40分]"
         },
         {
           "title": "美国爆发史上最大公共资金欺诈案「明尼苏达儿童福利院事件」，总损失或超 90 亿美元，怎么回事？如何评价？",
@@ -617,8 +654,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时26分 ~ 11时59分]"
+          "appearance_count": 14,
+          "time_info": "[01时26分 ~ 12时40分]"
         },
         {
           "title": "三部门将支持 50 个左右城市开展有奖发票试点，该政策对消费者有哪些影响？",
@@ -633,8 +670,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 11时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 12时40分]"
         },
         {
           "title": "美国卫生与公众服务部及缉毒局宣布，远程医疗处方管控药物的灵活性政策将延长至2026年。",
@@ -663,8 +700,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 11时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 12时40分]"
         },
         {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
@@ -674,8 +711,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 11时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 12时40分]"
         },
         {
           "title": "周五（1月2日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9703元，较周四纽约尾盘涨54点，日内整体交投于6.9811-6.9664元区间，本周累涨大约340点、涨幅0.49%。",
@@ -685,11 +722,12 @@
             1,
             3,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 11时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 12时40分]"
         },
         {
           "title": "人民币国际化为什么突然按下加速键",
@@ -697,11 +735,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时40分]"
         }
       ]
     },
@@ -804,11 +843,12 @@
             16,
             19,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时24分 ~ 11时59分]"
+          "appearance_count": 6,
+          "time_info": "[05时24分 ~ 12时40分]"
         }
       ]
     },
@@ -824,11 +864,12 @@
             3,
             5,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 11时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 12时40分]"
         }
       ]
     }
