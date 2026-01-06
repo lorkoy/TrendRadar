@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T10:22:59.995079+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-01-06T12:06:58.670854+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -26,9 +26,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 12时06分]"
         },
         {
           "title": "WTI 2月原油期货收报58.32美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
@@ -48,7 +48,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -124,6 +124,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260106113112204800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "周一（1月5日）纽约尾盘，现货黄金涨2.64%，报4446.50美元/盎司。 COMEX黄金期货涨2.96%，报4457.60美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3031114",
           "source": "华尔街见闻-快讯",
@@ -141,9 +152,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260106113109202800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，碳酸锂涨超8%，沪银涨超7%，铂涨超6%，沪锡、钯涨超4%，沪镍、沪铜、国际铜涨超3%，沪铝、PVC、沪锌、甲醇、苹果、铝合金、硅铁涨超2%。跌幅方面，胶合板、焦炭、焦煤跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260106113101394800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "现货金银周二上涨，分析师称地缘局势叠加美联储宽松预期激活需求",
+          "url": "https://flash.jin10.com/detail/20260106113041791800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "芝加哥玉米期货、大豆期货涨约1.6%",
@@ -168,6 +212,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "现货白银日内涨幅扩大至3.00%，现报78.90美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106111952177800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：12月30日当周，投机者所持COMEX黄金净多头头寸减少10,668手合约，至126,873手合约。 COMEX白银净多头头寸减少7,270手合约，至16,595手合约。 COMEX铜净多头头寸减少5,563手合约，至70,433手合约。",
           "url": "https://wallstreetcn.com/livenews/3031085",
           "source": "华尔街见闻-快讯",
@@ -177,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.22%，10年期主力合约跌0.12%，5年期主力合约跌0.10%，2年期主力合约跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3031329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月30日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加6,233手合约，至942,921手。股票基金投机者将标普500芝商所（CME）净空头头寸削减7,688手合约，至364,403手。",
@@ -256,6 +322,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "现货白银日内涨超2%，站上78美元/盎司关口。",
+          "url": "https://wallstreetcn.com/livenews/3031322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "内盘期货夜市多数收涨，PVC涨2.4%，焦炭则跌超1.9%，焦煤跌约2.4%",
           "url": "https://wallstreetcn.com/livenews/3030968",
           "source": "华尔街见闻-快讯",
@@ -273,7 +350,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -284,7 +361,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -306,7 +383,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
@@ -314,7 +391,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "2026开门红！沪指重回4000点，创33年最长连阳纪录，脑机接口掀起涨停潮，恒指震荡微涨，快手涨超11%",
@@ -323,11 +400,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 10时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时06分]"
         },
         {
           "title": "A 股 2026 年首个交易日，沪指 12 连阳，三市超 4100 只个股上涨，如何看待这一行情？",
@@ -356,8 +434,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 10时22分]"
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 12时06分]"
         },
         {
           "title": "新加坡元兑美元上涨0.1%至1.2810，为2025年9月19日以来最强水位。",
@@ -366,7 +444,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -429,6 +507,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "金十图示：2026年01月06日（周二）富时中国A50指数成分股午盘收盘行情一览：多数板块飘红，保险、半导体股延续昨日涨势，银行板块涨跌不一。",
+          "url": "https://flash.jin10.com/detail/20260106113352513800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "（美股）费城金银指数收涨3.29%，报353.86点，美股盘初持续、平滑地上涨，后续逐步回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.71%，报2505.23点。 （美股）原材料指数涨1.75%，报234.90点。 （美股）金属与矿业指数涨2.08%，报228.54点。",
           "url": "https://wallstreetcn.com/livenews/3031115",
           "source": "华尔街见闻-快讯",
@@ -451,6 +540,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "上证指数早盘收报4069.38点，涨1.14%。 深证成指早盘收报13940.24点，涨0.81%。 创业板指早盘收报3293.18点，跌0.04%。 沪深300早盘收报4772.17点，涨1.15%。 科创50早盘收报1430.81点，涨1.95%。 中证500早盘收报7766.29点，涨1.50%。 中证1000早盘收报7821.96点，涨0.88%。",
+          "url": "https://wallstreetcn.com/livenews/3031332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "国际油价5日上涨",
           "url": "https://flash.jin10.com/detail/20260106043814240800",
           "source": "金十数据",
@@ -468,7 +568,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -490,7 +590,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -501,9 +601,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "沪指涨幅扩大至1%，继续刷新十年多以来新高，深成指涨0.69%，创业板指跌0.17%，脑机接口、大金融、有色金属等方向涨幅居前，沪深京三市上涨个股近3400只。",
+          "url": "https://wallstreetcn.com/livenews/3031321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月5日（周一）晚盘收盘上涨0.98%报999.4元/克；<br/>上海黄金交易所白银T+D 1月5日（周一）晚盘收盘上涨3.03%报18751.0元/千克。",
@@ -534,9 +645,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.2630%，下降0.10个基点。 7天SHIBOR报1.4220%，下降0.10个基点。 3个月SHIBOR报1.5960%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3031316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "钨价全线上涨 钨粉突破110万元/吨大关",
+          "url": "https://wallstreetcn.com/livenews/3031309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
@@ -548,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报132250元/吨，较上日16:30价格上涨7900元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3031297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         }
       ]
     },
@@ -562,11 +706,12 @@
           "ranks": [
             10,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 10时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时06分]"
         },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -577,8 +722,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 10时22分]"
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 12时06分]"
         },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，铜价新高",
@@ -687,7 +832,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【数据看盘】多路资金激烈博弈蓝色光标 顶级游资扎堆电池股",
@@ -727,6 +872,28 @@
           "time_info": "[03时28分 ~ 05时31分]"
         },
         {
+          "title": "冰雪产业跻身万亿赛道",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E4%BA%A7%E4%B8%9A%E8%B7%BB%E8%BA%AB%E4%B8%87%E4%BA%BF%E8%B5%9B%E9%81%93%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "广东：推动保险公司在粤设立私募证券投资基金，开展保险资金长期投资改革试点",
+          "url": "https://wallstreetcn.com/livenews/3031336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "美国一家上诉法院裁定，特朗普政府削减国立卫生研究院对大学科研资金投入的计划属违法行为。",
           "url": "https://flash.jin10.com/detail/20260106055013705800",
           "source": "金十数据",
@@ -744,7 +911,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -766,7 +933,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
@@ -774,7 +941,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "1万多张2元人民币拍出83.16万元",
@@ -829,6 +996,17 @@
           "time_info": "[03时28分 ~ 05时31分]"
         },
         {
+          "title": "花旗预计，人民币兑美元将在未来6-12个月升至6.8，预计该货币对未来三个月可能在6.9左右波动。",
+          "url": "https://wallstreetcn.com/livenews/3031326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "周一（1月5日）纽约尾盘（北京时间05:59），离岸人民币（CNH）兑美元报6.9835元，较上周五纽约尾盘跌132点，日内整体交投于6.9696-6.9918元区间。",
           "url": "https://wallstreetcn.com/livenews/3031122",
           "source": "华尔街见闻-快讯",
@@ -846,7 +1024,46 @@
           "ranks": [
             28
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "瑞银上调金价目标至5000美元",
+          "url": "https://www.toutiao.com/trending/7592024699937230379/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "金价银价又涨了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
@@ -862,11 +1079,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 10时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时06分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.49%，报7898.24点。 热门中概股里，文远知行、拼多多初步收涨3%，小马智行涨2.6%，美团涨1.9%，理想、腾讯、京东、阿里涨幅不到1%，小鹏、网易则跌超1%，百胜中国跌2.8%，小米跌3%，蔚来跌5.1%。 ETF中，中国科技指数ETF（CQQQ）收涨2.47%，中概互联网指数ETF（KWEB）收涨2.30%。 XtrackersHarvest中证50（ASHS）收涨1.57%，德银嘉实沪深300指数ETF（ASHR）收涨1.02%。",
@@ -878,34 +1096,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "金价银价又涨了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
         }
       ]
     },
