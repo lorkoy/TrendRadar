@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T13:34:42.091443+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-01-07T14:47:55.391529+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 32,
+      "match_count": 44,
       "titles": [
         {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
@@ -28,11 +28,12 @@
             25,
             11,
             12,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时24分 ~ 13时34分]"
+          "appearance_count": 11,
+          "time_info": "[03时24分 ~ 14时47分]"
         },
         {
           "title": "恒指期货夜盘收跌0.13%，报26685点，低水25点。",
@@ -44,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面高开后震荡，富宝电池级碳酸锂报137850元/吨",
+          "url": "https://flash.jin10.com/detail/20260107142441330800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "现货白银盘中最高涨至82.01美元/盎司，日内涨近1%。",
@@ -201,7 +213,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         },
@@ -250,6 +262,17 @@
           "time_info": "10时22分"
         },
         {
+          "title": "现货铂金、钯金短线下挫后反弹",
+          "url": "https://flash.jin10.com/detail/20260107140555112800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "现货白银涨超6%，纽约铜一度涨穿6.11美元，铂金涨超7%",
           "url": "https://wallstreetcn.com/livenews/3031912",
           "source": "华尔街见闻-快讯",
@@ -294,6 +317,50 @@
           "time_info": "10时22分"
         },
         {
+          "title": "焦炭期货主力合约触及涨停，涨幅7.98%。",
+          "url": "https://wallstreetcn.com/livenews/3032164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "现货铂金跌逾7%，报2272.65美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260107135524378800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "不锈钢期货主力合约触及涨停，涨幅4.99%。",
+          "url": "https://wallstreetcn.com/livenews/3032163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "现货钯金跌逾5%，报1726.25美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260107135151362800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "现货黄金日内涨幅扩大至1.00%，现报4493.40美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260107021903745800",
           "source": "金十数据",
@@ -316,6 +383,28 @@
           "time_info": "05时30分"
         },
         {
+          "title": "纯碱期货主力合约日内涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3032157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "贵金属价格持续回落 白银现货、期货均跌超3%",
+          "url": "https://flash.jin10.com/detail/20260107134420059800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "现货白银跳水转跌，从82.5美元/盎司走低约2美元至80.4美元/盎司，目前跌0.64%。",
           "url": "https://wallstreetcn.com/livenews/3032003",
           "source": "华尔街见闻-快讯",
@@ -325,6 +414,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "现货铂金跌逾7%，报2272.65美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3032152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "现货钯金跌逾5%，报1726.25美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3032151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "布油期货开盘跌1%至每桶60.09美元，此前特朗普表示委内瑞拉将把受制裁的石油交给美国。",
@@ -338,6 +449,17 @@
           "time_info": "10时22分"
         },
         {
+          "title": "富时中国A50指数期货午后跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3032146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "无畏契约12.00平衡性调整",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A612.00%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4",
           "source": "bilibili 热搜",
@@ -347,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "现货黄金、现货白银走低",
+          "url": "https://wallstreetcn.com/livenews/3032141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "商品期货开盘，沪镍主力合约涨停，涨幅8%。沪银、钯涨超6%，铂、碳酸锂、焦煤涨超5%，沪锡、玻璃、不锈钢、氧化铝、纯碱、焦炭涨超4%。",
@@ -374,7 +507,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "2026年A股牛市有望持续吗",
@@ -405,17 +538,6 @@
           "time_info": "[00时40分 ~ 07时30分]"
         },
         {
-          "title": "A股脑机接口概念震荡回落，诚益通、麦澜德、熵基科技、爱朋医疗跌超10%，伟思医疗、荣泰健康、博拓生物、狄耐克等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3032136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
           "title": "比特币价格上涨引发疯狂猜想：委内瑞拉是否存有隐秘的加密货币？",
           "url": "https://www.cls.cn/detail/2249336",
           "source": "财联社热门",
@@ -434,18 +556,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "A股三大指数午后集体翻绿，钛白粉、数字货币、脑机接口、油气等方向跌幅居前，沪深京三市下跌个股近3100只。",
-          "url": "https://wallstreetcn.com/livenews/3032132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         },
@@ -494,6 +605,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 13时34分]"
+        },
+        {
+          "title": "A股脑机接口概念震荡回落，诚益通、麦澜德、熵基科技、爱朋医疗跌超10%，伟思医疗、荣泰健康、博拓生物、狄耐克等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3032136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 14时47分]"
+        },
+        {
+          "title": "A股三大指数午后集体翻绿，钛白粉、数字货币、脑机接口、油气等方向跌幅居前，沪深京三市下跌个股近3100只。",
+          "url": "https://wallstreetcn.com/livenews/3032132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 14时47分]"
         },
         {
           "title": "半导体ETF在CES开幕日收涨超2.6%，领跑美股行业ETF，标普能源板块跌2.8%",
@@ -595,7 +730,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         },
@@ -620,6 +755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "券商晨会精华：人形机器人板块处于底部反弹阶段",
+          "url": "https://www.cls.cn/detail/2249965",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "（美股）费城金银指数收涨4.72%，报370.56点，时隔数日再创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数收涨4.02%，报2605.98点，亚太盘初至美股开盘这段时间维持微幅上涨状态——持稳于2510点附近，之后跳空走高并持续扩大涨幅。 （美股）原材料指数涨2.70%，报241.25点。 （美股）金属与矿业指数涨1.88%，报232.82点。",
@@ -699,6 +845,28 @@
           "time_info": "12时07分"
         },
         {
+          "title": "铂主力合约由涨转跌，日内下跌3.00%，现报594.4元/克。此前一度涨近6%。",
+          "url": "https://flash.jin10.com/detail/20260107134406743800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "铂主力合约日内下跌3.00%，现报594.4元/克。此前一度涨近6%。",
+          "url": "https://wallstreetcn.com/livenews/3032143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "马来西亚基准股指下跌0.4%，至1665.94点，为12月22日以来的最低水平。",
           "url": "https://wallstreetcn.com/livenews/3032042",
           "source": "华尔街见闻-快讯",
@@ -713,7 +881,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "2026：数字科技产业的8个猜想",
@@ -757,11 +925,12 @@
             8,
             9,
             7,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 13时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 14时47分]"
         },
         {
           "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
@@ -784,6 +953,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时29分 ~ 07时30分]"
+        },
+        {
+          "title": "福州市委书记郭宁宁：深入实施提振消费专项行动 联动用好240小时过境免签、市内免税店等政策举措",
+          "url": "https://wallstreetcn.com/livenews/3032185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "捷克总理：政府不会从预算中为捷克主导的对乌克兰弹药倡议提供资金，但如果其他国家提供资金，该倡议仍可继续推进。",
@@ -831,6 +1011,28 @@
           "time_info": "07时30分"
         },
         {
+          "title": "沈阳优化5项住房公积金贷款政策",
+          "url": "https://wallstreetcn.com/livenews/3032175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260107141033622800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "法国总统马克龙：欧洲的农业和粮食主权是我的首要任务。共同农业政策是其基础。",
           "url": "https://flash.jin10.com/detail/20260107022741159800",
           "source": "金十数据",
@@ -840,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "国务院国资委主任张玉卓：中央企业要大力发展战略性新兴产业与未来产业 开辟增长的“第二曲线”",
+          "url": "https://wallstreetcn.com/livenews/3032169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "脑机接口“人声鼎沸”，产业落地“步步为营”",
@@ -862,6 +1075,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "山东：鼓励外资、民营等资本来鲁投资发展航空维修产业",
+          "url": "https://wallstreetcn.com/livenews/3032161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "山东：近期正在编制航空航天产业提质升级有关政策文件，着重提出做强航空维修产业",
+          "url": "https://wallstreetcn.com/livenews/3032160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：今天在巴黎举行的领导人会议使我们能够锁定安全保证，即一支在多国部队和美国支持下更强大的乌克兰军队。",
@@ -913,8 +1148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 13时34分]"
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 14时47分]"
         },
         {
           "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
@@ -922,11 +1157,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时22分 ~ 13时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 14时47分]"
         },
         {
           "title": "Strategy美股盘后涨超6%。",
