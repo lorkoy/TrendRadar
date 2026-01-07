@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T22:34:20.697889+08:00",
-  "total_titles_processed": 1979,
+  "generated_at": "2026-01-07T23:35:30.702238+08:00",
+  "total_titles_processed": 2082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
@@ -33,11 +33,12 @@
             17,
             19,
             23,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时24分 ~ 22时34分]"
+          "appearance_count": 18,
+          "time_info": "[03时24分 ~ 23时35分]"
         },
         {
           "title": "宜家中国宣布同时关闭 7 家商场，将重点探索北京、深圳市场，两年内开设超十家小型门店，如何看待此调整？",
@@ -49,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 22时34分]"
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 23时35分]"
         },
         {
           "title": "恒指期货夜盘收跌0.13%，报26685点，低水25点。",
@@ -213,6 +214,18 @@
           "time_info": "[15时33分 ~ 15时34分]"
         },
         {
+          "title": "多家车企公布2026销量目标：“双新”政策调整延续下传统车企审慎、新势力乐观",
+          "url": "https://www.cls.cn/detail/2250905",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时35分]"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约跌0.06%，10年期主力合约与昨日持平，5年期主力合约与昨日持平，2年期主力合约与昨日持平。",
           "url": "https://wallstreetcn.com/livenews/3032087",
           "source": "华尔街见闻-快讯",
@@ -298,7 +311,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -309,7 +322,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -380,17 +393,6 @@
           "time_info": "15时34分"
         },
         {
-          "title": "多家车企公布2026销量目标：“双新”政策调整延续下传统车企审慎、新势力乐观",
-          "url": "https://www.cls.cn/detail/2250905",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
           "title": "现货铂金、钯金短线下挫后反弹",
           "url": "https://flash.jin10.com/detail/20260107140555112800",
           "source": "金十数据",
@@ -430,7 +432,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -490,6 +492,17 @@
           "time_info": "15时34分"
         },
         {
+          "title": "截至23:00收盘，国内期货主力合约涨跌互现。焦煤涨超6%，焦炭涨超3%，丁二烯橡胶涨超2%，纯碱、玻璃涨超1%；跌幅方面，甲醇、纸浆、PX跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260107230054047800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "焦炭期货主力合约触及涨停，涨幅7.98%。",
           "url": "https://wallstreetcn.com/livenews/3032164",
           "source": "华尔街见闻-快讯",
@@ -507,7 +520,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -705,7 +718,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -801,7 +814,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "2026年A股牛市有望持续吗",
@@ -830,6 +843,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时40分 ~ 07时30分]"
+        },
+        {
+          "title": "沪指14连阳冲击4100点，存储器全天活跃，煤炭板块爆发，“双焦”涨停，恒科指跌1.5%，医药生物大涨",
+          "url": "https://wallstreetcn.com/articles/3762705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 23时35分]"
         },
         {
           "title": "德国MDAX指数升至2022年3月以来最高水平，当日上涨0.3%。",
@@ -921,6 +947,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "大摩：英伟达散热方案评论冲击HVAC与电力板块",
+          "url": "https://wallstreetcn.com/livenews/3032575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "特朗普欲引委油入美 全球油价应声下跌",
           "url": "https://flash.jin10.com/detail/20260107163725022800",
           "source": "金十数据",
@@ -932,16 +969,19 @@
           "time_info": "16时42分"
         },
         {
-          "title": "沪指14连阳冲击4100点，存储器全天活跃，煤炭板块爆发，“双焦”涨停，恒科指跌1.5%，医药生物大涨",
-          "url": "https://wallstreetcn.com/articles/3762705",
-          "source": "华尔街见闻",
+          "title": "【焦点复盘】沪指高位十字星续创连阳纪录，商业航天概念强势依旧，煤炭板块午后爆发",
+          "url": "https://www.cls.cn/detail/2250688",
+          "source": "财联社热门",
           "ranks": [
             10,
+            12,
+            11,
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时37分 ~ 22时34分]"
+          "time_info": "[18时34分 ~ 23时35分]"
         },
         {
           "title": "美元指数6日上涨",
@@ -1004,20 +1044,6 @@
           "time_info": "[05时30分 ~ 06时31分]"
         },
         {
-          "title": "【焦点复盘】沪指高位十字星续创连阳纪录，商业航天概念强势依旧，煤炭板块午后爆发",
-          "url": "https://www.cls.cn/detail/2250688",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 22时34分]"
-        },
-        {
           "title": "券商晨会精华：人形机器人板块处于底部反弹阶段",
           "url": "https://www.cls.cn/detail/2249965",
           "source": "财联社热门",
@@ -1029,6 +1055,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时47分 ~ 16时42分]"
+        },
+        {
+          "title": "郭正亮：日本已经被打到“脑震荡”了",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%B7%B2%E7%BB%8F%E8%A2%AB%E6%89%93%E5%88%B0%E2%80%9C%E8%84%91%E9%9C%87%E8%8D%A1%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时03分 ~ 23时35分]"
+        },
+        {
+          "title": "郭正亮：日本已经被打“脑震荡”了",
+          "url": "https://www.toutiao.com/trending/7592229822353604650/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时03分 ~ 23时35分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.17%，暂报4205.07点，期内震荡上行，北京时间22:25刷新日高至4368.68点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数跌0.19%，报19357.62点。 MarketVector数字资产100指数涨0.13%，报3926.05点。 比特币目前跌1.95%，暂报92452.42美元，以太坊涨0.02%，报3243.49美元。 Solana涨0.05%，狗狗币跌4.51%，XRP跌1.44%。",
@@ -1077,29 +1127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 13时34分]"
-        },
-        {
-          "title": "郭正亮：日本已经被打“脑震荡”了",
-          "url": "https://www.toutiao.com/trending/7592229822353604650/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 22时34分]"
-        },
-        {
-          "title": "郭正亮：日本已经被打到“脑震荡”了",
-          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%B7%B2%E7%BB%8F%E8%A2%AB%E6%89%93%E5%88%B0%E2%80%9C%E8%84%91%E9%9C%87%E8%8D%A1%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 22时34分]"
         },
         {
           "title": "A股可控核聚变板块持续上扬，远东股份、弘讯科技涨停，中国核建、国机重装、王子新材、天力复合、保变电气跟涨。",
@@ -1424,7 +1451,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "2026：数字科技产业的8个猜想",
@@ -1476,8 +1503,33 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时40分 ~ 22时34分]"
+          "appearance_count": 26,
+          "time_info": "[00时40分 ~ 23时35分]"
+        },
+        {
+          "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
+          "url": "https://www.cls.cn/detail/2250715",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 23时35分]"
+        },
+        {
+          "title": "央行预告开展11000亿元买断式逆回购 政府债缴款、税收等多因素扰动资金面 专家预计央行将持续注入中期流动性",
+          "url": "https://www.cls.cn/detail/2250865",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 23时35分]"
         },
         {
           "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
@@ -1491,18 +1543,6 @@
           "time_info": "[00时40分 ~ 01时31分]"
         },
         {
-          "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
-          "url": "https://www.cls.cn/detail/2250715",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 22时34分]"
-        },
-        {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
           "url": "https://wallstreetcn.com/articles/3762631",
           "source": "华尔街见闻",
@@ -1514,19 +1554,6 @@
           "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "央行预告开展11000亿元买断式逆回购 政府债缴款、税收等多因素扰动资金面 专家预计央行将持续注入中期流动性",
-          "url": "https://www.cls.cn/detail/2250865",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 22时34分]"
-        },
-        {
           "title": "避险情绪升温 国防板块成资金避风港",
           "url": "https://flash.jin10.com/detail/20260107181845585800",
           "source": "金十数据",
@@ -1536,6 +1563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "央行定调2026货币政策",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%AE%9A%E8%B0%832026%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "【每日收评】沪指微涨录得14连阳！两市成交额连续两日突破2.8万亿，芯片产业链全天强势",
@@ -1665,6 +1703,17 @@
           "time_info": "14时47分"
         },
         {
+          "title": "刚性租房需求改善行业前景 英国亿万富翁抄底住宅地产业",
+          "url": "https://flash.jin10.com/detail/20260107230457472800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "国资委主任张玉卓：中央企业要大力发展战略性新兴产业与未来产业 开辟增长的“第二曲线”",
           "url": "https://www.cls.cn/detail/2250376",
           "source": "财联社热门",
@@ -1726,7 +1775,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1962,7 +2011,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1998,6 +2047,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金价大涨 黄金珠宝行业面临分化",
+          "url": "https://www.toutiao.com/trending/7592189155237789750/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时30分]"
+        },
+        {
+          "title": "大摩预计今年第四季度金价升至4800美元",
+          "url": "https://wallstreetcn.com/livenews/3031796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时31分]"
+        },
+        {
+          "title": "金十图示：2026年01月07日（周三）上海金午盘价为997.08元/克，较国际金价(998.39元/克)，低1.31元/克",
+          "url": "https://flash.jin10.com/detail/20260107150245540800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "金价涨超1%，上探4500美元关口",
+          "url": "https://wallstreetcn.com/livenews/3031908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "大摩看多金价：今年将冲刺4800美元",
+          "url": "https://www.toutiao.com/trending/7592535670967504403/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
@@ -2065,70 +2189,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价大涨 黄金珠宝行业面临分化",
-          "url": "https://www.toutiao.com/trending/7592189155237789750/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时30分]"
-        },
-        {
-          "title": "大摩预计今年第四季度金价升至4800美元",
-          "url": "https://wallstreetcn.com/livenews/3031796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时31分]"
-        },
-        {
-          "title": "金十图示：2026年01月07日（周三）上海金午盘价为997.08元/克，较国际金价(998.39元/克)，低1.31元/克",
-          "url": "https://flash.jin10.com/detail/20260107150245540800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "金价涨超1%，上探4500美元关口",
-          "url": "https://wallstreetcn.com/livenews/3031908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "大摩看多金价：今年将冲刺4800美元",
-          "url": "https://www.toutiao.com/trending/7592535670967504403/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "SZ SH HK",
       "match_count": 4,
       "titles": [
@@ -2180,8 +2240,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国10年期国债收益率短线从4.1338%反弹至接近4.16%的水平，美国ISM非制造业数据和职位空缺数据发布后，日内整体跌幅收窄至不足2个基点。 两年期美债收益率刷新日高至3.4674%，数据发布前一分钟显著下挫至3.4427%刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3032569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
         {
           "title": "美债收益率曲线持续走陡 滞胀担忧推动长端利率走高",
           "url": "https://flash.jin10.com/detail/20260107171642529800",
@@ -2219,8 +2290,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数DXY短线走低10点，最新报98.53。",
+          "url": "https://flash.jin10.com/detail/20260107230917904800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
         {
           "title": "美元指数涨0.3%",
           "url": "https://wallstreetcn.com/livenews/3031873",
