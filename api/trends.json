@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T07:30:35.448961+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-01-07T10:22:45.725364+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 13,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
@@ -51,9 +51,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "中证500股指期货（IC）主力合约日内涨超1.00%，现报7840.0点。",
+          "url": "https://flash.jin10.com/detail/20260107095301044800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "现货钯金下跌逾3%，至每盎司1742.0美元。",
+          "url": "https://wallstreetcn.com/livenews/3032031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "周二（1月6日）纽约尾盘，标普500股指期货最终涨0.62%，道指期货涨1.06%，纳斯达克100股指期货涨0.94%。 罗素2000股指期货涨1.32%。",
@@ -116,6 +138,28 @@
           "time_info": "[03时25分 ~ 04时34分]"
         },
         {
+          "title": "现货铂金、钯金均跌超3%",
+          "url": "https://flash.jin10.com/detail/20260107095144652800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "现货白银、纽约期银日内双双跌超2%",
+          "url": "https://flash.jin10.com/detail/20260107093745461800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
           "title": "现货白银站上81美元/盎司，日内涨5.76%。",
           "url": "https://wallstreetcn.com/livenews/3031828",
           "source": "华尔街见闻-快讯",
@@ -127,6 +171,17 @@
           "time_info": "02时44分"
         },
         {
+          "title": "国债期货开盘，30年期主力合约跌0.31%，10年期主力合约跌0.07%，5年期主力合约跌0.04%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3032018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
           "title": "现货白银涨超6%，纽约铜一度涨穿6.11美元，铂金涨超7%",
           "url": "https://wallstreetcn.com/livenews/3031912",
           "source": "华尔街见闻-快讯",
@@ -136,6 +191,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20260107093108571800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20260107093105396800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "现货黄金日内涨幅扩大至1.00%，现报4493.40美元/盎司。",
@@ -158,164 +235,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "2026：数字科技产业的8个猜想",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32318720",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 07时30分]"
         },
         {
-          "title": "央行：继续实施适度宽松的货币政策 加大逆周期和跨周期调节力度",
-          "url": "https://www.cls.cn/detail/2249476",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 07时30分]"
-        },
-        {
-          "title": "【数据看盘】5.76亿元资金涌入山子高科 机构联手游资抢筹道氏技术",
-          "url": "https://www.cls.cn/detail/2249443",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 07时30分]"
-        },
-        {
-          "title": "2026哪些产业备受关注",
-          "url": "https://search.bilibili.com/all?keyword=2026%E5%93%AA%E4%BA%9B%E4%BA%A7%E4%B8%9A%E5%A4%87%E5%8F%97%E5%85%B3%E6%B3%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 07时30分]"
-        },
-        {
-          "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
-          "url": "https://www.cls.cn/detail/2249345",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时31分]"
-        },
-        {
-          "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
-          "url": "https://wallstreetcn.com/articles/3762631",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
-        },
-        {
-          "title": "捷克总理：政府不会从预算中为捷克主导的对乌克兰弹药倡议提供资金，但如果其他国家提供资金，该倡议仍可继续推进。",
-          "url": "https://flash.jin10.com/detail/20260107023242962800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "特朗普政府正停止向五个由民主党领导的州提供100亿美元的公共援助资金。",
-          "url": "https://flash.jin10.com/detail/20260107005331579800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "2026人形机器人产业展望：10万级量产将至，商业化元年开启",
-          "url": "https://wallstreetcn.com/livenews/3031942",
+          "title": "现货白银跳水转跌，从82.5美元/盎司走低约2美元至80.4美元/盎司，目前跌0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3032003",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时30分"
+          "time_info": "10时22分"
         },
         {
-          "title": "法国总统马克龙：欧洲的农业和粮食主权是我的首要任务。共同农业政策是其基础。",
-          "url": "https://flash.jin10.com/detail/20260107022741159800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "脑机接口“人声鼎沸”，产业落地“步步为营”",
-          "url": "https://wallstreetcn.com/livenews/3031931",
+          "title": "布油期货开盘跌1%至每桶60.09美元，此前特朗普表示委内瑞拉将把受制裁的石油交给美国。",
+          "url": "https://wallstreetcn.com/livenews/3032000",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时30分"
+          "time_info": "10时22分"
         },
         {
-          "title": "美国参议院：参议院以52比48的投票结果确认了Sara Bailey担任国家毒品管制政策主任的提名。",
-          "url": "https://flash.jin10.com/detail/20260107042816684800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：今天在巴黎举行的领导人会议使我们能够锁定安全保证，即一支在多国部队和美国支持下更强大的乌克兰军队。",
-          "url": "https://flash.jin10.com/detail/20260107024346102800",
-          "source": "金十数据",
+          "title": "商品期货开盘，沪镍主力合约涨停，涨幅8%。沪银、钯涨超6%，铂、碳酸锂、焦煤涨超5%，沪锡、玻璃、不锈钢、氧化铝、纯碱、焦炭涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3031994",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "10时22分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.04%，上一个交易日夜盘收跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3031991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "2026年A股牛市有望持续吗",
@@ -323,11 +292,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时22分]"
         },
         {
           "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
@@ -355,6 +325,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 03时25分]"
+        },
+        {
+          "title": "现代汽车韩股上涨逾11%，股价创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260107095632044800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "美元指数6日上涨",
@@ -417,6 +398,17 @@
           "time_info": "[00时40分 ~ 01时31分]"
         },
         {
+          "title": "A股可控核聚变板块持续上扬，远东股份、弘讯科技涨停，中国核建、国机重装、王子新材、天力复合、保变电气跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3032029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 1月6日（周二）晚盘收盘上涨0.7%报1007.0元/克；<br/>上海黄金交易所白银T+D 1月6日（周二）晚盘收盘上涨2.95%报19810.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260107023117313800",
           "source": "金十数据",
@@ -434,9 +426,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "A股存储芯片板块开盘领涨，普冉股份20cm涨停，股价创历史新高，恒烁股份、聚辰股份、江波龙、香农芯创、联芸科技等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3032017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "（美股）费城金银指数收涨4.72%，报370.56点，时隔数日再创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数收涨4.02%，报2605.98点，亚太盘初至美股开盘这段时间维持微幅上涨状态——持稳于2510点附近，之后跳空走高并持续扩大涨幅。 （美股）原材料指数涨2.70%，报241.25点。 （美股）金属与矿业指数涨1.88%，报232.82点。",
@@ -448,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "上证指数开盘报4083.84点，涨0.00%。 深证成指开盘报14062.02点，涨0.28%。 创业板指开盘报3331.34点，涨0.36%。 沪深300开盘报4796.93点，涨0.13%。 科创50开盘报1442.51点，涨0.92%。 中证500开盘报7838.91点，涨0.32%。 中证1000开盘报7881.84点，涨0.22%。",
+          "url": "https://wallstreetcn.com/livenews/3032013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "费城半导体指数创下历史新高，最新上涨2.5%。",
@@ -470,12 +484,175 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "国际油价6日下跌",
+          "url": "https://www.toutiao.com/trending/7592111096691458089/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "2026：数字科技产业的8个猜想",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32318720",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 07时30分]"
+        },
+        {
+          "title": "央行：继续实施适度宽松的货币政策 加大逆周期和跨周期调节力度",
+          "url": "https://www.cls.cn/detail/2249476",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 07时30分]"
+        },
+        {
+          "title": "【数据看盘】5.76亿元资金涌入山子高科 机构联手游资抢筹道氏技术",
+          "url": "https://www.cls.cn/detail/2249443",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 07时30分]"
+        },
+        {
+          "title": "2026哪些产业备受关注",
+          "url": "https://search.bilibili.com/all?keyword=2026%E5%93%AA%E4%BA%9B%E4%BA%A7%E4%B8%9A%E5%A4%87%E5%8F%97%E5%85%B3%E6%B3%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时22分]"
+        },
+        {
+          "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
+          "url": "https://www.cls.cn/detail/2249345",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时31分]"
+        },
+        {
+          "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
+        },
+        {
+          "title": "捷克总理：政府不会从预算中为捷克主导的对乌克兰弹药倡议提供资金，但如果其他国家提供资金，该倡议仍可继续推进。",
+          "url": "https://flash.jin10.com/detail/20260107023242962800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "特朗普政府正停止向五个由民主党领导的州提供100亿美元的公共援助资金。",
+          "url": "https://flash.jin10.com/detail/20260107005331579800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "2026人形机器人产业展望：10万级量产将至，商业化元年开启",
+          "url": "https://wallstreetcn.com/livenews/3031942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "法国总统马克龙：欧洲的农业和粮食主权是我的首要任务。共同农业政策是其基础。",
+          "url": "https://flash.jin10.com/detail/20260107022741159800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "脑机接口“人声鼎沸”，产业落地“步步为营”",
+          "url": "https://wallstreetcn.com/livenews/3031931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "美国参议院：参议院以52比48的投票结果确认了Sara Bailey担任国家毒品管制政策主任的提名。",
+          "url": "https://flash.jin10.com/detail/20260107042816684800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：今天在巴黎举行的领导人会议使我们能够锁定安全保证，即一支在多国部队和美国支持下更强大的乌克兰军队。",
+          "url": "https://flash.jin10.com/detail/20260107024346102800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -494,22 +671,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时22分]"
         },
         {
           "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
           "url": "https://www.cls.cn/detail/2249896",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 10时22分]"
         },
         {
           "title": "Strategy美股盘后涨超6%。",
@@ -572,6 +751,17 @@
           "time_info": "[02时44分 ~ 03时25分]"
         },
         {
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.1%，苹果跌超1.8%，亚马逊涨约3.4%",
           "url": "https://wallstreetcn.com/livenews/3031904",
           "source": "华尔街见闻-快讯",
@@ -597,7 +787,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "LME期镍涨超10%，创2022年以来最大盘中涨幅。 沪镍夜盘涨8%，目前报147720元人民币/吨。",
@@ -622,6 +812,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时34分]"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0187，下调14点；上一交易日中间价7.0173，上一交易日官方收盘价6.9813，上日夜盘报收6.9830。",
+          "url": "https://wallstreetcn.com/livenews/3032007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "矿泉水标签与20元人民币高度相似",
@@ -675,6 +876,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "TikTok Shop2025年在海外主流电商平台中排名第五、增速第一",
+          "url": "https://wallstreetcn.com/livenews/3032040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         }
       ]
     },
