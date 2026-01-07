@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T19:28:57.816687+08:00",
-  "total_titles_processed": 1736,
+  "generated_at": "2026-01-07T21:03:38.555675+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 57,
+      "match_count": 64,
       "titles": [
         {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
@@ -32,11 +32,12 @@
             27,
             17,
             19,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时24分 ~ 18时34分]"
+          "appearance_count": 16,
+          "time_info": "[03时24分 ~ 21时03分]"
         },
         {
           "title": "恒指期货夜盘收跌0.13%，报26685点，低水25点。",
@@ -59,6 +60,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "宜家中国宣布同时关闭 7 家商场，将重点探索北京、深圳市场，两年内开设超十家小型门店，如何看待此调整？",
+          "url": "https://www.zhihu.com/question/1992207961876103794",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 21时03分]"
+        },
+        {
+          "title": "洲际交易所伦敦可可期货下跌4%，至每公吨4,120英镑。",
+          "url": "https://flash.jin10.com/detail/20260107205852547800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "上期所调整白银等期货品种相关合约交易手续费",
+          "url": "https://wallstreetcn.com/livenews/3032466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "中证500股指期货（IC）主力合约日内涨超1.00%，现报7840.0点。",
@@ -140,18 +176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时30分]"
-        },
-        {
-          "title": "宜家中国宣布同时关闭 7 家商场，将重点探索北京、深圳市场，两年内开设超十家小型门店，如何看待此调整？",
-          "url": "https://www.zhihu.com/question/1992207961876103794",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 19时28分]"
         },
         {
           "title": "现货白银日内涨幅达6.0%，报81.21美元/盎司。 纽约银日内涨幅达6.0%，报81.28美元/盎司。",
@@ -257,6 +281,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "上期所：调整白银期货相关合约交易保证金比例和涨跌停板幅度，调整白银期货合约交易限额",
+          "url": "https://wallstreetcn.com/livenews/3032459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "焦煤期货主力合约触及涨停，涨幅7.98%，报1164元/吨。",
           "url": "https://flash.jin10.com/detail/20260107111831651800",
           "source": "金十数据",
@@ -266,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "现货黄金失守4440美元/盎司，日内跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3032455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "现货白银、纽约期银日内双双跌超2%",
@@ -422,6 +468,17 @@
           "time_info": "14时47分"
         },
         {
+          "title": "美国天然气期货延续涨势，现涨5%，因日产量小幅下降且未来几周需求预期增加。",
+          "url": "https://flash.jin10.com/detail/20260107204214523800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "不锈钢期货主力合约触及涨停，涨幅4.99%。",
           "url": "https://wallstreetcn.com/livenews/3032163",
           "source": "华尔街见闻-快讯",
@@ -554,6 +611,17 @@
           "time_info": "10时22分"
         },
         {
+          "title": "上期所调整白银等期货品种相关合约交易手续费",
+          "url": "https://flash.jin10.com/detail/20260107203157886800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "富时中国A50指数期货午后跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3032146",
           "source": "华尔街见闻-快讯",
@@ -626,9 +694,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "上期所调整白银期货相关合约交易保证金比例和涨跌停板幅度",
+          "url": "https://flash.jin10.com/detail/20260107202403947800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "商品期货开盘，沪镍主力合约涨停，涨幅8%。沪银、钯涨超6%，铂、碳酸锂、焦煤涨超5%，沪锡、玻璃、不锈钢、氧化铝、纯碱、焦炭涨超4%。",
@@ -656,7 +735,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "2026年A股牛市有望持续吗",
@@ -847,6 +926,18 @@
           "time_info": "[05时30分 ~ 06时31分]"
         },
         {
+          "title": "沪指14连阳冲击4100点，存储器全天活跃，煤炭板块爆发，“双焦”涨停，恒科指跌1.5%，医药生物大涨",
+          "url": "https://wallstreetcn.com/articles/3762705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 21时03分]"
+        },
+        {
           "title": "券商晨会精华：人形机器人板块处于底部反弹阶段",
           "url": "https://www.cls.cn/detail/2249965",
           "source": "财联社热门",
@@ -860,16 +951,17 @@
           "time_info": "[14时47分 ~ 16时42分]"
         },
         {
-          "title": "沪指14连阳冲击4100点，存储器全天活跃，煤炭板块爆发，“双焦”涨停，恒科指跌1.5%，医药生物大涨",
-          "url": "https://wallstreetcn.com/articles/3762705",
-          "source": "华尔街见闻",
+          "title": "【焦点复盘】沪指高位十字星续创连阳纪录，商业航天概念强势依旧，煤炭板块午后爆发",
+          "url": "https://www.cls.cn/detail/2250688",
+          "source": "财联社热门",
           "ranks": [
             10,
-            8
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时37分 ~ 19时28分]"
+          "time_info": "[18时34分 ~ 21时03分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.17%，暂报4205.07点，期内震荡上行，北京时间22:25刷新日高至4368.68点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数跌0.19%，报19357.62点。 MarketVector数字资产100指数涨0.13%，报3926.05点。 比特币目前跌1.95%，暂报92452.42美元，以太坊涨0.02%，报3243.49美元。 Solana涨0.05%，狗狗币跌4.51%，XRP跌1.44%。",
@@ -918,18 +1010,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 13时34分]"
-        },
-        {
-          "title": "【焦点复盘】沪指高位十字星续创连阳纪录，商业航天概念强势依旧，煤炭板块午后爆发",
-          "url": "https://www.cls.cn/detail/2250688",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时28分]"
         },
         {
           "title": "A股可控核聚变板块持续上扬，远东股份、弘讯科技涨停，中国核建、国机重装、王子新材、天力复合、保变电气跟涨。",
@@ -1031,6 +1111,17 @@
           "time_info": "16时42分"
         },
         {
+          "title": "郭正亮：日本已经被打“脑震荡”了",
+          "url": "https://www.toutiao.com/trending/7592229822353604650/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
           "url": "https://flash.jin10.com/detail/20260107111347667800",
           "source": "金十数据",
@@ -1084,6 +1175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "机构：内存市场已进入“超级牛市”，一季度将再涨40%-50%",
+          "url": "https://wallstreetcn.com/livenews/3032447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "费城半导体指数创下历史新高，最新上涨2.5%。",
@@ -1196,6 +1298,17 @@
           "time_info": "18时34分"
         },
         {
+          "title": "郭正亮：日本已经被打到“脑震荡”了",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%B7%B2%E7%BB%8F%E8%A2%AB%E6%89%93%E5%88%B0%E2%80%9C%E8%84%91%E9%9C%87%E8%8D%A1%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "国内多家金店金饰价格上涨",
           "url": "https://www.toutiao.com/trending/7591720883100549139/",
           "source": "今日头条",
@@ -1213,7 +1326,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1295,8 +1408,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时40分 ~ 19时28分]"
+          "appearance_count": 24,
+          "time_info": "[00时40分 ~ 21时03分]"
         },
         {
           "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
@@ -1332,6 +1445,18 @@
           "time_info": "18时34分"
         },
         {
+          "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
+          "url": "https://www.cls.cn/detail/2250715",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 21时03分]"
+        },
+        {
           "title": "捷克总理：政府不会从预算中为捷克主导的对乌克兰弹药倡议提供资金，但如果其他国家提供资金，该倡议仍可继续推进。",
           "url": "https://flash.jin10.com/detail/20260107023242962800",
           "source": "金十数据",
@@ -1341,18 +1466,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
-        },
-        {
-          "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
-          "url": "https://www.cls.cn/detail/2250715",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时28分]"
         },
         {
           "title": "福州市委书记郭宁宁：深入实施提振消费专项行动 联动用好240小时过境免签、市内免税店等政策举措",
@@ -1367,16 +1480,16 @@
           "time_info": "[14时47分 ~ 15时34分]"
         },
         {
-          "title": "口子窖：预计2025年净利润为6.62亿元到8.28亿元，同比减少50%到60%；报告期内白酒行业市场分化与渠道变革加剧，叠加需求下行及政策变化影响，核心利润来源高端窖产品销量大幅下滑，导致营业收入减少。",
-          "url": "https://wallstreetcn.com/livenews/3032384",
-          "source": "华尔街见闻-快讯",
+          "title": "央行预告开展11000亿元买断式逆回购 政府债缴款、税收等多因素扰动资金面 专家预计央行将持续注入中期流动性",
+          "url": "https://www.cls.cn/detail/2250865",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            21
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时28分]"
+          "time_info": "[19时28分 ~ 21时03分]"
         },
         {
           "title": "【每日收评】沪指微涨录得14连阳！两市成交额连续两日突破2.8万亿，芯片产业链全天强势",
@@ -1388,8 +1501,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 21时03分]"
+        },
+        {
+          "title": "口子窖：预计2025年净利润为6.62亿元到8.28亿元，同比减少50%到60%；报告期内白酒行业市场分化与渠道变革加剧，叠加需求下行及政策变化影响，核心利润来源高端窖产品销量大幅下滑，导致营业收入减少。",
+          "url": "https://wallstreetcn.com/livenews/3032384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时28分]"
         },
         {
           "title": "1月7日午间收评：沪指涨0.29%逼近4100点，半导体产业链集体走强",
@@ -1424,17 +1549,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        },
-        {
-          "title": "央行预告开展11000亿元买断式逆回购 政府债缴款、税收等多因素扰动资金面 专家预计央行将持续注入中期流动性",
-          "url": "https://www.cls.cn/detail/2250865",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
         },
         {
           "title": "2026人形机器人产业展望：10万级量产将至，商业化元年开启",
@@ -1542,7 +1656,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1916,7 +2030,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
@@ -1966,7 +2080,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
