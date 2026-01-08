@@ -1,11 +1,574 @@
 {
-  "generated_at": "2026-01-08T19:29:43.253273+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-01-08T21:04:11.064387+08:00",
+  "total_titles_processed": 1856,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 49,
+      "titles": [
+        {
+          "title": "宜家中国宣布同时关闭 7 家商场，将重点探索北京、深圳市场，两年内开设超十家小型门店，如何看待此调整？",
+          "url": "https://www.zhihu.com/question/1992207961876103794",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时29分]"
+        },
+        {
+          "title": "多家车企公布2026销量目标：“双新”政策调整延续下传统车企审慎、新势力乐观",
+          "url": "https://www.cls.cn/detail/2250905",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时29分]"
+        },
+        {
+          "title": "王者S42新赛季26名英雄调整",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85S42%E6%96%B0%E8%B5%9B%E5%AD%A326%E5%90%8D%E8%8B%B1%E9%9B%84%E8%B0%83%E6%95%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            23,
+            27,
+            25,
+            29,
+            19,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 12时06分]"
+        },
+        {
+          "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 04时35分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260108095842478800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 19时29分]"
+        },
+        {
+          "title": "Tesco分析师预计2026财年集团调整后经营利润为31亿英镑。",
+          "url": "https://flash.jin10.com/detail/20260108150310920800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "中期协：2025年全国期货市场累计成交额同比增长23.74%",
+          "url": "https://wallstreetcn.com/livenews/3033261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "现货白银失守77美元/盎司，日内跌幅扩大至1.50%。",
+          "url": "https://flash.jin10.com/detail/20260108131128587800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "印尼矿业部长：2026年镍产量配额将根据行业需求进行调整。",
+          "url": "https://flash.jin10.com/detail/20260108130828599800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "2025年全国期货市场累计成交额同比增长23.74%",
+          "url": "https://wallstreetcn.com/livenews/3033172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260108150121328800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "上期所原油期货2502合约夜盘收跌2.19%，报415.50元人民币/桶。 沪金夜盘收跌0.31%，沪银收跌2.99%。",
+          "url": "https://wallstreetcn.com/livenews/3032649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时35分]"
+        },
+        {
+          "title": "芝加哥大豆期货涨超0.9%，豆粕涨超1.9%，小麦涨约1.6%",
+          "url": "https://wallstreetcn.com/livenews/3032679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时29分]"
+        },
+        {
+          "title": "重要商品指数再平衡今日开启，两大投行预言“白银两周内调整”，高盛“关键还是伦敦”",
+          "url": "https://wallstreetcn.com/articles/3762801",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.47%，报26348点，低水111点。",
+          "url": "https://flash.jin10.com/detail/20260108030050334800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 04时35分]"
+        },
+        {
+          "title": "周三（1月7日）纽约尾盘，标普500股指期货最终跌0.30%，道指期货跌0.95%，纳斯达克100股指期货涨0.03%。 罗素2000股指期货跌0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3032728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "现货金银短线回落 白银日内跌超1%",
+          "url": "https://flash.jin10.com/detail/20260108130745261800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约跌多涨少，多晶硅跌停，集运欧线跌超8%，铂、沪镍跌超6%，沪银跌超5%，工业硅跌超4%，钯、硅铁跌超3%，国际铜、沪铝、沪铜、铝合金、甲醇、SC原油、沪铅跌超2%。涨幅方面，焦煤涨超4%，玻璃、焦炭、碳酸锂涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260108150058813800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "现货白银跌1.3%，报77.17美元/盎司。现货黄金跌0.64%，报4428美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3032953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "金十期货观察",
+          "url": "https://flash.jin10.com/detail/20260108143100171800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "美股三大股指期货持续下挫，纳指期货跌超0.6%，标普500指数期货跌0.4%，道指期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3033005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "多家中小银行调整存款利率，有升有降",
+          "url": "https://wallstreetcn.com/livenews/3033326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "德国11月工作日调整后制造业订单年率 10.5%，预期2.9%，前值-0.70%。",
+          "url": "https://flash.jin10.com/detail/20260108150025936800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "WTI 2月原油期货收跌2%，报55.99美元/桶。 布伦特3月原油期货收跌0.74美元，跌幅1.22%，报59.96美元/桶。 NYMEX 2月天然气期货收报3.525-美元/百万英热单位。 NYMEX 2月汽油期货收报1.6945美元/加仑，NYMEX 2月取暖油期货收报2.0567美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3032670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.18%，10年期主力合约涨0.08%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3032906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "新版基本医保药品目录落地 不少参保群众已在医药机构买到了目录调整“上新”药品",
+          "url": "https://wallstreetcn.com/livenews/3033059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260108113111491800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "网传申银万国期货员工因降薪维权遭袭，当事人回应：“动手的是总经理，我已经报警”",
+          "url": "https://wallstreetcn.com/livenews/3033322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260108113108754800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "集邦咨询：HBM4受规格提升与英伟达策略调整影响，预估量产时程延至2026年第一季度末",
+          "url": "https://wallstreetcn.com/livenews/3032998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "现货黄金日内跌1%，现报4411.11美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3033321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，焦煤涨超5%，碳酸锂、焦炭、BR橡胶涨超2%，玻璃涨超1%。跌幅方面，集运欧线跌超8%，多晶硅跌超7%，沪银跌超3%，硅铁、国际铜、沪镍、工业硅、SC原油、铂、沪铜、甲醇跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260108113059969800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约涨0.37%，10年期主力合约涨0.15%，5年期主力合约涨0.09%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3033055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "美国天然气期货日内大涨6.00%，现报3.551美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260108015031736800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "现货白银失守75美元/盎司，最低触及74.95美元/盎司，日内跌超4％。",
+          "url": "https://wallstreetcn.com/livenews/3033315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "野村看好印度增长潜力 2月基准年调整或提升GDP数据透明度",
+          "url": "https://flash.jin10.com/detail/20260108180256021800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.02%，10年期主力合约涨0.04%，5年期主力合约涨0.03%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3032831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "金十期货·焦煤专题",
+          "url": "https://flash.jin10.com/detail/20260108125555079800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260108201737290800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "现货白银日内跌近4%，最低报75.05美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3033312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "现货黄金日内走低1.00%，现报4411.11美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260108201554330800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "钯期货主力合约日内跌4%，现报458.55元/克。",
+          "url": "https://wallstreetcn.com/livenews/3032986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "美国取暖油期货走软，EIA数据显示，美国馏分油库存增幅大于预期。",
+          "url": "https://flash.jin10.com/detail/20260107234711082800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "白银跌3.8%，纽约铜跌3.5%，现货铂金跌超5.8%",
+          "url": "https://wallstreetcn.com/livenews/3032716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "富时中国A50指数期货日内跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3032885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "商品期货收盘，多晶硅主力合约跌停，跌幅9%。集运欧线跌近9%，铂、沪镍跌超6%，沪银跌超5%，工业硅跌超4%，钯、硅铁跌超3%。焦煤涨超4%，玻璃、焦炭、碳酸锂涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3033035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "周三（1月7日）纽约尾盘，现货黄金跌0.90%，报4454.32美元/盎司，北京时间23:17刷新日低至4423.61美元。 COMEX黄金期货跌0.73%，报4463.50美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3032714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "现货钯金跌破1700美元/盎司，日内跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3033137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "I茅台调整精品茅台、公斤茅台及马年生肖酒投放",
+          "url": "https://wallstreetcn.com/livenews/3033298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "【焦点复盘】沪指高位十字星续创连阳纪录，商业航天概念强势依旧，煤炭板块午后爆发",
@@ -64,6 +627,19 @@
           "time_info": "[00时41分 ~ 07时29分]"
         },
         {
+          "title": "【每日收评】三大指数小幅收跌，商业航天等热门题材反复活跃，全市场超百股涨停",
+          "url": "https://www.cls.cn/detail/2251858",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 21时04分]"
+        },
+        {
           "title": "金十图示：2026年01月08日（周四）富时中国A50指数成分股今日收盘行情一览：银行、保险、石油板块全天走势疲软，半导体板块寒武纪、海光信息强势上涨。",
           "url": "https://flash.jin10.com/detail/20260108150253965800",
           "source": "金十数据",
@@ -84,6 +660,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 21时04分]"
         },
         {
           "title": "欧洲军工股全面上涨。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨4.10%，33.880001欧元，逼近2025年10月3日所创收盘历史最高位34.110001欧元和盘中历史最高位34.43欧元。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨2.79%。",
@@ -134,29 +722,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 04时35分]"
-        },
-        {
-          "title": "【每日收评】三大指数小幅收跌，商业航天等热门题材反复活跃，全市场超百股涨停",
-          "url": "https://www.cls.cn/detail/2251858",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时29分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时29分]"
         },
         {
           "title": "A股今日共112只个股涨停",
@@ -316,6 +881,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "耐克(NKE.N)盘前下跌1%，此前尼德汉姆将其评级下调至“持有”",
+          "url": "https://flash.jin10.com/detail/20260108202857981800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "LME三个月期镍下跌5%，至每吨17,590美元。",
           "url": "https://flash.jin10.com/detail/20260108015437723800",
           "source": "金十数据",
@@ -377,7 +953,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -470,6 +1046,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "芯片股“倒春寒”亚欧芯片板块共振下跌",
+          "url": "https://flash.jin10.com/detail/20260108201455256800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "特朗普住房新政引发震荡 黑石集团股价应声重挫逾9%",
           "url": "https://flash.jin10.com/detail/20260108023113755800",
           "source": "金十数据",
@@ -539,7 +1126,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "央行预告开展11000亿元买断式逆回购 政府债缴款、税收等多因素扰动资金面 专家预计央行将持续注入中期流动性",
@@ -610,6 +1197,19 @@
           "time_info": "[00时41分 ~ 19时29分]"
         },
         {
+          "title": "【数据看盘】黄河路席位3.79亿元净买入金风科技 7.85亿元资金抢筹航天电器",
+          "url": "https://www.cls.cn/detail/2251983",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 21时04分]"
+        },
+        {
           "title": "公安部：去年侦破涉电诈案件25.8万起，累计抓获诈骗集团幕后“金主”、头目和骨干等542名；拦截诈骗电话36亿次、短信33亿条，紧急止付涉诈资金2170.7万元。",
           "url": "https://wallstreetcn.com/livenews/3032867",
           "source": "华尔街见闻-快讯",
@@ -665,6 +1265,17 @@
           "time_info": "16时42分"
         },
         {
+          "title": "科技股高位退潮引资金转向 低位医疗板块借政策利好开启补涨行情",
+          "url": "https://flash.jin10.com/detail/20260108204031487800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "广州：推动商业航天人才、资本和企业集聚广州，构建完整商业航天产业生态",
           "url": "https://wallstreetcn.com/livenews/3033171",
           "source": "华尔街见闻-快讯",
@@ -710,18 +1321,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时31分]"
-        },
-        {
-          "title": "【数据看盘】黄河路席位3.79亿元净买入金风科技 7.85亿元资金抢筹航天电器",
-          "url": "https://www.cls.cn/detail/2251983",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时29分]"
         },
         {
           "title": "美国交通部：特朗普政府扣留了加州政府1.6亿美元资金，原因是该州未能撤销超过17,000张由外国人持有的商业驾照。",
@@ -941,7 +1540,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1006,470 +1605,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 40,
-      "titles": [
-        {
-          "title": "宜家中国宣布同时关闭 7 家商场，将重点探索北京、深圳市场，两年内开设超十家小型门店，如何看待此调整？",
-          "url": "https://www.zhihu.com/question/1992207961876103794",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时29分]"
-        },
-        {
-          "title": "多家车企公布2026销量目标：“双新”政策调整延续下传统车企审慎、新势力乐观",
-          "url": "https://www.cls.cn/detail/2250905",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时29分]"
-        },
-        {
-          "title": "王者S42新赛季26名英雄调整",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85S42%E6%96%B0%E8%B5%9B%E5%AD%A326%E5%90%8D%E8%8B%B1%E9%9B%84%E8%B0%83%E6%95%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            23,
-            27,
-            25,
-            29,
-            19,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 12时06分]"
-        },
-        {
-          "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时35分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260108095842478800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 19时29分]"
-        },
-        {
-          "title": "Tesco分析师预计2026财年集团调整后经营利润为31亿英镑。",
-          "url": "https://flash.jin10.com/detail/20260108150310920800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "中期协：2025年全国期货市场累计成交额同比增长23.74%",
-          "url": "https://wallstreetcn.com/livenews/3033261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "现货白银失守77美元/盎司，日内跌幅扩大至1.50%。",
-          "url": "https://flash.jin10.com/detail/20260108131128587800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "印尼矿业部长：2026年镍产量配额将根据行业需求进行调整。",
-          "url": "https://flash.jin10.com/detail/20260108130828599800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "2025年全国期货市场累计成交额同比增长23.74%",
-          "url": "https://wallstreetcn.com/livenews/3033172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "股指期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20260108150121328800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "上期所原油期货2502合约夜盘收跌2.19%，报415.50元人民币/桶。 沪金夜盘收跌0.31%，沪银收跌2.99%。",
-          "url": "https://wallstreetcn.com/livenews/3032649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时46分 ~ 04时35分]"
-        },
-        {
-          "title": "芝加哥大豆期货涨超0.9%，豆粕涨超1.9%，小麦涨约1.6%",
-          "url": "https://wallstreetcn.com/livenews/3032679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时29分]"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.47%，报26348点，低水111点。",
-          "url": "https://flash.jin10.com/detail/20260108030050334800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 04时35分]"
-        },
-        {
-          "title": "周三（1月7日）纽约尾盘，标普500股指期货最终跌0.30%，道指期货跌0.95%，纳斯达克100股指期货涨0.03%。 罗素2000股指期货跌0.19%。",
-          "url": "https://wallstreetcn.com/livenews/3032728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "现货金银短线回落 白银日内跌超1%",
-          "url": "https://flash.jin10.com/detail/20260108130745261800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约跌多涨少，多晶硅跌停，集运欧线跌超8%，铂、沪镍跌超6%，沪银跌超5%，工业硅跌超4%，钯、硅铁跌超3%，国际铜、沪铝、沪铜、铝合金、甲醇、SC原油、沪铅跌超2%。涨幅方面，焦煤涨超4%，玻璃、焦炭、碳酸锂涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260108150058813800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "现货白银跌1.3%，报77.17美元/盎司。现货黄金跌0.64%，报4428美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3032953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "金十期货观察",
-          "url": "https://flash.jin10.com/detail/20260108143100171800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "美股三大股指期货持续下挫，纳指期货跌超0.6%，标普500指数期货跌0.4%，道指期货跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3033005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "德国11月工作日调整后制造业订单年率 10.5%，预期2.9%，前值-0.70%。",
-          "url": "https://flash.jin10.com/detail/20260108150025936800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "WTI 2月原油期货收跌2%，报55.99美元/桶。 布伦特3月原油期货收跌0.74美元，跌幅1.22%，报59.96美元/桶。 NYMEX 2月天然气期货收报3.525-美元/百万英热单位。 NYMEX 2月汽油期货收报1.6945美元/加仑，NYMEX 2月取暖油期货收报2.0567美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3032670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.18%，10年期主力合约涨0.08%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3032906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "新版基本医保药品目录落地 不少参保群众已在医药机构买到了目录调整“上新”药品",
-          "url": "https://wallstreetcn.com/livenews/3033059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260108113111491800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260108113108754800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "集邦咨询：HBM4受规格提升与英伟达策略调整影响，预估量产时程延至2026年第一季度末",
-          "url": "https://wallstreetcn.com/livenews/3032998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，焦煤涨超5%，碳酸锂、焦炭、BR橡胶涨超2%，玻璃涨超1%。跌幅方面，集运欧线跌超8%，多晶硅跌超7%，沪银跌超3%，硅铁、国际铜、沪镍、工业硅、SC原油、铂、沪铜、甲醇跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260108113059969800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约涨0.37%，10年期主力合约涨0.15%，5年期主力合约涨0.09%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3033055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "美国天然气期货日内大涨6.00%，现报3.551美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260108015031736800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "野村看好印度增长潜力 2月基准年调整或提升GDP数据透明度",
-          "url": "https://flash.jin10.com/detail/20260108180256021800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.02%，10年期主力合约涨0.04%，5年期主力合约涨0.03%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3032831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "金十期货·焦煤专题",
-          "url": "https://flash.jin10.com/detail/20260108125555079800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "钯期货主力合约日内跌4%，现报458.55元/克。",
-          "url": "https://wallstreetcn.com/livenews/3032986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "美国取暖油期货走软，EIA数据显示，美国馏分油库存增幅大于预期。",
-          "url": "https://flash.jin10.com/detail/20260107234711082800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "白银跌3.8%，纽约铜跌3.5%，现货铂金跌超5.8%",
-          "url": "https://wallstreetcn.com/livenews/3032716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "富时中国A50指数期货日内跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3032885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "商品期货收盘，多晶硅主力合约跌停，跌幅9%。集运欧线跌近9%，铂、沪镍跌超6%，沪银跌超5%，工业硅跌超4%，钯、硅铁跌超3%。焦煤涨超4%，玻璃、焦炭、碳酸锂涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3033035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "周三（1月7日）纽约尾盘，现货黄金跌0.90%，报4454.32美元/盎司，北京时间23:17刷新日低至4423.61美元。 COMEX黄金期货跌0.73%，报4463.50美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3032714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "现货钯金跌破1700美元/盎司，日内跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3033137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1651,7 +1786,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1759,8 +1894,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时23分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[10时23分 ~ 21时04分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -1883,7 +2018,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
