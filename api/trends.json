@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T17:37:49.821440+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-01-08T18:35:00.343094+08:00",
+  "total_titles_processed": 1653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "【焦点复盘】沪指高位十字星续创连阳纪录，商业航天概念强势依旧，煤炭板块午后爆发",
@@ -134,6 +134,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 04时35分]"
+        },
+        {
+          "title": "【每日收评】三大指数小幅收跌，商业航天等热门题材反复活跃，全市场超百股涨停",
+          "url": "https://www.cls.cn/detail/2251858",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 18时35分]"
+        },
+        {
+          "title": "A股今日共112只个股涨停",
+          "url": "https://www.toutiao.com/trending/7592013704616181801/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 18时35分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
         },
         {
           "title": "LME期镍下跌5%，至每吨17,590美元。",
@@ -270,24 +305,13 @@
           "time_info": "16时42分"
         },
         {
-          "title": "【每日收评】三大指数小幅收跌，商业航天等热门题材反复活跃，全市场超百股涨停",
-          "url": "https://www.cls.cn/detail/2251858",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
           "title": "【午报】三大指数震荡整理涨跌不一，商业航天、AI应用等热门赛道反复活跃",
           "url": "https://www.cls.cn/detail/2251507",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -320,7 +344,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -496,18 +520,470 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 40,
+      "titles": [
+        {
+          "title": "央行预告开展11000亿元买断式逆回购 政府债缴款、税收等多因素扰动资金面 专家预计央行将持续注入中期流动性",
+          "url": "https://www.cls.cn/detail/2250865",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时29分]"
+        },
+        {
+          "title": "央行定调2026货币政策",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%AE%9A%E8%B0%832026%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 12时06分]"
+        },
+        {
+          "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
+          "url": "https://www.cls.cn/detail/2250715",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时29分]"
+        },
+        {
+          "title": "工信部等部门联合召开动力和储能电池行业座谈会 部署规范产业竞争秩序工作",
+          "url": "https://www.cls.cn/detail/2251334",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时06分 ~ 18时35分]"
+        },
+        {
+          "title": "2026哪些产业备受关注",
+          "url": "https://search.bilibili.com/all?keyword=2026%E5%93%AA%E4%BA%9B%E4%BA%A7%E4%B8%9A%E5%A4%87%E5%8F%97%E5%85%B3%E6%B3%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            12,
+            11,
+            16,
+            24,
+            20,
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 18时35分]"
+        },
+        {
+          "title": "公安部：去年侦破涉电诈案件25.8万起，累计抓获诈骗集团幕后“金主”、头目和骨干等542名；拦截诈骗电话36亿次、短信33亿条，紧急止付涉诈资金2170.7万元。",
+          "url": "https://wallstreetcn.com/livenews/3032867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "瑞士央行会议纪要：与9月份的货币政策评估相比，通胀压力基本未变。失业率很可能小幅进一步上升。 通胀的条件预测表明，未来几个季度通胀应会再次上升。",
+          "url": "https://flash.jin10.com/detail/20260108163313509800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "半导体产业链震荡走强，矽电股份、海光信息、中科蓝讯涨超10%，臻镭科技、芯原股份、芯源微、寒武纪、沐曦股份等均涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3032861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "美国能源部：已与全球领先的大宗商品交易商、主要银行合作，以执行相关业务并提供资金支持，以促进委内瑞拉原油及原油产品的销售。",
+          "url": "https://flash.jin10.com/detail/20260108012051255800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "瑞士央行会议纪要：由于美国关税下调以及海外更为有利的经济形势，瑞士的经济前景略有改善。美国关税和贸易政策不确定性的影响小于预期。",
+          "url": "https://flash.jin10.com/detail/20260108163251638800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "广州：推动商业航天人才、资本和企业集聚广州，构建完整商业航天产业生态",
+          "url": "https://wallstreetcn.com/livenews/3033171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
         {
-          "title": "A股今日共112只个股涨停",
-          "url": "https://www.toutiao.com/trending/7592013704616181801/",
-          "source": "今日头条",
+          "title": "美国能源部长赖特：我们只是在掌控市场营销以及资金流向委内瑞拉的情况。",
+          "url": "https://flash.jin10.com/detail/20260108031547928800",
+          "source": "金十数据",
           "ranks": [
-            25
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 04时35分]"
+        },
+        {
+          "title": "美国总统特朗普：他们将用从我们新的石油协议中获得的资金来支付。",
+          "url": "https://flash.jin10.com/detail/20260108060622273800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "美联储理事鲍曼在加州的准备发言中未就货币政策和经济发表评论。",
+          "url": "https://flash.jin10.com/detail/20260108051100700800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时31分]"
+        },
+        {
+          "title": "美国交通部：特朗普政府扣留了加州政府1.6亿美元资金，原因是该州未能撤销超过17,000张由外国人持有的商业驾照。",
+          "url": "https://flash.jin10.com/detail/20260108060318362800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "【数据看盘】黄河路席位3.79亿元净买入金风科技 7.85亿元资金抢筹航天电器",
+          "url": "https://www.cls.cn/detail/2251983",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
+        },
+        {
+          "title": "增长乏力叠加政策背离 丹麦银行看空英镑兑欧元后市",
+          "url": "https://flash.jin10.com/detail/20260108172847542800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "美国财长贝森特：正推进美国汽车贷款利息减免政策。 2025-28年购车，贷款利息将每年减少1万美元。",
+          "url": "https://wallstreetcn.com/livenews/3032674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "工信部等部门联合召开动力和储能电池行业座谈会，部署规范产业竞争秩序工作",
+          "url": "https://wallstreetcn.com/livenews/3032856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "美国总统特朗普：将于美东时间周四下午5:30参加政策会议。",
+          "url": "https://flash.jin10.com/detail/20260108114002884800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "广州：到2035年引育一批智能装备与机器人骨干企业，产业规模达到3000亿级",
+          "url": "https://wallstreetcn.com/livenews/3033164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "基本面让位于情绪波动 资金流成为白银暴涨主推手",
+          "url": "https://flash.jin10.com/detail/20260108182018238800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：针对在美委内瑞拉人的政策未变。",
+          "url": "https://flash.jin10.com/detail/20260108011517546800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "瑞典通胀降温触发克朗回调 瑞典央行短期内难调货币政策",
+          "url": "https://flash.jin10.com/detail/20260108172418915800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "泰国投资委员：泰国的目标是在2050年前吸引790亿美元投资于半导体和先进电子产业。",
+          "url": "https://flash.jin10.com/detail/20260108113142985800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "东方金诚王青：三个月期买断式逆回购未加量续做，或与金融机构资金需求的期限结构等有关",
+          "url": "https://wallstreetcn.com/livenews/3032587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "南向资金净卖出额达50亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3033105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "金十图示：2026年01月08日（周四）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20260108161602748800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260108141149867800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "印尼能源部长：重申计划在2026年下半年实施B50生物柴油政策。印尼2025年生物柴油消费量预计为1420万千升。",
+          "url": "https://wallstreetcn.com/livenews/3032944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "美国能源部长Chris Wright声称：美国并没有攫取委内瑞拉的石油。 美方只是要控制（委内瑞拉石油出口产生的）资金流动。 美国将利用委内瑞拉石油所得来解决委国的经济。",
+          "url": "https://wallstreetcn.com/livenews/3032662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "上海推进惠企政策“免申即享” 服务企业超628万次",
+          "url": "https://wallstreetcn.com/livenews/3033098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "股基提前结募，债基屡现赎回，机构：后续增量资金入市可期",
+          "url": "https://wallstreetcn.com/livenews/3032740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "强脑科技回应获20亿元融资：确实完成，资金将用于脑机接口的核心技术研发、量产落地等",
+          "url": "https://wallstreetcn.com/livenews/3033044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "特朗普政府：美国正在研究委内瑞拉石油资金的去向",
+          "url": "https://wallstreetcn.com/livenews/3032739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "美国副总统万斯：控制委内瑞拉的方法是控制其财政资金。",
+          "url": "https://flash.jin10.com/detail/20260108053512747800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "促进技术创新和产业应用 一批二氧化碳捕集利用与封存国家标准发布",
+          "url": "https://wallstreetcn.com/livenews/3032982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "商务部：愿与韩方一道加强经贸合作规划对接和政策协调，维护产供链稳定畅通",
+          "url": "https://wallstreetcn.com/livenews/3033088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国副总统万斯参与了所有政策，包括委内瑞拉事务。",
+          "url": "https://flash.jin10.com/detail/20260108010413763800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "天能股份：拟使用不超过120亿元自有资金进行委托理财。",
+          "url": "https://wallstreetcn.com/livenews/3033132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
@@ -515,7 +991,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "宜家中国宣布同时关闭 7 家商场，将重点探索北京、深圳市场，两年内开设超十家小型门店，如何看待此调整？",
@@ -613,7 +1089,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -854,6 +1330,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "野村看好印度增长潜力 2月基准年调整或提升GDP数据透明度",
+          "url": "https://flash.jin10.com/detail/20260108180256021800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.02%，10年期主力合约涨0.04%，5年期主力合约涨0.03%，2年期主力合约涨0.02%。",
           "url": "https://wallstreetcn.com/livenews/3032831",
           "source": "华尔街见闻-快讯",
@@ -948,446 +1435,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 38,
-      "titles": [
-        {
-          "title": "央行预告开展11000亿元买断式逆回购 政府债缴款、税收等多因素扰动资金面 专家预计央行将持续注入中期流动性",
-          "url": "https://www.cls.cn/detail/2250865",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时29分]"
-        },
-        {
-          "title": "央行定调2026货币政策",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%AE%9A%E8%B0%832026%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 12时06分]"
-        },
-        {
-          "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
-          "url": "https://www.cls.cn/detail/2250715",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时29分]"
-        },
-        {
-          "title": "2026哪些产业备受关注",
-          "url": "https://search.bilibili.com/all?keyword=2026%E5%93%AA%E4%BA%9B%E4%BA%A7%E4%B8%9A%E5%A4%87%E5%8F%97%E5%85%B3%E6%B3%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            12,
-            11,
-            16,
-            24,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 15时33分]"
-        },
-        {
-          "title": "工信部等部门联合召开动力和储能电池行业座谈会 部署规范产业竞争秩序工作",
-          "url": "https://www.cls.cn/detail/2251334",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时06分 ~ 17时37分]"
-        },
-        {
-          "title": "公安部：去年侦破涉电诈案件25.8万起，累计抓获诈骗集团幕后“金主”、头目和骨干等542名；拦截诈骗电话36亿次、短信33亿条，紧急止付涉诈资金2170.7万元。",
-          "url": "https://wallstreetcn.com/livenews/3032867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "瑞士央行会议纪要：与9月份的货币政策评估相比，通胀压力基本未变。失业率很可能小幅进一步上升。 通胀的条件预测表明，未来几个季度通胀应会再次上升。",
-          "url": "https://flash.jin10.com/detail/20260108163313509800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "半导体产业链震荡走强，矽电股份、海光信息、中科蓝讯涨超10%，臻镭科技、芯原股份、芯源微、寒武纪、沐曦股份等均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3032861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "美国能源部：已与全球领先的大宗商品交易商、主要银行合作，以执行相关业务并提供资金支持，以促进委内瑞拉原油及原油产品的销售。",
-          "url": "https://flash.jin10.com/detail/20260108012051255800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "瑞士央行会议纪要：由于美国关税下调以及海外更为有利的经济形势，瑞士的经济前景略有改善。美国关税和贸易政策不确定性的影响小于预期。",
-          "url": "https://flash.jin10.com/detail/20260108163251638800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "广州：推动商业航天人才、资本和企业集聚广州，构建完整商业航天产业生态",
-          "url": "https://wallstreetcn.com/livenews/3033171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "美国能源部长赖特：我们只是在掌控市场营销以及资金流向委内瑞拉的情况。",
-          "url": "https://flash.jin10.com/detail/20260108031547928800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 04时35分]"
-        },
-        {
-          "title": "美国总统特朗普：他们将用从我们新的石油协议中获得的资金来支付。",
-          "url": "https://flash.jin10.com/detail/20260108060622273800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "美联储理事鲍曼在加州的准备发言中未就货币政策和经济发表评论。",
-          "url": "https://flash.jin10.com/detail/20260108051100700800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时31分]"
-        },
-        {
-          "title": "美国交通部：特朗普政府扣留了加州政府1.6亿美元资金，原因是该州未能撤销超过17,000张由外国人持有的商业驾照。",
-          "url": "https://flash.jin10.com/detail/20260108060318362800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "增长乏力叠加政策背离 丹麦银行看空英镑兑欧元后市",
-          "url": "https://flash.jin10.com/detail/20260108172847542800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "美国财长贝森特：正推进美国汽车贷款利息减免政策。 2025-28年购车，贷款利息将每年减少1万美元。",
-          "url": "https://wallstreetcn.com/livenews/3032674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "工信部等部门联合召开动力和储能电池行业座谈会，部署规范产业竞争秩序工作",
-          "url": "https://wallstreetcn.com/livenews/3032856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "美国总统特朗普：将于美东时间周四下午5:30参加政策会议。",
-          "url": "https://flash.jin10.com/detail/20260108114002884800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "广州：到2035年引育一批智能装备与机器人骨干企业，产业规模达到3000亿级",
-          "url": "https://wallstreetcn.com/livenews/3033164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：针对在美委内瑞拉人的政策未变。",
-          "url": "https://flash.jin10.com/detail/20260108011517546800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "瑞典通胀降温触发克朗回调 瑞典央行短期内难调货币政策",
-          "url": "https://flash.jin10.com/detail/20260108172418915800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "泰国投资委员：泰国的目标是在2050年前吸引790亿美元投资于半导体和先进电子产业。",
-          "url": "https://flash.jin10.com/detail/20260108113142985800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "东方金诚王青：三个月期买断式逆回购未加量续做，或与金融机构资金需求的期限结构等有关",
-          "url": "https://wallstreetcn.com/livenews/3032587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "南向资金净卖出额达50亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3033105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "金十图示：2026年01月08日（周四）沪深港通南向资金流向",
-          "url": "https://flash.jin10.com/detail/20260108161602748800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20260108141149867800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "印尼能源部长：重申计划在2026年下半年实施B50生物柴油政策。印尼2025年生物柴油消费量预计为1420万千升。",
-          "url": "https://wallstreetcn.com/livenews/3032944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "美国能源部长Chris Wright声称：美国并没有攫取委内瑞拉的石油。 美方只是要控制（委内瑞拉石油出口产生的）资金流动。 美国将利用委内瑞拉石油所得来解决委国的经济。",
-          "url": "https://wallstreetcn.com/livenews/3032662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "上海推进惠企政策“免申即享” 服务企业超628万次",
-          "url": "https://wallstreetcn.com/livenews/3033098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "股基提前结募，债基屡现赎回，机构：后续增量资金入市可期",
-          "url": "https://wallstreetcn.com/livenews/3032740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "强脑科技回应获20亿元融资：确实完成，资金将用于脑机接口的核心技术研发、量产落地等",
-          "url": "https://wallstreetcn.com/livenews/3033044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "特朗普政府：美国正在研究委内瑞拉石油资金的去向",
-          "url": "https://wallstreetcn.com/livenews/3032739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "美国副总统万斯：控制委内瑞拉的方法是控制其财政资金。",
-          "url": "https://flash.jin10.com/detail/20260108053512747800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "促进技术创新和产业应用 一批二氧化碳捕集利用与封存国家标准发布",
-          "url": "https://wallstreetcn.com/livenews/3032982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "商务部：愿与韩方一道加强经贸合作规划对接和政策协调，维护产供链稳定畅通",
-          "url": "https://wallstreetcn.com/livenews/3033088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美国副总统万斯参与了所有政策，包括委内瑞拉事务。",
-          "url": "https://flash.jin10.com/detail/20260108010413763800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "天能股份：拟使用不超过120亿元自有资金进行委托理财。",
-          "url": "https://wallstreetcn.com/livenews/3033132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
@@ -1395,7 +1443,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -1439,7 +1487,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1464,6 +1512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "从“冷门”到“爆款” 美股存储巨头2026开年狂飙",
+          "url": "https://flash.jin10.com/detail/20260108181820906800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "公用事业ETF收跌超2.4%，领跌美股行业ETF，生科ETF涨3.2%",
@@ -1589,7 +1648,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1622,7 +1681,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1652,8 +1711,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时23分 ~ 17时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时23分 ~ 18时35分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -1685,7 +1744,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1759,7 +1818,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
