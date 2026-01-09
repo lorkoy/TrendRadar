@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T01:31:47.383008+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-01-10T02:44:27.600075+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "泛欧交易所：原定于2月2日推出的商品期货晚间交易时段将推迟至4月13日上线。",
@@ -25,7 +25,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -85,6 +85,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "纽约可可期货大跌12%，出口商趁近期价格反弹进行套期保值",
+          "url": "https://wallstreetcn.com/livenews/3034338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
           "title": "纽约银日内涨幅达6.0%，报79.67美元/盎司。 现货白银日内涨幅达3.5%，报79.75美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3034276",
           "source": "华尔街见闻-快讯",
@@ -94,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "泽连斯基签署总统令，调整乌克兰最高统帅部成员",
+          "url": "https://wallstreetcn.com/livenews/3034330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
           "title": "现货黄金突破4510美元/盎司，日内涨0.73%。",
@@ -109,6 +131,123 @@
       ]
     },
     {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 1月9日（周五）晚盘收盘上涨0.55%报1005.52元/克；<br/>上海黄金交易所白银T+D 1月9日（周五）晚盘收盘上涨4.53%报19400.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260110023053595800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时44分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3034317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "标普500指数盘中创历史新高，最新上涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3034316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "苹果公司股价处于连续第八个交易日下跌之中，恐创1991年以来最长连跌天数。",
+          "url": "https://wallstreetcn.com/livenews/3034340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
+          "url": "https://wallstreetcn.com/livenews/3034339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨1.2%，报384.81点，创2025年3月6日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 军工股萨博公司涨6.3%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3034307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "标普500指数盘中创历史新高，最新上涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20260110005523854800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "周五（1月9日），韩元兑美元最终跌0.47%，报1459.11韩元，美国非农就业报告发布后一度小幅回升，本周累计下跌1.01%，整体持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3034333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "本周，法国10年期国债收益率累计下跌8.8个基点，周五（1月9日）欧市尾盘报3.523%。 意大利10年期国债收益率累跌11.8个基点，报3.496%。 西班牙10年期国债收益率累跌8.9个基点，报3.250%。 希腊10年期国债收益率累跌14.0个基点，报3.356%。",
+          "url": "https://wallstreetcn.com/livenews/3034332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
       "match_count": 6,
       "titles": [
@@ -120,8 +259,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时44分]"
         },
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
@@ -131,8 +270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时44分]"
         },
         {
           "title": "上海：加速商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈",
@@ -142,8 +281,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时44分]"
         },
         {
           "title": "解读特斯拉低息政策背后",
@@ -154,8 +293,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时44分]"
         },
         {
           "title": "俄精准断供材料,日本产业被反杀",
@@ -166,8 +305,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时44分]"
         },
         {
           "title": "隔夜互换市场交易员仍预计，加拿大央行将在今年大部分时间内把关键利率维持在2.25%。 此前，决策者表示，只要经济增长和通胀走势符合预期，当前利率就处于“大致合适的水平”。 加拿大央行下一次利率决议及货币政策报告将于1月28日公布。",
@@ -179,68 +318,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
-          "url": "https://wallstreetcn.com/articles/3762954",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
-          "url": "https://wallstreetcn.com/livenews/3034317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "标普500指数盘中创历史新高，最新上涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3034316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨1.2%，报384.81点，创2025年3月6日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 军工股萨博公司涨6.3%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3034307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "标普500指数盘中创历史新高，最新上涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20260110005523854800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
         }
       ]
     },
@@ -271,11 +348,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时44分]"
         }
       ]
     }
