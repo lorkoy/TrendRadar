@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-10T17:29:53.460878+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-01-10T18:31:13.523194+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
       "match_count": 28,
       "titles": [
-        {
-          "title": "QDII基金再迎政策利好 额度使用有新调整",
-          "url": "https://flash.jin10.com/detail/20260110170542522800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
         {
           "title": "WTI 2月原油期货收报59.12美元/桶。 NYMEX 2月天然气期货收报3.1690美元/百万英热单位。 NYMEX 2月汽油期货收报1.7806美元/加仑，NYMEX 2月取暖油期货收报2.1350美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3034373",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "QDII基金再迎政策利好 额度使用有新调整",
+          "url": "https://flash.jin10.com/detail/20260110170542522800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时31分]"
         },
         {
           "title": "纳斯达克：沃尔玛百货(WMT.N)被纳入纳斯达克100指数成分股，调整将于2026年1月20日生效。沃尔玛取代阿斯利康公司在纳斯达克100指数中的位置。",
@@ -352,6 +353,20 @@
           "time_info": "[00时39分 ~ 10时14分]"
         },
         {
+          "title": "又一地明确价格！脑机接口收费路径逐渐清晰 有望催化成熟产业链",
+          "url": "https://www.cls.cn/detail/2253011",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时44分 ~ 18时31分]"
+        },
+        {
           "title": "上海：加速商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈",
           "url": "https://www.cls.cn/detail/2253306",
           "source": "财联社热门",
@@ -373,11 +388,12 @@
             10,
             12,
             9,
-            8
+            8,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 17时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 18时31分]"
         },
         {
           "title": "俄精准断供材料,日本产业被反杀",
@@ -391,22 +407,32 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 17时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 18时31分]"
         },
         {
-          "title": "又一地明确价格！脑机接口收费路径逐渐清晰 有望催化成熟产业链",
-          "url": "https://www.cls.cn/detail/2253011",
+          "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
+          "url": "https://www.cls.cn/detail/2253788",
           "source": "财联社热门",
           "ranks": [
-            13,
             10,
-            6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 17时29分]"
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 18时31分]"
+        },
+        {
+          "title": "2026“两新”政策落地",
+          "url": "https://www.toutiao.com/trending/7593147817850322998/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时31分]"
         },
         {
           "title": "盛松成：货币政策“小步走”可能性较大，降准降息仍有空间",
@@ -437,17 +463,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时01分 ~ 15时27分]"
-        },
-        {
-          "title": "2026“两新”政策落地",
-          "url": "https://www.toutiao.com/trending/7593147817850322998/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "美国总统特朗普：昨天，委内瑞拉向美国提供了3000万桶石油。部分资金将流向委内瑞拉和石油公司。",
@@ -489,18 +504,6 @@
           "time_info": "[10时14分 ~ 13时31分]"
         },
         {
-          "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
-          "url": "https://www.cls.cn/detail/2253788",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时29分]"
-        },
-        {
           "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
           "url": "https://wallstreetcn.com/livenews/3034471",
           "source": "华尔街见闻-快讯",
@@ -520,11 +523,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 18时31分]"
         },
         {
           "title": "中方这次管制，打击的是日本整个军工产业体系",
@@ -770,11 +774,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 18时31分]"
         },
         {
           "title": "2025年12月广东CPI同比上涨0.4% 环比下降0.1%",
@@ -782,11 +787,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 18时31分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -1006,11 +1012,12 @@
             4,
             5,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时01分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[12时01分 ~ 18时31分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9785元，较周四夜盘收盘涨50点。成交量395.82亿美元。",
@@ -1066,8 +1073,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时14分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[10时14分 ~ 18时31分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨2.1%，谷歌A涨超0.9%，苹果结束七连跌",
@@ -1094,8 +1101,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时14分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[10时14分 ~ 18时31分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
