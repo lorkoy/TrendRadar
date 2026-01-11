@@ -1,620 +1,133 @@
 {
-  "generated_at": "2026-01-11T23:29:06.580152+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-01-12T00:35:41.797405+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 22,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "小票根背后的千亿级产业链",
-          "url": "https://www.douyin.com/hot/2363732",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 10时34分]"
-        },
         {
           "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
           "url": "https://www.cls.cn/detail/2253788",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时34分 ~ 23时29分]"
-        },
-        {
-          "title": "消费添“绿” 产业向“新”",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E6%B7%BB%E2%80%9C%E7%BB%BF%E2%80%9D+%E4%BA%A7%E4%B8%9A%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 17时31分]"
-        },
-        {
-          "title": "多家外资金融机构看好中国市场",
-          "url": "https://www.douyin.com/hot/2363824",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 17时31分]"
-        },
-        {
-          "title": "北向资金2025年第四季度持股动向出炉",
-          "url": "https://wallstreetcn.com/livenews/3034568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时28分]"
-        },
-        {
-          "title": "又一地明确价格！脑机接口收费路径逐渐清晰 有望催化成熟产业链",
-          "url": "https://www.cls.cn/detail/2253011",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 17时31分]"
-        },
-        {
-          "title": "俄精准断供材料,日本产业被反杀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348910&amp;topic_name=%E4%BF%84%E7%B2%BE%E5%87%86%E6%96%AD%E4%BE%9B%E6%9D%90%E6%96%99%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E8%A2%AB%E5%8F%8D%E6%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            19,
-            20,
-            21,
-            22,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时34分 ~ 23时29分]"
-        },
-        {
-          "title": "26年优化消费品以旧换新政策实施",
-          "url": "https://www.toutiao.com/trending/7593601757026025499/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 20时57分]"
-        },
-        {
-          "title": "商务部：2026年优化消费品以旧换新政策实施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32362999",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时32分 ~ 23时29分]"
-        },
-        {
-          "title": "美媒：美国外交政策显示出其领导力的不断衰落",
-          "url": "https://wallstreetcn.com/livenews/3034550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时28分]"
-        },
-        {
-          "title": "以色列：始终奉行一个中国政策",
-          "url": "https://www.toutiao.com/trending/7594056236463853107/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            10,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时57分 ~ 23时29分]"
-        },
-        {
-          "title": "美国总统特朗普：多年来，古巴一直依靠委内瑞拉的大量石油和资金维持运转。但现在不会再有石油和资金流向古巴了。我强烈建议他们赶紧达成协议，以免为时已晚。",
-          "url": "https://flash.jin10.com/detail/20260111203059463800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 23时29分]"
-        },
-        {
-          "title": "脑机接口产业即将爆发",
-          "url": "https://www.toutiao.com/trending/7593675427298676267/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            19,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时26分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
           "title": "证监会最新发声！推动中长期资金进一步提高入市规模比例",
           "url": "https://www.cls.cn/detail/2254092",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时37分 ~ 23时29分]"
-        },
-        {
-          "title": "国家粮食和物资储备安全政策专家咨询委员会召开全体会议",
-          "url": "https://wallstreetcn.com/livenews/3034631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 15时29分]"
-        },
-        {
-          "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
-          "url": "https://flash.jin10.com/detail/20260111203618040800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 23时29分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
           "title": "特朗普：将不会再有石油或资金流入古巴",
           "url": "https://wallstreetcn.com/livenews/3034737",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            11,
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 23时29分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
-          "title": "免签政策红利持续释放 黑龙江出入境旅客增长43.8%",
-          "url": "https://flash.jin10.com/detail/20260111180057915800",
-          "source": "金十数据",
+          "title": "商务部：2026年优化消费品以旧换新政策实施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32362999",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            11
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时25分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
-          "title": "证监会：推动各类中长期资金进一步提高入市规模比例",
-          "url": "https://wallstreetcn.com/livenews/3034644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 17时31分]"
-        },
-        {
-          "title": "超450亿公募资金入市，“万亿活水”在路上",
-          "url": "https://wallstreetcn.com/livenews/3034633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时44分 ~ 16时37分]"
-        },
-        {
-          "title": "航宇科技公告，公司于2024年累计回购75.28万股股份。现回购目的已实现，计划自公告披露日15个交易日后的6个月内，以集中竞价方式出售不超75.28万股，占总股本比例不超0.39%，所得资金用于补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3034658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时32分]"
-        },
-        {
-          "title": "“跷跷板”效应显现，债市增量资金流入放缓",
-          "url": "https://wallstreetcn.com/livenews/3034588",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列：始终奉行一个中国政策",
+          "url": "https://www.toutiao.com/trending/7594056236463853107/",
+          "source": "今日头条",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "00时35分"
+        },
+        {
+          "title": "俄精准断供材料,日本产业被反杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348910&amp;topic_name=%E4%BF%84%E7%B2%BE%E5%87%86%E6%96%AD%E4%BE%9B%E6%9D%90%E6%96%99%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E8%A2%AB%E5%8F%8D%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
+          "url": "https://flash.jin10.com/detail/20260111203618040800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "美国总统特朗普：多年来，古巴一直依靠委内瑞拉的大量石油和资金维持运转。但现在不会再有石油和资金流向古巴了。我强烈建议他们赶紧达成协议，以免为时已晚。",
+          "url": "https://flash.jin10.com/detail/20260111203059463800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "金价飙升 多家银行公告提醒",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
           "source": "百度热搜",
           "ranks": [
-            27,
-            29,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时32分 ~ 23时29分]"
-        },
-        {
-          "title": "金价将走向何方",
-          "url": "https://www.toutiao.com/trending/7593981430330297862/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 17时31分]"
-        },
-        {
-          "title": "金价飙升银行紧急提示",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E9%93%B6%E8%A1%8C%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 18时32分]"
-        },
-        {
-          "title": "金价银价大幅波动原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E5%B9%85%E6%B3%A2%E5%8A%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
-        },
-        {
-          "title": "金价新高不断 还能上车吗",
-          "url": "https://www.toutiao.com/trending/7593887858499259940/",
-          "source": "今日头条",
-          "ranks": [
-            30
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "多地农民养老金缴费上限再上涨",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E7%BC%B4%E8%B4%B9%E4%B8%8A%E9%99%90%E5%86%8D%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 17时31分]"
-        },
-        {
-          "title": "多地农民养老金缴费上限迎新一轮上涨",
-          "url": "https://www.toutiao.com/trending/7593675814063836710/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时22分 ~ 06时28分]"
-        },
-        {
-          "title": "云南、安徽、贵州、辽宁多地农民养老金缴费上限迎来新一轮上涨，有哪些利好？",
-          "url": "https://www.zhihu.com/question/1993438233795720221",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
-        },
-        {
-          "title": "专家：今年A股至少还有20%上涨空间",
-          "url": "https://www.toutiao.com/trending/7593144823998742570/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "日本联合执政伙伴负责人Yoshimura：是否解散议会、提前大选由首相决定，但我们随时准备参选。",
-          "url": "https://flash.jin10.com/detail/20260111083019488800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17,
-            19,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 15时29分]"
-        },
-        {
-          "title": "日本联合执政伙伴负责人Yoshimura：已于周五与日本首相高市早苗通话，若她如国内媒体报道般宣布提前大选，我并不感到意外。",
-          "url": "https://flash.jin10.com/detail/20260111082943377800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18,
-            20,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 15时29分]"
-        },
-        {
-          "title": "日本联合执政伙伴负责人Yoshimura：已于周五与日本首相高市早苗通话，若她如国内媒体报道般宣布提前大选，我并不感到意外。 是否解散议会、提前大选由首相决定，但我们随时准备参选。",
-          "url": "https://wallstreetcn.com/livenews/3034593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 12时16分]"
-        },
-        {
-          "title": "dora退出3unshine",
-          "url": "https://s.weibo.com/weibo?q=%23dora%E9%80%80%E5%87%BA3unshine%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 14时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "山西多地调整烟花爆竹政策：一地划出全时段可燃放烟花区域",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32358362",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            11,
-            9,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 15时29分]"
-        },
-        {
-          "title": "山西多地调整烟花爆竹政策",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%A4%9A%E5%9C%B0%E8%B0%83%E6%95%B4%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E6%94%BF%E7%AD%96",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            16,
-            14,
-            30,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 07时28分]"
-        },
-        {
-          "title": "中方调整王毅访问索马里行程",
-          "url": "https://www.toutiao.com/trending/7594015882352918564/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            30,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 22时28分]"
+          "time_info": "00时35分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
-          "url": "https://www.cls.cn/detail/2253716",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时28分]"
-        },
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
           "url": "https://wallstreetcn.com/articles/3762924",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时57分 ~ 23时29分]"
-        },
-        {
-          "title": "下周看点：美股Q4财报季拉开帷幕",
-          "url": "https://www.toutiao.com/trending/7593513607846166538/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一口气讲清楚数字人民币",
-          "url": "https://www.douyin.com/hot/2362943",
-          "source": "抖音",
-          "ranks": [
-            28,
-            16,
-            21,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时28分 ~ 15时29分]"
-        },
-        {
-          "title": "申万宏源赵伟：未来几年人民币每年或保持2-3点升值幅度，10年左右升值幅度将达30%以上",
-          "url": "https://wallstreetcn.com/livenews/3034614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 14时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "非农数据“温和”，标普新高，美元指数四连涨，黄金重回4500关口",
-          "url": "https://wallstreetcn.com/articles/3762954",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "time_info": "00时35分"
         }
       ]
     }
