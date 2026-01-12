@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T14:51:32.706585+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-01-12T15:36:22.622192+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 37,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 15时36分]"
         },
         {
           "title": "现货黄金首次涨至4600美元",
@@ -62,7 +62,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -76,17 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "美股期货走低，标普500指数期货跌0.6%，纳指期货跌0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3035046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
         },
         {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
@@ -122,6 +111,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约涨0.30%，10年期主力合约涨0.06%，5年期主力合约涨0.05%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3035072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20260112113200952800",
           "source": "金十数据",
@@ -137,11 +137,24 @@
           "url": "https://www.douyin.com/hot/2364906",
           "source": "抖音",
           "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时36分]"
+        },
+        {
+          "title": "美股期货走低，标普500指数期货跌0.6%，纳指期货跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3035046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 14时51分]"
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时36分]"
         },
         {
           "title": "现货黄金再创历史新高",
@@ -221,6 +234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "现货黄金首次站上 4600 美元大关，新年首月累涨 280 美元，驱动因素是什么？后续还会涨吗？",
+          "url": "https://www.zhihu.com/question/1993978589855637636",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "国债期货集体走高，30年期主力合约涨超0.30%，10年期、5年期主力合约涨0.06%，2年期主力合约涨0.03%。",
@@ -328,9 +352,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260112151618744800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "商品期货收盘，碳酸锂、沪锡主力合约涨停，沪银涨超14%，集运欧线涨超11%，沪镍涨超5%，铂、焦煤涨超4%，钯、沪铜、国际铜、苯乙烯涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3035059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "期货热点追踪",
@@ -361,7 +407,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -375,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "金十期货1月12日讯，据上海航运交易所数据，截至2026年1月12日，上海出口集装箱结算运价指数（欧洲航线）报1956.39点，与上期相比涨8.9%。",
+          "url": "https://flash.jin10.com/detail/20260112150556187800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.07%，10年期主力合约跌0.01%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
@@ -394,9 +451,42 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260112150149756800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "国际现货铂金、钯金午盘报价",
+          "url": "https://flash.jin10.com/detail/20260112150129579800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。沪银涨超14%，集运欧线涨超11%，碳酸锂、沪锡均封涨停板，沪镍涨超5%，铂、焦煤涨超4%；跌幅方面，多晶硅跌超2%，花生、燃料油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260112150113291800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "内盘焦煤期货合约一度上涨3.9%，至每吨1235元人民币。沪镍一度上涨3.7%。",
@@ -424,7 +514,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "马来西亚基准股指KLCI指数上涨0.4%，至1693.120点，创下自2020年12月中旬以来的最高水平。",
@@ -438,6 +528,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 1月12日（周一）收盘上涨2.21%报1022.12元/克；<br/>上海黄金交易所白银T+D 1月12日（周一）收盘上涨12.66%报20909.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260112153050828800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "金十图示：2026年01月12日（周一）富时中国A50指数成分股午盘收盘行情一览：银行、石油、煤炭股走低，半导体、酿酒板块飘红",
           "url": "https://flash.jin10.com/detail/20260112113304095800",
           "source": "金十数据",
@@ -449,28 +550,18 @@
           "time_info": "12时16分"
         },
         {
-          "title": "韩国首尔综指收盘上涨0.84%，报4524.79点，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3035043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
           "title": "近期A股上涨的主要原因是什么",
           "url": "https://www.toutiao.com/trending/7594289285063265838/",
           "source": "今日头条",
           "ranks": [
             8,
             6,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时36分]"
         },
         {
           "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
@@ -478,22 +569,72 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时36分]"
+        },
+        {
+          "title": "韩国首尔综指收盘上涨0.84%，报4524.79点，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3035043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时36分]"
         },
         {
           "title": "海上商业航天：最强板块的新分支要来了？",
           "url": "https://wallstreetcn.com/premium/articles/3762928?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 15时36分]"
+        },
+        {
+          "title": "A股脑机接口概念震荡走高，南京熊猫6天5板，道氏技术涨超18%，创新医疗、诚益通、三博脑科、翔宇医疗、美好医疗、伟思医疗跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3035038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
+          "time_info": "[14时51分 ~ 15时36分]"
+        },
+        {
+          "title": "港股AI应用板块午后持续走强，智谱涨超60%，上市三天累计涨幅超110%；MINIMAX-WP涨近30%。",
+          "url": "https://wallstreetcn.com/livenews/3035033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时36分]"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨1.07%，深证成指涨1.81%。全市场超4000家个股上涨。",
+          "url": "https://wallstreetcn.com/livenews/3035032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时36分]"
         },
         {
           "title": "上证指数早盘收报4151.14点，涨0.75%。 深证成指早盘收报14305.10点，涨1.31%。 创业板指早盘收报3366.71点，涨1.17%。 沪深300早盘收报4779.95点，涨0.44%。 科创50早盘收报1509.29点，涨2.26%。 中证500早盘收报8210.52点，涨1.91%。 中证1000早盘收报8305.27点，涨2.17%。",
@@ -506,6 +647,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时16分 ~ 13时38分]"
+        },
+        {
+          "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3035027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时36分]"
         },
         {
           "title": "A股午盘：三大指数集体上涨",
@@ -530,39 +683,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "A股脑机接口概念震荡走高，南京熊猫6天5板，道氏技术涨超18%，创新医疗、诚益通、三博脑科、翔宇医疗、美好医疗、伟思医疗跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3035038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "港股AI应用板块午后持续走强，智谱涨超60%，上市三天累计涨幅超110%；MINIMAX-WP涨近30%。",
-          "url": "https://wallstreetcn.com/livenews/3035033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨1.07%，深证成指涨1.81%。全市场超4000家个股上涨。",
-          "url": "https://wallstreetcn.com/livenews/3035032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
           "title": "金饰价格迎年内首轮上涨",
           "url": "https://www.toutiao.com/trending/7593968309579776036/",
           "source": "今日头条",
@@ -585,15 +705,15 @@
           "time_info": "10时29分"
         },
         {
-          "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3035027",
+          "title": "上证指数收报4165.29点，涨1.09%。 深证成指收报14366.91点，涨1.75%。 创业板指收报3388.34点，涨1.82%。 沪深300收报4789.92点，涨0.65%。 科创50收报1511.84点，涨2.43%。 中证500收报8249.13点，涨2.39%。 中证1000收报8357.01点，涨2.80%。",
+          "url": "https://wallstreetcn.com/livenews/3035061",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "15时36分"
         },
         {
           "title": "创业板指涨幅扩大至1%，此前一度跌超1%。沪指涨0.6%。沪深京三市逾3600只个股上涨。",
@@ -657,9 +777,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）富时中国A50指数成分股今日收盘行情一览：银行股午后反弹，酿酒、半导体全天上涨",
+          "url": "https://flash.jin10.com/detail/20260112150249963800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "上证指数开盘报4134.89点，涨0.35%。 深证成指开盘报14186.86点，涨0.47%。 创业板指开盘报3323.64点，跌0.13%。 沪深300开盘报4769.65点，涨0.23%。 科创50开盘报1490.50点，涨0.98%。 中证500开盘报8141.63点，涨1.05%。 中证1000开盘报8196.08点，涨0.82%。",
@@ -709,7 +840,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "证监会最新发声！推动中长期资金进一步提高入市规模比例",
@@ -817,6 +948,20 @@
           "time_info": "10时29分"
         },
         {
+          "title": "存储涨价潮再蔓延：封测报价大涨30% 产业链开启扩产",
+          "url": "https://www.cls.cn/detail/2254438",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时36分]"
+        },
+        {
           "title": "万字解析中国AI产业",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -827,19 +972,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时29分 ~ 13时38分]"
-        },
-        {
-          "title": "存储涨价潮再蔓延：封测报价大涨30% 产业链开启扩产",
-          "url": "https://www.cls.cn/detail/2254438",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 14时51分]"
         },
         {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
@@ -870,9 +1002,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "Meta投资核电厂为AI提供电力 核聚变产业链有望迎订单放量",
+          "url": "https://www.cls.cn/detail/2254251",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "增量资金加速流入，A股春季行情或仍有演绎空间",
@@ -884,12 +1027,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出346.98亿元，占比0.96%；大单资金净流出357.37亿元，占比0.99%；小单资金净流入442.17亿元，占比1.23%。",
+          "url": "https://flash.jin10.com/detail/20260112150637530800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
@@ -900,8 +1054,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时36分]"
         },
         {
           "title": "国内金饰价格跟随国际金价走高 最高报1429元/克",
@@ -924,6 +1078,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）上海金午盘价为1023.27元/克，较国际金价（1026.16元/克）低2.89元/克",
+          "url": "https://flash.jin10.com/detail/20260112150725808800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）上海金早盘价为1021.18元/克，较国际金价（1026.61元/克）低5.43元/克",
@@ -960,9 +1125,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时36分]"
         },
         {
           "title": "人民币兑美元中间价创2024年9月30日以来新高",
@@ -1003,8 +1168,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 15时36分]"
         }
       ]
     },
