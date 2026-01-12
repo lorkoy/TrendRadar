@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T05:30:54.618182+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-01-13T06:28:13.822685+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时28分]"
         },
         {
           "title": "商业航天板块为何大涨",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时28分]"
         },
         {
           "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时28分]"
         },
         {
           "title": "备战“春季躁动”行情，专业买手积极调仓，哪些板块被增配？",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时28分]"
         },
         {
           "title": "#这就是牛市的味道吗#",
@@ -64,8 +64,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时28分]"
         },
         {
           "title": "标普500盘中创历史新高，最新上涨0.2%。",
@@ -77,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
-        },
-        {
-          "title": "国际油价12日上涨",
-          "url": "https://flash.jin10.com/detail/20260113045636948800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
         },
         {
           "title": "贝森特警告：美联储调查引发市场震荡 或令鲍威尔拒绝交权",
@@ -113,6 +102,30 @@
           "time_info": "[02时45分 ~ 03时28分]"
         },
         {
+          "title": "国际油价12日上涨",
+          "url": "https://flash.jin10.com/detail/20260113045636948800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时28分]"
+        },
+        {
+          "title": "美元指数12日下跌",
+          "url": "https://flash.jin10.com/detail/20260113045153898800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时28分]"
+        },
+        {
           "title": "周一（1月12日），韩元兑美元最终跌0.60%，报1467.80韩元。 亚太时段持续、平滑地下跌，北京时间14:02刷新日低至1470.13韩元，随后持续低位震荡。",
           "url": "https://wallstreetcn.com/livenews/3035502",
           "source": "华尔街见闻-快讯",
@@ -123,17 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时28分]"
-        },
-        {
-          "title": "美元指数12日下跌",
-          "url": "https://flash.jin10.com/detail/20260113045153898800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
         },
         {
           "title": "Meta下跌1%，消息面上Meta公司拟成立“Meta Compute”计划，以构建千兆瓦级算力。",
@@ -153,9 +155,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "周一（1月12日，非农次日），降息赢家指数跌0.52%，报106.72点，鲍威尔被美国总统特朗普的司法部刑事调查之后跳空低开，美股早盘跌幅收窄，大部分时间“高位”震荡。 “特朗普关税输家”指数跳空低开之后收涨0.26%，报119.72点，盘后特朗普宣布与伊朗相关的关税。 “特朗普金融指数”跌1.83%，报175.98点，特朗普信用卡利率消息造成跳空低开，全天呈现出宽底U形走势。 散户抱团概念股指数/迷因股（meme stock）指数涨0.14%，报16.69点。",
+          "url": "https://wallstreetcn.com/livenews/3035592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨3.73%，报388.50点，继续创历史新高，盘初迅速拉升，剩余时间持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.52%，报2711.76点，北京时间22:30美股开盘之前维持微幅上涨状态——持稳于2630点附近、随后“跳空”至2700点上方。 （美股）原材料指数涨1.57%，报249.00点。 （美股）金属与矿业指数涨1.79%，报235.72点。",
+          "url": "https://wallstreetcn.com/livenews/3035591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "在580亿美元的三年期美国国债拍卖后，三年期美国国债收益率维持涨势，最新报3.602%，上涨0.7个基点。",
@@ -205,7 +229,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -226,8 +250,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时28分]"
         },
         {
           "title": "CBOT玉米期货跌幅达5.5%，报420.25美分/蒲式耳。",
@@ -277,6 +301,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "周一（1月12日）纽约尾盘，标普500股指期货最终涨0.08%，道指期货涨0.07%，纳斯达克100股指期货涨0.01%。 罗素2000股指期货涨0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3035593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
           "title": "美国农产品期货下跌，芝加哥玉米期货跌3%，自2025年10月1日出现历史最长天数政府关门以来，特朗普政府首次披露农产品库存报告。",
           "url": "https://wallstreetcn.com/livenews/3035485",
           "source": "华尔街见闻-快讯",
@@ -286,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "白银期货涨超6.9%，一度刷新历史高位，接近85美元",
+          "url": "https://wallstreetcn.com/livenews/3035588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "WTI 2月原油期货收涨0.38美元，涨幅0.64%，报59.50美元/桶。 布伦特3月原油期货收报63.87美元/桶。 中东Abu Dhabi Murban原油期货涨0.30%，报63.69美元/桶。 NYMEX 2月天然气期货收报3.4090美元/百万英热单位。 NYMEX 2月汽油期货收报1.7938美元/加仑，NYMEX 2月取暖油期货收报2.1544美元/加仑。",
@@ -316,7 +362,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -346,7 +392,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "哪些ETF获资金青睐",
@@ -358,8 +404,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时28分]"
         },
         {
           "title": "美国石油协会（API）：美国石油行业要进入委内瑞拉，必须先在该国落实劳动力安全保障和政策改革。",
@@ -397,6 +443,30 @@
           "time_info": "[01时32分 ~ 02时45分]"
         },
         {
+          "title": "万字解析中国AI产业",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时29分 ~ 06时28分]"
+        },
+        {
+          "title": "Meta拟削减元宇宙团队投入 节省资金转向VR眼镜业务",
+          "url": "https://flash.jin10.com/detail/20260113044634106800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时28分]"
+        },
+        {
           "title": "特朗普古巴政策现“温差” 仍允许墨西哥向古巴输油",
           "url": "https://flash.jin10.com/detail/20260113034434452800",
           "source": "金十数据",
@@ -409,26 +479,15 @@
           "time_info": "[04时35分 ~ 05时30分]"
         },
         {
-          "title": "万字解析中国AI产业",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 05时30分]"
-        },
-        {
-          "title": "Meta拟削减元宇宙团队投入 节省资金转向VR眼镜业务",
-          "url": "https://flash.jin10.com/detail/20260113044634106800",
+          "title": "市场消息：景顺集团12月实现了77亿美元的长期资金净流入。",
+          "url": "https://flash.jin10.com/detail/20260113051734663800",
           "source": "金十数据",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "06时28分"
         },
         {
           "title": "新兴市场ETF资金流入规模创逾一年来最大，中国重返吸金榜首",
@@ -437,7 +496,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -459,7 +518,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         }
@@ -467,18 +526,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
           "url": "https://wallstreetcn.com/articles/3762924",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时28分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
@@ -489,41 +549,77 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时28分]"
+        },
+        {
+          "title": "美联储调查风波之际，美股走V创新高，谷歌市值破4万亿，中概股大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 06时28分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
           "url": "https://wallstreetcn.com/livenews/3035583",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时28分]"
         },
         {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
           "url": "https://flash.jin10.com/detail/20260113050054548800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时28分]"
         },
         {
           "title": "日常消费品ETF收涨约1.2%，领跑美股行业ETF，银行业ETF跌超1.2%",
           "url": "https://wallstreetcn.com/livenews/3035579",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时28分]"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260113050522045800",
+          "source": "金十数据",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "06时28分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260113050512989800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         }
       ]
     },
@@ -570,8 +666,19 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "周一（1月12日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9680元，较上周五纽约尾盘涨80点，日内整体交投于6.9775-6.9628元区间。",
+          "url": "https://wallstreetcn.com/livenews/3035596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9733元，较上周五夜盘收盘涨52点。成交量436.23亿美元。",
           "url": "https://wallstreetcn.com/livenews/3035530",
@@ -595,11 +702,12 @@
           "url": "https://wallstreetcn.com/livenews/3035568",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时28分]"
         }
       ]
     },
