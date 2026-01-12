@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T13:38:08.213954+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-01-12T14:51:32.706585+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -14,22 +14,24 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时38分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时51分]"
         },
         {
           "title": "现货黄金首次涨至4600美元",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%A6%96%E6%AC%A1%E6%B6%A8%E8%87%B34600%E7%BE%8E%E5%85%83",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 14时51分]"
         },
         {
           "title": "现货黄金突破4530美元/盎司，日内涨0.45%。",
@@ -54,6 +56,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "中证1000股指期货（IM）主力合约日内涨幅扩大至4.00%，现报8331.8点。",
+          "url": "https://flash.jin10.com/detail/20260112143041487800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "现货黄金、现货白银小幅高开，分别上涨0.2%和0.7%。WTI原油上涨0.03%。",
           "url": "https://wallstreetcn.com/livenews/3034790",
           "source": "华尔街见闻-快讯",
@@ -63,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "美股期货走低，标普500指数期货跌0.6%，纳指期货跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3035046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
@@ -82,7 +106,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -109,6 +133,17 @@
           "time_info": "12时16分"
         },
         {
+          "title": "现货黄金首次站上4600美元",
+          "url": "https://www.douyin.com/hot/2364906",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 14时51分]"
+        },
+        {
           "title": "现货黄金再创历史新高",
           "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -118,17 +153,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时29分 ~ 13时38分]"
-        },
-        {
-          "title": "现货黄金首次站上4600美元",
-          "url": "https://www.douyin.com/hot/2364906",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时38分]"
         },
         {
           "title": "中方调整王毅访问索马里行程",
@@ -172,7 +196,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -194,7 +218,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -227,7 +251,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -238,7 +262,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -271,7 +295,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -293,9 +317,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "中证1000股指期货（IM）主力合约日内涨超3%，现报8280点。中证500股指期货（IC）主力合约站上8200点，日内涨2.43%。",
+          "url": "https://flash.jin10.com/detail/20260112140044022800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "期货热点追踪",
@@ -320,13 +355,24 @@
           "time_info": "12时16分"
         },
         {
+          "title": "现货白银突破84美元/盎司",
+          "url": "https://flash.jin10.com/detail/20260112134222711800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "金十期货·碳酸锂专题",
           "url": "https://flash.jin10.com/detail/20260112120850309800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -340,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "现货白银突破84美元/盎司，日内涨约5.5%，现报84.30美元/盎司，续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3035002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "内盘焦煤期货合约一度上涨3.9%，至每吨1235元人民币。沪镍一度上涨3.7%。",
@@ -367,7 +424,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "马来西亚基准股指KLCI指数上涨0.4%，至1693.120点，创下自2020年12月中旬以来的最高水平。",
@@ -392,16 +449,28 @@
           "time_info": "12时16分"
         },
         {
+          "title": "韩国首尔综指收盘上涨0.84%，报4524.79点，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3035043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "近期A股上涨的主要原因是什么",
           "url": "https://www.toutiao.com/trending/7594289285063265838/",
           "source": "今日头条",
           "ranks": [
             8,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 14时51分]"
         },
         {
           "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
@@ -412,8 +481,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 14时51分]"
         },
         {
           "title": "海上商业航天：最强板块的新分支要来了？",
@@ -461,6 +530,39 @@
           "time_info": "07时27分"
         },
         {
+          "title": "A股脑机接口概念震荡走高，南京熊猫6天5板，道氏技术涨超18%，创新医疗、诚益通、三博脑科、翔宇医疗、美好医疗、伟思医疗跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3035038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "港股AI应用板块午后持续走强，智谱涨超60%，上市三天累计涨幅超110%；MINIMAX-WP涨近30%。",
+          "url": "https://wallstreetcn.com/livenews/3035033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨1.07%，深证成指涨1.81%。全市场超4000家个股上涨。",
+          "url": "https://wallstreetcn.com/livenews/3035032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "金饰价格迎年内首轮上涨",
           "url": "https://www.toutiao.com/trending/7593968309579776036/",
           "source": "今日头条",
@@ -481,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3035027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "创业板指涨幅扩大至1%，此前一度跌超1%。沪指涨0.6%。沪深京三市逾3600只个股上涨。",
@@ -538,6 +651,17 @@
           "time_info": "12时16分"
         },
         {
+          "title": "A股量子科技概念震荡走强，科大国创午后涨超18%，国盾量子涨超10%创历史新高，格尔软件此前涨停，神州信息、必创科技、吉大正元等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3035003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "上证指数开盘报4134.89点，涨0.35%。 深证成指开盘报14186.86点，涨0.47%。 创业板指开盘报3323.64点，跌0.13%。 沪深300开盘报4769.65点，涨0.23%。 科创50开盘报1490.50点，涨0.98%。 中证500开盘报8141.63点，涨1.05%。 中证1000开盘报8196.08点，涨0.82%。",
           "url": "https://wallstreetcn.com/livenews/3034864",
           "source": "华尔街见闻-快讯",
@@ -585,7 +709,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "证监会最新发声！推动中长期资金进一步提高入市规模比例",
@@ -705,6 +829,19 @@
           "time_info": "[10时29分 ~ 13时38分]"
         },
         {
+          "title": "存储涨价潮再蔓延：封测报价大涨30% 产业链开启扩产",
+          "url": "https://www.cls.cn/detail/2254438",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 14时51分]"
+        },
+        {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
           "url": "https://flash.jin10.com/detail/20260111203618040800",
           "source": "金十数据",
@@ -727,16 +864,15 @@
           "time_info": "[00时35分 ~ 03时23分]"
         },
         {
-          "title": "存储涨价潮再蔓延：封测报价大涨30% 产业链开启扩产",
-          "url": "https://www.cls.cn/detail/2254438",
-          "source": "财联社热门",
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260112141331370800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            11
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "增量资金加速流入，A股春季行情或仍有演绎空间",
@@ -764,8 +900,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 14时51分]"
         },
         {
           "title": "国内金饰价格跟随国际金价走高 最高报1429元/克",
@@ -814,6 +950,34 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "人民币破7 跨境消费怎样花最省钱",
+          "url": "https://www.toutiao.com/trending/7594338329361911337/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "人民币兑美元中间价创2024年9月30日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3034858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -839,25 +1003,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "人民币兑美元中间价创2024年9月30日以来新高",
-          "url": "https://wallstreetcn.com/livenews/3034858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时51分]"
         }
       ]
     },
