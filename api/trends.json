@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-14T01:35:22.054703+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-01-14T02:42:32.533403+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 1月13日（周二）晚盘收盘下跌0.03%报1025.5元/克；<br/>上海黄金交易所白银T+D 1月13日（周二）晚盘收盘上涨4.14%报21931.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260114023132557800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
           "url": "https://wallstreetcn.com/livenews/3036313",
@@ -24,11 +35,12 @@
           "url": "https://www.douyin.com/hot/2366874",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时42分]"
         },
         {
           "title": "为什么商业航天板块 1 月 13 日会大幅波动，持续下跌？未来行情怎么样？",
@@ -38,8 +50,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时42分]"
+        },
+        {
+          "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
+          "url": "https://wallstreetcn.com/articles/3763207",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时35分]"
+          "time_info": "[01时35分 ~ 02时42分]"
         },
         {
           "title": "英特尔上涨7.7%，创2024年1月份以来盘中新高。",
@@ -54,17 +78,6 @@
           "time_info": "[00时43分 ~ 01时35分]"
         },
         {
-          "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
-          "url": "https://wallstreetcn.com/articles/3763207",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
           "title": "油价上涨 提振非洲产油国主权债表现",
           "url": "https://flash.jin10.com/detail/20260114002104056800",
           "source": "金十数据",
@@ -74,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "Reddit股价上涨6.1%，此前公司表示已查明导致错误率升高的问题，修复工作正在实施中。",
+          "url": "https://flash.jin10.com/detail/20260114013820153800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "波音(BA.N)股价在报告自2018年以来最高年度交付量后上涨2.1%。",
@@ -109,11 +133,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时42分]"
         },
         {
           "title": "王者芈月玩法调整",
@@ -121,11 +146,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时42分]"
         },
         {
           "title": "WTI原油期货日内上涨2.00美元，现报61.50美元/桶，涨幅3.36%。",
@@ -152,8 +178,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时42分]"
         },
         {
           "title": "金与正回应韩方对朝政策",
@@ -163,8 +189,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时42分]"
         },
         {
           "title": "欧盟官员：欧盟外交政策机构已传唤伊朗大使。",
@@ -173,9 +199,48 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时42分]"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260114013126429800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260114013023358800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         }
       ]
     },
@@ -192,36 +257,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时42分]"
         },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
+            23,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时35分]"
+          "time_info": "[00时43分 ~ 02时42分]"
         }
       ]
     },
@@ -234,11 +283,12 @@
           "url": "https://wallstreetcn.com/livenews/3036317",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时42分]"
         }
       ]
     }
