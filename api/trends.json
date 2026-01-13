@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T12:07:13.319840+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-01-13T13:34:57.970051+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -30,17 +30,6 @@
           "time_info": "[00时38分 ~ 07时25分]"
         },
         {
-          "title": "金十整理：现货黄金离5000美元关口还有多远？",
-          "url": "https://flash.jin10.com/detail/20260113115228088800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "碳酸锂期货突破17万关口",
           "url": "https://flash.jin10.com/detail/20260113101212153800",
           "source": "金十数据",
@@ -50,17 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
-        },
-        {
-          "title": "1月13日碳酸锂现货价格持续上行",
-          "url": "https://flash.jin10.com/detail/20260113115225549800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         },
         {
           "title": "现货白银跌1.4%跌破84美元/盎司，现货黄金跌0.36%报4580美元/盎司。",
@@ -86,6 +64,42 @@
           "time_info": "[03时28分 ~ 04时35分]"
         },
         {
+          "title": "金十整理：现货黄金离5000美元关口还有多远？",
+          "url": "https://flash.jin10.com/detail/20260113115228088800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时34分]"
+        },
+        {
+          "title": "1月13日碳酸锂现货价格持续上行",
+          "url": "https://flash.jin10.com/detail/20260113115225549800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时34分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.17%，10年期主力合约涨0.04%，5年期主力合约涨0.01%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3035782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时34分]"
+        },
+        {
           "title": "现货金银持续上扬 续创新高",
           "url": "https://flash.jin10.com/detail/20260113001811860800",
           "source": "金十数据",
@@ -108,6 +122,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时25分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260113100025196800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时21分 ~ 13时34分]"
         },
         {
           "title": "芝加哥玉米期货创2024年以来最大跌幅，因美国农业部意外上调美国单产预期",
@@ -144,15 +170,15 @@
           "time_info": "10时21分"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.17%，10年期主力合约涨0.04%，5年期主力合约涨0.01%，2年期主力合约跌0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3035782",
-          "source": "华尔街见闻-快讯",
+          "title": "商业航天概念剧烈调整",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%A6%82%E5%BF%B5%E5%89%A7%E7%83%88%E8%B0%83%E6%95%B4",
+          "source": "百度热搜",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "13时34分"
         },
         {
           "title": "现货黄金周二小幅高开，现报4604美元/盎司。",
@@ -166,15 +192,15 @@
           "time_info": "07时25分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260113100025196800",
+          "title": "机构：现货黄金今年升破5000美元的概率已超30%",
+          "url": "https://flash.jin10.com/detail/20260113121846637800",
           "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时21分"
+          "time_info": "13时34分"
         },
         {
           "title": "美国农产品期货下跌，芝加哥玉米期货跌3%，自2025年10月1日出现历史最长天数政府关门以来，特朗普政府首次披露农产品库存报告。",
@@ -194,7 +220,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -216,7 +242,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -249,7 +275,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -271,7 +297,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -293,7 +319,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -315,7 +341,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -337,7 +363,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -367,7 +393,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
@@ -434,6 +460,17 @@
           "time_info": "[00时38分 ~ 12时07分]"
         },
         {
+          "title": "深成指、创业板指午后均跌超1%，沪指跌0.43%，商业航天、可控核聚变、量子科技、光通信等方向领跌，沪深京三市下跌个股超3500只。",
+          "url": "https://wallstreetcn.com/livenews/3035831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "标普500盘中创历史新高，最新上涨0.2%。",
           "url": "https://flash.jin10.com/detail/20260113025044902800",
           "source": "金十数据",
@@ -445,17 +482,6 @@
           "time_info": "03时28分"
         },
         {
-          "title": "上证指数早盘收报4163.84点，跌0.03%。 深证成指早盘收报14321.80点，跌0.31%。 创业板指早盘收报3360.23点，跌0.83%。 沪深300早盘收报4790.55点，涨0.01%。 科创50早盘收报1485.01点，跌1.77%。 中证500早盘收报8227.18点，跌0.27%。 中证1000早盘收报8297.84点，跌0.71%。",
-          "url": "https://wallstreetcn.com/livenews/3035787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "贝森特警告：美联储调查引发市场震荡 或令鲍威尔拒绝交权",
           "url": "https://flash.jin10.com/detail/20260113025019748800",
           "source": "金十数据",
@@ -465,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "印度10年期国债收益率在彭博指数消息公布后上涨5个基点，至6.6277%。",
+          "url": "https://flash.jin10.com/detail/20260113124148307800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月12日（周一）晚盘收盘上涨0.77%报1026.8元/克；<br/>上海黄金交易所白银T+D 1月12日（周一）晚盘收盘上涨4.68%报21260.0元/千克。",
@@ -489,6 +526,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 06时28分]"
+        },
+        {
+          "title": "上证指数早盘收报4163.84点，跌0.03%。 深证成指早盘收报14321.80点，跌0.31%。 创业板指早盘收报3360.23点，跌0.83%。 沪深300早盘收报4790.55点，涨0.01%。 科创50早盘收报1485.01点，跌1.77%。 中证500早盘收报8227.18点，跌0.27%。 中证1000早盘收报8297.84点，跌0.71%。",
+          "url": "https://wallstreetcn.com/livenews/3035787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时34分]"
+        },
+        {
+          "title": "本轮A股上涨的主要原因是什么",
+          "url": "https://www.toutiao.com/trending/7594424718573178418/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 13时34分]"
         },
         {
           "title": "美元指数12日下跌",
@@ -537,17 +598,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时28分]"
-        },
-        {
-          "title": "本轮A股上涨的主要原因是什么",
-          "url": "https://www.toutiao.com/trending/7594424718573178418/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
         },
         {
           "title": "A股保险板块持续走强，中国人寿涨超4%，新华保险、中国人保、中国平安、中国太保跟涨。",
@@ -600,7 +650,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -633,7 +683,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -655,7 +705,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -688,7 +738,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -721,7 +771,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -740,7 +790,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "哪些ETF获资金青睐",
@@ -763,22 +813,12 @@
             30,
             15,
             20,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时29分 ~ 12时07分]"
-        },
-        {
-          "title": "汇丰：政策与估值双轮驱动 印度股市2026年前景强劲",
-          "url": "https://flash.jin10.com/detail/20260113115928629800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "appearance_count": 8,
+          "time_info": "[05时29分 ~ 13时34分]"
         },
         {
           "title": "美联储威廉姆斯：美联储的政策决策将由即将到来的数据驱动。",
@@ -801,6 +841,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "汇丰：政策与估值双轮驱动 印度股市2026年前景强劲",
+          "url": "https://flash.jin10.com/detail/20260113115928629800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时34分]"
         },
         {
           "title": "特朗普：最高法若就关税政策作出不利裁决，美将无法负担代价",
@@ -839,6 +891,18 @@
           "time_info": "[05时30分 ~ 06时28分]"
         },
         {
+          "title": "据韩联社：韩国承诺支持钢铁产业向高价值领域转型。",
+          "url": "https://flash.jin10.com/detail/20260113114345583800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时34分]"
+        },
+        {
           "title": "特朗普古巴政策现“温差” 仍允许墨西哥向古巴输油",
           "url": "https://flash.jin10.com/detail/20260113034434452800",
           "source": "金十数据",
@@ -851,6 +915,17 @@
           "time_info": "[04时35分 ~ 05时30分]"
         },
         {
+          "title": "广州：争取国家集成电路产业基金支持重大项目建设 引导社会资本参与集成电路企业兼并重组",
+          "url": "https://www.cls.cn/detail/2255843",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "美联储威廉姆斯：2026年经济前景“相当有利”。货币政策如今更接近中性立场。",
           "url": "https://flash.jin10.com/detail/20260113070149234800",
           "source": "金十数据",
@@ -860,17 +935,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "据韩联社：韩国承诺支持钢铁产业向高价值领域转型。",
-          "url": "https://flash.jin10.com/detail/20260113114345583800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         },
         {
           "title": "市场消息：景顺集团12月实现了77亿美元的长期资金净流入。",
@@ -890,7 +954,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -956,7 +1020,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
@@ -979,6 +1043,18 @@
           "time_info": "[00时38分 ~ 07时25分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 13时34分]"
+        },
+        {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2255324",
           "source": "财联社热门",
@@ -992,18 +1068,6 @@
           "time_info": "[00时38分 ~ 10时21分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
-          "url": "https://www.cls.cn/detail/2255541",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时07分]"
-        },
-        {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
@@ -1011,8 +1075,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时21分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[10时21分 ~ 13时34分]"
         },
         {
           "title": "美联储调查风波之际，美股走V创新高，谷歌市值破4万亿，中概股大涨，金银大涨创新高",
@@ -1144,8 +1208,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时21分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[10时21分 ~ 13时34分]"
         },
         {
           "title": "中国央行公开市场今日净投放3,424亿元人民币",
@@ -1234,7 +1298,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
