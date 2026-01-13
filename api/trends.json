@@ -1,22 +1,46 @@
 {
-  "generated_at": "2026-01-14T03:28:38.631224+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-01-14T04:35:51.470119+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
-          "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
-          "url": "https://wallstreetcn.com/livenews/3036368",
+          "title": "抵押贷款保险概念股下跌，市场担忧监管力度加大",
+          "url": "https://wallstreetcn.com/livenews/3036387",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "04时35分"
+        },
+        {
+          "title": "商业航天板块遭猛烈抛售潮",
+          "url": "https://www.douyin.com/hot/2366874",
+          "source": "抖音",
+          "ranks": [
+            7,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时35分]"
+        },
+        {
+          "title": "为什么商业航天板块 1 月 13 日会大幅波动，持续下跌？未来行情怎么样？",
+          "url": "https://www.zhihu.com/question/1994399978899072858",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时35分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
@@ -31,6 +55,18 @@
           "time_info": "[00时43分 ~ 01时35分]"
         },
         {
+          "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
+          "url": "https://wallstreetcn.com/livenews/3036368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时35分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 1月13日（周二）晚盘收盘下跌0.03%报1025.5元/克；<br/>上海黄金交易所白银T+D 1月13日（周二）晚盘收盘上涨4.14%报21931.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260114023132557800",
           "source": "金十数据",
@@ -43,30 +79,6 @@
           "time_info": "[02时42分 ~ 03时28分]"
         },
         {
-          "title": "商业航天板块遭猛烈抛售潮",
-          "url": "https://www.douyin.com/hot/2366874",
-          "source": "抖音",
-          "ranks": [
-            7,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
-        },
-        {
-          "title": "为什么商业航天板块 1 月 13 日会大幅波动，持续下跌？未来行情怎么样？",
-          "url": "https://www.zhihu.com/question/1994399978899072858",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
-        },
-        {
           "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
           "url": "https://wallstreetcn.com/articles/3763207",
           "source": "华尔街见闻",
@@ -75,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时35分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时35分 ~ 04时35分]"
         },
         {
           "title": "英特尔上涨7.7%，创2024年1月份以来盘中新高。",
@@ -113,6 +125,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "美国总统特朗普：当市场上涨时，美联储应该降低利率。",
+          "url": "https://flash.jin10.com/detail/20260114031220410800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
           "title": "波音(BA.N)股价在报告自2018年以来最高年度交付量后上涨2.1%。",
           "url": "https://flash.jin10.com/detail/20260114001234627800",
           "source": "金十数据",
@@ -137,6 +160,135 @@
       ]
     },
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时35分]"
+        },
+        {
+          "title": "芝加哥大豆期货跌超0.9%，豆粕跌超2.1%，大豆油则涨1.8%",
+          "url": "https://wallstreetcn.com/livenews/3036388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "王者芈月玩法调整",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8A%88%E6%9C%88%E7%8E%A9%E6%B3%95%E8%B0%83%E6%95%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25,
+            26,
+            24,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时35分]"
+        },
+        {
+          "title": "WTI原油期货日内上涨2.00美元，现报61.50美元/桶，涨幅3.36%。",
+          "url": "https://flash.jin10.com/detail/20260114002546702800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "WTI 2月原油期货收报61.15美元/桶。 布伦特3月原油期货收报65.47美元/桶。 NYMEX 2月天然气期货收报3.4190美元/百万英热单位。 NYMEX 2月汽油期货收报1.8265美元/加仑，NYMEX 2月取暖油期货收报2.2384美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3036372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【数据看盘】顶级游资扎堆海格通信 超30亿元资金激烈博弈航天电子",
+          "url": "https://www.cls.cn/detail/2256304",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时35分]"
+        },
+        {
+          "title": "金与正回应韩方对朝政策",
+          "url": "https://www.douyin.com/hot/2366896",
+          "source": "抖音",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时35分]"
+        },
+        {
+          "title": "美国总统特朗普：住房政策细节将在达沃斯论坛上公布。",
+          "url": "https://flash.jin10.com/detail/20260114034230041800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "美国总统特朗普声称：未来数周将针对经济可承受能力给出更多计划。 （下周）将在达沃斯围绕住房政策提供更多细节信息。 赞赏2000亿美元抵押贷款支持证券（MBS）购买计划的“巨大影响”。",
+          "url": "https://wallstreetcn.com/livenews/3036378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "欧盟官员：欧盟外交政策机构已传唤伊朗大使。",
+          "url": "https://flash.jin10.com/detail/20260114005100820800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
@@ -148,30 +300,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时35分]"
         },
         {
           "title": "美国总统特朗普赞赏美股的表现。",
           "url": "https://wallstreetcn.com/livenews/3036366",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时35分]"
         },
         {
           "title": "美国总统特朗普称赞美股走高。",
           "url": "https://flash.jin10.com/detail/20260114030749568800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时35分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
@@ -198,90 +352,6 @@
       ]
     },
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
-        },
-        {
-          "title": "王者芈月玩法调整",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8A%88%E6%9C%88%E7%8E%A9%E6%B3%95%E8%B0%83%E6%95%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            25,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
-        },
-        {
-          "title": "WTI原油期货日内上涨2.00美元，现报61.50美元/桶，涨幅3.36%。",
-          "url": "https://flash.jin10.com/detail/20260114002546702800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【数据看盘】顶级游资扎堆海格通信 超30亿元资金激烈博弈航天电子",
-          "url": "https://www.cls.cn/detail/2256304",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
-        },
-        {
-          "title": "金与正回应韩方对朝政策",
-          "url": "https://www.douyin.com/hot/2366896",
-          "source": "抖音",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
-        },
-        {
-          "title": "欧盟官员：欧盟外交政策机构已传唤伊朗大使。",
-          "url": "https://flash.jin10.com/detail/20260114005100820800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -291,11 +361,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时35分]"
         },
         {
           "title": "金价",
@@ -312,26 +383,20 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 1,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9795元，较周一夜盘收盘跌62点。成交量403.81亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3036362",
+          "title": "美元指数涨约0.3%，美国CPI数据发布后强势V型反转",
+          "url": "https://wallstreetcn.com/livenews/3036389",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
+          "time_info": "04时35分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨4.6%，刷新期内高位至4259点上方，北京时间12:00以来平滑地持续走高。 MarketVectorTM数字资产100中盘指数涨3.69%，刷新期内高位至3892点上方。 MarketVector数字资产100指数涨1.8%，报19415.75点。 目前，Solana涨2.31%，狗狗币涨4.25%，XRP涨2.23%。 此外，比特币涨3%，刷新日高至93720美元上方，以太坊涨超3.1%，持稳于日高3194.160美元附近。",
           "url": "https://wallstreetcn.com/livenews/3036317",
@@ -343,6 +408,24 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9795元，较周一夜盘收盘跌62点。成交量403.81亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3036362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时35分]"
         }
       ]
     }
