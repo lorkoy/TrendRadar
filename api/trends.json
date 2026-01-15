@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T01:41:13.124382+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-01-16T02:50:41.406315+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "央行：下调货币政策工具利率0.25个百分点，今年降准降息还有一定空间",
@@ -27,19 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "央行将下调各类结构性货币政策工具利率 0.25 个百分点，一年期再贷款利率降至 1.25%，如何解读？",
           "url": "https://www.zhihu.com/question/1995153394889949568",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "2026年结构性货币政策工具“加量降价” 单设1万亿再贷款加码民营企业 市场预计政策利率存下调空间",
@@ -50,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "结构性货币政策工具利率下调",
@@ -61,8 +62,52 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时50分]"
+        },
+        {
+          "title": "美联储施密德：降息可能加剧通胀，对就业帮助有限。更倾向于保持货币政策适度紧缩。",
+          "url": "https://flash.jin10.com/detail/20260116023126362800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "美国堪萨斯城联储主席Schmid：我认为，目前并没有降息的理由。 如果降息，可能会损害抑制通胀的进展，而且还对劳动力市场无益。 当前货币政策立场似乎并不十分具有限制性。 最新数据与通胀接近3%相吻合。 经济正表现出动能，但通胀太热。 出现一些令人鼓舞的通胀（进展）迹象，但还不能放松。",
+          "url": "https://wallstreetcn.com/livenews/3038167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "美联储施密德：货币政策目前并不十分紧缩，经济呈现增长势头。",
+          "url": "https://flash.jin10.com/detail/20260116023113880800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "美联储施密德：税收政策和放松管制有望提振投资、支出和需求。",
+          "url": "https://flash.jin10.com/detail/20260116023053164800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         },
         {
           "title": "美国白宫：特朗普要求国会通过法律，将其“最惠国待遇”药品价格政策法典化。",
@@ -74,35 +119,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "美联储戴利：美联储政策处于良好状态，需审慎校准政策。",
+          "url": "https://flash.jin10.com/detail/20260116022310934800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "2028年FOMC票委、堪萨斯联储主席施密德将于十分钟后就货币政策和经济前景发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260116022000000800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "西班牙首相桑切斯：主权基金将从欧盟资金中提取105亿欧元，并通过私人债务筹集1200亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260116020436445800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "比亚迪ADR上涨4.3%，此前《华尔街日报》报道称，这家电动汽车制造商正就向福特销售混合动力车电池进行谈判。 据报道，该协议可能涉及福特仅为其美国境外工厂购买电池。 福特股价一度冲至盘中高点，此后涨幅收窄至0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3038147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.4%，连续第四个交易日走高，报388.49点，创3月3日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 Atlas Copco AB涨5.0%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3038136",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时50分]"
+        },
+        {
+          "title": "比亚迪ADR上涨4.3%，此前《华尔街日报》报道称，这家电动汽车制造商正就向福特销售混合动力车电池进行谈判。 据报道，该协议可能涉及福特仅为其美国境外工厂购买电池。 福特股价一度冲至盘中高点，此后涨幅收窄至0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3038147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时41分]"
+          "time_info": "[01时41分 ~ 02时50分]"
         },
         {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
@@ -121,22 +201,46 @@
           "url": "https://wallstreetcn.com/livenews/3038141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时50分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
           "url": "https://wallstreetcn.com/livenews/3038139",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时50分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月15日（周四）晚盘收盘上涨0.18%报1032.78元/克；<br/>上海黄金交易所白银T+D 1月15日（周四）晚盘收盘上涨1.99%报23054.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260116023106081800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "02时50分"
+        },
+        {
+          "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2259424",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         },
         {
           "title": "物价会持续上涨吗？央行最新回应",
@@ -153,7 +257,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "黑环调整,壶人被削无赖熬出头",
@@ -164,8 +268,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "王者英雄调整情报",
@@ -173,11 +277,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "可可期货创两年新低，欧洲的可可豆加工处理规模创2013年以来新低",
@@ -192,13 +297,24 @@
           "time_info": "[00时46分 ~ 01时41分]"
         },
         {
+          "title": "上期所原油期货2503合约夜盘收跌2.34%，报441.80元人民币/桶。 沪金夜盘收涨0.04%，沪银收涨1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3038166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
           "title": "政策红利预期引燃市场 豆油期货强劲飙升",
           "url": "https://flash.jin10.com/detail/20260116004423900800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -228,8 +344,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -239,8 +355,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
@@ -252,6 +368,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价彻底杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时50分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     },
@@ -269,23 +413,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价彻底杀疯了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[00时46分 ~ 01时41分]"
         }
       ]
