@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-15T07:26:27.475424+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-01-15T10:22:55.769055+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
         {
           "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
           "url": "https://wallstreetcn.com/articles/3763245",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 10时22分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -38,11 +39,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 10时22分]"
         },
         {
           "title": "今年起单位给员工提供餐饮住宿等有偿服务要交税，如何看待这一调整？对用人单位和员工有何影响？",
@@ -103,7 +105,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -114,7 +116,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -136,9 +138,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260115101822827800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "现货白银日内暴涨7.00%，突破93美元/盎司，再创新高。",
@@ -260,6 +273,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "AI医疗、AI制药概念震荡调整，泓博医药跌超18%，诺思格跌近15%，国际医学、博济医药、嘉和美康、贝瑞基因等跌逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3037450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
           "title": "美国白宫：特朗普坚决认为，有必要与贸易伙伴展开谈判，以调整加工关键矿产及其衍生产品的进口。根据谈判的结果，特朗普未来可能会考虑替代性补救措施，包括对特定类型的关键矿物设定最低进口价格。",
           "url": "https://flash.jin10.com/detail/20260115053341985800",
           "source": "金十数据",
@@ -269,12 +293,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "现货铂金跌逾3%，至每盎司2282.55美元。",
+          "url": "https://flash.jin10.com/detail/20260115093808353800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "韩国央行发布政策声明后，韩国3年期国债期货下跌。",
+          "url": "https://flash.jin10.com/detail/20260115093621449800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "集运指数欧线期货连续主力合约日内涨5%，现报1263.90点。",
+          "url": "https://wallstreetcn.com/livenews/3037430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "商业航天概念再度调整，巨力索具、神剑股份、海格通信跌停，星环科技跌超10%，通宇通讯、金风科技、长江通信、雷科防务等跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3037429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "现货白银一度大跌超7%，报86.7美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3037425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.14%，10年期主力合约涨0.03%，5年期主力合约与昨日持平，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3037420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "长期股票投资试点再迎增量资金：鸿鹄志远三期3号成立，11只险资私募证券基金投入运作丨独家",
@@ -285,8 +375,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 10时22分]"
         },
         {
           "title": "三部门出手！换房退个税政策延至2027年底",
@@ -334,8 +424,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 10时22分]"
         },
         {
           "title": "三部门：延续实施支持居民换购住房有关个人所得税政策",
@@ -349,6 +439,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时26分]"
+        },
+        {
+          "title": "【早报】长期股票投资试点再迎增量资金；上交所暂停国晟科技相关投资者账户交易",
+          "url": "https://www.cls.cn/detail/2258174",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
@@ -399,6 +500,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
           "title": "美联储理事米兰：美国的制度是强大的，关键在于政策是好是坏。",
           "url": "https://flash.jin10.com/detail/20260115001423189800",
           "source": "金十数据",
@@ -416,7 +528,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -438,9 +550,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "韩国央行从政策声明中删除了“决定是否以及何时实施任何进一步的基准利率下调”这一措辞。",
+          "url": "https://flash.jin10.com/detail/20260115093608478800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "韩国央行称，预计通胀将逐步降至2%的水平。通胀路径取决于汇率、石油、政策和需求。半导体强劲，出口将保持“有利”。",
+          "url": "https://wallstreetcn.com/livenews/3037432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "美联储博斯蒂克：政策仍然需要保持紧缩。",
@@ -460,7 +594,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -479,8 +613,41 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "贵金属板块震荡走强，四川黄金冲击涨停，赤峰黄金、湖南白银、招金黄金、山东黄金、山金国际、盛达资源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3037461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "印尼基准股指上涨0.5%，再创纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3037459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "磷化工板块震荡拉升，川金诺涨超10%，天际股份、粤桂股份、潞化科技、云天化、兴发集团、川恒股份等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3037458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
         {
           "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3037301",
@@ -578,6 +745,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "印尼基准股指上涨0.5%，再创纪录新高。",
+          "url": "https://flash.jin10.com/detail/20260115100237187800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报386.77点，创2025年3月5日以来收盘新高。 在十个板块中，北欧金融板块涨幅最大。 药品和诊断套件供应商Orion Oyj收涨12%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3037219",
           "source": "华尔街见闻-快讯",
@@ -598,6 +776,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "日本公明党齐藤铁夫：认为日元疲软是物价上涨的原因之一。 提前大选将制造政治真空。 不理解为何现在举行大选。",
+          "url": "https://wallstreetcn.com/livenews/3037439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "光伏板块低开高走，拓日新能2连板，帝科股份、东方新能、赛伍技术、高测股份、岱勒新材等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3037431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "Shopify(SHOP.N)下跌7%，创下10月10日以来的单日最大跌幅。",
@@ -625,7 +825,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -658,9 +858,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
+          "url": "https://www.cls.cn/detail/2258154",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 10时22分]"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股收盘）",
@@ -709,17 +932,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时26分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
-          "url": "https://www.cls.cn/detail/2258154",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
@@ -795,7 +1007,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -817,7 +1029,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         }
