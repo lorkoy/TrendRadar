@@ -1,11 +1,602 @@
 {
-  "generated_at": "2026-01-16T21:03:09.767776+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2026-01-16T22:34:33.484178+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 51,
+      "titles": [
+        {
+          "title": "半导体两大环节暖风劲吹：封测涨价、洁净室订单爆满 板块掀涨停潮",
+          "url": "https://www.cls.cn/detail/2260120",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时33分 ~ 22时34分]"
+        },
+        {
+          "title": "物价会持续上涨吗？央行最新回应",
+          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%BB%B7%E4%BC%9A%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8%E5%90%97%EF%BC%9F%E5%A4%AE%E8%A1%8C%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26,
+            30,
+            29,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时31分]"
+        },
+        {
+          "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2259424",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时50分 ~ 10时24分]"
+        },
+        {
+          "title": "欧洲基准天然气合约上涨6%，至每兆瓦时35.83欧元。",
+          "url": "https://flash.jin10.com/detail/20260116203939010800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）富时中国A50指数成分股午盘收盘行情一览：小金属、光伏股票上涨，银行、保险股全面走低",
+          "url": "https://flash.jin10.com/detail/20260116113423989800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，创业板指此前一度涨超1%，AI应用、保险、油气、医药医疗等方向跌幅居前，沪深京三市下跌个股超3000只。",
+          "url": "https://wallstreetcn.com/livenews/3038389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "A股半导体板块午后持续走强，天岳先进20CM封板涨停，江波龙涨超10%，通富微电、德明利等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3038479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "业绩行情逐步发酵！预告披露率已突破5%，“预喜”股扎堆板块盘点，这些标的高增领跑",
+          "url": "https://www.cls.cn/detail/2260445",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 22时34分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.4%，连续第四个交易日走高，报388.49点，创3月3日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 Atlas Copco AB涨5.0%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3038136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时50分]"
+        },
+        {
+          "title": "比亚迪ADR上涨4.3%，此前《华尔街日报》报道称，这家电动汽车制造商正就向福特销售混合动力车电池进行谈判。 据报道，该协议可能涉及福特仅为其美国境外工厂购买电池。 福特股价一度冲至盘中高点，此后涨幅收窄至0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3038147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 03时33分]"
+        },
+        {
+          "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
+          "url": "https://wallstreetcn.com/livenews/3038227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时31分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（1月15日），美国科技股七巨头（Magnificent 7）指数涨0.21%，报205.20点，跳空高开之后，至北京时间03:00高位震荡、之后持续回落并四度转跌。 “超大”市值科技股指数涨0.20%，报392.34点，跳空高开之后高位持稳，03:00开始逐步回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3038226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时31分]"
+        },
+        {
+          "title": "航空业ETF收涨约2.3%，和半导体ETF领跑美股行业ETF，标普能源板块跌0.9%",
+          "url": "https://wallstreetcn.com/livenews/3038225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时31分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
+          "url": "https://www.cls.cn/detail/2258951",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时41分]"
+        },
+        {
+          "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率下跌至6.06%，创2022年9月份以来新低，前值6.16%。",
+          "url": "https://wallstreetcn.com/livenews/3038141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时50分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
+          "url": "https://wallstreetcn.com/livenews/3038139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时50分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月15日（周四）晚盘收盘上涨0.18%报1032.78元/克；<br/>上海黄金交易所白银T+D 1月15日（周四）晚盘收盘上涨1.99%报23054.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260116023106081800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 03时33分]"
+        },
+        {
+          "title": "A股航天装备板块短线拉升，航天宏图涨超10%，中国卫通、中天火箭、星网宇达、理工导航、航天环宇等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3038478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "中字头板块异动拉升，中国电建涨停，中国能建、中国交建、中国核建、中国中铁、中国铁建等快速冲高。",
+          "url": "https://wallstreetcn.com/livenews/3038382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "上证指数早盘收报4103.45点，跌0.22%。 深证成指早盘收报14293.08点，跌0.10%。 创业板指早盘收报3367.45点，跌0.01%。 沪深300早盘收报4744.25点，跌0.15%。 科创50早盘收报1501.12点，涨0.48%。 中证500早盘收报8221.90点，跌0.02%。 中证1000早盘收报8206.29点，跌0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3038442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "欧洲天然气价格单周有望上涨超20%",
+          "url": "https://wallstreetcn.com/livenews/3038661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "Riot Platforms(RIOT.O)盘前上涨近7%，公司与AMD(AMD.O)签署数据中心租赁协议。",
+          "url": "https://flash.jin10.com/detail/20260116220518848800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "中字头板块盘中异动拉升，中国电建涨停，中国能建、中国交建、中国核建、中国中铁、中国铁建等快速冲高。",
+          "url": "https://wallstreetcn.com/livenews/3038380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "伦锡日内下跌7%，现报49075.00美元/吨。伦锌日内下跌2.00%，现报3241.66美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260116170358177800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "印度卢比兑美元收于90.8650，当日下跌0.6%。印度卢比创下近两个月来最大单日跌幅。",
+          "url": "https://flash.jin10.com/detail/20260116180245072800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "台湾加权指数上涨2%，刷新纪录高位至31421点，台积电涨2.66%。",
+          "url": "https://flash.jin10.com/detail/20260116112947172800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "电力股震荡走强，华银电力触及涨停，乐山电力涨超8%，韶能股份、恒盛能源、九洲集团、明星电力、西昌电力等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3038374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "印度Sensex指数收于83570.35点，上涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20260116183416349800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3038653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "隔夜shibor报1.3250%，下跌4.90个基点",
+          "url": "https://flash.jin10.com/detail/20260116112237827800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）三个月镍合约下跌逾3%。",
+          "url": "https://flash.jin10.com/detail/20260116142046560800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "万科债多数上涨，“21万科04”和“22万科06”均涨超20%，盘中临停；“21万科06”涨超11%，“22万科04”涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3038358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.59%，深成指涨0.74%，电网设备、半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近4000只。",
+          "url": "https://wallstreetcn.com/livenews/3038354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "消息人士称，由于担心供应收紧，日本第一季度铝溢价达195美元/吨，比上一季度上涨127%。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3038793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月16日（周五）晚盘盘初上涨0.31%报1033.82元/克；<br/>上海黄金交易所白银T+D 1月16日（周五）晚盘盘初下跌0.52%报22588.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260116200400883800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3250%，下降4.90个基点。 7天SHIBOR报1.4700%，下降1.50个基点。 3个月SHIBOR报1.6000%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3038424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "电网设备板块开盘领涨，三变科技4连板，保变电气2连板，平高电气、新联电子、思源电气涨停，双杰电气、国电南自、中国西电、安靠智电跟涨，消息面上，国家电网公司发布消息称，“十五五”期间，公司固定资产投资预计将达到4万亿元，较“十四五”增长40%。",
+          "url": "https://wallstreetcn.com/livenews/3038344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "分析师：美元走势较为坚挺 有望实现连续第三周的上涨",
+          "url": "https://flash.jin10.com/detail/20260116094139665800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)股价盘前一度上涨6.3%。英国卫生监管机构于周五批准了该公司重磅减肥药Wegovy的每周最大剂量为7.2毫克。",
+          "url": "https://flash.jin10.com/detail/20260116180044975800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨2.1%至31,460.37点。",
+          "url": "https://wallstreetcn.com/livenews/3038461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "东京早高峰突发停电致多条铁路线停运 运营商股价应声下跌",
+          "url": "https://flash.jin10.com/detail/20260116093325560800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "上证指数开盘报4127.06点，涨0.35%。 深证成指开盘报14374.54点，涨0.47%。 创业板指开盘报3394.35点，涨0.78%。 沪深300开盘报4778.43点，涨0.57%。 科创50开盘报1509.70点，涨1.05%。 中证500开盘报8241.69点，涨0.22%。 中证1000开盘报8276.61点，涨0.43%。",
+          "url": "https://wallstreetcn.com/livenews/3038339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "美元指数15日上涨",
+          "url": "https://flash.jin10.com/detail/20260116044459205800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美指走高和特朗普对伊威胁缓解推动金银价格双双下跌",
+          "url": "https://flash.jin10.com/detail/20260116214827667800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "周四（1月15日）纽约尾盘，ICE美元指数涨0.28%，报9.337点，日内交投区间为99.086-99.492点，全天处于上涨状态，北京时间20:30过后出现一波上涨行情，22:43刷新日高。 彭博美元指数涨0.07%，报1211.49点，日内交投区间为1210.07-1213.79点。",
+          "url": "https://wallstreetcn.com/livenews/3038199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "上证指数收报4101.91点，跌0.26%。 深证成指收报14281.08点，跌0.18%。 创业板指收报3361.02点，跌0.20%。 沪深300收报4731.87点，跌0.41%。 科创50收报1514.07点，涨1.35%。 中证500收报8232.67点，涨0.11%。 中证1000收报8232.73点，跌0.10%。",
+          "url": "https://wallstreetcn.com/livenews/3038557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "大全能源：预计2025年净亏损为10亿元到13亿元，亏损幅度同比收窄52.17%到63.21%，国内多晶硅价格自第三季度起呈现恢复性上涨。",
+          "url": "https://wallstreetcn.com/livenews/3038594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "金价上涨银行保管箱一箱难求",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E9%93%B6%E8%A1%8C%E4%BF%9D%E7%AE%A1%E7%AE%B1%E4%B8%80%E7%AE%B1%E9%9A%BE%E6%B1%82%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "COMEX期铜下跌逾3%，至每磅5.79美元。",
+          "url": "https://flash.jin10.com/detail/20260116213958618800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报156250元/吨，较上日16:30价格下跌1800元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3038407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "A股碳化硅概念股震荡走强，三安光电、通富微电双双涨停，天岳先进此前20cm涨停，晶升股份涨超10%，晶盛机电、露笑科技等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3038494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "调整 期货 现货",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -19,8 +610,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时07分 ~ 21时03分]"
+          "appearance_count": 12,
+          "time_info": "[12时07分 ~ 22时34分]"
         },
         {
           "title": "黑环调整,壶人被削无赖熬出头",
@@ -34,11 +625,12 @@
             13,
             14,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时46分 ~ 21时03分]"
+          "appearance_count": 25,
+          "time_info": "[00时46分 ~ 22时34分]"
         },
         {
           "title": "王者英雄调整情报",
@@ -135,6 +727,19 @@
           "time_info": "15时33分"
         },
         {
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 22时34分]"
+        },
+        {
           "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
           "url": "https://www.cls.cn/detail/2259812",
           "source": "财联社热门",
@@ -171,17 +776,15 @@
           "time_info": "[04时36分 ~ 05时31分]"
         },
         {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
-          "source": "财联社热门",
+          "title": "广州辟谣公积金缴存基数调整",
+          "url": "https://www.douyin.com/hot/2369282",
+          "source": "抖音",
           "ranks": [
-            11,
-            9,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 21时03分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 22时34分]"
         },
         {
           "title": "上期所原油期货2503合约夜盘收跌2.34%，报441.80元人民币/桶。 沪金夜盘收涨0.04%，沪银收涨1.40%。",
@@ -197,6 +800,17 @@
           "time_info": "[02时50分 ~ 04时36分]"
         },
         {
+          "title": "广州辟谣“调整公积金缴存基数”",
+          "url": "https://www.toutiao.com/trending/7595600730171981851/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 22时34分]"
+        },
+        {
           "title": "油价即将调整",
           "url": "https://www.toutiao.com/trending/7594761708799967251/",
           "source": "今日头条",
@@ -207,17 +821,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时34分 ~ 14时47分]"
-        },
-        {
-          "title": "广州辟谣公积金缴存基数调整",
-          "url": "https://www.douyin.com/hot/2369282",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "周四（1月15日）纽约尾盘，标普500股指期货最终涨0.28%，道指期货涨0.59%，纳斯达克100股指期货涨0.30%。 罗素2000股指期货涨0.88%。",
@@ -255,15 +858,16 @@
           "time_info": "[17时35分 ~ 17时36分]"
         },
         {
-          "title": "广州辟谣“调整公积金缴存基数”",
-          "url": "https://www.toutiao.com/trending/7595600730171981851/",
-          "source": "今日头条",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260116100418948800",
+          "source": "金十数据",
           "ranks": [
-            11
+            12,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
+          "time_info": "[10时24分 ~ 22时34分]"
         },
         {
           "title": "现货白银跌0.8%，亚太盘初曾刷新历史高位至93.75美元上方",
@@ -411,24 +1015,13 @@
           "time_info": "10时24分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260116100418948800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
           "title": "美国天然气期货日内涨幅达3.00%，现报3.222美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20260116200830498800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -565,6 +1158,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "现货白银日内大跌5%，现报87.70美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3038844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "碳酸锂期货主力合约日内跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3038405",
           "source": "华尔街见闻-快讯",
@@ -578,565 +1182,8 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 48,
-      "titles": [
-        {
-          "title": "半导体两大环节暖风劲吹：封测涨价、洁净室订单爆满 板块掀涨停潮",
-          "url": "https://www.cls.cn/detail/2260120",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时33分 ~ 21时03分]"
-        },
-        {
-          "title": "物价会持续上涨吗？央行最新回应",
-          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%BB%B7%E4%BC%9A%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8%E5%90%97%EF%BC%9F%E5%A4%AE%E8%A1%8C%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26,
-            30,
-            29,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时31分]"
-        },
-        {
-          "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2259424",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时50分 ~ 10时24分]"
-        },
-        {
-          "title": "欧洲基准天然气合约上涨6%，至每兆瓦时35.83欧元。",
-          "url": "https://flash.jin10.com/detail/20260116203939010800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）富时中国A50指数成分股午盘收盘行情一览：小金属、光伏股票上涨，银行、保险股全面走低",
-          "url": "https://flash.jin10.com/detail/20260116113423989800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "A股三大指数集体翻绿，创业板指此前一度涨超1%，AI应用、保险、油气、医药医疗等方向跌幅居前，沪深京三市下跌个股超3000只。",
-          "url": "https://wallstreetcn.com/livenews/3038389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "A股半导体板块午后持续走强，天岳先进20CM封板涨停，江波龙涨超10%，通富微电、德明利等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3038479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.4%，连续第四个交易日走高，报388.49点，创3月3日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 Atlas Copco AB涨5.0%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3038136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时50分]"
-        },
-        {
-          "title": "比亚迪ADR上涨4.3%，此前《华尔街日报》报道称，这家电动汽车制造商正就向福特销售混合动力车电池进行谈判。 据报道，该协议可能涉及福特仅为其美国境外工厂购买电池。 福特股价一度冲至盘中高点，此后涨幅收窄至0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3038147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时33分]"
-        },
-        {
-          "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
-          "url": "https://wallstreetcn.com/livenews/3038227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
-        },
-        {
-          "title": "业绩行情逐步发酵！预告披露率已突破5%，“预喜”股扎堆板块盘点，这些标的高增领跑",
-          "url": "https://www.cls.cn/detail/2260445",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 21时03分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（1月15日），美国科技股七巨头（Magnificent 7）指数涨0.21%，报205.20点，跳空高开之后，至北京时间03:00高位震荡、之后持续回落并四度转跌。 “超大”市值科技股指数涨0.20%，报392.34点，跳空高开之后高位持稳，03:00开始逐步回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3038226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
-        },
-        {
-          "title": "航空业ETF收涨约2.3%，和半导体ETF领跑美股行业ETF，标普能源板块跌0.9%",
-          "url": "https://wallstreetcn.com/livenews/3038225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
-        },
-        {
-          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
-          "url": "https://www.cls.cn/detail/2258951",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时41分]"
-        },
-        {
-          "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率下跌至6.06%，创2022年9月份以来新低，前值6.16%。",
-          "url": "https://wallstreetcn.com/livenews/3038141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时50分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
-          "url": "https://wallstreetcn.com/livenews/3038139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时50分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月15日（周四）晚盘收盘上涨0.18%报1032.78元/克；<br/>上海黄金交易所白银T+D 1月15日（周四）晚盘收盘上涨1.99%报23054.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260116023106081800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 03时33分]"
-        },
-        {
-          "title": "A股航天装备板块短线拉升，航天宏图涨超10%，中国卫通、中天火箭、星网宇达、理工导航、航天环宇等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3038478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "中字头板块异动拉升，中国电建涨停，中国能建、中国交建、中国核建、中国中铁、中国铁建等快速冲高。",
-          "url": "https://wallstreetcn.com/livenews/3038382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "上证指数早盘收报4103.45点，跌0.22%。 深证成指早盘收报14293.08点，跌0.10%。 创业板指早盘收报3367.45点，跌0.01%。 沪深300早盘收报4744.25点，跌0.15%。 科创50早盘收报1501.12点，涨0.48%。 中证500早盘收报8221.90点，跌0.02%。 中证1000早盘收报8206.29点，跌0.42%。",
-          "url": "https://wallstreetcn.com/livenews/3038442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "欧洲天然气价格单周有望上涨超20%",
-          "url": "https://wallstreetcn.com/livenews/3038661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
-          "title": "中字头板块盘中异动拉升，中国电建涨停，中国能建、中国交建、中国核建、中国中铁、中国铁建等快速冲高。",
-          "url": "https://wallstreetcn.com/livenews/3038380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "伦锡日内下跌7%，现报49075.00美元/吨。伦锌日内下跌2.00%，现报3241.66美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260116170358177800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
-          "title": "印度卢比兑美元收于90.8650，当日下跌0.6%。印度卢比创下近两个月来最大单日跌幅。",
-          "url": "https://flash.jin10.com/detail/20260116180245072800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "台湾加权指数上涨2%，刷新纪录高位至31421点，台积电涨2.66%。",
-          "url": "https://flash.jin10.com/detail/20260116112947172800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "电力股震荡走强，华银电力触及涨停，乐山电力涨超8%，韶能股份、恒盛能源、九洲集团、明星电力、西昌电力等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3038374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "印度Sensex指数收于83570.35点，上涨0.2%。",
-          "url": "https://flash.jin10.com/detail/20260116183416349800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3038653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
-          "title": "隔夜shibor报1.3250%，下跌4.90个基点",
-          "url": "https://flash.jin10.com/detail/20260116112237827800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）三个月镍合约下跌逾3%。",
-          "url": "https://flash.jin10.com/detail/20260116142046560800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
-          "title": "万科债多数上涨，“21万科04”和“22万科06”均涨超20%，盘中临停；“21万科06”涨超11%，“22万科04”涨超9%。",
-          "url": "https://wallstreetcn.com/livenews/3038358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "创业板指涨超1%，沪指涨0.59%，深成指涨0.74%，电网设备、半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近4000只。",
-          "url": "https://wallstreetcn.com/livenews/3038354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "消息人士称，由于担心供应收紧，日本第一季度铝溢价达195美元/吨，比上一季度上涨127%。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3038793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月16日（周五）晚盘盘初上涨0.31%报1033.82元/克；<br/>上海黄金交易所白银T+D 1月16日（周五）晚盘盘初下跌0.52%报22588.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260116200400883800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "隔夜SHIBOR报1.3250%，下降4.90个基点。 7天SHIBOR报1.4700%，下降1.50个基点。 3个月SHIBOR报1.6000%，上涨0.00个基点。",
-          "url": "https://wallstreetcn.com/livenews/3038424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "电网设备板块开盘领涨，三变科技4连板，保变电气2连板，平高电气、新联电子、思源电气涨停，双杰电气、国电南自、中国西电、安靠智电跟涨，消息面上，国家电网公司发布消息称，“十五五”期间，公司固定资产投资预计将达到4万亿元，较“十四五”增长40%。",
-          "url": "https://wallstreetcn.com/livenews/3038344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "分析师：美元走势较为坚挺 有望实现连续第三周的上涨",
-          "url": "https://flash.jin10.com/detail/20260116094139665800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "诺和诺德(NVO.N)股价盘前一度上涨6.3%。英国卫生监管机构于周五批准了该公司重磅减肥药Wegovy的每周最大剂量为7.2毫克。",
-          "url": "https://flash.jin10.com/detail/20260116180044975800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "台湾证交所加权股价指数上涨2.1%至31,460.37点。",
-          "url": "https://wallstreetcn.com/livenews/3038461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "东京早高峰突发停电致多条铁路线停运 运营商股价应声下跌",
-          "url": "https://flash.jin10.com/detail/20260116093325560800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "上证指数开盘报4127.06点，涨0.35%。 深证成指开盘报14374.54点，涨0.47%。 创业板指开盘报3394.35点，涨0.78%。 沪深300开盘报4778.43点，涨0.57%。 科创50开盘报1509.70点，涨1.05%。 中证500开盘报8241.69点，涨0.22%。 中证1000开盘报8276.61点，涨0.43%。",
-          "url": "https://wallstreetcn.com/livenews/3038339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "美元指数15日上涨",
-          "url": "https://flash.jin10.com/detail/20260116044459205800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "周四（1月15日）纽约尾盘，ICE美元指数涨0.28%，报9.337点，日内交投区间为99.086-99.492点，全天处于上涨状态，北京时间20:30过后出现一波上涨行情，22:43刷新日高。 彭博美元指数涨0.07%，报1211.49点，日内交投区间为1210.07-1213.79点。",
-          "url": "https://wallstreetcn.com/livenews/3038199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "上证指数收报4101.91点，跌0.26%。 深证成指收报14281.08点，跌0.18%。 创业板指收报3361.02点，跌0.20%。 沪深300收报4731.87点，跌0.41%。 科创50收报1514.07点，涨1.35%。 中证500收报8232.67点，涨0.11%。 中证1000收报8232.73点，跌0.10%。",
-          "url": "https://wallstreetcn.com/livenews/3038557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "大全能源：预计2025年净亏损为10亿元到13亿元，亏损幅度同比收窄52.17%到63.21%，国内多晶硅价格自第三季度起呈现恢复性上涨。",
-          "url": "https://wallstreetcn.com/livenews/3038594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "金价上涨银行保管箱一箱难求",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E9%93%B6%E8%A1%8C%E4%BF%9D%E7%AE%A1%E7%AE%B1%E4%B8%80%E7%AE%B1%E9%9A%BE%E6%B1%82%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报156250元/吨，较上日16:30价格下跌1800元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3038407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "A股碳化硅概念股震荡走强，三安光电、通富微电双双涨停，天岳先进此前20cm涨停，晶升股份涨超10%，晶盛机电、露笑科技等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3038494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
@@ -1214,6 +1261,18 @@
           "time_info": "[07时30分 ~ 13时34分]"
         },
         {
+          "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
+          "url": "https://wallstreetcn.com/articles/3763433",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 22时34分]"
+        },
+        {
           "title": "股市资金流向图：今日沪深两市主力资金净流出486.02亿元，占比1.61%；大单资金净流出201.65亿元，占比0.67%；小单资金净流入413.12亿元，占比1.37%。",
           "url": "https://flash.jin10.com/detail/20260116150654936800",
           "source": "金十数据",
@@ -1223,18 +1282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
-        },
-        {
-          "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
-          "url": "https://wallstreetcn.com/articles/3763433",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 21时03分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）沪深港通南向资金流向",
@@ -1487,13 +1534,24 @@
           "time_info": "18时34分"
         },
         {
+          "title": "据Politico：美国众议院共和党人自行设定的禁止投票挑战特朗普关税政策的禁令将于本月底到期。",
+          "url": "https://flash.jin10.com/detail/20260116214324557800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "深圳前海：人工智能领域产业营收超3000亿元",
           "url": "https://wallstreetcn.com/livenews/3038783",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -1515,7 +1573,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -1567,7 +1625,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -1578,8 +1636,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时24分 ~ 21时03分]"
+          "appearance_count": 14,
+          "time_info": "[10时24分 ~ 22时34分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1699,6 +1757,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "Riot Platforms与AMD签订数据中心租赁协议。 其中包括初步部署25 MW算力，可能会扩张至200 MW算力的选项。 预计这笔交易将带来3.11亿美元承包收入，如果全面扩张可能会达到大约10亿美元。 Riot将在Rockdale购买200英亩土地，交易金额0.96亿美元。 Riot美股盘前涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3038870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3038861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-16）",
+          "url": "https://flash.jin10.com/detail/20260116214314914800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
@@ -1832,7 +1923,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "春节前结汇潮将至，人民币偏强运行？央行最新发声：汇率将继续双向浮动，保持弹性",
@@ -1891,6 +1982,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "晶科能源：控股子公司晶科能源（海宁）有限公司拟实施增资扩股并引入兴银资产、东方资产等战略投资者，各方拟合计以现金增资不超过人民币30亿元，预计合计取得海宁晶科增资后的股权比例不超过24.6771%，增资款项主要用于海宁晶科偿还金融负债或经营性负债等。",
+          "url": "https://wallstreetcn.com/livenews/3038846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "人民币兑美元中间价报7.0078，下调14点；上一交易日中间价7.0064，上一交易日官方收盘价6.9698，上日夜盘报收6.9680。",
