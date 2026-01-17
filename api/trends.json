@@ -1,8 +1,338 @@
 {
-  "generated_at": "2026-01-17T14:42:23.993363+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-01-17T15:27:45.966490+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "业绩行情逐步发酵！预告披露率已突破5%，“预喜”股扎堆板块盘点，这些标的高增领跑",
+          "url": "https://www.cls.cn/detail/2260445",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时29分]"
+        },
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 15时27分]"
+        },
+        {
+          "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
+          "url": "https://wallstreetcn.com/articles/3763450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 06时31分]"
+        },
+        {
+          "title": "酒价内参1月17日价格发布 核心产品显著下跌均价再创两月新低",
+          "url": "https://wallstreetcn.com/livenews/3039070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            13,
+            19,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 15时27分]"
+        },
+        {
+          "title": "本周生猪均价反弹 生猪交易均重上涨",
+          "url": "https://flash.jin10.com/detail/20260117145639169800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "俄罗斯统计局：俄罗斯12月CPI环比上涨0.32%，低于上月的0.42%（路透社调查预期为0.5%）。",
+          "url": "https://flash.jin10.com/detail/20260117000242681800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时32分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
+          "url": "https://wallstreetcn.com/livenews/3039039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月16日（周五）晚盘收盘上涨0.03%报1031.0元/克；<br/>上海黄金交易所白银T+D 1月16日（周五）晚盘收盘下跌3.03%报22018.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260117023026141800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时31分]"
+        },
+        {
+          "title": "周五（1月16日），韩元兑美元最终跌0.34%，报1473.61韩元。 本周，韩元累计下跌0.99%，整体低位震荡，特朗普的美国财长贝森特的谈话曾在1月14日带来一波短线反弹行情。",
+          "url": "https://wallstreetcn.com/livenews/3038957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时31分]"
+        },
+        {
+          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
+          "url": "https://wallstreetcn.com/livenews/3039052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时41分]"
+        },
+        {
+          "title": "美元指数16日上涨",
+          "url": "https://flash.jin10.com/detail/20260117043039247800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 07时29分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报4084.85点，最近连续天累计上涨0.07%，整体大致持稳，1月11日北京时间22:10前后出现一波尖锐的冲高回落行情——最高达到6268.44点。 MarketVectorTM数字资产100中盘指数跌2.22%，报3725.95点，最近七天累跌1.99%，整体冲高回落。 MarketVector数字资产100指数跌1.72%，报19592.12点，最近七天累涨2.99%。 最近七天，比特币累涨4.92%，目前报94872美元；以太坊累涨6.40%，暂报3279美元；Solana累涨4.40%，狗狗币累跌2.99%，XRP累跌2.22%。",
+          "url": "https://wallstreetcn.com/livenews/3038945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 02时45分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3038917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时32分]"
+        },
+        {
+          "title": "“新兴市场教父”：黄金已失去吸引力 中国股市上涨具备可持续性",
+          "url": "https://www.cls.cn/detail/2261030",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时27分]"
+        },
+        {
+          "title": "本周，降息赢家指数累计上涨0.22%，周五（1月16日）报107.51点。 “特朗普关税输家”指数累跌0.75%，报118.52点。 “特朗普金融指数”累跌1.78%，报176.06点。 散户抱团概念股指数/迷因股（meme stock）指数累跌3.15%，报16.14点。",
+          "url": "https://wallstreetcn.com/livenews/3039029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3039026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "周五（1月16日）欧市尾盘，英国10年期国债收益率涨1.2个基点，报4.4%，本周累计上涨2.6个基点，1月14日曾跌至4.336%。",
+          "url": "https://wallstreetcn.com/livenews/3038955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时26分]"
+        },
+        {
+          "title": "阿根廷MERVAL指数收涨0.28%，报293.5万点，本周累计下跌5.00%，1月12-15日持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3039022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "美国法官在公司针对弗吉尼亚海上风电项目的诉讼中下达禁令，允许施工恢复，多米尼恩能源股价上涨1.5%。",
+          "url": "https://flash.jin10.com/detail/20260117014807508800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时26分]"
+        },
+        {
+          "title": "Salesforce本周累计下跌13%，创2024年以来最差单周表现。",
+          "url": "https://wallstreetcn.com/livenews/3039011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.8%，连续第八个交易日走高，报391.59点，创3月份以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 Kongsberg Gruppen ASA涨9.5%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3038939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "铜矿概念股普遍下跌，特朗普不愿意让白宫顾问哈塞特担任美联储主席。 泰克资源跌2.99%，美国铜指数基金跌2.77%，自由港跌2.33%，铜矿ETF跌1.9%，必和必拓ADR、力拓ADR、南方铜业、淡水河谷ADR至多跌1.9%，McEwen涨1.57%，Gold Com涨4.43%。",
+          "url": "https://wallstreetcn.com/livenews/3038937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "周五（1月16日），彭博电动汽车价格回报指数跌0.72%，报3595.34点，本周累计上涨0.43%。",
+          "url": "https://wallstreetcn.com/livenews/3039006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "本周，标普累跌0.2%，道指累跌0.2%，纳指累跌0.5%，半导体指数涨3.9%，科技股七巨头指数跌1.4%，华尔街大行拉开四季度业绩报告序幕之际，银行指数跌1.6%。 周五当天，标普500指数初步微幅收跌，房地产板块涨1.2%，科技板块涨0.2%，电信板块跌0.7%。 纳斯达克100指数初步微幅收跌，成分股中，核电股CEG跌9.6%，Atlassian跌6.4%，Applovin跌6.4%，Palantir跌3.3%，博通涨2.6%，吉利德科学涨3.1%，美光科技涨7.4%。 Salesforce初步收跌2.8%，联合健康、3M跌超2%，领跌道指成分股，苹果跌1%，微软涨0.7%，霍尼韦尔、美国运通、IBM涨超2%。 费城半导体指数涨1.1%，银行指数跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3039002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周五（1月16日），南非富时/JSE非洲领先40可交易指数收跌0.73%，逼近11.2万点，本周累计上涨1.98%。",
+          "url": "https://wallstreetcn.com/livenews/3038932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "受原油价格下跌影响，哈罗德·哈姆将暂停巴肯页岩油钻探项目",
+          "url": "https://wallstreetcn.com/livenews/3038941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "美国两年期国债收益率上涨，此前特朗普称希望哈塞特留在国家经济委员会（NEC）。",
+          "url": "https://wallstreetcn.com/livenews/3038909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        }
+      ]
+    },
     {
       "keyword_group": "调整 期货 现货",
       "match_count": 26,
@@ -30,8 +360,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 15时27分]"
         },
         {
           "title": "广州辟谣公积金缴存基数调整",
@@ -310,323 +640,6 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "业绩行情逐步发酵！预告披露率已突破5%，“预喜”股扎堆板块盘点，这些标的高增领跑",
-          "url": "https://www.cls.cn/detail/2260445",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时29分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 14时42分]"
-        },
-        {
-          "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
-          "url": "https://wallstreetcn.com/articles/3763450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 06时31分]"
-        },
-        {
-          "title": "酒价内参1月17日价格发布 核心产品显著下跌均价再创两月新低",
-          "url": "https://wallstreetcn.com/livenews/3039070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            13,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 14时42分]"
-        },
-        {
-          "title": "俄罗斯统计局：俄罗斯12月CPI环比上涨0.32%，低于上月的0.42%（路透社调查预期为0.5%）。",
-          "url": "https://flash.jin10.com/detail/20260117000242681800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时32分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
-          "url": "https://wallstreetcn.com/livenews/3039039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月16日（周五）晚盘收盘上涨0.03%报1031.0元/克；<br/>上海黄金交易所白银T+D 1月16日（周五）晚盘收盘下跌3.03%报22018.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260117023026141800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时45分 ~ 04时31分]"
-        },
-        {
-          "title": "周五（1月16日），韩元兑美元最终跌0.34%，报1473.61韩元。 本周，韩元累计下跌0.99%，整体低位震荡，特朗普的美国财长贝森特的谈话曾在1月14日带来一波短线反弹行情。",
-          "url": "https://wallstreetcn.com/livenews/3038957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时45分 ~ 04时31分]"
-        },
-        {
-          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3039052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 12时41分]"
-        },
-        {
-          "title": "美元指数16日上涨",
-          "url": "https://flash.jin10.com/detail/20260117043039247800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时30分 ~ 07时29分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报4084.85点，最近连续天累计上涨0.07%，整体大致持稳，1月11日北京时间22:10前后出现一波尖锐的冲高回落行情——最高达到6268.44点。 MarketVectorTM数字资产100中盘指数跌2.22%，报3725.95点，最近七天累跌1.99%，整体冲高回落。 MarketVector数字资产100指数跌1.72%，报19592.12点，最近七天累涨2.99%。 最近七天，比特币累涨4.92%，目前报94872美元；以太坊累涨6.40%，暂报3279美元；Solana累涨4.40%，狗狗币累跌2.99%，XRP累跌2.22%。",
-          "url": "https://wallstreetcn.com/livenews/3038945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 02时45分]"
-        },
-        {
-          "title": "美国总统特朗普赞赏股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3038917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时32分]"
-        },
-        {
-          "title": "本周，降息赢家指数累计上涨0.22%，周五（1月16日）报107.51点。 “特朗普关税输家”指数累跌0.75%，报118.52点。 “特朗普金融指数”累跌1.78%，报176.06点。 散户抱团概念股指数/迷因股（meme stock）指数累跌3.15%，报16.14点。",
-          "url": "https://wallstreetcn.com/livenews/3039029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
-          "url": "https://wallstreetcn.com/livenews/3039026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "周五（1月16日）欧市尾盘，英国10年期国债收益率涨1.2个基点，报4.4%，本周累计上涨2.6个基点，1月14日曾跌至4.336%。",
-          "url": "https://wallstreetcn.com/livenews/3038955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时26分]"
-        },
-        {
-          "title": "阿根廷MERVAL指数收涨0.28%，报293.5万点，本周累计下跌5.00%，1月12-15日持续走低。",
-          "url": "https://wallstreetcn.com/livenews/3039022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "美国法官在公司针对弗吉尼亚海上风电项目的诉讼中下达禁令，允许施工恢复，多米尼恩能源股价上涨1.5%。",
-          "url": "https://flash.jin10.com/detail/20260117014807508800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时26分]"
-        },
-        {
-          "title": "Salesforce本周累计下跌13%，创2024年以来最差单周表现。",
-          "url": "https://wallstreetcn.com/livenews/3039011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.8%，连续第八个交易日走高，报391.59点，创3月份以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 Kongsberg Gruppen ASA涨9.5%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3038939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "铜矿概念股普遍下跌，特朗普不愿意让白宫顾问哈塞特担任美联储主席。 泰克资源跌2.99%，美国铜指数基金跌2.77%，自由港跌2.33%，铜矿ETF跌1.9%，必和必拓ADR、力拓ADR、南方铜业、淡水河谷ADR至多跌1.9%，McEwen涨1.57%，Gold Com涨4.43%。",
-          "url": "https://wallstreetcn.com/livenews/3038937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "“新兴市场教父”：黄金已失去吸引力 中国股市上涨具备可持续性",
-          "url": "https://www.cls.cn/detail/2261030",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "周五（1月16日），彭博电动汽车价格回报指数跌0.72%，报3595.34点，本周累计上涨0.43%。",
-          "url": "https://wallstreetcn.com/livenews/3039006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "本周，标普累跌0.2%，道指累跌0.2%，纳指累跌0.5%，半导体指数涨3.9%，科技股七巨头指数跌1.4%，华尔街大行拉开四季度业绩报告序幕之际，银行指数跌1.6%。 周五当天，标普500指数初步微幅收跌，房地产板块涨1.2%，科技板块涨0.2%，电信板块跌0.7%。 纳斯达克100指数初步微幅收跌，成分股中，核电股CEG跌9.6%，Atlassian跌6.4%，Applovin跌6.4%，Palantir跌3.3%，博通涨2.6%，吉利德科学涨3.1%，美光科技涨7.4%。 Salesforce初步收跌2.8%，联合健康、3M跌超2%，领跌道指成分股，苹果跌1%，微软涨0.7%，霍尼韦尔、美国运通、IBM涨超2%。 费城半导体指数涨1.1%，银行指数跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3039002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周五（1月16日），南非富时/JSE非洲领先40可交易指数收跌0.73%，逼近11.2万点，本周累计上涨1.98%。",
-          "url": "https://wallstreetcn.com/livenews/3038932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "受原油价格下跌影响，哈罗德·哈姆将暂停巴肯页岩油钻探项目",
-          "url": "https://wallstreetcn.com/livenews/3038941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "美国两年期国债收益率上涨，此前特朗普称希望哈塞特留在国家经济委员会（NEC）。",
-          "url": "https://wallstreetcn.com/livenews/3038909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "资金 政策 产业",
       "match_count": 17,
       "titles": [
@@ -640,8 +653,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时11分 ~ 14时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时11分 ~ 15时27分]"
         },
         {
           "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
@@ -654,8 +667,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 15时27分]"
         },
         {
           "title": "柬埔寨将对中国公民试行免签政策",
@@ -680,11 +693,12 @@
             14,
             15,
             21,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 15时27分]"
         },
         {
           "title": "美联储副主席杰斐逊：关于劳动力供应，移民政策已放缓劳动力的整体增长。",
@@ -1011,11 +1025,12 @@
           "url": "https://flash.jin10.com/detail/20260117140618013800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时27分]"
         },
         {
           "title": "金价波动",
