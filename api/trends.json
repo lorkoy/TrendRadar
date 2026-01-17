@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-18T06:29:01.278707+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-01-18T07:27:55.525961+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时27分]"
+        },
+        {
+          "title": "商业航天概念股获机构组团调研，机构来访接待量居前的个股名单一览",
+          "url": "https://www.cls.cn/detail/2261200",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        }
+      ]
+    },
     {
       "keyword_group": "调整 期货 现货",
       "match_count": 1,
@@ -15,8 +43,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时27分]"
         }
       ]
     },
@@ -29,28 +57,12 @@
           "url": "https://www.cls.cn/detail/2261035",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时27分]"
         }
       ]
     },
@@ -63,11 +75,12 @@
           "url": "https://wallstreetcn.com/articles/3763504",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时27分]"
         }
       ]
     }
