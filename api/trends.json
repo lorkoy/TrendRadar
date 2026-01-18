@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T12:12:06.521066+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-01-18T13:33:02.604213+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "锚定“人造太阳” 中国聚变产业有望2030年迈向商业化",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时33分]"
         },
         {
           "title": "特斯拉与小米 YU7 均推出 7 年低息购车政策，对车企自身和竞争对手有何影响？消费者应如何「算账」？",
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 13时33分]"
         },
         {
           "title": "如何看待中小学上午推迟到校遭部分家长反对？这个政策有哪些利弊？",
@@ -41,8 +42,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 13时33分]"
+        },
+        {
+          "title": "万亿“存款搬家”风暴：存量资金2026年如何影响股债？",
+          "url": "https://wallstreetcn.com/premium/articles/3763186?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
         },
         {
           "title": "以色列总理办公室：美国宣布加沙执行委员会隶属于和平委员会的决定未经与以色列协调，且与以色列政策相悖。以色列将向美国国务卿提出此事。",
@@ -80,11 +92,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 12时12分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 13时33分]"
         },
         {
           "title": "2026年黄金牛市还会延续下去吗",
@@ -96,6 +109,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 12时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "哈塞特“出局”，但美债为何“不涨反跌”？",
+          "url": "https://wallstreetcn.com/articles/3763504",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时27分]"
+        },
+        {
+          "title": "全球狂买美债 中国为何“大甩卖”",
+          "url": "https://www.toutiao.com/trending/7596537658717785642/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
+        },
+        {
+          "title": "中国大规模抛售美债意味着什么",
+          "url": "https://www.toutiao.com/trending/7596539083501866505/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
         }
       ]
     },
@@ -112,26 +165,25 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时33分]"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "SZ SH HK",
       "match_count": 1,
       "titles": [
         {
-          "title": "哈塞特“出局”，但美债为何“不涨反跌”？",
-          "url": "https://wallstreetcn.com/articles/3763504",
-          "source": "华尔街见闻",
+          "title": "王力宏演唱会shallow官摄",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9Ashallow%E5%AE%98%E6%91%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时27分]"
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
         }
       ]
     }
