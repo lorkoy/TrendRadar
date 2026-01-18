@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T17:31:25.275454+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-01-18T18:31:46.319349+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "近一个月这些上市公司被“踏破门槛”！商业航天概念股获机构组团调研，机构来访接待量居前的个股名单一览",
+          "url": "https://www.cls.cn/detail/2261200",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     },
@@ -161,6 +172,34 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "王力宏演唱会shallow官摄",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9Ashallow%E5%AE%98%E6%91%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
+        },
+        {
+          "title": "新华保险(01336.HK)：2025年1月1日至2025年12月31日期间累计原保险保费收入为人民币1958.99亿元，同比增长15%。",
+          "url": "https://flash.jin10.com/detail/20260118172800042800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "调整 期货 现货",
       "match_count": 1,
       "titles": [
@@ -176,23 +215,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时33分 ~ 17时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "王力宏演唱会shallow官摄",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9Ashallow%E5%AE%98%E6%91%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 13时33分]"
         }
       ]
     }
