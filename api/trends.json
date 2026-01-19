@@ -1,23 +1,46 @@
 {
-  "generated_at": "2026-01-20T02:44:32.852246+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-01-20T03:26:55.581544+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "恒指期货夜盘收涨0.20%，报26640点，高水76点。",
+          "url": "https://flash.jin10.com/detail/20260120030400680800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "周一（1月19日）纽约尾盘，标普500股指期货最终跌0.88%，道指期货跌0.80%，纳斯达克100股指期货跌1.11%。 罗素2000股指期货跌1.01%。",
+          "url": "https://wallstreetcn.com/livenews/3039897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
         {
           "title": "纽约银日内涨幅超过6.5%，刷新盘中历史高位至94.365美元/盎司。 现货白银日内涨幅超过5.0%，刷新历史高位至94.6291美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3039870",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 02时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时26分]"
         },
         {
           "title": "现货白银日内大涨5.00%，现报94.58美元/盎司，将历史新高刷新至94.6美元/盎司。",
@@ -53,6 +76,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "布伦特3月原油期货收报63.94美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3039893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "内盘期货夜市多数收跌，焦炭跌约2.5%，焦煤跌1.9%",
@@ -91,8 +125,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时26分]"
         },
         {
           "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
@@ -103,8 +137,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时26分]"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：欧洲拥有一系列工具来保护自身利益。",
@@ -157,7 +191,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -167,8 +201,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时26分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
@@ -195,13 +229,24 @@
           "time_info": "[01时32分 ~ 02时44分]"
         },
         {
+          "title": "上海黄金交易所黄金T+D 1月19日（周一）晚盘收盘上涨0.69%报1047.6元/克；<br/>上海黄金交易所白银T+D 1月19日（周一）晚盘收盘上涨3.7%报23545.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260120023257720800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
           "title": "欧洲STOXX 600指数收跌1.19%，报607.06点，跳空低开之后低位震荡。 欧元区STOXX 50指数收跌1.72%，报5925.82点，跳空低开之后低位震荡。 富时泛欧绩优300指数收跌1.22%，报2420.61点。",
           "url": "https://wallstreetcn.com/livenews/3039860",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
         }
@@ -220,8 +265,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时26分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -230,11 +275,29 @@
           "ranks": [
             20,
             9,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9640元，较上周五夜盘收盘涨80点。成交量357.05亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3039901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         }
       ]
     },
@@ -250,8 +313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时26分]"
         }
       ]
     }
