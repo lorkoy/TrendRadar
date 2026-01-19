@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T19:31:43.092840+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-01-19T21:08:54.972145+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "世界周刊谈美国收紧移民政策",
@@ -283,6 +283,17 @@
           "time_info": "13时39分"
         },
         {
+          "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414856",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "日本反对党中道改革联合(CRA)有关基本政策的立场声明：将致力于纠正日元过度贬值，降低食品、燃料等日常必需品的价格。 对已获得当地社区同意并具备有效疏散方案的核电站，将允许重启；同时目标是在未来转向不依赖核能的社会。 将促进对灾害救援和基础设施的定向投资。 将利用设立日本主权财富基金所产生的收入，废除食品消费税。",
           "url": "https://wallstreetcn.com/livenews/3039527",
           "source": "华尔街见闻-快讯",
@@ -421,15 +432,378 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         }
       ]
     },
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 31,
+      "titles": [
+        {
+          "title": "12306 推出支付 30 分钟内发车前 4 小时以上免费退票服务，这一调整怎么样？你还期待哪些领域也能跟进？",
+          "url": "https://www.zhihu.com/question/1996276127224788109",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            10,
+            7,
+            5,
+            4,
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时17分 ~ 21时08分]"
+        },
+        {
+          "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 14时53分]"
+        },
+        {
+          "title": "三预警同时发布！重大气象灾害应急响应升级调整",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32412028",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 17时45分]"
+        },
+        {
+          "title": "IMF：预计经济增长将更加强劲，但需留意关税的提高和人工智能领域的调整",
+          "url": "https://flash.jin10.com/detail/20260119173920273800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
+          "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "欧洲主要股指期货下跌，欧洲斯托克50指数期货下跌1.51%，德国DAX指数期货下跌1.35%，英国富时100指数期货下跌0.48%。",
+          "url": "https://flash.jin10.com/detail/20260119150323921800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "德国国债期货涨至去年12月以来最高水平，最新上涨25个基点，报128.39。",
+          "url": "https://flash.jin10.com/detail/20260119101246685800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "夜盘期货开盘，沪银涨逾3%，沪镍、沪金涨逾1%；玻璃、沪锡、原油、甲醇跌逾1%，焦炭、燃油、液化石油气等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3039782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260119150133823800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "韩国3年期国债期货跌至2024年6月以来的最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3039541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时53分]"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.22%，10年期主力合约跌0.02%，5年期主力合约跌0.02%，2年期主力合约与昨日持平。",
+          "url": "https://wallstreetcn.com/livenews/3039604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时45分]"
+        },
+        {
+          "title": "保时捷中国总裁回应销量下滑：预期之内的调整",
+          "url": "https://wallstreetcn.com/livenews/3039571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 15时38分]"
+        },
+        {
+          "title": "欧洲主要股指期货下跌，法国CAC 40指数期货跌超2%",
+          "url": "https://wallstreetcn.com/livenews/3039600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时45分]"
+        },
+        {
+          "title": "A股迎重要调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%BF%8E%E9%87%8D%E8%A6%81%E8%B0%83%E6%95%B4%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 21时08分]"
+        },
+        {
+          "title": "韩国3年期国债期货跌至2024年6月以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260119132918747800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "国际现货铂金、钯金午盘报价",
+          "url": "https://flash.jin10.com/detail/20260119150119881800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约跌多涨少，玻璃跌近2%，沪锡、合成橡胶、SC原油、甲醇跌超1%。涨幅方面，沪银涨超3%，纯苯、沪镍、沪金涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260119210003665800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。纯苯涨超3%，沪银涨超2%，苯乙烯、工业硅、沪金涨超1%。跌幅方面，沪锡跌超5%，碳酸锂跌近4%，丁二烯橡胶跌超3%，铁矿石、玻璃跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260119150104246800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260119113123108800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260119113113029800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。沪银涨超2%，低硫燃料油（LU）、沪金、纯苯涨超1%。跌幅方面，沪锡跌超5%，碳酸锂跌近4%，铁矿石、玻璃、丁二烯橡胶、集运指数（欧线）、菜粕、沪铅跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260119113056146800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "广期所调整碳酸锂期货合约涨跌停板幅度和交易保证金标准",
+          "url": "https://wallstreetcn.com/livenews/3039766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.17%，10年期主力合约跌0.01%，5年期主力合约跌0.03%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3039493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "商品期货收盘，沪锡主力合约跌近6%，碳酸锂、BR橡胶跌超3%，玻璃、铁矿石、沪铅、菜籽粕、原木、苹果、生猪跌超2%。纯苯涨超3%，沪银涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3039591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "欧洲央行管委Radev：欧洲央行利率处于适当水平，价格风险保持平衡。 不应夸大欧元走强的影响。 价格前景出现明显变化可能会导致欧洲央行调整立场。",
+          "url": "https://wallstreetcn.com/livenews/3039687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "中财经文化：调整基金公司管理团队，将确保所涉相关基金在到期前合规依约有序退出",
+          "url": "https://wallstreetcn.com/livenews/3039586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260119124140458800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20260119204235335800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美国天然气期货日内暴涨9.00%，现报3.383美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260119140937839800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "美银Hartnett：“新全球秩序=新全球牛市=金银牛市”，牛市的最大风险是东亚货币升值",
@@ -635,6 +1009,17 @@
           "time_info": "16时45分"
         },
         {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "金十图示：2026年01月19日（周一）富时中国A50指数成分股午盘收盘行情一览：家电行业走强，银行板块涨跌不一",
           "url": "https://flash.jin10.com/detail/20260119113219849800",
           "source": "金十数据",
@@ -740,7 +1125,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -780,314 +1165,8 @@
       ]
     },
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "12306 推出支付 30 分钟内发车前 4 小时以上免费退票服务，这一调整怎么样？你还期待哪些领域也能跟进？",
-          "url": "https://www.zhihu.com/question/1996276127224788109",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9,
-            10,
-            7,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时17分 ~ 19时31分]"
-        },
-        {
-          "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 14时53分]"
-        },
-        {
-          "title": "三预警同时发布！重大气象灾害应急响应升级调整",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32412028",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时29分 ~ 17时45分]"
-        },
-        {
-          "title": "IMF：预计经济增长将更加强劲，但需留意关税的提高和人工智能领域的调整",
-          "url": "https://flash.jin10.com/detail/20260119173920273800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "欧洲主要股指期货下跌，欧洲斯托克50指数期货下跌1.51%，德国DAX指数期货下跌1.35%，英国富时100指数期货下跌0.48%。",
-          "url": "https://flash.jin10.com/detail/20260119150323921800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "德国国债期货涨至去年12月以来最高水平，最新上涨25个基点，报128.39。",
-          "url": "https://flash.jin10.com/detail/20260119101246685800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "股指期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20260119150133823800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "韩国3年期国债期货跌至2024年6月以来的最低水平。",
-          "url": "https://wallstreetcn.com/livenews/3039541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 14时53分]"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约跌0.22%，10年期主力合约跌0.02%，5年期主力合约跌0.02%，2年期主力合约与昨日持平。",
-          "url": "https://wallstreetcn.com/livenews/3039604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 16时45分]"
-        },
-        {
-          "title": "保时捷中国总裁回应销量下滑：预期之内的调整",
-          "url": "https://wallstreetcn.com/livenews/3039571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时38分]"
-        },
-        {
-          "title": "欧洲主要股指期货下跌，法国CAC 40指数期货跌超2%",
-          "url": "https://wallstreetcn.com/livenews/3039600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 16时45分]"
-        },
-        {
-          "title": "韩国3年期国债期货跌至2024年6月以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20260119132918747800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
-          "title": "国际现货铂金、钯金午盘报价",
-          "url": "https://flash.jin10.com/detail/20260119150119881800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨跌互现。纯苯涨超3%，沪银涨超2%，苯乙烯、工业硅、沪金涨超1%。跌幅方面，沪锡跌超5%，碳酸锂跌近4%，丁二烯橡胶跌超3%，铁矿石、玻璃跌近3%。",
-          "url": "https://flash.jin10.com/detail/20260119150104246800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260119113123108800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260119113113029800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。沪银涨超2%，低硫燃料油（LU）、沪金、纯苯涨超1%。跌幅方面，沪锡跌超5%，碳酸锂跌近4%，铁矿石、玻璃、丁二烯橡胶、集运指数（欧线）、菜粕、沪铅跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260119113056146800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.17%，10年期主力合约跌0.01%，5年期主力合约跌0.03%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3039493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "商品期货收盘，沪锡主力合约跌近6%，碳酸锂、BR橡胶跌超3%，玻璃、铁矿石、沪铅、菜籽粕、原木、苹果、生猪跌超2%。纯苯涨超3%，沪银涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3039591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "欧洲央行管委Radev：欧洲央行利率处于适当水平，价格风险保持平衡。 不应夸大欧元走强的影响。 价格前景出现明显变化可能会导致欧洲央行调整立场。",
-          "url": "https://wallstreetcn.com/livenews/3039687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "中财经文化：调整基金公司管理团队，将确保所涉相关基金在到期前合规依约有序退出",
-          "url": "https://wallstreetcn.com/livenews/3039586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260119124140458800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
-          "title": "美国天然气期货日内暴涨9.00%，现报3.383美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260119140937839800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "A股迎重要调整",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%BF%8E%E9%87%8D%E8%A6%81%E8%B0%83%E6%95%B4%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "SZ SH HK",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据日本放送协会NHK：东京电力公司将推迟重启柏崎刈羽核电站。",
@@ -1113,6 +1192,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时32分 ~ 07时28分]"
+        },
+        {
+          "title": "叙利亚石油公司负责人表示，美国公司HKN能源是投资叙利亚能源领域的美国企业之一。",
+          "url": "https://flash.jin10.com/detail/20260119205531065800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     },
@@ -1127,7 +1217,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
