@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T07:30:00.029548+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-01-20T10:24:55.650059+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "现货白银冲高后快速走低，短线下跌幅度接近1美元，现报94.05美元/盎司。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -140,6 +140,50 @@
           "time_info": "[00时40分 ~ 00时41分]"
         },
         {
+          "title": "中证1000股指期货（IM）主力合约向下触及8100点，日内跌1.29%。",
+          "url": "https://flash.jin10.com/detail/20260120101225048800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "现货白银跌破93美元/盎司，日内跌1.38%。",
+          "url": "https://flash.jin10.com/detail/20260120095801024800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "现货钯金回落至1800美元/盎司下方，日内跌2.27%。",
+          "url": "https://flash.jin10.com/detail/20260120095632116800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "A股商业航天概念震荡调整，航天动力触及跌停，华菱线缆逼近跌停，大唐电信、三维通信、神剑股份、海格通信跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3040029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "内盘期货夜市多数收跌，焦炭跌约2.5%，焦煤跌1.9%",
           "url": "https://wallstreetcn.com/livenews/3039837",
           "source": "华尔街见闻-快讯",
@@ -160,12 +204,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.05%，10年期主力合约涨0.00%，5年期主力合约涨0.04%，2年期主力合约与昨日持平。",
+          "url": "https://wallstreetcn.com/livenews/3040016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "5 家光伏龙头合计预亏超 289 亿元，光伏产业为什么大面积亏损？接下来可能如何发展？",
@@ -176,8 +231,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 10时24分]"
         },
         {
           "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
@@ -188,8 +243,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 10时24分]"
+        },
+        {
+          "title": "发改委：正在谋划推进一批“十五五”时期高技术产业标志性引领性重大工程",
+          "url": "https://wallstreetcn.com/livenews/3040059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "必和必拓(BHP.N)：中国大宗商品需求依然强劲，在政策措施和稳健出口的支撑下保持韧性。",
@@ -294,9 +360,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "高市早苗宣布2月8号举行众议院选举：将结束过度紧缩的财政政策",
+          "url": "https://wallstreetcn.com/articles/3763597",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "券商测算：2026年A股潜在的增量资金规模有望达到3万亿元左右",
@@ -305,9 +382,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "日本央行审议委员木内登英：将考量食品消费税减免对收益率及汇率的影响。 通过审查超额补贴来筹集资金也是一种选择。 股市与汇市的稳定波动至关重要。 将以高度紧迫感监控市场动向。 实施消费税减免时将注重财政纪律。",
+          "url": "https://wallstreetcn.com/livenews/3040040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -319,12 +407,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "广西：调优人造板产业结构 推进国有林业企业战略性重组和专业化整合",
+          "url": "https://wallstreetcn.com/livenews/3040032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "国家统计局：2025年第四季度金融业GDP较上年同期增长3.3%，房地产业GDP较上年同期下降1%。",
+          "url": "https://wallstreetcn.com/livenews/3040023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -338,13 +448,24 @@
           "time_info": "[00时40分 ~ 03时26分]"
         },
         {
+          "title": "创业板指跌超2%，沪指跌0.68%，深成指跌1.69%，商业航天、算力硬件、海南、军工等方向跌幅居前，沪深京三市下跌个股近3600只。",
+          "url": "https://wallstreetcn.com/livenews/3040065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "月之暗面估值据悉上涨5亿美元至48亿美元",
           "url": "https://flash.jin10.com/detail/20260120065805047800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -409,6 +530,39 @@
           "time_info": "[01时32分 ~ 02时44分]"
         },
         {
+          "title": "创业板指跌超1%，沪指跌0.27%，深成指跌0.81%，海南自贸区、卫星互联网、光通信、可控核聚变等方向领跌，沪深京三市下跌个股近2600只。",
+          "url": "https://wallstreetcn.com/livenews/3040045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "A股房地产板块异动拉升，城投控股、合肥城建双双涨停，保利发展涨超5%，招商蛇口、滨江集团、华侨城A等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3040031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "上证指数开盘报4116.37点，涨0.06%。 深证成指开盘报14307.55点，涨0.09%。 创业板指开盘报3340.46点，涨0.09%。 沪深300开盘报4736.91点，涨0.05%。 科创50开盘报1508.37点，涨0.10%。 中证500开盘报8307.64点，涨0.24%。 中证1000开盘报8271.78点，涨0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3040013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "欧洲STOXX 600指数收跌1.19%，报607.06点，跳空低开之后低位震荡。 欧元区STOXX 50指数收跌1.72%，报5925.82点，跳空低开之后低位震荡。 富时泛欧绩优300指数收跌1.22%，报2420.61点。",
           "url": "https://wallstreetcn.com/livenews/3039860",
           "source": "华尔街见闻-快讯",
@@ -423,7 +577,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -432,9 +586,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 10时24分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9640元，较上周五夜盘收盘涨80点。成交量357.05亿美元。",
@@ -460,6 +614,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "人民币兑美元中间价续创逾32个月新高",
+          "url": "https://wallstreetcn.com/livenews/3040008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         }
       ]
     },
@@ -478,8 +643,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 10时24分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -524,6 +689,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025年赴日本外国游客首次突破4000万人次。12月中国赴日本游客人数同比下降45%。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3040026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         }
       ]
     },
