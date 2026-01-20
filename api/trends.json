@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T18:39:06.105840+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-01-20T19:32:28.732855+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "现货黄金突破4700美元",
@@ -15,11 +15,24 @@
             16,
             11,
             4,
-            2
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时51分 ~ 19时32分]"
+        },
+        {
+          "title": "创业板跌近2%，化工、黄金逆势大涨，商业航天、算力硬件集体调整，恒科指跌超1%，泡泡玛特涨9%，碳酸锂涨停",
+          "url": "https://wallstreetcn.com/articles/3763658",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时51分 ~ 18时39分]"
+          "time_info": "[16时44分 ~ 19时32分]"
         },
         {
           "title": "现货白银冲高后快速走低，短线下跌幅度接近1美元，现报94.05美元/盎司。",
@@ -77,18 +90,6 @@
           "time_info": "17时42分"
         },
         {
-          "title": "创业板跌近2%，化工、黄金逆势大涨，商业航天、算力硬件集体调整，恒科指跌超1%，泡泡玛特涨9%，碳酸锂涨停",
-          "url": "https://wallstreetcn.com/articles/3763658",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时44分 ~ 18时39分]"
-        },
-        {
           "title": "恒指期货夜盘收涨0.20%，报26640点，高水76点。",
           "url": "https://flash.jin10.com/detail/20260120030400680800",
           "source": "金十数据",
@@ -112,6 +113,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时26分 ~ 05时29分]"
+        },
+        {
+          "title": "【焦点复盘】金融权重股护盘，沪指探底回升收十字星，算力硬件股遭深幅调整",
+          "url": "https://www.cls.cn/detail/2263713",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 19时32分]"
         },
         {
           "title": "纽约银日内涨幅超过6.5%，刷新盘中历史高位至94.365美元/盎司。 现货白银日内涨幅超过5.0%，刷新历史高位至94.6291美元/盎司。",
@@ -176,17 +188,6 @@
           "time_info": "[05时29分 ~ 06时31分]"
         },
         {
-          "title": "【焦点复盘】金融权重股护盘，沪指探底回升收十字星，算力硬件股遭深幅调整",
-          "url": "https://www.cls.cn/detail/2263713",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
           "title": "周一（1月19日）纽约尾盘，现货黄金涨1.63%，报4670.87美元/盎司，亚太盘初急剧拉升、北京时间07:32涨至4690.59美元创历史新高。 现货白银涨4.66%，报94.3270美元/盎司，亚太盘初显著拉升，之后也持续高位震荡，01:31刷新历史高位至94.6805美元。",
           "url": "https://wallstreetcn.com/livenews/3039930",
           "source": "华尔街见闻-快讯",
@@ -197,6 +198,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "上期所：调整铜、铝、黄金、白银等期货相关合约交易保证金比例和涨跌停板幅度",
+          "url": "https://wallstreetcn.com/livenews/3040405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时32分]"
         },
         {
           "title": "12306 推出支付 30 分钟内发车前 4 小时以上免费退票服务，这一调整怎么样？你还期待哪些领域也能跟进？",
@@ -249,7 +262,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -263,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：在贸易紧张局势期间应保持冷静。 关税显然对经济活动不利。 必须全面评估新关税可能产生的所有影响。 预计欧洲将出现“温和”的通胀效应。 价格下跌的风险至少与价格上涨的风险一样大。 若通胀持续偏离2%目标，欧洲央行将调整应对。 法国财政预算进展方面传来好消息。",
+          "url": "https://wallstreetcn.com/livenews/3040432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "现货白银跌破93美元/盎司，日内跌1.38%。",
@@ -329,17 +353,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
-        },
-        {
-          "title": "上期所：调整铜、铝、黄金、白银等期货相关合约交易保证金比例和涨跌停板幅度",
-          "url": "https://wallstreetcn.com/livenews/3040405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
         },
         {
           "title": "现货钯金回落至1800美元/盎司下方，日内跌2.27%。",
@@ -568,7 +581,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -623,7 +636,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         }
@@ -631,7 +644,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "5 家光伏龙头合计预亏超 289 亿元，光伏产业为什么大面积亏损？接下来可能如何发展？",
@@ -730,6 +743,17 @@
           "time_info": "14时51分"
         },
         {
+          "title": "招商轮船：拟通过下属全资子公司设立的单船公司与关联方招商局工业集团有限公司下属公司签署《船舶订造协议》，订造4艘装配脱硫塔的3,000TEU型传统燃料集装箱船，项目总投资金额预计不超过人民币13.24亿元。",
+          "url": "https://wallstreetcn.com/livenews/3040442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "财政部发布关于优化实施个人消费贷款财政贴息政策有关事项的通知",
           "url": "https://wallstreetcn.com/livenews/3040119",
           "source": "华尔街见闻-快讯",
@@ -775,6 +799,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 13时38分]"
+        },
+        {
+          "title": "【数据看盘】多家量化资金激烈博弈保变电气 黄河路席位2.89亿元甩卖三维通信",
+          "url": "https://www.cls.cn/detail/2263738",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 19时32分]"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：欧洲拥有一系列工具来保护自身利益。",
@@ -842,17 +877,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
-          "title": "【数据看盘】多家量化资金激烈博弈保变电气 黄河路席位2.89亿元甩卖三维通信",
-          "url": "https://www.cls.cn/detail/2263738",
-          "source": "财联社热门",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1164,7 +1188,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -1373,6 +1397,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "LME三个月期锡价格上涨逾5%，至每公吨52,400美元。",
+          "url": "https://flash.jin10.com/detail/20260120191630495800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "创业板指跌超1%，沪指跌0.27%，深成指跌0.81%，海南自贸区、卫星互联网、光通信、可控核聚变等方向领跌，沪深京三市下跌个股近2600只。",
           "url": "https://wallstreetcn.com/livenews/3040045",
           "source": "华尔街见闻-快讯",
@@ -1415,6 +1450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "美国30年期掉期利差下跌4个基点，有望创下自4月以来的最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3040434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "韩国KOSPI指数上涨0.56%，创下4,932.070点的历史新高。",
@@ -1673,8 +1719,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时29分 ~ 18时39分]"
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 19时32分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9640元，较上周五夜盘收盘涨80点。成交量357.05亿美元。",
@@ -1754,8 +1800,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 18时39分]"
+          "appearance_count": 23,
+          "time_info": "[00时40分 ~ 19时32分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -1779,11 +1825,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时42分 ~ 18时39分]"
+          "appearance_count": 5,
+          "time_info": "[17时42分 ~ 19时32分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）上海金午盘价为1055元/克，较国际金价(1054.32元/克)，高0.68元/克",
