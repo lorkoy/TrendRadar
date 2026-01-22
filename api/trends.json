@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T04:38:59.866493+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-01-23T05:33:19.167192+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "现货黄金站上4890美元/盎司",
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
-        },
-        {
-          "title": "现货黄金日内大涨2.00%，现报4926.05美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260123041549952800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
         },
         {
           "title": "现货铂金首次突破2600美元/盎司",
@@ -54,6 +43,18 @@
           "time_info": "[01时38分 ~ 02时47分]"
         },
         {
+          "title": "现货黄金日内大涨2.00%，现报4926.05美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260123041549952800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时33分]"
+        },
+        {
           "title": "巴斯夫全年调整后EBITDA初步数据66亿欧元，预估68.5亿欧元。",
           "url": "https://wallstreetcn.com/livenews/3042256",
           "source": "华尔街见闻-快讯",
@@ -65,6 +66,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时47分 ~ 04时38分]"
+        },
+        {
+          "title": "现货黄金日内涨幅扩大至2%，报4927.91美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3042284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时33分]"
+        },
+        {
+          "title": "报道：Millennium再度调整架构 拟新成立信用交易部门",
+          "url": "https://wallstreetcn.com/livenews/3042276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时33分]"
+        },
+        {
+          "title": "WTI 3月原油期货收跌1.26美元，跌幅2.08%，报59.36美元/桶。 布伦特3月原油期货收跌1.18美元，跌幅1.81%，报64.06美元/桶。 NYMEX 2月天然气期货收涨将近3.49%，报5.0450美元/百万英热单位。 NYMEX 2月汽油期货收报1.8172美元/加仑，NYMEX 2月取暖油期货收报2.3668美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3042275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时33分]"
         },
         {
           "title": "现货黄金日内涨幅达1.5%，报4904.64美元/盎司。",
@@ -79,15 +116,15 @@
           "time_info": "[02时47分 ~ 03时32分]"
         },
         {
-          "title": "现货黄金日内涨幅扩大至2%，报4927.91美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3042284",
+          "title": "芝加哥小麦、豆粕期货涨约1.6%",
+          "url": "https://wallstreetcn.com/livenews/3042296",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "05时33分"
         },
         {
           "title": "现货铂金日内涨3%，创下2558.20美元/盎司的历史新高。",
@@ -99,28 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
-        },
-        {
-          "title": "报道：Millennium再度调整架构 拟新成立信用交易部门",
-          "url": "https://wallstreetcn.com/livenews/3042276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "WTI 3月原油期货收跌1.26美元，跌幅2.08%，报59.36美元/桶。 布伦特3月原油期货收跌1.18美元，跌幅1.81%，报64.06美元/桶。 NYMEX 2月天然气期货收涨将近3.49%，报5.0450美元/百万英热单位。 NYMEX 2月汽油期货收报1.8172美元/加仑，NYMEX 2月取暖油期货收报2.3668美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3042275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
         },
         {
           "title": "现货黄金日内涨超1.00%，现报4877.51美元/盎司。",
@@ -151,7 +166,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -184,7 +199,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -224,8 +239,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时33分]"
         },
         {
           "title": "汇丰中国财富洞察：促增长与重改革并行，政策托举和流动性充裕继续支撑市场|中国观点",
@@ -235,8 +250,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时33分]"
         },
         {
           "title": "央行明日开展9000亿元MLF操作 加码呵护资金面平稳 市场预计短期内降准可能性不大",
@@ -246,8 +261,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时33分]"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
@@ -255,22 +270,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时38分]"
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时33分]"
         },
         {
           "title": "达美航空公司：为尽量减少冬季风暴“弗恩”带来的干扰，科罗拉多州已针对北美东部发布风暴豁免政策。",
           "url": "https://flash.jin10.com/detail/20260123034804831800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时33分]"
         },
         {
           "title": "地缘政治和财政恶化推高风险溢价 北欧资金警惕美国资产风险",
@@ -279,7 +296,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -342,8 +359,20 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "上证50八连跌！此前历史仅有3次，成分股均跌超2%，银行、食饮跌幅明显",
+          "url": "https://www.cls.cn/detail/2266624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时33分]"
+        },
         {
           "title": "明晟公司MSCI北欧国家指数涨1.6%，连续三个交易日走高、创11月11日（当天收涨2.1%）一来最佳单日表现，报390.84点。 在十个板块中，北欧医疗保健板块涨幅最大。 挪威电信（Telenor ASA）收涨7.0%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3042206",
@@ -356,27 +385,15 @@
           "time_info": "00时46分"
         },
         {
-          "title": "上证50八连跌！此前历史仅有3次，成分股均跌超2%，银行、食饮跌幅明显",
-          "url": "https://www.cls.cn/detail/2266624",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时38分]"
-        },
-        {
-          "title": "非美货币普遍上涨，欧元涨超0.5%，瑞郎涨超0.7%，澳元、纽元涨约1.1%",
-          "url": "https://wallstreetcn.com/livenews/3042285",
+          "title": "标普500指数初步收涨0.5%，电信、可选消费板块涨超1%，科技板块涨0.6%，房地产板块跌1%。 纳斯达克100指数初步收涨0.7%，成分股中，Datadog涨6.5%，Meta涨5.6%，MercadoLibre涨5%，特斯拉涨4%，奈飞跌2.3%，新思科技跌2.4%，罗斯百货跌2.6%，拉姆研究跌3.4%。 Salesforce初步收涨2.9%，3M涨2.9%，宝洁涨2.7%，美国运通涨2.1%，联合健康涨1.9%，霍尼韦尔涨1.5%，领跑道指成分股，IBM、沃尔玛、SHW、Merck则至少跌约1%。",
+          "url": "https://wallstreetcn.com/livenews/3042299",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "05时33分"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月22日（周四）晚盘收盘上涨1.48%报1095.92元/克；<br/>上海黄金交易所白银T+D 1月22日（周四）晚盘收盘上涨5.67%报24345.0元/千克。",
@@ -389,6 +406,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时32分]"
+        },
+        {
+          "title": "非美货币普遍上涨，欧元涨超0.5%，瑞郎涨超0.7%，澳元、纽元涨约1.1%",
+          "url": "https://wallstreetcn.com/livenews/3042285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时33分]"
+        },
+        {
+          "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
+          "url": "https://wallstreetcn.com/articles/3763888",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 05时33分]"
         },
         {
           "title": "美股稀土概念涨势扩大，USAR涨超20%领升板块；CRML涨超14%，将在沙特阿拉伯设立稀土加工厂；MP materials涨超7%。",
@@ -416,8 +456,41 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260123050525773800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "金十图示：2026年01月22日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260123050514385800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘后跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260123050245110800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
           "url": "https://wallstreetcn.com/articles/3763863",
@@ -436,11 +509,23 @@
           "url": "https://wallstreetcn.com/articles/3763880",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时47分 ~ 04时38分]"
+          "appearance_count": 5,
+          "time_info": "[02时47分 ~ 05时33分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 阿里巴巴涨5%",
+          "url": "https://flash.jin10.com/detail/20260123050139083800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股盘中）",
@@ -478,19 +563,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时38分]"
-        },
-        {
-          "title": "两年期美债收益率涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3042290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时33分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
@@ -502,8 +576,60 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时33分]"
+        },
+        {
+          "title": "两年期美债收益率涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3042290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数跌0.4%",
+          "url": "https://wallstreetcn.com/livenews/3042282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时33分]"
+        },
+        {
+          "title": "美元指数DXY跌约0.5% 非美货币日内走高",
+          "url": "https://flash.jin10.com/detail/20260123002146902800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美元指数DXY日内跌超0.50%，现报98.30。",
+          "url": "https://flash.jin10.com/detail/20260123044526005800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         }
       ]
     },
@@ -520,50 +646,24 @@
             27,
             26,
             16,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时33分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9672元，较周三夜盘收盘跌32点。成交量349.69亿美元。",
           "url": "https://wallstreetcn.com/livenews/3042269",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数跌0.4%",
-          "url": "https://wallstreetcn.com/livenews/3042282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "美元指数DXY跌约0.5% 非美货币日内走高",
-          "url": "https://flash.jin10.com/detail/20260123002146902800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时33分]"
         }
       ]
     }
