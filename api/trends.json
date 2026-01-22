@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T13:37:53.250527+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-01-22T14:49:27.574831+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "超200股已跌破“924”！千亿市值权重占一成，这些板块临近行情起点",
@@ -80,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -153,8 +153,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时49分]"
         },
         {
           "title": "美元指数21日上涨",
@@ -209,7 +209,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -220,7 +220,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -286,7 +286,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -297,9 +297,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "日本40年期国债收益率下跌7.5个基点，至3.980%。",
+          "url": "https://flash.jin10.com/detail/20260122135156460800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "隔夜shibor报1.4130%，上涨9.10个基点",
@@ -341,7 +352,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -352,7 +363,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -374,7 +385,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -388,286 +399,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "【数据看盘】机构和游资激烈博弈通富微电 7亿元资金抢筹中钨高新",
-          "url": "https://www.cls.cn/detail/2265243",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时35分]"
         },
         {
-          "title": "南向资金追踪｜单日净流入超139亿港元创近两周新高 大举加仓中国人寿及快手",
-          "url": "https://www.cls.cn/detail/2265317",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时35分]"
-        },
-        {
-          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
-          "url": "https://wallstreetcn.com/articles/3763773",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时55分 ~ 07时35分]"
-        },
-        {
-          "title": "【每日收评】科创50涨超3.5%，半导体产业链全线爆发，贵金属板块强者恒强",
-          "url": "https://www.cls.cn/detail/2265139",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时35分]"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：印度对于维持欧洲的“经济韧性”正变得“不可或缺”。",
-          "url": "https://flash.jin10.com/detail/20260122030414164800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "2026年第一批936亿元超长期特别国债支持设备更新资金已经下达",
-          "url": "https://wallstreetcn.com/livenews/3041667",
+          "title": "A股可控核聚变板块震荡走高，浙富控股午后涨停，雪人集团、西部材料此前封板，中国核建、哈焊华通、王子新材跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3041785",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：印度和欧盟将合作制定人员流动框架，以“促进”季节性工人、学生和高技能专业人员的流动。",
-          "url": "https://flash.jin10.com/detail/20260122030324521800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：印度和欧盟将就信息安全协议展开谈判。",
-          "url": "https://flash.jin10.com/detail/20260122030205959800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "分析人士：商业航天产业趋势已来，太空光伏或成下一个增长蓝海",
-          "url": "https://wallstreetcn.com/livenews/3041558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "以色列计划出售其部分最大武器制造商的股份，以筹集资金来弥补过去两年冲突导致的国防开支激增。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3041778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：印度与欧盟的自由贸易协定将开放市场，消除壁垒。",
-          "url": "https://flash.jin10.com/detail/20260122025927391800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "超600家上市公司预告2025年业绩，新兴产业增势亮眼",
-          "url": "https://wallstreetcn.com/livenews/3041542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时35分]"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：印度和欧盟必须成为“雄心勃勃的合作伙伴”。",
-          "url": "https://flash.jin10.com/detail/20260122025907888800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：印度和欧盟共同承担维护国际秩序和联合国宪章的责任。印度和欧盟已重拾政治动力，并拥有明确的目标。",
-          "url": "https://flash.jin10.com/detail/20260122025230088800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：印度和欧盟峰会“必须兑现”。",
-          "url": "https://flash.jin10.com/detail/20260122024954323800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：印欧峰会是双边关系的“关键时刻”。",
-          "url": "https://flash.jin10.com/detail/20260122024917665800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟将推进与印度的安全与防务伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260122001809849800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "策略师：特朗普的逆转应有助于稳定美元，但美国政策仍极不稳定",
-          "url": "https://flash.jin10.com/detail/20260122094816162800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "2025财政政策成绩单来了",
-          "url": "https://s.weibo.com/weibo?q=%232025%E8%B4%A2%E6%94%BF%E6%94%BF%E7%AD%96%E6%88%90%E7%BB%A9%E5%8D%95%E6%9D%A5%E4%BA%86%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "越来越多日企视加息为不利因素 日本央行面临政策挑战",
-          "url": "https://flash.jin10.com/detail/20260122130200563800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "新加坡金管局：将于1月29日发布货币政策声明。",
-          "url": "https://flash.jin10.com/detail/20260122110058411800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "农业农村部发展规划司：2026年将持续落实肉牛奶牛产业各项纾困政策",
-          "url": "https://wallstreetcn.com/livenews/3041714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "Citadel（城堡）的Ken Griffin：美国总统特朗普在为美国工人而努力。 特朗普必须弄明白，美国（应该）欢迎合法移民。 特朗普针对南部边境的那些政策“取得巨大成功”。 住房市场的真正问题在于缺乏供应。 住房许可太低，建筑规范臃肿冗长。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3041403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "复旦团队研制出“纤维芯片” 有望为脑机接口等未来产业提供关键支撑",
-          "url": "https://wallstreetcn.com/livenews/3041623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "14时49分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
@@ -896,6 +644,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "现货白银日内涨超1.00%，现报94.01美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260122140256941800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约跌0.02%，10年期主力合约跌0.02%，5年期主力合约跌0.01%，2年期主力合约跌0.02%。",
           "url": "https://wallstreetcn.com/livenews/3041722",
           "source": "华尔街见闻-快讯",
@@ -905,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "现货白银日内涨幅达1%，报94.07美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3041806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "现货铂金下跌逾3%，至每盎司2388.45美元。",
@@ -918,6 +688,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "银行家表示，印度央行过去两天进行了逾20亿美元的外汇掉期操作，以抵消美元现货抛售造成的流动性流失。这表明央行正致力于缓解汇率压力，同时避免加剧银行体系流动性紧张。",
+          "url": "https://flash.jin10.com/detail/20260122134602361800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
           "title": "国内期货主力合约开盘涨跌不一，沥青、不锈钢涨超2%，合成橡胶、燃油、棕榈油、苯乙烯（EB）、低硫燃料油（LU）、SC原油涨超1%；铂跌超4%，钯跌超3%，沪银跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3041628",
           "source": "华尔街见闻-快讯",
@@ -929,11 +710,329 @@
           "time_info": "10时28分"
         },
         {
+          "title": "美国天然气期货价格飙升至2022年以来最高水平，受寒流影响。",
+          "url": "https://wallstreetcn.com/livenews/3041798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
           "title": "富时中国A50指数期货盘初涨0.31%，上一个交易日夜盘收涨0.29%。",
           "url": "https://wallstreetcn.com/livenews/3041625",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "【数据看盘】机构和游资激烈博弈通富微电 7亿元资金抢筹中钨高新",
+          "url": "https://www.cls.cn/detail/2265243",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时35分]"
+        },
+        {
+          "title": "南向资金追踪｜单日净流入超139亿港元创近两周新高 大举加仓中国人寿及快手",
+          "url": "https://www.cls.cn/detail/2265317",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时35分]"
+        },
+        {
+          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
+          "url": "https://wallstreetcn.com/articles/3763773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时55分 ~ 07时35分]"
+        },
+        {
+          "title": "【每日收评】科创50涨超3.5%，半导体产业链全线爆发，贵金属板块强者恒强",
+          "url": "https://www.cls.cn/detail/2265139",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时35分]"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：印度对于维持欧洲的“经济韧性”正变得“不可或缺”。",
+          "url": "https://flash.jin10.com/detail/20260122030414164800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "2026年第一批936亿元超长期特别国债支持设备更新资金已经下达",
+          "url": "https://wallstreetcn.com/livenews/3041667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "世界人工智能大会“南下”：内地AI产业实践与香港国际枢纽的一次战略握手",
+          "url": "https://wallstreetcn.com/livenews/3041830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：印度和欧盟将合作制定人员流动框架，以“促进”季节性工人、学生和高技能专业人员的流动。",
+          "url": "https://flash.jin10.com/detail/20260122030324521800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：印度和欧盟将就信息安全协议展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260122030205959800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "分析人士：商业航天产业趋势已来，太空光伏或成下一个增长蓝海",
+          "url": "https://wallstreetcn.com/livenews/3041558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "以色列计划出售其部分最大武器制造商的股份，以筹集资金来弥补过去两年冲突导致的国防开支激增。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3041778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：印度与欧盟的自由贸易协定将开放市场，消除壁垒。",
+          "url": "https://flash.jin10.com/detail/20260122025927391800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "超600家上市公司预告2025年业绩，新兴产业增势亮眼",
+          "url": "https://wallstreetcn.com/livenews/3041542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时35分]"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：印度和欧盟必须成为“雄心勃勃的合作伙伴”。",
+          "url": "https://flash.jin10.com/detail/20260122025907888800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：印度和欧盟共同承担维护国际秩序和联合国宪章的责任。印度和欧盟已重拾政治动力，并拥有明确的目标。",
+          "url": "https://flash.jin10.com/detail/20260122025230088800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：印度和欧盟峰会“必须兑现”。",
+          "url": "https://flash.jin10.com/detail/20260122024954323800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：印欧峰会是双边关系的“关键时刻”。",
+          "url": "https://flash.jin10.com/detail/20260122024917665800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟将推进与印度的安全与防务伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260122001809849800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "策略师：特朗普的逆转应有助于稳定美元，但美国政策仍极不稳定",
+          "url": "https://flash.jin10.com/detail/20260122094816162800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "2025财政政策成绩单来了",
+          "url": "https://s.weibo.com/weibo?q=%232025%E8%B4%A2%E6%94%BF%E6%94%BF%E7%AD%96%E6%88%90%E7%BB%A9%E5%8D%95%E6%9D%A5%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "越来越多日企视加息为不利因素 日本央行面临政策挑战",
+          "url": "https://flash.jin10.com/detail/20260122130200563800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260122141114008800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "新加坡金管局：将于1月29日发布货币政策声明。",
+          "url": "https://flash.jin10.com/detail/20260122110058411800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "农业农村部发展规划司：2026年将持续落实肉牛奶牛产业各项纾困政策",
+          "url": "https://wallstreetcn.com/livenews/3041714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "Citadel（城堡）的Ken Griffin：美国总统特朗普在为美国工人而努力。 特朗普必须弄明白，美国（应该）欢迎合法移民。 特朗普针对南部边境的那些政策“取得巨大成功”。 住房市场的真正问题在于缺乏供应。 住房许可太低，建筑规范臃肿冗长。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3041403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "中核集团：2026年要积极扩大有效投资 着力构建能力强健的核燃料循环产业",
+          "url": "https://wallstreetcn.com/livenews/3041794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "复旦团队研制出“纤维芯片” 有望为脑机接口等未来产业提供关键支撑",
+          "url": "https://wallstreetcn.com/livenews/3041623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -966,8 +1065,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 13时37分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 14时49分]"
         },
         {
           "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
@@ -1007,6 +1106,18 @@
           "time_info": "[05时36分 ~ 06时35分]"
         },
         {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时49分]"
+        },
+        {
           "title": "美股收盘：特朗普助力 三大股指涨超1%",
           "url": "https://flash.jin10.com/detail/20260122050202493800",
           "source": "金十数据",
@@ -1030,18 +1141,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时35分 ~ 05时36分]"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 13时37分]"
         },
         {
           "title": "美股地区银行指数涨4.7%，创8月份以来最大单日涨幅。",
@@ -1149,11 +1248,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时49分]"
         },
         {
           "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
@@ -1277,8 +1377,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时49分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
