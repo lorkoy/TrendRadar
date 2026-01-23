@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T04:36:20.592139+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-01-24T05:31:18.220567+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "现货白银站上102美元/盎司",
@@ -14,9 +14,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时31分]"
         },
         {
           "title": "纽约期银向上触及102美元/盎司，日内涨5.84%。现货白银现报101.7美元/盎司。",
@@ -25,22 +25,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时31分]"
         },
         {
-          "title": "上期所原油期货2503合约夜盘收涨2.37%，报449.80元人民币/桶。 沪金夜盘收涨1.66%，沪银收涨6.32%。",
-          "url": "https://wallstreetcn.com/livenews/3043094",
+          "title": "芝加哥小麦期货本周涨超2.2%，豆粕累涨约3.5%，纽约可可跌17%逼近4000美元关口",
+          "url": "https://wallstreetcn.com/livenews/3043120",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            9,
-            15
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "恒指期货夜盘收涨0.20%，报26772点，高水22点。",
@@ -51,8 +49,34 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 05时31分]"
+        },
+        {
+          "title": "上期所原油期货2503合约夜盘收涨2.37%，报449.80元人民币/桶。 沪金夜盘收涨1.66%，沪银收涨6.32%。",
+          "url": "https://wallstreetcn.com/livenews/3043094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 05时31分]"
+        },
+        {
+          "title": "WTI 3月原油期货收涨1.71美元，涨幅2.88%，报61.07美元/桶。 NYMEX 2月天然气期货收报5.2750美元/百万英热单位。 NYMEX 2月汽油期货收报1.8510美元/加仑，NYMEX 2月取暖油期货收报2.4285美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3043105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时36分]"
+          "time_info": "[04时36分 ~ 05时31分]"
         },
         {
           "title": "现货白银站上100美元",
@@ -65,6 +89,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时33分]"
+        },
+        {
+          "title": "达美航空：预计俄亥俄河谷、田纳西河谷、纳什维尔以及罗利-达勒姆地区航班将取消。预计明天上午将对亚特兰大和东北地区航班时刻表进行进一步调整。",
+          "url": "https://flash.jin10.com/detail/20260124032124917800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时31分]"
         },
         {
           "title": "分析师：现货白银历史性进入“三位数”时代 此后或进入未知领域",
@@ -115,26 +150,26 @@
           "time_info": "[02时48分 ~ 03时31分]"
         },
         {
-          "title": "WTI 3月原油期货收涨1.71美元，涨幅2.88%，报61.07美元/桶。 NYMEX 2月天然气期货收报5.2750美元/百万英热单位。 NYMEX 2月汽油期货收报1.8510美元/加仑，NYMEX 2月取暖油期货收报2.4285美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3043105",
+          "title": "纽约银日内涨幅达6.5%，报102.64美元/盎司。 现货白银日内涨幅达6.5%，报102.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3043117",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时31分"
         },
         {
-          "title": "达美航空：预计俄亥俄河谷、田纳西河谷、纳什维尔以及罗利-达勒姆地区航班将取消。预计明天上午将对亚特兰大和东北地区航班时刻表进行进一步调整。",
-          "url": "https://flash.jin10.com/detail/20260124032124917800",
-          "source": "金十数据",
+          "title": "美国商品期货交易委员会（CFTC）：1月20日当周，投机者所持NYMEX WTI原油净多头头寸增加10,927手合约，至53,434手合约，创五个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3043113",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时31分"
         },
         {
           "title": "现货黄金日内涨超1.00%，现报4985.83美元/盎司。",
@@ -146,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：1月20日当周，投机者所持COMEX黄金净多头头寸增加2,614手合约，至139,162手合约，创16周新高。 所持COMEX白银净多头头寸创23个月新低。 所持COMEX铜净多头头寸创八周新低。 所持NYMEX铂金净多头头寸创三周新低，转而持有NYMEX钯金净空头头寸。",
+          "url": "https://wallstreetcn.com/livenews/3043112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "多家经纪商报价显示现货白银均到达100美元/盎司。",
@@ -195,7 +241,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "AH股震荡走高，商业航天、光伏大爆发，碳酸锂突破18万大关，沪银站上25000创历史新高",
@@ -205,8 +251,35 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时31分]"
+        },
+        {
+          "title": "航天电子：股票存在短期大幅下跌风险",
+          "url": "https://www.toutiao.com/trending/7598148996133027849/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时31分]"
+        },
+        {
+          "title": "Sable Offshore（SOC）美股下跌13%。",
+          "url": "https://flash.jin10.com/detail/20260124023319046800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 05时31分]"
         },
         {
           "title": "【焦点复盘】北证50高开高走涨近4%，全市场超160股涨逾10%，有色板块再掀高潮",
@@ -220,31 +293,53 @@
           "time_info": "[00时41分 ~ 04时36分]"
         },
         {
-          "title": "航天电子：股票存在短期大幅下跌风险",
-          "url": "https://www.toutiao.com/trending/7598148996133027849/",
-          "source": "今日头条",
+          "title": "本周，标普累跌0.4%，道指累跌0.5%，纳指累跌0.1%，纳指科技指数大致持平，科技股七巨头指数涨0.3%，半导体指数涨0.2%，银行指数跌2.1%，生物科技指数涨3.1%。 周五当天，标普500指数初步大致收平，金融板块跌1.3%，工业板块跌0.8%，能源板块涨0.4%，科技板块涨0.5%，原材料板块涨0.8%。 纳斯达克100指数初步收涨0.3%，成分股中，Fortinet涨5%，微软、奈飞涨超3%，西部数据跌2.8%，迈威尔科技跌3.5%，英特尔跌16.9%。 高盛初步收跌3.7%，卡特彼勒跌3.3%，迪士尼、摩根大通等跌超1%，领跌道指成分股，英伟达涨1.5%，可口可乐涨1.5%，亚马逊涨2.1%，微软涨3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3043124",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            20,
-            18,
-            19
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
-          "title": "Sable Offshore（SOC）美股下跌13%。",
-          "url": "https://flash.jin10.com/detail/20260124023319046800",
+          "title": "上海黄金交易所黄金T+D 1月23日（周五）晚盘收盘上涨0.99%报1115.5元/克；<br/>上海黄金交易所白银T+D 1月23日（周五）晚盘收盘上涨3.96%报25651.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260124023214934800",
           "source": "金十数据",
           "ranks": [
-            1,
-            5,
-            20
+            2,
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时36分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 05时31分]"
+        },
+        {
+          "title": "白银价格持续上涨，工厂加班赶制投资银条",
+          "url": "https://wallstreetcn.com/livenews/3043095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 05时31分]"
+        },
+        {
+          "title": "阿根廷MERVAL指数收涨0.81%，报309.1万点，本周累计上涨5.39%。",
+          "url": "https://wallstreetcn.com/livenews/3043119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，连续第四个交易日上扬，报391.93点，创3月3日以来收盘新高。 在十个板块中，北欧信息技术板块涨幅最大。 爱立信（Telefonaktiebolaget LM Ericsson）涨10.5%，在一众北欧个股里领跑。",
@@ -258,32 +353,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时42分 ~ 02时48分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月23日（周五）晚盘收盘上涨0.99%报1115.5元/克；<br/>上海黄金交易所白银T+D 1月23日（周五）晚盘收盘上涨3.96%报25651.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260124023214934800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时36分]"
-        },
-        {
-          "title": "白银价格持续上涨，工厂加班赶制投资银条",
-          "url": "https://wallstreetcn.com/livenews/3043095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时36分]"
         },
         {
           "title": "周五（1月23日），韩元兑美元最终涨0.11%，报1463.24韩元，本周累计上涨0.70%。",
@@ -393,8 +462,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时31分]"
         },
         {
           "title": "一图看懂 | A股掀起“商业航天热”，开年产业重要信息全梳理",
@@ -404,19 +473,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时31分]"
         },
         {
           "title": "南向资金追踪｜本周净流入235亿港元环比倍增 加仓阿里小米及泡泡玛特",
           "url": "https://www.cls.cn/detail/2268057",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时31分]"
         },
         {
           "title": "法兴银行：决定将下次日本央行加息的预测提前至4月份，并预计日本央行将在六个月后于10月份将政策利率上调至1.25%。",
@@ -428,8 +498,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时36分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 05时31分]"
         },
         {
           "title": "宁德时代宣布 2026 年大规模应用钠电池，这意味着动力电池产业将发生哪些变革？",
@@ -437,11 +507,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时36分]"
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 05时31分]"
         },
         {
           "title": "卢拉宣布巴西将对中国公民实施免签政策",
@@ -450,7 +521,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         }
@@ -458,8 +529,19 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.2%，本周累涨2.1%。 热门中概股里，小鹏初步收跌3.3%，蔚来、文远知行、阿里跌超2%，理想、拼多多、腾讯至多涨0.5%，美团、小麦、新东方至多涨2%。 ETF中，ASHR跌0.1%，KWEB持平，CQQQ涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3043122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260124023137303800",
@@ -470,8 +552,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时36分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 05时31分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -499,9 +581,74 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数失守98关口",
+          "url": "https://flash.jin10.com/detail/20260124004940851800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美元指数跌破98关口，为12月30日以来首次，目前跌0.3%。 彭博美元指数创10月份以来新低。",
+          "url": "https://wallstreetcn.com/livenews/3043068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 02时48分]"
+        },
+        {
+          "title": "美元兑日元跌幅扩大至1%，报156.82。 美元指数日内跌幅达0.5%，报97.8402",
+          "url": "https://wallstreetcn.com/livenews/3043078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时31分]"
+        },
+        {
+          "title": "美元指数本周跌约1.9%",
+          "url": "https://wallstreetcn.com/livenews/3043114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 3,
       "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9630元，较周四夜盘收盘涨42点。成交量431.54亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3043096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 05时31分]"
+        },
         {
           "title": "人民币兑美元中间价升破7释放何信号",
           "url": "https://www.toutiao.com/trending/7598498216115441206/",
@@ -514,18 +661,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时36分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9630元，较周四夜盘收盘涨42点。成交量431.54亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3043096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时36分]"
         },
         {
           "title": "纽约期银涨穿100美元整数位心理关口，创盘中历史新高，涨幅大约3.7%。 沪银夜盘涨超5%，目前报25377元人民币/千克。",
@@ -574,47 +709,6 @@
           "ranks": [
             23,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数失守98关口",
-          "url": "https://flash.jin10.com/detail/20260124004940851800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "美元指数跌破98关口，为12月30日以来首次，目前跌0.3%。 彭博美元指数创10月份以来新低。",
-          "url": "https://wallstreetcn.com/livenews/3043068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 02时48分]"
-        },
-        {
-          "title": "美元兑日元跌幅扩大至1%，报156.82。 美元指数日内跌幅达0.5%，报97.8402",
-          "url": "https://wallstreetcn.com/livenews/3043078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
