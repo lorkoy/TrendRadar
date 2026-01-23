@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T21:06:14.764534+08:00",
-  "total_titles_processed": 1924,
+  "generated_at": "2026-01-23T22:35:21.100451+08:00",
+  "total_titles_processed": 2053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "期货热点追踪",
@@ -83,7 +83,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -171,6 +171,18 @@
           "time_info": "[02时47分 ~ 04时38分]"
         },
         {
+          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 22时35分]"
+        },
+        {
           "title": "现货黄金日内涨幅扩大至2%，报4927.91美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3042284",
           "source": "华尔街见闻-快讯",
@@ -181,17 +193,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时33分]"
-        },
-        {
-          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "报道：Millennium再度调整架构 拟新成立信用交易部门",
@@ -324,9 +325,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "美国天然气期货日内涨幅扩大至3.00%，现报5.200美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260123214440552800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "国债期货开盘，30年期主力合约与昨日持平，10年期主力合约涨0.02%，5年期主力合约涨0.02%，2年期主力合约跌0.01%。",
@@ -390,7 +402,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -456,7 +468,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -478,7 +490,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -516,6 +528,17 @@
           "time_info": "15时35分"
         },
         {
+          "title": "WTI原油期货日内涨幅达2.00%，现报60.55美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260123211633757800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "爱立信第四季度销售净额692.9亿瑞典克朗，预估667.3亿瑞典克朗。 第四季度调整后EBIT 122.6亿瑞典克朗，预估102.1亿瑞典克朗。 第四季度经调整毛利率48％，预估47.4％。 第四季度网络业务调整后营业利润率22.7％，预估20.8％。",
           "url": "https://wallstreetcn.com/livenews/3042610",
           "source": "华尔街见闻-快讯",
@@ -533,7 +556,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -604,6 +627,17 @@
           "time_info": "18时36分"
         },
         {
+          "title": "沪锡期货主力合约日内涨幅扩大至5%，报441000元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3042962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "商品期货开盘，BR橡胶主力合约涨停，铂涨超10%，沪银涨超6%，钯涨超5%，苯乙烯、碳酸锂、橡胶、20号胶、沪金、短纤、乙二醇涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3042424",
           "source": "华尔街见闻-快讯",
@@ -651,7 +685,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "央行明日开展9000亿元MLF操作 加码呵护资金面平稳 市场预计短期内降准可能性不大",
@@ -707,11 +741,12 @@
             8,
             5,
             10,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时09分 ~ 21时06分]"
+          "appearance_count": 14,
+          "time_info": "[12时09分 ~ 22时35分]"
         },
         {
           "title": "《酒泉市商业航天产业发展规划》正式发布 建设国家商业航天发射基地",
@@ -733,11 +768,25 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时36分 ~ 21时06分]"
+          "appearance_count": 6,
+          "time_info": "[18时36分 ~ 22时35分]"
+        },
+        {
+          "title": "一图看懂 | A股掀起“商业航天热”，开年产业重要信息全梳理",
+          "url": "https://www.cls.cn/detail/2268022",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时36分 ~ 22时35分]"
         },
         {
           "title": "天合光能：将剩余募集资金17亿元用于新项目“分布式智慧光伏电站建设项目”",
@@ -746,7 +795,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -782,18 +831,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
-        },
-        {
-          "title": "一图看懂 | A股掀起“商业航天热”，开年产业重要信息全梳理",
-          "url": "https://www.cls.cn/detail/2268022",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时36分 ~ 21时06分]"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
@@ -1028,7 +1065,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1064,6 +1101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "“赴港上市门槛收紧”传闻不实，境外上市政策没有变化",
+          "url": "https://wallstreetcn.com/livenews/3042968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：如果我们将和平委员会的范围缩小到加沙，我们就可以与其合作。",
@@ -1187,6 +1235,17 @@
           "time_info": "19时30分"
         },
         {
+          "title": "赣锋锂业：拟使用不超过20亿元自有资金投资理财产品",
+          "url": "https://wallstreetcn.com/livenews/3042963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "欧盟外交与安全政策高级代表卡拉斯：重要的是重新关注问题所在，比如乌克兰问题。",
           "url": "https://flash.jin10.com/detail/20260123015216586800",
           "source": "金十数据",
@@ -1204,7 +1263,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1289,7 +1348,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
@@ -1320,6 +1379,19 @@
           "time_info": "[00时46分 ~ 07时31分]"
         },
         {
+          "title": "AH股震荡走高，商业航天、光伏大爆发，碳酸锂突破18万大关，沪银站上25000创历史新高",
+          "url": "https://wallstreetcn.com/articles/3763990",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时36分 ~ 22时35分]"
+        },
+        {
           "title": "日经225指数转跌，最新下跌0.1%。",
           "url": "https://flash.jin10.com/detail/20260123130628322800",
           "source": "金十数据",
@@ -1337,7 +1409,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1397,6 +1469,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "航天电子：股票存在短期大幅下跌风险",
+          "url": "https://www.toutiao.com/trending/7598148996133027849/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "标普500指数初步收涨0.5%，电信、可选消费板块涨超1%，科技板块涨0.6%，房地产板块跌1%。 纳斯达克100指数初步收涨0.7%，成分股中，Datadog涨6.5%，Meta涨5.6%，MercadoLibre涨5%，特斯拉涨4%，奈飞跌2.3%，新思科技跌2.4%，罗斯百货跌2.6%，拉姆研究跌3.4%。 Salesforce初步收涨2.9%，3M涨2.9%，宝洁涨2.7%，美国运通涨2.1%，联合健康涨1.9%，霍尼韦尔涨1.5%，领跑道指成分股，IBM、沃尔玛、SHW、Merck则至少跌约1%。",
           "url": "https://wallstreetcn.com/livenews/3042299",
           "source": "华尔街见闻-快讯",
@@ -1408,16 +1491,15 @@
           "time_info": "05时33分"
         },
         {
-          "title": "AH股震荡走高，商业航天、光伏大爆发，碳酸锂突破18万大关，沪银站上25000创历史新高",
-          "url": "https://wallstreetcn.com/articles/3763990",
-          "source": "华尔街见闻",
+          "title": "英国国债价格跌幅扩大，两年期英债收益率涨5个基点，报3.74%。 美国国债价格回吐涨幅，投资者关注油价上涨。",
+          "url": "https://wallstreetcn.com/livenews/3042986",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时36分 ~ 21时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月22日（周四）晚盘收盘上涨1.48%报1095.92元/克；<br/>上海黄金交易所白银T+D 1月22日（周四）晚盘收盘上涨5.67%报24345.0元/千克。",
@@ -1574,7 +1656,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1640,7 +1722,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1673,7 +1755,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1835,7 +1917,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
@@ -1922,6 +2004,28 @@
           "time_info": "[19时30分 ~ 21时06分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-23）",
+          "url": "https://flash.jin10.com/detail/20260123215250387800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3042983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 阿里巴巴涨5%",
           "url": "https://flash.jin10.com/detail/20260123050139083800",
           "source": "金十数据",
@@ -1994,7 +2098,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -2108,7 +2212,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -2149,7 +2253,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -2182,7 +2286,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -2219,6 +2323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "贝莱德基金经理做空长期美债和英债 称顽固通胀的风险被低估",
+          "url": "https://wallstreetcn.com/livenews/3042970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
@@ -2346,11 +2461,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时29分 ~ 21时06分]"
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 22时35分]"
         }
       ]
     },
