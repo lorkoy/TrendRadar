@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-01-24T07:31:19.794529+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-01-24T10:20:31.639755+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "现货白银站上102美元/盎司",
-          "url": "https://flash.jin10.com/detail/20260124035443352800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时31分]"
-        },
-        {
-          "title": "纽约期银向上触及102美元/盎司，日内涨5.84%。现货白银现报101.7美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260124035124129800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时31分]"
-        },
         {
           "title": "恒指期货夜盘收涨0.20%，报26772点，高水22点。",
           "url": "https://flash.jin10.com/detail/20260124030343033800",
@@ -40,6 +18,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时31分 ~ 07时31分]"
+        },
+        {
+          "title": "现货白银站上102美元/盎司",
+          "url": "https://flash.jin10.com/detail/20260124035443352800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时36分 ~ 10时20分]"
+        },
+        {
+          "title": "纽约期银向上触及102美元/盎司，日内涨5.84%。现货白银现报101.7美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260124035124129800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时36分 ~ 10时20分]"
         },
         {
           "title": "上期所原油期货2503合约夜盘收涨2.37%，报449.80元人民币/桶。 沪金夜盘收涨1.66%，沪银收涨6.32%。",
@@ -56,6 +58,18 @@
           "time_info": "[02时48分 ~ 05时31分]"
         },
         {
+          "title": "达美航空：预计俄亥俄河谷、田纳西河谷、纳什维尔以及罗利-达勒姆地区航班将取消。预计明天上午将对亚特兰大和东北地区航班时刻表进行进一步调整。",
+          "url": "https://flash.jin10.com/detail/20260124032124917800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时36分 ~ 10时20分]"
+        },
+        {
           "title": "芝加哥小麦期货本周涨超2.2%，豆粕累涨约3.5%，纽约可可跌17%逼近4000美元关口",
           "url": "https://wallstreetcn.com/livenews/3043120",
           "source": "华尔街见闻-快讯",
@@ -66,17 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时28分]"
-        },
-        {
-          "title": "达美航空：预计俄亥俄河谷、田纳西河谷、纳什维尔以及罗利-达勒姆地区航班将取消。预计明天上午将对亚特兰大和东北地区航班时刻表进行进一步调整。",
-          "url": "https://flash.jin10.com/detail/20260124032124917800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时31分]"
         },
         {
           "title": "WTI 3月原油期货收涨1.71美元，涨幅2.88%，报61.07美元/桶。 NYMEX 2月天然气期货收报5.2750美元/百万英热单位。 NYMEX 2月汽油期货收报1.8510美元/加仑，NYMEX 2月取暖油期货收报2.4285美元/加仑。",
@@ -187,13 +190,24 @@
           "time_info": "[02时48分 ~ 03时31分]"
         },
         {
+          "title": "国乒新老交替调整，林高远等 8 名队员退队，这对国乒人才培养带来哪些挑战？新生代选手目前实力如何？",
+          "url": "https://www.zhihu.com/question/1998089838084190848",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
           "title": "周五（1月23日）纽约尾盘，标普500股指期货最终跌0.17%，道指期货跌0.76%，纳斯达克100股指期货涨0.08%。 罗素2000股指期货跌2.20%。",
           "url": "https://wallstreetcn.com/livenews/3043159",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -253,6 +267,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "现货白银在触及102美元/盎司关口后回落，现报101.8美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260124040230792800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
           "title": "钯金期货日内涨6%，现报2044.00美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260123233119679800",
           "source": "金十数据",
@@ -289,7 +314,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "AH股震荡走高，商业航天、光伏大爆发，碳酸锂突破18万大关，沪银站上25000创历史新高",
@@ -297,11 +322,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 10时20分]"
         },
         {
           "title": "航天电子：股票存在短期大幅下跌风险",
@@ -372,9 +398,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "国家统计局：1月中旬生猪（外三元）价格环比上涨3.2%",
+          "url": "https://wallstreetcn.com/livenews/3043202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
         },
         {
           "title": "白银价格持续上涨，工厂加班赶制投资银条",
@@ -414,6 +451,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时31分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
+          "url": "https://www.cls.cn/detail/2268496",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 10时20分]"
         },
         {
           "title": "阿根廷MERVAL指数收涨0.81%，报309.1万点，本周累计上涨5.39%。",
@@ -489,15 +538,26 @@
           "time_info": "[00时42分 ~ 01时33分]"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
+          "title": "日本市场震荡促使美国财政部考虑干预汇市",
+          "url": "https://flash.jin10.com/detail/20260124085052472800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "10时20分"
+        },
+        {
+          "title": "为什么某些日本动画题材能持续在全球范围内保持高热度？",
+          "url": "https://www.zhihu.com/question/1954265940465279965",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
         },
         {
           "title": "美股银矿股上涨，Hecla Mining上涨1.3%，Coeur Mining上涨0.3%，ABRDN实物白银股票ETF上涨4%，Global X白银矿业ETF上涨1.8%，iShares白银信托上涨4%。",
@@ -509,6 +569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "道琼斯指数1月23日（周五）收盘下跌285.30点，跌幅0.58%，报49098.71点；<br/>标普500指数1月23日（周五）收盘上涨2.26点，涨幅0.03%，报6915.61点；<br/>纳斯达克综合指数1月23日（周五）收盘上涨65.22点，涨幅0.28%，报23501.24点。",
+          "url": "https://flash.jin10.com/detail/20260124080122792800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
         },
         {
           "title": "周五（1月23日），彭博电动汽车价格回报指数涨0.86%，报3716.46点，本周累计上涨3.07%，整体持续走高。",
@@ -558,7 +629,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【数据看盘】6.43亿元资金抢筹金风科技 顶级游资扎堆乾照光电",
@@ -625,6 +696,29 @@
           "time_info": "[02时48分 ~ 07时31分]"
         },
         {
+          "title": "硫磺价格持续走高，产业链上下游冷暖分化",
+          "url": "https://wallstreetcn.com/livenews/3043199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "巴西将对中国公民实施免签政策",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%AE%9E%E6%96%BD%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 10时20分]"
+        },
+        {
           "title": "卢拉宣布巴西将对中国公民实施免签政策",
           "url": "https://wallstreetcn.com/livenews/3043109",
           "source": "华尔街见闻-快讯",
@@ -636,15 +730,15 @@
           "time_info": "04时36分"
         },
         {
-          "title": "巴西将对中国公民实施免签政策",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%AE%9E%E6%96%BD%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96",
-          "source": "百度热搜",
+          "title": "北交所新股市场热度高，网上冻结资金刷新纪录",
+          "url": "https://wallstreetcn.com/livenews/3043182",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "10时20分"
         }
       ]
     },
@@ -668,11 +762,12 @@
           "url": "https://wallstreetcn.com/articles/3763993",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 10时20分]"
         },
         {
           "title": "布油基金收涨约2.8%，领跑美股大类资产类ETF，美元指数ETF则跌约0.9%",
@@ -737,8 +832,84 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9630元，较周四夜盘收盘涨42点。成交量431.54亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3043096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 05时31分]"
+        },
+        {
+          "title": "人民币兑美元中间价升破7释放何信号",
+          "url": "https://www.toutiao.com/trending/7598498216115441206/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 04时36分]"
+        },
+        {
+          "title": "离岸人民币涨穿6.95元，创2023年5月以来新高",
+          "url": "https://wallstreetcn.com/livenews/3043157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "央行行长：完善人民币汇率形成机制，坚持市场在汇率形成中的决定性作用，保持汇率弹性，同时防范汇率超调风险",
+          "url": "https://wallstreetcn.com/livenews/3043197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "央行行长：有序推进人民币国际化",
+          "url": "https://wallstreetcn.com/livenews/3043196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "纽约期银涨穿100美元整数位心理关口，创盘中历史新高，涨幅大约3.7%。 沪银夜盘涨超5%，目前报25377元人民币/千克。",
+          "url": "https://wallstreetcn.com/livenews/3043030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SZ SH HK",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -777,65 +948,22 @@
           "time_info": "[01时33分 ~ 02时48分]"
         },
         {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少14.1吨，当前持仓量为16089.98吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260124082117038800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
           "title": "据科技媒体TechCrunsh：OpenAI创始人Altman计划于二月中旬访问印度。",
           "url": "https://flash.jin10.com/detail/20260123233248519800",
           "source": "金十数据",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9630元，较周四夜盘收盘涨42点。成交量431.54亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3043096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 05时31分]"
-        },
-        {
-          "title": "人民币兑美元中间价升破7释放何信号",
-          "url": "https://www.toutiao.com/trending/7598498216115441206/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时36分]"
-        },
-        {
-          "title": "离岸人民币涨穿6.95元，创2023年5月以来新高",
-          "url": "https://wallstreetcn.com/livenews/3043157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "纽约期银涨穿100美元整数位心理关口，创盘中历史新高，涨幅大约3.7%。 沪银夜盘涨超5%，目前报25377元人民币/千克。",
-          "url": "https://wallstreetcn.com/livenews/3043030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -918,7 +1046,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -935,7 +1063,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
