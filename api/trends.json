@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T17:44:34.820271+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-01-26T18:37:34.330180+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "新纪录诞生！现货黄金首次站上5000美元 机构喊出6600美元目标价",
@@ -34,8 +34,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 17时44分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 18时37分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -45,11 +45,12 @@
             6,
             13,
             17,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 17时44分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 18时37分]"
         },
         {
           "title": "存储涨价“风暴”来袭！高盛调查：DRAM现货溢价狂飙 合同定价上涨动力强劲",
@@ -60,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时36分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[15时36分 ~ 18时37分]"
         },
         {
           "title": "现货白银盘初再创新高，现报104.76美元/盎司，涨幅超1%。",
@@ -81,7 +82,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -97,17 +98,6 @@
           "time_info": "14时52分"
         },
         {
-          "title": "上期所调整白银、锡期货相关合约交易限额",
-          "url": "https://wallstreetcn.com/livenews/3043887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260126114828592800",
           "source": "金十数据",
@@ -119,17 +109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时22分 ~ 16时46分]"
-        },
-        {
-          "title": "NLS为维斯塔潘调整赛程",
-          "url": "https://search.bilibili.com/all?keyword=NLS%E4%B8%BA%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E8%B0%83%E6%95%B4%E8%B5%9B%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         },
         {
           "title": "现货黄金历史性突破5000美元大关",
@@ -163,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "现货钯金站上2100美元/盎司，日内涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3043927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "现货黄金首破5000美元",
@@ -201,6 +191,30 @@
           "time_info": "[14时52分 ~ 15时36分]"
         },
         {
+          "title": "上期所调整白银、锡期货相关合约交易限额",
+          "url": "https://wallstreetcn.com/livenews/3043887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 18时37分]"
+        },
+        {
+          "title": "NLS为维斯塔潘调整赛程",
+          "url": "https://search.bilibili.com/all?keyword=NLS%E4%B8%BA%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E8%B0%83%E6%95%B4%E8%B5%9B%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 18时37分]"
+        },
+        {
           "title": "现货金银再创新高",
           "url": "https://www.toutiao.com/trending/7598506234552172570/",
           "source": "今日头条",
@@ -212,6 +226,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时35分 ~ 13时39分]"
+        },
+        {
+          "title": "创业板跌近1%，金银板块狂飙，商业航天集体调整，恒科指跌超1%，紫金矿业创历史新高，沪银飙涨13%",
+          "url": "https://wallstreetcn.com/articles/3764130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 18时37分]"
         },
         {
           "title": "现货黄金突破5100美元",
@@ -280,17 +306,6 @@
           "time_info": "15时36分"
         },
         {
-          "title": "创业板跌近1%，金银板块狂飙，商业航天集体调整，恒科指跌超1%，紫金矿业创历史新高，沪银飙涨13%",
-          "url": "https://wallstreetcn.com/articles/3764130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
           "title": "市场消息：摩根士丹利准备进军日本现货电力交易市场。",
           "url": "https://flash.jin10.com/detail/20260126063240971800",
           "source": "金十数据",
@@ -330,7 +345,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -412,6 +427,39 @@
           "time_info": "14时52分"
         },
         {
+          "title": "上期能源：调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3043898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "上期能源调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://flash.jin10.com/detail/20260126175250187800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "上期所调整铜等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3043889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "泰国期货交易所宣布暂停美元/日元期货以及白银在线期货交易。",
           "url": "https://wallstreetcn.com/livenews/3043617",
           "source": "华尔街见闻-快讯",
@@ -459,7 +507,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 34,
+      "match_count": 42,
       "titles": [
         {
           "title": "存储狂潮！高盛1月渠道调查：DRAM价格近期面临强劲上涨",
@@ -472,8 +520,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 17时44分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 18时37分]"
         },
         {
           "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
@@ -482,11 +530,23 @@
           "ranks": [
             5,
             4,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时52分 ~ 17时44分]"
+          "appearance_count": 6,
+          "time_info": "[14时52分 ~ 18时37分]"
+        },
+        {
+          "title": "瑞安航空首席执行官：我们认为，今年运力受限将导致票价上涨。预计今年票价将温和上涨，增幅为低位个位数。",
+          "url": "https://flash.jin10.com/detail/20260126182022713800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "湖南白银：股票交易严重异常波动，经自查，公司不存在违反信息公平披露的情形。近期国际银价出现较大涨幅，公司白银产品未来市场价格能否继续上涨或维持高位存在不确定性。",
@@ -501,17 +561,6 @@
           "time_info": "[00时36分 ~ 05时28分]"
         },
         {
-          "title": "豫光金铅：近期公司产品白银价格出现较大涨幅 未来白银价格能否继续上涨或维持高位存在不确定性",
-          "url": "https://wallstreetcn.com/livenews/3043876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
           "title": "韩国KOSPI指数回吐早盘涨幅，最新下跌0.5%，报4964.85点。",
           "url": "https://flash.jin10.com/detail/20260126095531527800",
           "source": "金十数据",
@@ -521,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "ABRDN实物白银股票ETF美股盘前涨6.7%，Global X白银矿业ETF涨6.2%，iShares白银信托上涨6.6%。",
+          "url": "https://flash.jin10.com/detail/20260126181759623800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "金十图示：2026年01月26日（周一）富时中国A50指数成分股今日收盘行情一览：洛阳钼业大涨超8%，石油、煤炭等板块表现较强",
@@ -534,6 +594,17 @@
           "time_info": "15时36分"
         },
         {
+          "title": "美股银矿股盘前上涨，SILVERCORP METALS涨 5.5%, ENDEAVOUR SILVER涨5.4%，赫拉克矿业涨6.3%, 科尔黛伦矿业涨 4.7%。",
+          "url": "https://flash.jin10.com/detail/20260126181712395800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
           "url": "https://wallstreetcn.com/livenews/3043358",
           "source": "华尔街见闻-快讯",
@@ -543,6 +614,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 04时34分]"
+        },
+        {
+          "title": "豫光金铅：近期公司产品白银价格出现较大涨幅 未来白银价格能否继续上涨或维持高位存在不确定性",
+          "url": "https://wallstreetcn.com/livenews/3043876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 18时37分]"
         },
         {
           "title": "日元周一盘初上涨约0.8% 带动非美货币走强",
@@ -613,6 +696,17 @@
           "time_info": "13时39分"
         },
         {
+          "title": "市值重返万亿大关！“有色茅”再创历史新高，板块热度持续攀升，融资客重仓这些股",
+          "url": "https://www.cls.cn/detail/2269903",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "美元兑马来西亚林吉特下跌0.9%，至3.967，触及2018年以来的最低水平。",
           "url": "https://flash.jin10.com/detail/20260126094655222800",
           "source": "金十数据",
@@ -633,6 +727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "芝加哥期权交易所波动率指数上涨1.09点，报17.18。",
+          "url": "https://flash.jin10.com/detail/20260126180736831800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "伦敦金属交易所（LME）三个月期锡基准合约价格下跌逾4%。",
@@ -712,6 +817,17 @@
           "time_info": "14时52分"
         },
         {
+          "title": "金十数据整理——金价“失控式”上涨 五大结构性力量全梳理",
+          "url": "https://flash.jin10.com/detail/20260126180034491800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "日本两年期国债收益率上涨2个基点至1.27%，创1996年以来新高。",
           "url": "https://flash.jin10.com/detail/20260126124535761800",
           "source": "金十数据",
@@ -723,6 +839,17 @@
           "time_info": "13时39分"
         },
         {
+          "title": "英特尔(INTC.O)美股盘前下跌1.8%，此前一交易日暴跌17%。",
+          "url": "https://flash.jin10.com/detail/20260126180007441800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "【中国人民银行副行长邹澜：上海黄金交易所在港设立交割库并上市相关合约】中国人民银行副行长邹澜在第19届亚洲金融论坛上表示，在股票市场方面，沪深港通机制不断扩容。内地投资者通过港股通持有香港股票市值逾6万亿港元，全球投资者则通过沪深股通持有内地股票市值超2.5万亿元人民币。与此同时，黄金市场亦取得突破。上海黄金交易所在港设立交割库并上市相关合约，丰富了离岸人民币资产配置工具。伴随人民币跨境使用扩大，其作为全球第二大贸易融资货币、第三大支付货币的地位进一步巩固，在IMF特别提款权（SDR）货币篮子中权重位列第三。（上证报）",
           "url": "https://wallstreetcn.com/livenews/3043814",
           "source": "华尔街见闻-快讯",
@@ -732,6 +859,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "美股稀土矿商股价盘前上涨，MP Materials涨4.6%，United States Antimony涨10.2%，Critical Metals涨5%。",
+          "url": "https://flash.jin10.com/detail/20260126175411590800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "A股机器人概念股震荡走低，浙江荣泰午后跌停，力星股份、昊志机电、奕帆传动跌超10%，国机精工、步科股份等跌幅居前。",
@@ -847,7 +985,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "女子称为治病卖劳力士收钱后账户被冻结，系涉诈资金，这种情况可能涉及哪些法律问题？最终结果会怎样？",
@@ -899,6 +1037,17 @@
           "time_info": "[16时45分 ~ 16时46分]"
         },
         {
+          "title": "浙江一县取消中考选拔功能，实现全员直升，其主要政策考量是什么？这会成为普遍现象吗？",
+          "url": "https://www.zhihu.com/question/1998893739536568759",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 18时37分]"
+        },
+        {
           "title": "日本首相高市早苗：已审议如何确保食品销售税的资金来源。",
           "url": "https://flash.jin10.com/detail/20260126132806726800",
           "source": "金十数据",
@@ -921,15 +1070,28 @@
           "time_info": "16时46分"
         },
         {
-          "title": "浙江一县取消中考选拔功能，实现全员直升，其主要政策考量是什么？这会成为普遍现象吗？",
-          "url": "https://www.zhihu.com/question/1998893739536568759",
-          "source": "知乎",
+          "title": "拉普拉斯：公司关注到近期资本市场对“太空光伏”等概念关注度较高，相关板块二级市场表现较为活跃。目前“太空光伏”尚处技术探索阶段，产业化进程受技术发展、行业政策、市场环境等多方面因素影响，仍面临较大不确定性。“太空光伏”目前未对公司经营业绩形成实质影响，相关预期性利好对公司实际经营业绩的影响也具有较大不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3043930",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时44分"
+          "time_info": "18时37分"
+        },
+        {
+          "title": "商务部：今年将大力发展服务贸易 出台扩大入境消费政策措施",
+          "url": "https://www.cls.cn/detail/2269644",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 18时37分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出1216.26亿元，占比3.74%；大单资金净流出452.17亿元，占比1.39%；小单资金净流入814.40亿元，占比2.51%。",
@@ -954,18 +1116,6 @@
           "time_info": "07时30分"
         },
         {
-          "title": "商务部：今年将大力发展服务贸易 出台扩大入境消费政策措施",
-          "url": "https://www.cls.cn/detail/2269644",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 17时44分]"
-        },
-        {
           "title": "美国总统特朗普敦促国会终止庇护城市政策，并呼吁明尼苏达州州长沃尔兹在执法方面予以合作。",
           "url": "https://flash.jin10.com/detail/20260126064839967800",
           "source": "金十数据",
@@ -983,9 +1133,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "三大航：涉日本航线客票免费退改政策延长至10月24日",
+          "url": "https://wallstreetcn.com/livenews/3043919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "主力资金流向前十大个股",
@@ -1005,7 +1166,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -1030,6 +1191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "【数据看盘】8.82亿元资金抢筹网宿科技 化工ETF连续两周份额大增",
+          "url": "https://www.cls.cn/detail/2269898",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "供需共振叠加资金涌入，公募发力有色金属赛道",
@@ -1074,6 +1246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "三菱日联：美国政策强化黄金作为恐慌指数的作用",
+          "url": "https://flash.jin10.com/detail/20260126175325067800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "中国人民银行副行长邹澜：中国人民银行支持香港金管局将人民币业务资金安排规模由1000亿元增加至2000亿元",
@@ -1123,7 +1306,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -1158,7 +1341,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -1239,12 +1422,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "金价破5000美元 短期投资者何去何从",
+          "url": "https://www.toutiao.com/trending/7599554910719315465/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -1256,6 +1461,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时22分 ~ 14时52分]"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 18时37分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -1270,17 +1486,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 06时30分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         },
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -1300,9 +1505,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "Niocorp美股盘前涨10.9%，Trilogy Metals涨11.6%。",
+          "url": "https://flash.jin10.com/detail/20260126175458514800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
@@ -1311,7 +1527,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         }
