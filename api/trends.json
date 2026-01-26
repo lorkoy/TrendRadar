@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T13:39:49.608934+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-01-26T14:52:17.794956+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "存储狂潮！高盛1月渠道调查：DRAM价格近期面临强劲上涨",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 13时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 14时52分]"
         },
         {
           "title": "湖南白银：股票交易严重异常波动，经自查，公司不存在违反信息公平披露的情形。近期国际银价出现较大涨幅，公司白银产品未来市场价格能否继续上涨或维持高位存在不确定性。",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
+          "url": "https://www.zhihu.com/question/1998735057154744752",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
@@ -108,7 +119,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -130,9 +141,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）三个月期锡基准合约价格下跌逾4%。",
+          "url": "https://flash.jin10.com/detail/20260126135920158800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "上证指数早盘收报4141.01点，涨0.12%。 深证成指早盘收报14332.86点，跌0.74%。 创业板指早盘收报3320.81点，跌0.86%。 沪深300早盘收报4715.12点，涨0.27%。 科创50早盘收报1538.21点，跌1.00%。 中证500早盘收报8522.32点，跌0.79%。 中证1000早盘收报8365.64点，跌1.24%。",
@@ -144,6 +166,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "越南VN指数下跌1%，至1851.84 点。",
+          "url": "https://wallstreetcn.com/livenews/3043725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "马来西亚基准股指最新上涨1.2%，至1741.12点，创下自2018年10月中旬以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260126134948068800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "美元对日元汇率下跌1%至154.14。",
@@ -168,15 +212,37 @@
           "time_info": "12时22分"
         },
         {
+          "title": "伦锡日内下跌4.00%，现报53505.00美元/吨。沪锡主力合约继续回落，涨幅缩窄至1.48%，现报426260元/吨，此前一度涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260126134345295800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "日本两年期国债收益率上涨2个基点至1.27%，创1996年以来新高。",
           "url": "https://flash.jin10.com/detail/20260126124535761800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "A股机器人概念股震荡走低，浙江荣泰午后跌停，力星股份、昊志机电、奕帆传动跌超10%，国机精工、步科股份等跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3043711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "创业板指跌超1%，沪指跌0.2%，深成指跌0.81%，半导体芯片、商业航天、机器人、AI应用等方向跌幅居前，沪深京三市下跌个股近4000只。",
@@ -207,7 +273,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -259,7 +325,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "现货白银盘初再创新高，现报104.76美元/盎司，涨幅超1%。",
@@ -271,6 +337,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "现货黄金突破5100美元",
+          "url": "https://flash.jin10.com/detail/20260126144723079800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "现货黄金站上5100美元/盎司，续创历史新高，日内涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3043738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "现货黄金历史性突破5000美元大关",
@@ -306,6 +394,19 @@
           "time_info": "10时35分"
         },
         {
+          "title": "现货黄金首破5000美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%A6%96%E7%A0%B45000%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时52分]"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260126114828592800",
           "source": "金十数据",
@@ -318,16 +419,41 @@
           "time_info": "[12时22分 ~ 13时39分]"
         },
         {
-          "title": "现货黄金首破5000美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%A6%96%E7%A0%B45000%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
           "ranks": [
-            5,
-            22
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时52分]"
+        },
+        {
+          "title": "新纪录诞生！现货黄金首次站上5000美元 机构喊出6600美元目标价",
+          "url": "https://www.cls.cn/detail/2269095",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时52分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时52分]"
         },
         {
           "title": "现货金银再创新高",
@@ -343,40 +469,6 @@
           "time_info": "[10时35分 ~ 13时39分]"
         },
         {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时39分]"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时39分]"
-        },
-        {
-          "title": "新纪录诞生！现货黄金首次站上5000美元 机构喊出6600美元目标价",
-          "url": "https://www.cls.cn/detail/2269095",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时39分]"
-        },
-        {
           "title": "富时中国A50指数期货涨幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3043595",
           "source": "华尔街见闻-快讯",
@@ -386,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "WTI原油期货日内涨超1.00%，现报61.69美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260126142855194800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "市场消息：摩根士丹利准备进军日本现货电力交易市场。",
@@ -454,6 +557,17 @@
           "time_info": "12时22分"
         },
         {
+          "title": "李家超：将在港推出离岸国债期货、拓展“沪深港通”下的利率衍生品业务",
+          "url": "https://wallstreetcn.com/livenews/3043720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "泰国期货交易所宣布暂停美元/日元期货以及白银在线期货交易。",
           "url": "https://wallstreetcn.com/livenews/3043617",
           "source": "华尔街见闻-快讯",
@@ -479,7 +593,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "女子称为治病卖劳力士收钱后账户被冻结，系涉诈资金，这种情况可能涉及哪些法律问题？最终结果会怎样？",
@@ -501,22 +615,12 @@
           "ranks": [
             11,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 13时39分]"
-        },
-        {
-          "title": "日本首相高市早苗：已审议如何确保食品销售税的资金来源。",
-          "url": "https://flash.jin10.com/detail/20260126132806726800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 14时52分]"
         },
         {
           "title": "专项资金为电影高质量发展赋能",
@@ -525,7 +629,18 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时52分]"
+        },
+        {
+          "title": "日本首相高市早苗：已审议如何确保食品销售税的资金来源。",
+          "url": "https://flash.jin10.com/detail/20260126132806726800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -550,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260126141354604800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "香港金融管理局人民币业务资金安排总额度倍增至2,000亿元人民币。",
@@ -613,7 +739,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -635,6 +761,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "杨德龙：国际金价下一目标价1万美元",
+          "url": "https://www.toutiao.com/trending/7599480136756366899/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时52分]"
+        },
+        {
           "title": "分析师：金价或继续受益于美元走弱",
           "url": "https://flash.jin10.com/detail/20260126114640038800",
           "source": "金十数据",
@@ -644,18 +783,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
-        },
-        {
-          "title": "杨德龙：国际金价下一目标价1万美元",
-          "url": "https://www.toutiao.com/trending/7599480136756366899/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时39分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -720,6 +847,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时52分]"
+        },
+        {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
           "url": "https://flash.jin10.com/detail/20260125221344220800",
           "source": "金十数据",
@@ -732,17 +870,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 06时30分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时39分]"
         }
       ]
     },
