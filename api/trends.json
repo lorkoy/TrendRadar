@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T22:40:09.843633+08:00",
-  "total_titles_processed": 1977,
+  "generated_at": "2026-01-27T23:39:06.097711+08:00",
+  "total_titles_processed": 2062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 82,
+      "match_count": 85,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -307,6 +307,17 @@
           "time_info": "[02时50分 ~ 03时32分]"
         },
         {
+          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
+        },
+        {
           "title": "周一（1月26日）纽约尾盘，标普500股指期货最终涨0.47%，道指期货涨0.28%，纳斯达克100股指期货涨0.49%。 罗素2000股指期货跌0.36%。",
           "url": "https://wallstreetcn.com/livenews/3044217",
           "source": "华尔街见闻-快讯",
@@ -329,6 +340,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时50分]"
+        },
+        {
+          "title": "通用汽车涨4%，通用汽车公布业绩，预计2026年调整后EPS为11-13美元，分析师预期11.79美元；公司批准60亿美元新版股票回购授权。",
+          "url": "https://wallstreetcn.com/livenews/3044835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时39分]"
         },
         {
           "title": "美国天然气期货飙升逾25%，续创三年新高。",
@@ -445,17 +468,6 @@
           "time_info": "13时37分"
         },
         {
-          "title": "通用汽车涨4%，通用汽车公布业绩，预计2026年调整后EPS为11-13美元，分析师预期11.79美元；公司批准60亿美元新版股票回购授权。",
-          "url": "https://wallstreetcn.com/livenews/3044835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
           "title": "靛蓝航空：考虑到伊朗局势的发展，对部分航班的时刻表进行了调整。",
           "url": "https://flash.jin10.com/detail/20260127162646197800",
           "source": "金十数据",
@@ -555,6 +567,17 @@
           "time_info": "21时09分"
         },
         {
+          "title": "截至23:00收盘，国内期货主力合约涨跌不一，沥青涨超1%，棕榈油、豆油、聚丙烯、丙烯小幅上涨。跌幅方面，BR橡胶跌超2%，焦炭、焦煤、短纤液化气跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260127230040182800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "印度金银期货大涨并创下历史新高",
           "url": "https://flash.jin10.com/detail/20260127113211928800",
           "source": "金十数据",
@@ -583,7 +606,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -786,6 +809,17 @@
           "time_info": "06时32分"
         },
         {
+          "title": "现货钯金日内跌超2.00%，现报1913美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127225437277800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "NYMEX天然气期货涨超21%，现报6.41美元/百万英热单位，1月份迄今已经累计上涨72%。",
           "url": "https://wallstreetcn.com/livenews/3044093",
           "source": "华尔街见闻-快讯",
@@ -943,7 +977,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "市值重返万亿大关！“有色茅”再创历史新高，板块热度持续攀升，融资客重仓这些股",
@@ -1020,11 +1054,12 @@
             10,
             11,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时42分 ~ 22时40分]"
+          "appearance_count": 8,
+          "time_info": "[17时42分 ~ 23时39分]"
         },
         {
           "title": "日本20年期国债收益率上涨4.0个基点，至3.205%。",
@@ -1036,6 +1071,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时39分 ~ 23时39分]"
         },
         {
           "title": "现代汽车在盘前交易中下跌4.4%，起亚跌4.2%。之前美国总统特朗普表示，他将把对韩国的汽车、木材、药品的关税以及所有其他对等关税从15%提高到25%。",
@@ -1091,17 +1139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "行业ETF美股盘初多数上涨，半导体ETF涨1.23%，全球科技股指数ETF涨1.2%，科技行业ETF涨1.07%，网络股指数ETF涨0.8%，银行业ETF涨0.38%，医疗业ETF跌1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3044831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
         },
         {
           "title": "周一（1月26日）欧市尾盘，英国10年期国债收益率跌1.5个基点，报4.497%，欧股盘初跳空下挫至4.469%刷新日低，随后收复失地，全天处于下跌状态。",
@@ -1190,17 +1227,16 @@
           "time_info": "[14时51分 ~ 15时36分]"
         },
         {
-          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
-          "url": "https://www.cls.cn/detail/2271331",
-          "source": "财联社热门",
+          "title": "行业ETF美股盘初多数上涨，半导体ETF涨1.23%，全球科技股指数ETF涨1.2%，科技行业ETF涨1.07%，网络股指数ETF涨0.8%，银行业ETF涨0.38%，医疗业ETF跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044831",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11,
-            10
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时39分 ~ 22时40分]"
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时39分]"
         },
         {
           "title": "稀土价格持续上涨 行业龙头扭亏为盈",
@@ -1425,7 +1461,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -1628,6 +1664,17 @@
           "time_info": "15时36分"
         },
         {
+          "title": "加拿大皇家银行：黄金仍有“上涨空间”；认为金价有潜力达到7100美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127225231645800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "上证指数开盘报4125.22点，跌0.18%。 深证成指开盘报14283.78点，跌0.23%。 创业板指开盘报3316.02点，跌0.09%。 沪深300开盘报4705.17点，跌0.04%。 科创50开盘报1530.07点，跌0.18%。 中证500开盘报8464.65点，跌0.49%。 中证1000开盘报8325.43点，跌0.48%。",
           "url": "https://wallstreetcn.com/livenews/3044313",
           "source": "华尔街见闻-快讯",
@@ -1664,7 +1711,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "丁薛祥：科技革命和产业变革越是深入发展 越要努力抢占国际竞争制高点",
@@ -1712,8 +1759,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时39分 ~ 22时40分]"
+          "appearance_count": 7,
+          "time_info": "[18时39分 ~ 23时39分]"
+        },
+        {
+          "title": "交通运输部：严格落实春节假期免收7座及以下小型客车通行费政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471784",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时42分 ~ 23时39分]"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：印度的竞争对我们的产业是有利的。",
@@ -1738,6 +1797,17 @@
           "time_info": "18时39分"
         },
         {
+          "title": "美联储：为期两天的FOMC货币政策会议开幕。",
+          "url": "https://wallstreetcn.com/livenews/3044858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "欧盟外交与安全政策高级代表卡拉斯：可与印度开展更多联合海军演习。",
           "url": "https://flash.jin10.com/detail/20260127182114156800",
           "source": "金十数据",
@@ -1747,18 +1817,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
-        },
-        {
-          "title": "交通运输部：严格落实春节假期免收7座及以下小型客车通行费政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471784",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 22时40分]"
         },
         {
           "title": "行业景气度回暖叠加政策利好，逾50家生物医药A股公司2025年业绩预盈",
@@ -1809,6 +1867,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时50分 ~ 04时37分]"
+        },
+        {
+          "title": "人力资源社会保障部将有新政策",
+          "url": "https://www.douyin.com/hot/2380742",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
         },
         {
           "title": "我国竹产业年产值超5200亿元",
@@ -2019,7 +2088,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -2082,8 +2151,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时32分 ~ 22时40分]"
+          "appearance_count": 19,
+          "time_info": "[06时32分 ~ 23时39分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -2115,7 +2184,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -2126,7 +2195,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -2230,7 +2299,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -2252,7 +2321,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -2263,7 +2332,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -2304,7 +2373,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价飙升原因找到了",
@@ -2367,6 +2436,17 @@
           "time_info": "[10时31分 ~ 13时37分]"
         },
         {
+          "title": "黄金价格大涨又大跌，是走还是留？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
+        },
+        {
           "title": "分析称金价急剧回调可能性正在增加",
           "url": "https://www.toutiao.com/trending/7599218772373995556/",
           "source": "今日头条",
@@ -2401,6 +2481,17 @@
           "time_info": "04时37分"
         },
         {
+          "title": "高盛：仍认为5400美元/盎司的年底金价预期存在显著上行风险。",
+          "url": "https://flash.jin10.com/detail/20260127225618874800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "水贝首饰金价一天涨超20元",
           "url": "https://wallstreetcn.com/livenews/3044438",
           "source": "华尔街见闻-快讯",
@@ -2410,6 +2501,112 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
+          "url": "https://flash.jin10.com/detail/20260127205258899800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
+          "url": "https://wallstreetcn.com/livenews/3044792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3044859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "美元指数DXY失守97，日内跌幅0.48%。",
+          "url": "https://flash.jin10.com/detail/20260127050513890800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时32分]"
+        },
+        {
+          "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
+          "url": "https://flash.jin10.com/detail/20260126235706137800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美元指数跌约0.6%，一度创逾四个月新低",
+          "url": "https://wallstreetcn.com/livenews/3044178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "美元指数短线下挫 非美货币走高",
+          "url": "https://wallstreetcn.com/livenews/3044664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "美元指数DXY短线下挫 非美货币走高",
+          "url": "https://flash.jin10.com/detail/20260127175649548800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "美元指数DXY持续走低 非美货币普涨",
+          "url": "https://flash.jin10.com/detail/20260127224408359800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         }
       ]
     },
@@ -2510,93 +2707,20 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "SZ SH HK",
       "match_count": 7,
       "titles": [
         {
-          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
-          "url": "https://flash.jin10.com/detail/20260127205258899800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
-          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
-          "url": "https://wallstreetcn.com/livenews/3044792",
+          "title": "Uber跌2.5%，刷新日低，Doordash跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3044857",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时09分"
+          "time_info": "23时39分"
         },
-        {
-          "title": "美元指数DXY失守97，日内跌幅0.48%。",
-          "url": "https://flash.jin10.com/detail/20260127050513890800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时32分]"
-        },
-        {
-          "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
-          "url": "https://flash.jin10.com/detail/20260126235706137800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "美元指数跌约0.6%，一度创逾四个月新低",
-          "url": "https://wallstreetcn.com/livenews/3044178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
-          "title": "美元指数短线下挫 非美货币走高",
-          "url": "https://wallstreetcn.com/livenews/3044664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "美元指数DXY短线下挫 非美货币走高",
-          "url": "https://flash.jin10.com/detail/20260127175649548800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 4,
-      "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少115.58吨，当前持仓量为15974.4吨。欢迎点击查看数据中心...",
           "url": "https://flash.jin10.com/detail/20260127065023879800",
@@ -2607,6 +2731,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "亚马逊：公司对线上杂货配送业务双倍下注。 公司计划增开超过100家Whole Foods门店。 公司将关闭Amazon Go和Amazon Fresh实体店。",
+          "url": "https://wallstreetcn.com/livenews/3044850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)将关闭无人商店Amazon Go和生鲜服务Amazon Fresh实体店。",
+          "url": "https://flash.jin10.com/detail/20260127225918874800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "港交所文件：贝莱德1月21日将长城汽车(02333.HK)多头持仓比例从8.09%降至7.53%。",
