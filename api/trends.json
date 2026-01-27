@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T13:37:12.676127+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-01-27T14:51:06.180342+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 13时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时46分 ~ 14时51分]"
         },
         {
           "title": "创业板跌近1%，金银板块狂飙，商业航天集体调整，恒科指跌超1%，紫金矿业创历史新高，沪银飙涨13%",
@@ -40,8 +40,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 13时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时46分 ~ 14时51分]"
+        },
+        {
+          "title": "日本经济团体联合会会长：欢迎对日元过度疲软状况的适度调整。",
+          "url": "https://flash.jin10.com/detail/20260127143940505800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "乌总统签署命令调整乌国家安全与国防委员会人员组成",
@@ -53,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "国债期货持续走弱，30年期主力合约盘中跌0.20%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3044470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
         },
         {
           "title": "现货黄金突破5040美元/盎司，早盘涨逾30美元。",
@@ -120,6 +120,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时31分 ~ 13时37分]"
+        },
+        {
+          "title": "国债期货持续走弱，30年期主力合约盘中跌0.20%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3044470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时51分]"
         },
         {
           "title": "现货白银一小时下跌超8美元，现报109.7美元/盎司。",
@@ -391,7 +403,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -616,6 +628,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "中证500股指期货（IC）主力合约站上8600点，日内涨1.27%。",
+          "url": "https://flash.jin10.com/detail/20260127140136670800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约跌0.04%，10年期主力合约跌0.01%，5年期主力合约与昨日持平，2年期主力合约跌0.01%。",
           "url": "https://wallstreetcn.com/livenews/3044316",
           "source": "华尔街见闻-快讯",
@@ -625,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "中证500股指期货（IC）主力合约日内涨幅达1.00%，现报8579.6点。",
+          "url": "https://flash.jin10.com/detail/20260127135126326800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "现货白银日内涨幅达8.0%，报111.27美元/盎司。",
@@ -669,12 +703,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "现货黄金站上5080美元/盎司，日内涨1.44%。",
+          "url": "https://flash.jin10.com/detail/20260127134745444800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "市值重返万亿大关！“有色茅”再创历史新高，板块热度持续攀升，融资客重仓这些股",
@@ -697,11 +742,12 @@
             2,
             13,
             10,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 13时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时46分 ~ 14时51分]"
         },
         {
           "title": "黄金逼近5100美元！一图看懂金银加速上涨",
@@ -749,15 +795,48 @@
           "time_info": "07时32分"
         },
         {
+          "title": "新台币兑美元上涨0.3%至31.413。",
+          "url": "https://wallstreetcn.com/livenews/3044509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "彪马股价在Tradegate上涨，相对于在Xetra收盘价高出19.7%。",
+          "url": "https://flash.jin10.com/detail/20260127143821125800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "A股大飞机板块持续拉升，航发控制、航发科技涨停，图南股份涨超10%，航亚科技、航发动力、国机精工、飞沃科技跟涨。",
           "url": "https://wallstreetcn.com/livenews/3044467",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "彪马股价在Tradegate上涨，相对于在Xetra收盘价高出19.7%。此前安踏体育在港交所公告称，收购PUMA SE的29.06%股权，对价为每股普通股35欧元，合共1,505,516,600欧元（不含税）（相当于约人民币12,277,638,425元）。",
+          "url": "https://wallstreetcn.com/livenews/3044508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "新加坡基准股指上涨1.1%，触及4912.46点的历史新高。",
@@ -833,6 +912,18 @@
           "time_info": "[06时32分 ~ 07时32分]"
         },
         {
+          "title": "黄金冲破“5000大关”后还能狂飙吗？金矿巨头：上涨动力不会消失！",
+          "url": "https://www.cls.cn/detail/2270788",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 14时51分]"
+        },
+        {
           "title": "稀土价格持续上涨 行业龙头扭亏为盈",
           "url": "https://www.toutiao.com/trending/7599393544436023315/",
           "source": "今日头条",
@@ -868,17 +959,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时50分]"
-        },
-        {
-          "title": "黄金冲破“5000大关”后还能狂飙吗？金矿巨头：上涨动力不会消失！",
-          "url": "https://www.cls.cn/detail/2270788",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 13时37分]"
         },
         {
           "title": "莲华资产洪灏：黄金成为全球资产估值锚，中国有色金属板块仍有机会",
@@ -922,7 +1002,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -955,7 +1035,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -969,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "日本40年期国债收益率上涨3.5个基点，至3.940%。",
+          "url": "https://flash.jin10.com/detail/20260127142116990800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "上证指数早盘收报4134.03点，涨0.03%。 深证成指早盘收报14262.96点，跌0.37%。 创业板指早盘收报3333.91点，涨0.44%。 沪深300早盘收报4720.86点，涨0.30%。 科创50早盘收报1541.52点，涨0.57%。 中证500早盘收报8449.83点，跌0.67%。 中证1000早盘收报8273.26点，跌1.10%。",
@@ -1059,6 +1150,17 @@
           "time_info": "12时13分"
         },
         {
+          "title": "A股算力概念股震荡回升，宏景科技20cm涨停，云赛智联触及涨停，协创数据、世纪恒通、奥飞数据、润建股份、并行科技、青云科技冲高。",
+          "url": "https://wallstreetcn.com/livenews/3044489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "希腊雅典证交所综合指数收涨0.64%，报2279.70点，重新逼近2010年1月11日收盘位2315.31点和2009年11月11日顶部2685.71点。 2026年迄今，希腊股市已经累计上涨7.50%。",
           "url": "https://wallstreetcn.com/livenews/3044095",
           "source": "华尔街见闻-快讯",
@@ -1079,6 +1181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "创业板指涨超1%，早盘一度跌超1%，沪指涨0.29%，深成指涨0.09%，半导体芯片、培育钻石、商业航天、光伏设备等方向领涨，沪深京三市上涨个股超1800只。",
+          "url": "https://wallstreetcn.com/livenews/3044480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "美元走软，干预风险推动日元上涨",
@@ -1117,7 +1230,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "丁薛祥：科技革命和产业变革越是深入发展 越要努力抢占国际竞争制高点",
@@ -1230,6 +1343,17 @@
           "time_info": "[03时32分 ~ 04时37分]"
         },
         {
+          "title": "我国竹产业年产值超5200亿元",
+          "url": "https://wallstreetcn.com/livenews/3044505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "韩国产业部：总统顾问将与相关部委举行会议，商讨应对措施。",
           "url": "https://flash.jin10.com/detail/20260127065443253800",
           "source": "金十数据",
@@ -1263,13 +1387,46 @@
           "time_info": "07时32分"
         },
         {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260127141022145800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "A股半导体产业链拉升，华天科技反包涨停，华虹公司涨超6%，此前东芯股份、康强电子涨停，明微电子、盛科通信、普冉股份、国民技术、兴福电子等多股涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3044484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "中国信通院工物所发布《数据智能服务产业发展研究报告（2025年）》",
+          "url": "https://wallstreetcn.com/livenews/3044482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "欧洲资管巨头：美国政策威胁正驱动资金由美元转向黄金",
           "url": "https://flash.jin10.com/detail/20260127125718271800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -1302,6 +1459,17 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时32分 ~ 14时51分]"
+        },
+        {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
@@ -1311,17 +1479,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 05时33分]"
-        },
-        {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时32分 ~ 13时37分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -1447,19 +1604,6 @@
           "time_info": "[00时46分 ~ 07时32分]"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时37分]"
-        },
-        {
           "title": "金价银价巨震",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -1467,6 +1611,19 @@
             23,
             25,
             22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 14时51分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -1502,7 +1659,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         }
