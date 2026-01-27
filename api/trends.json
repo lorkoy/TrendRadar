@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T05:27:50.209716+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-01-28T06:31:56.177404+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时31分]"
         },
         {
           "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
@@ -30,6 +30,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时44分 ~ 04时33分]"
+        },
+        {
+          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
+          "url": "https://wallstreetcn.com/articles/3764255",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时53分 ~ 06时31分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月27日（周二）晚盘收盘下跌0.17%报1137.01元/克；<br/>上海黄金交易所白银T+D 1月27日（周二）晚盘收盘下跌1.05%报27900.0元/千克。",
@@ -56,19 +69,6 @@
           "time_info": "[04时33分 ~ 05时27分]"
         },
         {
-          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
-          "url": "https://wallstreetcn.com/articles/3764255",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时53分 ~ 05时27分]"
-        },
-        {
           "title": "2026年房价又要启动上涨了吗",
           "url": "https://www.toutiao.com/trending/7599944613947772459/",
           "source": "今日头条",
@@ -77,8 +77,20 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 06时31分]"
+        },
+        {
+          "title": "周二（1月27日），彭博电动汽车价格回报指数跌0.18%，报3691.62点。 该指数全天处于下跌状态，亚太早盘显著走低、北京时间10:03刷新日低至3645.56点，随后逐步收复失地，整体呈现出长尾V形走势。",
+          "url": "https://wallstreetcn.com/livenews/3044986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时53分 ~ 05时27分]"
+          "time_info": "[05时27分 ~ 06时31分]"
         },
         {
           "title": "财报发布后，德州仪器(TXN.O)盘后上涨3.5%。",
@@ -87,18 +99,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "周二（1月27日），彭博电动汽车价格回报指数跌0.18%，报3691.62点。 该指数全天处于下跌状态，亚太早盘显著走低、北京时间10:03刷新日低至3645.56点，随后逐步收复失地，整体呈现出长尾V形走势。",
-          "url": "https://wallstreetcn.com/livenews/3044986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -109,9 +110,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
+          "url": "https://wallstreetcn.com/livenews/3045007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "油价上涨3% 哈萨克斯坦与美国的产量受挫",
+          "url": "https://flash.jin10.com/detail/20260128054735798800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "英镑兑美元涨1.4%，刷新2021年9月以来高位至1.3868，特朗普称不担心美元下跌。",
@@ -120,7 +143,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -131,7 +154,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -164,9 +187,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3045000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "国际原油结算价上涨3%",
@@ -175,7 +209,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -186,7 +220,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -205,7 +239,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -217,6 +251,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 05时27分]"
+        },
+        {
+          "title": "Qorvo第三财季调整后营收9.93亿美元，分析师预期9.858亿美元。 预计第四财季营收7.75亿-8.25亿美元，分析师预期9.038亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "临近收盘，现货黄金刷新新高至5190美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260128055015193800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "上期所原油期货2503合约夜盘收涨1.54%，报456元人民币/桶。 沪金夜盘收跌0.28%，沪银收跌2.42%。",
@@ -328,6 +384,17 @@
           "time_info": "[02时53分 ~ 03时35分]"
         },
         {
+          "title": "现货白银涨超8.7%",
+          "url": "https://wallstreetcn.com/livenews/3045009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "欧洲央行管委兼德国央行行长Nagel：近期没理由调整政策利率。",
           "url": "https://wallstreetcn.com/livenews/3044902",
           "source": "华尔街见闻-快讯",
@@ -345,7 +412,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -367,7 +434,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -386,7 +453,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
@@ -396,8 +463,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时31分]"
         },
         {
           "title": "人力资源社会保障部将有新政策",
@@ -405,11 +472,23 @@
           "source": "抖音",
           "ranks": [
             5,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时31分]"
+        },
+        {
+          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
+          "url": "https://wallstreetcn.com/articles/3764225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时31分]"
         },
         {
           "title": "巴克莱：新兴市场货币有望跑赢，资金流入空间巨大",
@@ -434,17 +513,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时27分]"
-        },
-        {
-          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
-          "url": "https://wallstreetcn.com/articles/3764225",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 05时27分]"
         },
         {
           "title": "带薪休假等事项将有新政策",
@@ -496,6 +564,17 @@
           "time_info": "[00时44分 ~ 01时37分]"
         },
         {
+          "title": "美国总统特朗普：如果最高法院否决关税政策，将找到其他方式来处理贸易问题。",
+          "url": "https://wallstreetcn.com/livenews/3045001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "英国酒馆获税收减免，工党政府再度上演预算政策大反转",
           "url": "https://wallstreetcn.com/livenews/3044869",
           "source": "华尔街见闻-快讯",
@@ -543,7 +622,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -553,8 +632,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时31分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -563,7 +642,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -574,7 +653,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -585,9 +664,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3044985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时31分]"
         },
         {
           "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
@@ -602,15 +693,26 @@
           "time_info": "[02时53分 ~ 03时35分]"
         },
         {
-          "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3044985",
+          "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3045008",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时31分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
+          "url": "https://wallstreetcn.com/livenews/3045005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -624,6 +726,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "美股七巨头收盘播报｜亚马逊涨超2.6%，该公司拟将生鲜超市及无人便利店改造为全食超市门店",
+          "url": "https://wallstreetcn.com/livenews/3044996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "美股费城半导体指数涨2.5%。",
           "url": "https://flash.jin10.com/detail/20260127235011567800",
           "source": "金十数据",
@@ -633,6 +746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "美股半导体指数涨2.4%，创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3044981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         }
       ]
     },
@@ -647,7 +771,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -658,7 +782,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -669,7 +793,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -680,7 +804,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -691,7 +815,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -741,8 +865,19 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "离岸人民币涨向6.93元",
+          "url": "https://wallstreetcn.com/livenews/3045012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9545元，较周一夜盘收盘跌5点。成交量378.21亿美元。",
           "url": "https://wallstreetcn.com/livenews/3044949",
@@ -770,8 +905,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时31分]"
         }
       ]
     },
@@ -786,7 +921,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         }
