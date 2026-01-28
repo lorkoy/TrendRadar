@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T13:37:54.125364+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-01-28T14:50:40.177259+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -81,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -92,11 +92,24 @@
           "ranks": [
             4,
             6,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 14时50分]"
+        },
+        {
+          "title": "现货黄金升破5200美元！芝商所上调白银、铂金、钯金保证金比例",
+          "url": "https://www.cls.cn/detail/2272212",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时50分]"
         },
         {
           "title": "上期所原油期货2503合约夜盘收涨1.54%，报456元人民币/桶。 沪金夜盘收跌0.28%，沪银收跌2.42%。",
@@ -278,24 +291,13 @@
           "time_info": "12时12分"
         },
         {
-          "title": "现货黄金升破5200美元！芝商所上调白银、铂金、钯金保证金比例",
-          "url": "https://www.cls.cn/detail/2272212",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
           "title": "现货黄金站上5250美元",
           "url": "https://flash.jin10.com/detail/20260128130553271800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -306,7 +308,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -339,9 +341,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "美国天然气期货日内跌幅达3.00%，现报3.705美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260128140958001800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "现货黄金延续涨势，向上触及5220美元/盎司，日内涨0.78%。",
@@ -372,9 +385,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "美股期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.47%，道指期货涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3045325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "沃尔沃第四季度营业利润127.7亿瑞典克朗，预估118.5亿瑞典克朗。 第四季度调整后营业利润127.7亿瑞典克朗，预估114亿瑞典克朗。 第四季度销售净额1,238亿瑞典克朗，预估1,217.5亿瑞典克朗。 第四季度调整后运营利润率10.3％，预估9.57％。 沃尔沃预计2026年欧洲重卡市场规模305000辆，此前预计295000辆。 沃尔沃预计2026年北美重卡市场规模265000辆，此前预计250000辆。 沃尔沃仍然预测2026年中国中重型卡车市场760000辆。",
+          "url": "https://wallstreetcn.com/livenews/3045324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "现货黄金站上5210美元/盎司，日内涨0.60%。",
@@ -501,7 +536,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -514,8 +549,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时53分 ~ 13时37分]"
+          "appearance_count": 11,
+          "time_info": "[02时53分 ~ 14时50分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -528,6 +563,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时44分 ~ 07时32分]"
+        },
+        {
+          "title": "多只宽基ETF尾盘放量，沪深300ETF华泰柏瑞成交额超300亿元，沪深300ETF易方达、中证500ETF、沪深300ETF华夏、上证50ETF成交额均超200亿元。",
+          "url": "https://wallstreetcn.com/livenews/3045341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "2026年房价又要启动上涨了吗",
@@ -544,15 +590,15 @@
           "time_info": "[02时53分 ~ 10时27分]"
         },
         {
-          "title": "马来西亚林吉特兑美元上涨0.8%至3.9150，为2018年4月下旬以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3045291",
-          "source": "华尔街见闻-快讯",
+          "title": "日本两年期国债收益率下跌3.5个基点，至1.240%。",
+          "url": "https://flash.jin10.com/detail/20260128142144332800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时37分"
+          "time_info": "14时50分"
         },
         {
           "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
@@ -565,17 +611,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时44分 ~ 04时33分]"
-        },
-        {
-          "title": "MSCI亚太指数上涨1%至247.02点。",
-          "url": "https://wallstreetcn.com/livenews/3045288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月27日（周二）晚盘收盘下跌0.17%报1137.01元/克；<br/>上海黄金交易所白银T+D 1月27日（周二）晚盘收盘下跌1.05%报27900.0元/千克。",
@@ -600,6 +635,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时27分]"
+        },
+        {
+          "title": "马来西亚林吉特兑美元上涨0.8%至3.9150，为2018年4月下旬以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3045291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时50分]"
+        },
+        {
+          "title": "MSCI亚太指数上涨1%至247.02点。",
+          "url": "https://wallstreetcn.com/livenews/3045288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时50分]"
         },
         {
           "title": "周二（1月27日），彭博电动汽车价格回报指数跌0.18%，报3691.62点。 该指数全天处于下跌状态，亚太早盘显著走低、北京时间10:03刷新日低至3645.56点，随后逐步收复失地，整体呈现出长尾V形走势。",
@@ -660,13 +719,24 @@
           "time_info": "10时27分"
         },
         {
+          "title": "伦敦金属交易所（LME）三个月期铝价格上涨2.7%，至每公吨3,293.50美元。",
+          "url": "https://flash.jin10.com/detail/20260128141256269800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "A股液冷服务器概念震荡拉升，远东股份涨停，欧陆通、鼎通科技、奕东电子涨超10%，鸿富瀚、飞龙股份、英维克等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3045283",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -858,6 +928,17 @@
           "time_info": "12时12分"
         },
         {
+          "title": "渣打银行：美元走软及黄金和白银大幅上涨支撑铜价。",
+          "url": "https://flash.jin10.com/detail/20260128140612791800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "港股上市公司回购热度持续，机构称市场有望震荡上行",
           "url": "https://wallstreetcn.com/livenews/3045019",
           "source": "华尔街见闻-快讯",
@@ -875,7 +956,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -886,7 +967,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -908,7 +989,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -922,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "日本10年期国债收益率下跌5.0个基点，至2.235%。",
+          "url": "https://flash.jin10.com/detail/20260128135103589800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "创业板指跌超1%，沪指涨0.17%，深成指跌0.44%，光伏设备、机器人、军工、医疗器械等方向跌幅居前，沪深京三市下跌个股超3600只。",
@@ -949,7 +1041,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
@@ -984,19 +1076,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 07时32分]"
-        },
-        {
-          "title": "北京：2026年拟制定民营经济促进条例、人工智能产业发展条例等",
-          "url": "https://wallstreetcn.com/livenews/3045293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 14时50分]"
         },
         {
           "title": "巴克莱：新兴市场货币有望跑赢，资金流入空间巨大",
@@ -1021,6 +1102,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时27分]"
+        },
+        {
+          "title": "北京：2026年拟制定民营经济促进条例、人工智能产业发展条例等",
+          "url": "https://wallstreetcn.com/livenews/3045293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时50分]"
+        },
+        {
+          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
+          "url": "https://www.cls.cn/detail/2271889",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 14时50分]"
         },
         {
           "title": "带薪休假等事项将有新政策",
@@ -1060,18 +1166,6 @@
           "time_info": "[00时44分 ~ 01时37分]"
         },
         {
-          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
-          "url": "https://www.cls.cn/detail/2271889",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时37分]"
-        },
-        {
           "title": "美国农业部（USDA）更新政策，加速联邦石油与天然气（土地/水域）的租赁（审批）。",
           "url": "https://wallstreetcn.com/livenews/3044878",
           "source": "华尔街见闻-快讯",
@@ -1090,7 +1184,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -1115,6 +1209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260128141036524800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "分析师：政治与政策双重施压，美元走弱势头料将延续",
@@ -1172,6 +1277,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "“对高市政权的信任投票”：日本众议院选战打响，外国人政策面临转向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32473780",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "英国酒馆获税收减免，工党政府再度上演预算政策大反转",
           "url": "https://wallstreetcn.com/livenews/3044869",
           "source": "华尔街见闻-快讯",
@@ -1219,7 +1335,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -1238,11 +1354,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时37分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 14时50分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -1325,6 +1442,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "阿斯麦美股夜盘拉升，一度涨10%，公司四季度财报好于预期。阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
+          "url": "https://wallstreetcn.com/livenews/3045316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "美股部分中概股走势强劲",
           "url": "https://flash.jin10.com/detail/20260127235351426800",
           "source": "金十数据",
@@ -1367,6 +1495,83 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "黄金价格大涨又大跌，是走还是留？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 14时50分]"
+        },
+        {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 14时50分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 14时50分]"
+        },
+        {
+          "title": "黄金价格暴涨暴跌 是走还是留",
+          "url": "https://www.toutiao.com/trending/7600200790535310911/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 14时50分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "金价冲上5230美元/盎司再创新高，多家品牌金饰克价超1600元",
+          "url": "https://wallstreetcn.com/livenews/3045204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
@@ -1439,71 +1644,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "黄金价格大涨又大跌，是走还是留？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 13时37分]"
-        },
-        {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时37分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时37分]"
-        },
-        {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时37分]"
-        },
-        {
-          "title": "金价冲上5230美元/盎司再创新高，多家品牌金饰克价超1600元",
-          "url": "https://wallstreetcn.com/livenews/3045204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         }
       ]
     },
