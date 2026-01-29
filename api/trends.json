@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T21:17:15.846632+08:00",
-  "total_titles_processed": 1944,
+  "generated_at": "2026-01-29T22:51:31.228991+08:00",
+  "total_titles_processed": 2068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 72,
+      "match_count": 77,
       "titles": [
         {
           "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 21时17分]"
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 22时51分]"
         },
         {
           "title": "现货黄金短线走低超20美元，现报5280.94美元/盎司。",
@@ -73,9 +73,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
+        },
+        {
+          "title": "原油期货主力合约触及涨停，涨幅6.98%。",
+          "url": "https://wallstreetcn.com/livenews/3046546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "现货黄金站上5500美元/盎司，继续创历史新高，日内涨超1.5%。",
@@ -155,6 +166,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "WTI原油期货日内大涨5.00%，现报66.38美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260129222132492800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3046431",
           "source": "华尔街见闻-快讯",
@@ -223,8 +245,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 21时17分]"
+          "appearance_count": 4,
+          "time_info": "[21时16分 ~ 22时51分]"
+        },
+        {
+          "title": "4天连破6道整百关口！现货黄金涨破5500美元，金饰克价首次站上1700元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488559",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时16分 ~ 22时51分]"
         },
         {
           "title": "期货热点追踪",
@@ -237,17 +270,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 15时01分]"
-        },
-        {
-          "title": "4天连破6道整百关口！现货黄金涨破5500美元，金饰克价首次站上1700元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488559",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 21时17分]"
         },
         {
           "title": "现货黄金首次突破5500美元大关",
@@ -393,6 +415,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "纽约银日内涨幅达7.0%，报121.7美元/盎司。 现货白银日内涨幅达4.0%，报121.36美元/盎司。 WTI原油期货涨幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3046537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "现货白银站上121美元/盎司",
+          "url": "https://flash.jin10.com/detail/20260129221311850800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "现货白银日内暴涨4美元",
+          "url": "https://flash.jin10.com/detail/20260129221035980800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "现货黄金突破5330美元/盎司，日内涨2.89%。",
@@ -665,7 +720,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -687,7 +742,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -742,7 +797,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -775,7 +830,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -797,7 +852,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -816,7 +871,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
@@ -826,8 +881,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时35分 ~ 21时17分]"
+          "appearance_count": 15,
+          "time_info": "[07时35分 ~ 22时51分]"
         },
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -904,6 +959,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时51分 ~ 02时50分]"
+        },
+        {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时39分 ~ 22时51分]"
+        },
+        {
+          "title": "【每日收评】上证50涨超1.5%，资源类周期股延续强势，白酒、地产板块迎暴力反弹",
+          "url": "https://www.cls.cn/detail/2274164",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 22时51分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月28日（周三）晚盘收盘上涨2.39%报1190.75元/克；<br/>上海黄金交易所白银T+D 1月28日（周三）晚盘收盘下跌0.13%报28981.0元/千克。",
@@ -1020,30 +1101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时50分]"
-        },
-        {
-          "title": "【每日收评】上证50涨超1.5%，资源类周期股延续强势，白酒、地产板块迎暴力反弹",
-          "url": "https://www.cls.cn/detail/2274164",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 21时17分]"
-        },
-        {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时17分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌1.1%，报390.71点。 在十个板块中，北欧医疗保健板块跌幅最大。 Genmab A/S跌5.0%，在一众北欧个股里表现最差。",
@@ -1368,6 +1425,17 @@
           "time_info": "18时50分"
         },
         {
+          "title": "铜价创下历史新高后，美股上市铜矿商股价盘前上涨，必和必拓(BHP.N)涨4.1%，力拓(RIO.N)涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260129215941423800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美联储发布1月决议声明前，标普500指数和道指微幅下跌，纳斯达克100指数涨幅不足0.4%，科技股七巨头指数涨0.1%，半导体指数涨2.2%，银行指数跌1%。",
           "url": "https://wallstreetcn.com/livenews/3045753",
           "source": "华尔街见闻-快讯",
@@ -1429,7 +1497,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -1454,6 +1522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "加拿大蒙特利尔银行分析师Davis：铜价上涨对人工智能建设产生重大影响。",
+          "url": "https://flash.jin10.com/detail/20260129215348003800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "A股金属铜板块午后持续拉升，铜陵有色、云南铜业涨停，北方铜业此前封板，江西铜业、西部矿业跟涨。",
@@ -1484,7 +1563,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -1569,7 +1648,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "鲍威尔：当前政策并非“明显偏紧”，关税通胀预计今年年中消退（附全文）",
@@ -1581,8 +1660,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时44分 ~ 21时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时44分 ~ 22时51分]"
+        },
+        {
+          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
+          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 22时51分]"
         },
         {
           "title": "全国多地取消固定分时电价，背后政策考量可能是什么？未来电费会涨吗？",
@@ -1610,8 +1701,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时46分 ~ 21时17分]"
+          "appearance_count": 13,
+          "time_info": "[12时46分 ~ 22时51分]"
         },
         {
           "title": "【焦点复盘】沪指强势震荡涨0.27%，三市成交额逼近3万亿，涨价概念持续获资金热捧",
@@ -1627,15 +1718,31 @@
           "time_info": "[01时40分 ~ 07时35分]"
         },
         {
-          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
-          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
-          "source": "凤凰网",
+          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
+          "url": "https://wallstreetcn.com/articles/3764398",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 21时17分]"
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 22时51分]"
+        },
+        {
+          "title": "起底水贝黄金平台“杰我睿”：资金往来用私人账户，原股东名下平台仍在运营",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32484819",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时55分 ~ 22时51分]"
         },
         {
           "title": "机构：美联储会议现反对票 凸显对限制性政策的担忧",
@@ -1647,18 +1754,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
-        },
-        {
-          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
-          "url": "https://wallstreetcn.com/articles/3764398",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 21时17分]"
         },
         {
           "title": "超7000亿资金为何撤离宽基ETF",
@@ -1696,20 +1791,6 @@
           "time_info": "12时46分"
         },
         {
-          "title": "起底水贝黄金平台“杰我睿”：资金往来用私人账户，原股东名下平台仍在运营",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32484819",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 21时17分]"
-        },
-        {
           "title": "高盛测算，在MSCI评估市场准入情况后，印尼股市在良性情景下可能面临22亿美元的被动资金流出，在极端情景下这一数字可能高达78亿美元。",
           "url": "https://flash.jin10.com/detail/20260129003312980800",
           "source": "金十数据",
@@ -1734,6 +1815,17 @@
           "time_info": "[04时42分 ~ 05时39分]"
         },
         {
+          "title": "我国将布局更多“太空+”未来产业",
+          "url": "https://www.cls.cn/detail/2274403",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
           "title": "美元走软叠加乙醇政策预期 美农产品市场迎来看涨转机",
           "url": "https://flash.jin10.com/detail/20260129001304512800",
           "source": "金十数据",
@@ -1744,6 +1836,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时40分]"
+        },
+        {
+          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
+          "url": "https://www.cls.cn/detail/2274202",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "沐曦股份：拟以不超2亿元向全资子公司提供借款 以实施新型高性能通用GPU研发及产业化项目",
@@ -1922,6 +2025,17 @@
           "time_info": "16时54分"
         },
         {
+          "title": "盛宝银行：铜价暴涨凸显基本面与投机资金脱节",
+          "url": "https://flash.jin10.com/detail/20260129220012401800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
           "url": "https://wallstreetcn.com/livenews/3046082",
           "source": "华尔街见闻-快讯",
@@ -1972,7 +2086,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -2123,7 +2237,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -2176,6 +2290,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "美股开盘 Meta Platforms大涨10%",
+          "url": "https://flash.jin10.com/detail/20260129223027540800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260129013023144800",
           "source": "金十数据",
@@ -2198,6 +2323,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "能源业ETF涨超2.4%，领跑美股行业ETF，半导体ETF涨0.75%，网络股指数ETF跌0.2%，科技行业ETF跌超1.1%，全球科技股指数ETF跌超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3046542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
           "url": "https://flash.jin10.com/detail/20260129051658551800",
           "source": "金十数据",
@@ -2208,6 +2344,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时37分]"
+        },
+        {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "瑞银：美联储仍将成为美股的顺风因素",
@@ -2227,7 +2374,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -2238,7 +2385,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -2293,7 +2440,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -2318,6 +2465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3046527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
@@ -2362,12 +2520,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129214609846800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -2423,8 +2592,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时51分 ~ 21时17分]"
+          "appearance_count": 27,
+          "time_info": "[00时51分 ~ 22时51分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -2503,6 +2672,17 @@
           "time_info": "[07时35分 ~ 10时44分]"
         },
         {
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
           "title": "高盛：上调今明两年金价预测",
           "url": "https://www.toutiao.com/trending/7600254146813558827/",
           "source": "今日头条",
@@ -2525,6 +2705,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时35分 ~ 10时44分]"
+        },
+        {
+          "title": "金价暴涨对普通人的影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报”三道红线“",
@@ -2569,6 +2760,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "国防部说的“You wish”是什么意思",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E8%AF%B4%E7%9A%84%E2%80%9CYou+wish%E2%80%9D%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)：交易完成后，菜鸟将停止直接生产和销售无人车。",
+          "url": "https://flash.jin10.com/detail/20260129154008509800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)：菜鸟无人车业务与九识智能达成战略合作伙伴关系，菜鸟将成为九识智能的股东，将合作助力九识智能打造机器人货车。",
+          "url": "https://flash.jin10.com/detail/20260129153951436800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "软银任命首席运营官Jun Shimba为董事长，4月1日起生效。现任董事长Yasuyuki Imai将担任特别顾问。",
+          "url": "https://wallstreetcn.com/livenews/3046285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.32%，报7892.01点。 热门中概股里，新东方初步收涨4.9%，比亚迪、理想涨超2%，阿里、网易、小米、美团涨超1%，蔚来跌超0.7%，文远知行跌1.9%，拼多多跌3.8%。 ETF中，中概互联网指数ETF（KWEB）收涨0.53%，中国科技指数ETF（CQQQ）收涨0.10%。 XtrackersHarvest中证50（ASHS）收跌0.12%，德银嘉实沪深300指数ETF（ASHR）收跌0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3045827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "据华尔街日报：阿里巴巴(09988.HK)将与九识智能共同运营价值20亿美元的机器人自动化业务。",
+          "url": "https://flash.jin10.com/detail/20260129143957150800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少211.42吨，当前持仓量为15636.12吨。欢迎点击查看数据中心..",
+          "url": "https://flash.jin10.com/detail/20260129065606459800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     },
@@ -2658,74 +2932,41 @@
       ]
     },
     {
-      "keyword_group": "SZ SH HK",
-      "match_count": 6,
+      "keyword_group": "美元",
+      "match_count": 3,
       "titles": [
         {
-          "title": "阿里巴巴(09988.HK)：交易完成后，菜鸟将停止直接生产和销售无人车。",
-          "url": "https://flash.jin10.com/detail/20260129154008509800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "阿里巴巴(09988.HK)：菜鸟无人车业务与九识智能达成战略合作伙伴关系，菜鸟将成为九识智能的股东，将合作助力九识智能打造机器人货车。",
-          "url": "https://flash.jin10.com/detail/20260129153951436800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "软银任命首席运营官Jun Shimba为董事长，4月1日起生效。现任董事长Yasuyuki Imai将担任特别顾问。",
-          "url": "https://wallstreetcn.com/livenews/3046285",
+          "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3045755",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "03时40分"
         },
         {
-          "title": "纳斯达克金龙中国指数收涨0.32%，报7892.01点。 热门中概股里，新东方初步收涨4.9%，比亚迪、理想涨超2%，阿里、网易、小米、美团涨超1%，蔚来跌超0.7%，文远知行跌1.9%，拼多多跌3.8%。 ETF中，中概互联网指数ETF（KWEB）收涨0.53%，中国科技指数ETF（CQQQ）收涨0.10%。 XtrackersHarvest中证50（ASHS）收跌0.12%，德银嘉实沪深300指数ETF（ASHR）收跌0.33%。",
-          "url": "https://wallstreetcn.com/livenews/3045827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "据华尔街日报：阿里巴巴(09988.HK)将与九识智能共同运营价值20亿美元的机器人自动化业务。",
-          "url": "https://flash.jin10.com/detail/20260129143957150800",
+          "title": "彭博美元即期指数已收复日内0.3%的跌幅。",
+          "url": "https://flash.jin10.com/detail/20260129185347592800",
           "source": "金十数据",
           "ranks": [
-            26
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时01分"
+          "time_info": "19时39分"
         },
         {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少211.42吨，当前持仓量为15636.12吨。欢迎点击查看数据中心..",
-          "url": "https://flash.jin10.com/detail/20260129065606459800",
+          "title": "美元指数DXY短线走高十余点，现报96.36。",
+          "url": "https://flash.jin10.com/detail/20260129215004835800",
           "source": "金十数据",
           "ranks": [
-            27
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "22时51分"
         }
       ]
     },
@@ -2783,34 +3024,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
-          "url": "https://wallstreetcn.com/livenews/3045755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
-          "title": "彭博美元即期指数已收复日内0.3%的跌幅。",
-          "url": "https://flash.jin10.com/detail/20260129185347592800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         }
       ]
     }
