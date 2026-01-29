@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T15:52:03.434121+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-01-29T16:54:33.210171+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "现货黄金短线走低超20美元，现报5280.94美元/盎司。",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "现货白银转跌，失守116美元/盎司，此前一度升至120.44美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3046303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "现货钯金日内涨幅扩大至4%，现报2131.34美元/盎司。",
@@ -210,7 +221,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -320,9 +331,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
+          "url": "https://www.zhihu.com/question/2000138565615576779",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "瑞典央行：瑞典央行对形势发展保持警惕，若前景发生变化，已准备好调整货币政策。",
+          "url": "https://flash.jin10.com/detail/20260129163059704800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
@@ -636,7 +669,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -658,8 +691,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 15时52分]"
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 16时54分]"
         },
         {
           "title": "高盛外汇交易员：下跌才刚刚开始，美元迎来新一轮贬值",
@@ -811,11 +844,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 15时52分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 16时54分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌1.1%，报390.71点。 在十个板块中，北欧医疗保健板块跌幅最大。 Genmab A/S跌5.0%，在一众北欧个股里表现最差。",
@@ -898,6 +932,17 @@
           "time_info": "10时44分"
         },
         {
+          "title": "英国10年期国债收益率升至自2023年11月以来的最高水平，报4.569%，日内上涨2个基点。",
+          "url": "https://flash.jin10.com/detail/20260129163339529800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "马来西亚基准股指下跌2.1%，至1719.52点。",
           "url": "https://wallstreetcn.com/livenews/3046025",
           "source": "华尔街见闻-快讯",
@@ -909,13 +954,24 @@
           "time_info": "10时44分"
         },
         {
+          "title": "印度NIFTY金属指数上涨3.2%。",
+          "url": "https://flash.jin10.com/detail/20260129163311264800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "印度SENSEX指数转跌为升，目前上涨0.1%。",
           "url": "https://flash.jin10.com/detail/20260129153827493800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -992,7 +1048,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -1003,7 +1059,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -1058,7 +1114,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -1105,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "印度NIFTY指数最新上涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20260129162744384800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -1190,7 +1257,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -1223,7 +1290,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         }
@@ -1231,7 +1298,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "鲍威尔：当前政策并非“明显偏紧”，关税通胀预计今年年中消退（附全文）",
@@ -1242,8 +1309,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 15时52分]"
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 16时54分]"
         },
         {
           "title": "全国多地取消固定分时电价，背后政策考量可能是什么？未来电费会涨吗？",
@@ -1278,9 +1345,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488406",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 16时54分]"
         },
         {
           "title": "超7000亿资金为何撤离宽基ETF",
@@ -1316,18 +1396,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
-        },
-        {
-          "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488406",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 15时52分]"
         },
         {
           "title": "高盛测算，在MSCI评估市场准入情况后，印尼股市在良性情景下可能面临22亿美元的被动资金流出，在极端情景下这一数字可能高达78亿美元。",
@@ -1366,6 +1434,28 @@
           "time_info": "[00时52分 ~ 01时40分]"
         },
         {
+          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
+          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "瑞典央行：2026年的地缘政治发展十分剧烈，尤其是受美国外交政策行动的影响。",
+          "url": "https://flash.jin10.com/detail/20260129163516037800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "云南：到2028年力争全省有色金属产业产值突破6000亿元 新能源电池和磷产业成为新的千亿级产业",
           "url": "https://wallstreetcn.com/livenews/3046193",
           "source": "华尔街见闻-快讯",
@@ -1386,6 +1476,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
+          "url": "https://wallstreetcn.com/articles/3764398",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "瑞典央行：进一步的不确定性因素包括瑞典克朗的走势及其对通胀的影响，以及瑞典更宽松的财政政策。",
+          "url": "https://flash.jin10.com/detail/20260129163135734800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "美联储主席鲍威尔：当前政策有助于在实现两大目标方面取得进展。",
@@ -1452,6 +1564,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "瑞典央行：目前的政策利率水平被认为有助于在长期内增强经济活动并使通胀稳定在目标附近。",
+          "url": "https://flash.jin10.com/detail/20260129163028838800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "瑞典央行：执行委员会已决定将政策利率维持在1.75%不变。",
+          "url": "https://flash.jin10.com/detail/20260129163022419800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
@@ -1885,17 +2019,6 @@
           "time_info": "[10时44分 ~ 15时01分]"
         },
         {
-          "title": "金十图示：2026年01月29日（周四）上海金午盘价为1248.22元/克，较国际金价(1238.82元/克)，高9.4元/克",
-          "url": "https://flash.jin10.com/detail/20260129154110171800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
           "url": "https://www.cls.cn/detail/2273531",
           "source": "财联社热门",
@@ -1903,11 +2026,23 @@
             11,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 15时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 16时54分]"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）上海金午盘价为1248.22元/克，较国际金价(1238.82元/克)，高9.4元/克",
+          "url": "https://flash.jin10.com/detail/20260129154110171800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "渣打：金价任何回调都是买入机会",
@@ -1981,7 +2116,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "阿里巴巴(09988.HK)：交易完成后，菜鸟将停止直接生产和销售无人车。",
@@ -1990,7 +2125,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -2001,9 +2136,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "软银任命首席运营官Jun Shimba为董事长，4月1日起生效。现任董事长Yasuyuki Imai将担任特别顾问。",
+          "url": "https://wallstreetcn.com/livenews/3046285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.32%，报7892.01点。 热门中概股里，新东方初步收涨4.9%，比亚迪、理想涨超2%，阿里、网易、小米、美团涨超1%，蔚来跌超0.7%，文远知行跌1.9%，拼多多跌3.8%。 ETF中，中概互联网指数ETF（KWEB）收涨0.53%，中国科技指数ETF（CQQQ）收涨0.10%。 XtrackersHarvest中证50（ASHS）收跌0.12%，德银嘉实沪深300指数ETF（ASHR）收跌0.33%。",
@@ -2042,7 +2188,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "人民币中间价“破7”后如何演绎",
@@ -2054,6 +2200,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 04时42分]"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9460，较上一交易日官方收盘价跌7点，较上日夜盘收盘涨15点。",
+          "url": "https://wallstreetcn.com/livenews/3046292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9475元，较周二夜盘收盘涨70点。成交量487.80亿美元。",
