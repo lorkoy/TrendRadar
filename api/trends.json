@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T13:53:43.487128+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-01-29T15:01:59.250731+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 48,
+      "match_count": 54,
       "titles": [
         {
           "title": "现货黄金短线走低超20美元，现报5280.94美元/盎司。",
@@ -41,6 +41,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "内盘期货多数收涨，沪银收涨逾8%，沪金涨近8%，国际铜涨7%，沪铜涨逾6%，燃油涨4%，焦煤、原油、沥青、焦炭、低硫燃油涨逾3%；多晶硅收跌逾4%，碳酸锂跌逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3046206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "现货黄金站上5500美元/盎司，继续创历史新高，日内涨超1.5%。",
           "url": "https://wallstreetcn.com/livenews/3045904",
           "source": "华尔街见闻-快讯",
@@ -58,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -91,9 +102,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "国内成品油价格将迎调整",
+          "url": "https://www.toutiao.com/trending/7600439068136128553/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 15时01分]"
         },
         {
           "title": "油价即将调整",
@@ -109,18 +133,6 @@
           "time_info": "[05时38分 ~ 07时35分]"
         },
         {
-          "title": "国内成品油价格将迎调整",
-          "url": "https://www.toutiao.com/trending/7600439068136128553/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时53分]"
-        },
-        {
           "title": "现货黄金突破5320美元/盎司，日内涨2.69%。",
           "url": "https://wallstreetcn.com/livenews/3045740",
           "source": "华尔街见闻-快讯",
@@ -131,6 +143,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 03时40分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260129101942495800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 15时01分]"
         },
         {
           "title": "现货黄金首次突破5500美元大关",
@@ -229,7 +253,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -254,17 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260129101942495800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
         },
         {
           "title": "现货黄金突破5330美元/盎司，日内涨2.89%。",
@@ -410,6 +423,28 @@
           "time_info": "07时35分"
         },
         {
+          "title": "现货白银、纽约银均站上120美元/盎司",
+          "url": "https://wallstreetcn.com/livenews/3046170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "印度经济调查：预计2027财年将是调整之年，随着企业适应近期改革，投资和消费将逐步增强。",
+          "url": "https://flash.jin10.com/detail/20260129144308751800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "芝加哥小麦期货涨约2.3%，玉米涨1%",
           "url": "https://wallstreetcn.com/livenews/3045819",
           "source": "华尔街见闻-快讯",
@@ -419,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "现货白银日内涨幅达2.5%，报119.73美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3046169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "现货黄金首次突破5500美元",
@@ -438,7 +484,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -540,12 +586,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "富时中国A50指数期货涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3046155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "诺基亚第四季度销售净额61.3亿欧元，预估61.5亿欧元。 第四季度调整后每股收益0.16欧元，预估0.15欧元。 第四季度调整后营业利润10.6亿欧元，预估10.6亿欧元。 诺基亚全年股息0.14欧元，预估0.15欧元。 诺基亚预计2026年调整后营业利润20亿欧元至25亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3046154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -599,6 +667,17 @@
           "time_info": "[00时51分 ~ 07时35分]"
         },
         {
+          "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 15时01分]"
+        },
+        {
           "title": "资源板块成“香饽饽”！成交额占比创2年新高，涨停热股频频涌现，这些权重成交天量",
           "url": "https://www.cls.cn/detail/2272817",
           "source": "财联社热门",
@@ -610,17 +689,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时51分 ~ 07时35分]"
-        },
-        {
-          "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 13时53分]"
         },
         {
           "title": "飞天茅台价格全线上涨",
@@ -795,6 +863,17 @@
           "time_info": "10时44分"
         },
         {
+          "title": "上证50指数涨超2%，白酒、保险等权重股持续走强，贵州茅台大涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3046189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "微软高管：内存价格上涨将影响资本支出。",
           "url": "https://flash.jin10.com/detail/20260129070818969800",
           "source": "金十数据",
@@ -812,7 +891,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -826,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "黄金一度逼近5600美元！渣打：这远非投机狂热 短期上涨空间仍存",
+          "url": "https://www.cls.cn/detail/2273671",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "印度尼西亚股票基准指数下跌7%至7741.79点。",
@@ -955,7 +1045,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -966,9 +1056,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "美元再度下跌 “贬值交易”势头冲淡贝森特表态带来的提振",
+          "url": "https://wallstreetcn.com/livenews/3046165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "马来西亚林吉特兑美元汇率下跌0.3%，至3.9280。",
@@ -982,13 +1083,24 @@
           "time_info": "10时44分"
         },
         {
+          "title": "印尼基准股指午后跌幅持续收窄，最新下跌3%。",
+          "url": "https://flash.jin10.com/detail/20260129144243779800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "印尼首席经济部长：政府要求证券交易所运营商进行改革，提高透明度，以应对市场下跌。",
           "url": "https://wallstreetcn.com/livenews/3046111",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1010,7 +1122,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         }
@@ -1018,7 +1130,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "全国多地取消固定分时电价，背后政策考量可能是什么？未来电费会涨吗？",
@@ -1055,8 +1167,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 15时01分]"
         },
         {
           "title": "超7000亿资金为何撤离宽基ETF",
@@ -1118,6 +1230,18 @@
           "time_info": "[04时42分 ~ 05时39分]"
         },
         {
+          "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488406",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 15时01分]"
+        },
+        {
           "title": "美元走软叠加乙醇政策预期 美农产品市场迎来看涨转机",
           "url": "https://flash.jin10.com/detail/20260129001304512800",
           "source": "金十数据",
@@ -1130,15 +1254,15 @@
           "time_info": "[00时52分 ~ 01时40分]"
         },
         {
-          "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488406",
-          "source": "澎湃新闻",
+          "title": "云南：到2028年力争全省有色金属产业产值突破6000亿元 新能源电池和磷产业成为新的千亿级产业",
+          "url": "https://wallstreetcn.com/livenews/3046193",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "美联储主席鲍威尔：当前的政策立场是适当的。",
@@ -1196,6 +1320,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "世界黄金协会：2025年纽约期金净多仓位逆势缩减 为后续资金流入预留了空间",
+          "url": "https://flash.jin10.com/detail/20260129144758678800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "美联储主席鲍威尔：尽管贸易政策发生了重大变化，但迄今为止经济表现良好。",
           "url": "https://flash.jin10.com/detail/20260129040735564800",
           "source": "金十数据",
@@ -1249,6 +1384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：难以想象欧盟国家将组建独立的欧洲军队。",
+          "url": "https://flash.jin10.com/detail/20260129144209297800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "鲍威尔：我们处于中性利率区间的高端。 数据很难说明政策具有极大的限制性。 政策可能是中性的，或者在一定程度上具有限制性。 今天有许多人支持维持政策利率不变。",
@@ -1315,6 +1461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：我预计，即便伊朗革命卫队被列入（恐怖组织）名单，与伊朗的外交渠道仍将保持畅通。",
+          "url": "https://flash.jin10.com/detail/20260129143430571800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         }
       ]
     },
@@ -1571,11 +1728,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 13时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 15时01分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1610,8 +1768,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 15时01分]"
         },
         {
           "title": "渣打：金价任何回调都是买入机会",
@@ -1631,11 +1789,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 15时01分]"
         },
         {
           "title": "金价",
@@ -1667,7 +1826,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1747,7 +1906,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数收涨0.32%，报7892.01点。 热门中概股里，新东方初步收涨4.9%，比亚迪、理想涨超2%，阿里、网易、小米、美团涨超1%，蔚来跌超0.7%，文远知行跌1.9%，拼多多跌3.8%。 ETF中，中概互联网指数ETF（KWEB）收涨0.53%，中国科技指数ETF（CQQQ）收涨0.10%。 XtrackersHarvest中证50（ASHS）收跌0.12%，德银嘉实沪深300指数ETF（ASHR）收跌0.33%。",
@@ -1759,6 +1918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "据华尔街日报：阿里巴巴(09988.HK)将与九识智能共同运营价值20亿美元的机器人自动化业务。",
+          "url": "https://flash.jin10.com/detail/20260129143957150800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少211.42吨，当前持仓量为15636.12吨。欢迎点击查看数据中心..",
