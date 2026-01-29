@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-01-29T19:39:54.583543+08:00",
-  "total_titles_processed": 1823,
+  "generated_at": "2026-01-29T21:17:15.846632+08:00",
+  "total_titles_processed": 1944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 64,
+      "match_count": 72,
       "titles": [
+        {
+          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
+          "url": "https://www.zhihu.com/question/2000138565615576779",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时17分]"
+        },
         {
           "title": "现货黄金短线走低超20美元，现报5280.94美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260129023244743800",
@@ -47,9 +62,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "夜盘期货开盘，沪银涨逾4%，国际铜、沪铜涨逾3%，焦煤、沪镍、沪金、原油、沪锌涨逾2%，沥青、燃油、焦炭、玻璃、铁矿石、纯碱、液化石油气、橡胶涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3046489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "现货黄金站上5500美元/盎司，继续创历史新高，日内涨超1.5%。",
@@ -135,7 +161,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -190,18 +216,15 @@
           "time_info": "[15时01分 ~ 15时52分]"
         },
         {
-          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
-          "url": "https://www.zhihu.com/question/2000138565615576779",
-          "source": "知乎",
+          "title": "沪指震荡收涨，白酒爆发、贵州茅台涨逾8%，地产大涨，恒科指跌1%，芯片调整，沪金银铜飙升",
+          "url": "https://wallstreetcn.com/articles/3764424",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            14,
-            7,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时39分]"
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 21时17分]"
         },
         {
           "title": "期货热点追踪",
@@ -214,6 +237,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 15时01分]"
+        },
+        {
+          "title": "4天连破6道整百关口！现货黄金涨破5500美元，金饰克价首次站上1700元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488559",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 21时17分]"
         },
         {
           "title": "现货黄金首次突破5500美元大关",
@@ -356,7 +390,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -625,6 +659,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "路透调查：LME现货铅均价预计2026年为2,042美元/吨，2027年为2,100美元/吨，而2025年为1,962美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200908926800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "章源钨业：1月29日起调整焊接机夹刀片价格",
           "url": "https://wallstreetcn.com/livenews/3046003",
           "source": "华尔街见闻-快讯",
@@ -634,6 +679,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "路透调查：LME现货铜均价预计2026年为11,975美元/吨，2027年为11,994美元/吨，而2025年为9,939美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200853225800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "“新债王”Gundlach：相比私人市场，我更青睐于公开市场。 没有对我自己的投资组合做出任何调整。 美元不像是一种避险货币。 避险似乎属于明确的资产，比特币不是。",
@@ -680,6 +736,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "路透调查：LME现货镍均价预计2026年为15,988美元/吨，2027年为16,063美元/吨，而2025年为15,154美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200730593800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约涨0.28%，10年期主力合约涨0.12%，5年期主力合约涨0.06%，2年期主力合约涨0.02%。",
           "url": "https://wallstreetcn.com/livenews/3046067",
           "source": "华尔街见闻-快讯",
@@ -702,6 +769,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "路透调查：LME现货铝均价预计2026年和2027年均为2,946美元/吨，而2025年为2,630美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200653900800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "富时中国A50指数期货涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3046155",
           "source": "华尔街见闻-快讯",
@@ -711,6 +789,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "路透调查：LME现货锌均价预计2026年为2,976美元/吨，2027年为2,866美元/吨，而2025年为2,867美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200631978800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "诺基亚第四季度销售净额61.3亿欧元，预估61.5亿欧元。 第四季度调整后每股收益0.16欧元，预估0.15欧元。 第四季度调整后营业利润10.6亿欧元，预估10.6亿欧元。 诺基亚全年股息0.14欧元，预估0.15欧元。 诺基亚预计2026年调整后营业利润20亿欧元至25亿欧元。",
@@ -727,7 +816,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
@@ -737,8 +826,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时35分 ~ 19时39分]"
+          "appearance_count": 13,
+          "time_info": "[07时35分 ~ 21时17分]"
         },
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -834,7 +923,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -867,7 +956,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -941,8 +1030,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 21时17分]"
+        },
+        {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 21时17分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌1.1%，报390.71点。 在十个板块中，北欧医疗保健板块跌幅最大。 Genmab A/S跌5.0%，在一众北欧个股里表现最差。",
@@ -1130,7 +1231,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1166,17 +1267,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
-        },
-        {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月29日（周四）收盘上涨7.08%报1245.4元/克；<br/>上海黄金交易所白银T+D 1月29日（周四）收盘上涨3.23%报29955.0元/千克。",
@@ -1333,6 +1423,17 @@
           "time_info": "16时54分"
         },
         {
+          "title": "土耳其主要银行指数继续上涨，涨幅达6.5%；主要股指BIST 100指数涨幅达3.3%。",
+          "url": "https://flash.jin10.com/detail/20260129201323930800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
           "url": "https://wallstreetcn.com/livenews/3045820",
           "source": "华尔街见闻-快讯",
@@ -1375,6 +1476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "湖南白银：存在较高的炒作风险，未来存在快速下跌的风险",
+          "url": "https://wallstreetcn.com/livenews/3046460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "马来西亚林吉特兑美元汇率下跌0.3%，至3.9280。",
@@ -1457,7 +1569,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "鲍威尔：当前政策并非“明显偏紧”，关税通胀预计今年年中消退（附全文）",
@@ -1465,11 +1577,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时44分 ~ 19时39分]"
+          "appearance_count": 12,
+          "time_info": "[10时44分 ~ 21时17分]"
         },
         {
           "title": "全国多地取消固定分时电价，背后政策考量可能是什么？未来电费会涨吗？",
@@ -1485,6 +1598,22 @@
           "time_info": "[00时51分 ~ 07时35分]"
         },
         {
+          "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488406",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时46分 ~ 21时17分]"
+        },
+        {
           "title": "【焦点复盘】沪指强势震荡涨0.27%，三市成交额逼近3万亿，涨价概念持续获资金热捧",
           "url": "https://www.cls.cn/detail/2272801",
           "source": "财联社热门",
@@ -1498,20 +1627,15 @@
           "time_info": "[01时40分 ~ 07时35分]"
         },
         {
-          "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488406",
-          "source": "澎湃新闻",
+          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
+          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            13,
-            12,
-            11,
-            10,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时17分]"
         },
         {
           "title": "机构：美联储会议现反对票 凸显对限制性政策的担忧",
@@ -1523,6 +1647,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
+          "url": "https://wallstreetcn.com/articles/3764398",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时17分]"
         },
         {
           "title": "超7000亿资金为何撤离宽基ETF",
@@ -1560,15 +1696,18 @@
           "time_info": "12时46分"
         },
         {
-          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
-          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
-          "source": "凤凰网",
+          "title": "起底水贝黄金平台“杰我睿”：资金往来用私人账户，原股东名下平台仍在运营",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32484819",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            17,
+            15,
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时39分]"
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 21时17分]"
         },
         {
           "title": "高盛测算，在MSCI评估市场准入情况后，印尼股市在良性情景下可能面临22亿美元的被动资金流出，在极端情景下这一数字可能高达78亿美元。",
@@ -1595,30 +1734,6 @@
           "time_info": "[04时42分 ~ 05时39分]"
         },
         {
-          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
-          "url": "https://wallstreetcn.com/articles/3764398",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时39分]"
-        },
-        {
-          "title": "起底水贝黄金平台“杰我睿”：资金往来用私人账户，原股东名下平台仍在运营",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32484819",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时39分]"
-        },
-        {
           "title": "美元走软叠加乙醇政策预期 美农产品市场迎来看涨转机",
           "url": "https://flash.jin10.com/detail/20260129001304512800",
           "source": "金十数据",
@@ -1637,7 +1752,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1681,7 +1796,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1758,7 +1873,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1791,7 +1906,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1851,13 +1966,24 @@
           "time_info": "18时50分"
         },
         {
+          "title": "捷克财政部：2025年捷克从欧盟资金中获得的净流入将达到779亿捷克克朗，其中包括从下一代欧盟基金中获取的资金。",
+          "url": "https://flash.jin10.com/detail/20260129201255864800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "我国将布局更多“太空+”未来产业",
           "url": "https://wallstreetcn.com/livenews/3046402",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1997,7 +2123,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -2095,6 +2221,28 @@
           "time_info": "02时50分"
         },
         {
+          "title": "阿里巴巴美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3046478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "洛克希德马丁四季度净销售额203亿美元，预估198.5亿美元。 四季度每股收益5.8美元，预期5.86美元，上年同期2.22美元。 四季度营业利润为23.3亿美元，预期22.2亿美元。 洛克希德马丁预计2026年的净销售额775亿美元至800亿美元，市场预估778.9亿美元。 洛克希德马丁预计2026年每股收益29.35美元至30.25美元，市场预估29.09美元。 洛克希德马丁预计2026年自由现金流65亿至68亿美元，预期61.6亿美元。 洛克希德马丁美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3046473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "IBM(IBM.N)美股盘前涨7.9%，四季度业绩超出预期。",
           "url": "https://flash.jin10.com/detail/20260129171935659800",
           "source": "金十数据",
@@ -2137,6 +2285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129201634269800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（1月28日），美国科技股七巨头（Magnificent 7）指数涨0.22%，报209.62点，整体呈现出V形反转行情，美联储发布决议声明后持续走高。 “超大”市值科技股指数涨0.04%，报398.55点，跳空高开之后持续回吐涨幅并多次转跌。",
@@ -2264,8 +2423,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时51分 ~ 19时39分]"
+          "appearance_count": 25,
+          "time_info": "[00时51分 ~ 21时17分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -2649,7 +2808,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
