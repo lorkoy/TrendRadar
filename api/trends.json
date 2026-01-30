@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T03:40:31.728324+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-01-31T04:41:15.531606+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "现货黄金失守4930美元/盎司，日内跌幅8.32%。",
@@ -19,15 +19,49 @@
           "time_info": "01时42分"
         },
         {
+          "title": "美国天然气期货日内暴涨12.00%，现报4.389美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260131034010278800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "COMEX白银期货本月收涨11%，但周线大跌22%",
+          "url": "https://flash.jin10.com/detail/20260131033921702800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "WTI 3月原油期货收报65.21美元/桶。 NYMEX 3月天然气期货收报4.3540美元/百万英热单位。 NYMEX 2月汽油期货收报1.9228美元/加仑，NYMEX 2月取暖油期货收报2.7356美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3047558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
           "title": "现货黄金重回4900美元/盎司，较日低反弹超200美元。",
           "url": "https://flash.jin10.com/detail/20260131030644092800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时41分]"
         },
         {
           "title": "现货白银失守90美元/盎司，为1月16日以来首次，日内跌22.11%。",
@@ -54,6 +88,55 @@
           "time_info": "[00时52分 ~ 01时42分]"
         },
         {
+          "title": "金银高位闪崩，是短暂调整，还是趋势反转的开始？",
+          "url": "https://wallstreetcn.com/articles/3764584",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 04时41分]"
+        },
+        {
+          "title": "现货黄金跌破4700美元/盎司，日内跌12.60%。",
+          "url": "https://flash.jin10.com/detail/20260131022917931800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 04时41分]"
+        },
+        {
+          "title": "现货白银RSI掉出超买区间",
+          "url": "https://flash.jin10.com/detail/20260131022910234800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 04时41分]"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.62%，报27330点，低水57点。",
+          "url": "https://flash.jin10.com/detail/20260131033122493800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时41分]"
+        },
+        {
           "title": "道明证券：沃什不太可能短期内说服同僚们支持美联储降息或调整资产负债表",
           "url": "https://wallstreetcn.com/livenews/3047485",
           "source": "华尔街见闻-快讯",
@@ -64,30 +147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时42分]"
-        },
-        {
-          "title": "现货黄金跌破4700美元/盎司，日内跌12.60%。",
-          "url": "https://flash.jin10.com/detail/20260131022917931800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时40分]"
-        },
-        {
-          "title": "现货白银RSI掉出超买区间",
-          "url": "https://flash.jin10.com/detail/20260131022910234800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时40分]"
         },
         {
           "title": "现货白银日内暴跌40美元",
@@ -114,15 +173,16 @@
           "time_info": "[00时52分 ~ 01时42分]"
         },
         {
-          "title": "恒指期货夜盘收跌0.62%，报27330点，低水57点。",
-          "url": "https://flash.jin10.com/detail/20260131033122493800",
-          "source": "金十数据",
+          "title": "上期所原油期货2603合约夜盘收跌2.67%，报470元人民币/桶。 沪金夜盘收跌9.83%，沪银收跌17%。",
+          "url": "https://wallstreetcn.com/livenews/3047538",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            18,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时41分]"
         },
         {
           "title": "现货黄金日内暴跌8.00%，现报4946.59美元/盎司。",
@@ -145,17 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
-        },
-        {
-          "title": "金银高位闪崩，是短暂调整，还是趋势反转的开始？",
-          "url": "https://wallstreetcn.com/articles/3764584",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
         },
         {
           "title": "现货白银日内跌近20%",
@@ -211,17 +260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
-        },
-        {
-          "title": "上期所原油期货2603合约夜盘收跌2.67%，报470元人民币/桶。 沪金夜盘收跌9.83%，沪银收跌17%。",
-          "url": "https://wallstreetcn.com/livenews/3047538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
         },
         {
           "title": "现货白银重挫近30%",
@@ -285,6 +323,66 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "油价大反转来了？巴克莱：\"过剩危机\"是假象，原油多年牛市即将开启！",
+          "url": "https://wallstreetcn.com/articles/3764540",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时41分]"
+        },
+        {
+          "title": "黄金牛市还能走多远？小摩喊出8500美元天价 但警告短期回调风险",
+          "url": "https://www.cls.cn/detail/2275650",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时41分]"
+        },
+        {
+          "title": "“这行情你可能一辈子遇不到”！大宗商品轮番上涨，中国投资者把铜“买飞了”",
+          "url": "https://wallstreetcn.com/articles/3764529",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时41分]"
+        },
+        {
+          "title": "黄金为何下跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            30,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时41分]"
+        },
+        {
+          "title": "黄金牛市还能走多远",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%89%9B%E5%B8%82%E8%BF%98%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时41分]"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨0.59%，报610.75点，1月份累计上涨大约3%。 欧元区STOXX 50指数初步收涨0.89%，报5944.84点，1月份累涨约2.5%。 富时泛欧绩优300指数初步收涨0.65%，报2433.90点。",
           "url": "https://wallstreetcn.com/livenews/3047496",
           "source": "华尔街见闻-快讯",
@@ -297,75 +395,17 @@
           "time_info": "[00时52分 ~ 01时42分]"
         },
         {
-          "title": "油价大反转来了？巴克莱：\"过剩危机\"是假象，原油多年牛市即将开启！",
-          "url": "https://wallstreetcn.com/articles/3764540",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
-        },
-        {
-          "title": "黄金牛市还能走多远？小摩喊出8500美元天价 但警告短期回调风险",
-          "url": "https://www.cls.cn/detail/2275650",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
-        },
-        {
-          "title": "“这行情你可能一辈子遇不到”！大宗商品轮番上涨，中国投资者把铜“买飞了”",
-          "url": "https://wallstreetcn.com/articles/3764529",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
-        },
-        {
-          "title": "黄金为何下跌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
-        },
-        {
-          "title": "黄金牛市还能走多远",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%89%9B%E5%B8%82%E8%BF%98%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 1月30日（周五）晚盘收盘下跌9.47%报1070.0元/克；<br/>上海黄金交易所白银T+D 1月30日（周五）晚盘收盘下跌19.0%报23420.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260131023126396800",
           "source": "金十数据",
           "ranks": [
             7,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 04时41分]"
         },
         {
           "title": "纳斯达克100指数跌超1%，标普跌0.7%，道指下跌473点跌幅将近1%。 半导体指数跌幅扩大至2.2%。 此前，特朗普“赞赏标普创历史新高”的话音刚落。",
@@ -451,7 +491,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "最能体现沃什政策主张的一场对话：通胀是美联储的一种选择",
@@ -461,8 +501,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时41分]"
         },
         {
           "title": "【数据看盘】6.53亿资金逆势抢筹兴业银锡，湖南黄金龙虎榜现机构与游资博弈",
@@ -472,19 +512,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时41分]"
         },
         {
           "title": "美国民主党参议员沃伦致信要求凯文·沃什就美联储主席鲍威尔和美联储理事库克的调查表明立场，沃伦表示，美联储下一任主席必须承诺在制定政策决策时不受政治考量影响。",
           "url": "https://flash.jin10.com/detail/20260131031716633800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时41分]"
         },
         {
           "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
@@ -494,8 +535,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时41分]"
+        },
+        {
+          "title": "美国参议院民主党党鞭Durbin就总统特朗普的美联储主席提名人沃什发表声明：质疑沃什是否有“胆量”指出特朗普的政策错误。 沃什具备美联储主席所需要的教育背景、训练、经验。 沃什对美联储独立性的看法将决定特朗普是否选对了人。",
+          "url": "https://wallstreetcn.com/livenews/3047560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "美联储穆萨莱姆：预计在信贷条件和财政政策的推动下，经济将继续以高于趋势水平的速度增长。",
@@ -503,11 +555,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 04时41分]"
         },
         {
           "title": "美联储穆萨莱姆：进一步降息并不可取，当前政策已属中性，经济无需刺激。风险总体平衡，只有在就业市场恶化或通胀下行时才需要进一步降息。",
@@ -515,11 +568,24 @@
           "source": "金十数据",
           "ranks": [
             6,
-            20
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 04时41分]"
+        },
+        {
+          "title": "美国总统特朗普将于十分钟后出席一场政策会议。",
+          "url": "https://flash.jin10.com/detail/20260131025000000800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时40分]"
+          "time_info": "[03时40分 ~ 04时41分]"
         },
         {
           "title": "2028年FOMC票委、圣路易联储主席穆萨莱姆将于十分钟后就美国经济和货币政策发表讲话。",
@@ -532,17 +598,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时40分]"
-        },
-        {
-          "title": "美国总统特朗普将于十分钟后出席一场政策会议。",
-          "url": "https://flash.jin10.com/detail/20260131025000000800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
         },
         {
           "title": "白宫经济顾问哈塞特：美国财政部奉行强美元政策",
@@ -569,8 +624,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时41分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -581,8 +636,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时41分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -607,11 +662,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 04时41分]"
         },
         {
           "title": "黄金价格单日巨震超400美元，回调开始了吗？如何应对？",
@@ -635,11 +691,12 @@
           "url": "https://wallstreetcn.com/livenews/3047549",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时41分]"
         }
       ]
     }
