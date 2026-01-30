@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T21:15:38.143001+08:00",
-  "total_titles_processed": 1814,
+  "generated_at": "2026-01-30T22:45:18.552115+08:00",
+  "total_titles_processed": 1945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "沪指震荡收涨，白酒爆发、贵州茅台涨逾8%，地产大涨，恒科指跌1%，芯片调整，沪金银铜飙升",
@@ -37,6 +37,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 06时37分]"
+        },
+        {
+          "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指期货跌幅扩大，美元走强，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
         },
         {
           "title": "现货黄金一度跌破5000美元关口",
@@ -521,7 +532,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -859,7 +870,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
@@ -901,6 +912,19 @@
           "time_info": "[10时44分 ~ 16时53分]"
         },
         {
+          "title": "“这行情你可能一辈子遇不到”！大宗商品轮番上涨，中国投资者把铜“买飞了”",
+          "url": "https://wallstreetcn.com/articles/3764529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时56分 ~ 22时45分]"
+        },
+        {
           "title": "金价上涨的第一批受害者出现了",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
           "source": "百度热搜",
@@ -937,18 +961,6 @@
           "time_info": "[07时35分 ~ 15时03分]"
         },
         {
-          "title": "“这行情你可能一辈子遇不到”！大宗商品轮番上涨，中国投资者把铜“买飞了”",
-          "url": "https://wallstreetcn.com/articles/3764529",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时56分 ~ 21时15分]"
-        },
-        {
           "title": "【每日收评】上证50涨超1.5%，资源类周期股延续强势，白酒、地产板块迎暴力反弹",
           "url": "https://www.cls.cn/detail/2274164",
           "source": "财联社热门",
@@ -965,11 +977,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 19时37分]"
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 22时45分]"
         },
         {
           "title": "苹果公司第一财季营收1437.6亿美元，分析师预期1384亿美元。 第一财季每股收益（EPS）为2.84美元，创历史新高，分析师预期2.68美元。 第一财季产品营收1137.4亿美元，分析师预期1076.9亿美元。 第一财季iPhone收入852.7亿美元，分析师预期783.1亿美元。 第一财季iPad收入86亿美元，分析师预期81.8亿美元。 第一财季Mac收入83.9亿美元，分析师预期91.3亿美元。 第一财季服务收入300.1亿美元，分析师预期300.2亿美元。 第一财季美国营收585.3亿美元，分析师预期590.6亿美元。 第一财季大中华区营收255.3亿美元，分析师预期218.2亿美元。 第一财季总体运营开支183.8亿美元，分析师预期181.8亿美元。 苹果盘后跌0.72%，随后转而上涨2.91%。",
@@ -1027,6 +1040,17 @@
           "time_info": "16时53分"
         },
         {
+          "title": "ABRDN实物白银股票ETF下跌14.2%，Global X白银矿业ETF下跌7.5%，iShares白银信托下跌14%。",
+          "url": "https://flash.jin10.com/detail/20260130223703316800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "市场聚焦新美联储主席，美元走强美债下跌，商品市场遭遇黑色星期五，银价跌9%、金价跌5%",
           "url": "https://wallstreetcn.com/articles/3764541",
           "source": "华尔街见闻",
@@ -1048,6 +1072,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "美国银矿股股价下跌，赫克拉矿业(HL.N)跌9%，科尔黛伦矿业(CDE.N)跌8.6%，Silvercorp Metals(SVM.A)跌8.7%，Endeavour Silver(EXK.N)跌8.1%。",
+          "url": "https://flash.jin10.com/detail/20260130223650912800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "沪指、深成指均跌超2%，创业板指跌1.22%，贵金属、锂矿、稀土永磁、光伏设备等方向跌幅居前，沪深京三市下跌个股超4500只。",
@@ -1122,6 +1157,18 @@
           "time_info": "[01时45分 ~ 03时39分]"
         },
         {
+          "title": "黄金牛市还能走多远？小摩喊出8500美元天价 但警告短期回调风险",
+          "url": "https://www.cls.cn/detail/2275650",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 22时45分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.7%，连续第二个交易日走低，报388.16点。 在十个板块中，北欧医疗保健板块跌幅最大。 诺基亚跌9.4%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3046603",
           "source": "华尔街见闻-快讯",
@@ -1144,6 +1191,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时56分 ~ 15时03分]"
+        },
+        {
+          "title": "油价大反转来了？巴克莱：\"过剩危机\"是假象，原油多年牛市即将开启！",
+          "url": "https://wallstreetcn.com/articles/3764540",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收跌0.12%，报607.78点。 欧元区STOXX 50指数初步收跌0.63%，报5897.13点，北京时间22:00之前窄幅震荡于5960点一线，随后持续走低。 富时泛欧绩优300指数初步收跌0.07%，报2420.66点。",
@@ -1267,17 +1325,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
-        },
-        {
-          "title": "黄金牛市还能走多远？小摩喊出8500美元天价 但警告短期回调风险",
-          "url": "https://www.cls.cn/detail/2275650",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         },
         {
           "title": "MSCI亚太指数下跌1%至244.81点。",
@@ -1561,7 +1608,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         }
@@ -1569,7 +1616,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "起底水贝黄金平台“杰我睿”：资金往来用私人账户，原股东名下平台仍在运营",
@@ -1598,8 +1645,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时48分 ~ 21时15分]"
+          "appearance_count": 14,
+          "time_info": "[12时48分 ~ 22时45分]"
         },
         {
           "title": "鲍威尔：当前政策并非“明显偏紧”，关税通胀预计今年年中消退（附全文）",
@@ -1630,11 +1677,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时02分 ~ 21时15分]"
+          "appearance_count": 12,
+          "time_info": "[15时02分 ~ 22时45分]"
         },
         {
           "title": "我国将布局更多“太空+”未来产业",
@@ -1683,8 +1731,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 21时15分]"
+          "appearance_count": 7,
+          "time_info": "[18时46分 ~ 22时45分]"
         },
         {
           "title": "美媒：特朗普与民主党就资金问题达成协议，以避免政府停摆",
@@ -1737,7 +1785,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1777,6 +1825,17 @@
           "time_info": "[04时41分 ~ 05时37分]"
         },
         {
+          "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
+          "url": "https://www.zhihu.com/question/2000660435238613290",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
+        },
+        {
           "title": "特朗普今夜将签署行政令并出席政策会议 是否涉及美联储新主席提名未明",
           "url": "https://flash.jin10.com/detail/20260130130553138800",
           "source": "金十数据",
@@ -1786,6 +1845,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "南非股指下跌3.9%，创2025年4月份美国总统特朗普宣布关税政策以来最差盘中表现。 在彭博追踪的92个主要指数中，南非股指1月30日目前表现最差。 贵金属和矿业股领跌。",
+          "url": "https://wallstreetcn.com/livenews/3047438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯就与伊朗的紧张局势发表评论称，该地区不需要新的战争。",
@@ -1865,6 +1935,17 @@
           "time_info": "17时51分"
         },
         {
+          "title": "美联储理事沃勒称政策仍具限制性，需进一步放宽",
+          "url": "https://wallstreetcn.com/livenews/3047431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "日本经济产业省：日本12月原油进口同比增长17.7%，汽油销量同比增长2.4%，成品油销量同比增长2.3%。",
           "url": "https://flash.jin10.com/detail/20260130123239691800",
           "source": "金十数据",
@@ -1915,7 +1996,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1931,6 +2012,39 @@
           "time_info": "16时53分"
         },
         {
+          "title": "美联储理事沃勒：货币政策应更接近中性水平，中性水平可能在3%左右，而目前利率区间为3.50%–3.75%。",
+          "url": "https://flash.jin10.com/detail/20260130220258302800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "美联储理事沃勒：通胀因关税而上升，但鉴于通胀预期已稳定，货币政策应忽略这些影响。",
+          "url": "https://flash.jin10.com/detail/20260130220105190800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "美联储理事沃勒：在上次会议上投下反对票，支持降息25个基点，因为当前政策仍在过度抑制经济活动。",
+          "url": "https://flash.jin10.com/detail/20260130220040802800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：更加接近避免美国发生政府关门。 总统特朗普的白宫正与民主党研究（与移民海关执法部门ICE/国土安全部HSD相关）的预算拨款方案。 国土安全部将根据应急方案获得临时性的资金支持。 但愿、希望众议院复会，帮助避免特朗普政府自去年10月1日以来再次发生停摆。",
           "url": "https://wallstreetcn.com/livenews/3046577",
           "source": "华尔街见闻-快讯",
@@ -1944,8 +2058,250 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[07时35分 ~ 22时45分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时37分]"
+        },
+        {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时45分]"
+        },
+        {
+          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
+          "url": "https://www.cls.cn/detail/2274922",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 15时03分]"
+        },
+        {
+          "title": "金十图示：2026年01月30日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260130223951466800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "半导体ETF跌0.96%，在美股盘初领跌行业ETF，网络股指数ETF、银行业ETF、科技行业ETF、全球科技股指数ETF等至多跌0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3047445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260130013122983800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时39分]"
+        },
+        {
+          "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
+          "url": "https://wallstreetcn.com/livenews/3046691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260130050645865800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260130050643601800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美股三大股指低开 金矿股大跌",
+          "url": "https://flash.jin10.com/detail/20260130223022517800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "Robinhood(HOOD.O)美股盘后涨3%。",
+          "url": "https://flash.jin10.com/detail/20260130050229767800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美股上市公司高管密集离场 是落袋为安还是预见危机？",
+          "url": "https://flash.jin10.com/detail/20260130185416724800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "美国考虑利用美股经纪商Robinhood为儿童设立“特朗普账户”。",
+          "url": "https://flash.jin10.com/detail/20260130050156352800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 微软跌近10%",
+          "url": "https://flash.jin10.com/detail/20260130050123427800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-30）",
+          "url": "https://flash.jin10.com/detail/20260130220954692800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260130013040868800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3047426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3046585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "美股盘前：闪迪涨约21%，黄金股大跌",
+          "url": "https://wallstreetcn.com/livenews/3047198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "苹果股价美股盘后出现两波冲高回落行情，目前涨超0.9%。 业绩报告披露后，CEO库克和CFO正参与分析师电话会议。",
+          "url": "https://wallstreetcn.com/livenews/3046740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "金价",
@@ -2121,6 +2477,17 @@
           "time_info": "[12时48分 ~ 15时03分]"
         },
         {
+          "title": "新闻分析：国际金价持续上升，原因几何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32492182",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
+        },
+        {
           "title": "女子10年前买408克金条 金价已翻5倍",
           "url": "https://www.toutiao.com/trending/7600762834013618222/",
           "source": "今日头条",
@@ -2160,7 +2527,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -2174,192 +2541,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时35分 ~ 21时15分]"
-        },
-        {
-          "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时37分]"
-        },
-        {
-          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2274635",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 10时45分]"
-        },
-        {
-          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
-          "url": "https://www.cls.cn/detail/2274922",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 15时03分]"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260130013122983800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时39分]"
-        },
-        {
-          "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
-          "url": "https://wallstreetcn.com/livenews/3046691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260130050645865800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260130050643601800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "Robinhood(HOOD.O)美股盘后涨3%。",
-          "url": "https://flash.jin10.com/detail/20260130050229767800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美股上市公司高管密集离场 是落袋为安还是预见危机？",
-          "url": "https://flash.jin10.com/detail/20260130185416724800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "美国考虑利用美股经纪商Robinhood为儿童设立“特朗普账户”。",
-          "url": "https://flash.jin10.com/detail/20260130050156352800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 微软跌近10%",
-          "url": "https://flash.jin10.com/detail/20260130050123427800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260130013040868800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
-          "url": "https://wallstreetcn.com/livenews/3046585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美股盘前：闪迪涨约21%，黄金股大跌",
-          "url": "https://wallstreetcn.com/livenews/3047198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "苹果股价美股盘后出现两波冲高回落行情，目前涨超0.9%。 业绩报告披露后，CEO库克和CFO正参与分析师电话会议。",
-          "url": "https://wallstreetcn.com/livenews/3046740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
         }
       ]
     },
@@ -2551,7 +2732,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数DXY日内涨幅达0.50%，现报96.64。",
@@ -2571,7 +2752,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -2585,6 +2766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
+        },
+        {
+          "title": "美国12月PP数据公布后，美元指数短线小幅拉升",
+          "url": "https://wallstreetcn.com/livenews/3047414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
