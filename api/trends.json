@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-01-31T04:41:15.531606+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-01-31T05:36:52.985548+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "美国天然气期货日内暴涨12.00%，现报4.389美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260131034010278800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时36分]"
+        },
+        {
+          "title": "COMEX白银期货本月收涨11%，但周线大跌22%",
+          "url": "https://flash.jin10.com/detail/20260131033921702800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时36分]"
+        },
         {
           "title": "现货黄金失守4930美元/盎司，日内跌幅8.32%。",
           "url": "https://flash.jin10.com/detail/20260131010830791800",
@@ -19,35 +41,13 @@
           "time_info": "01时42分"
         },
         {
-          "title": "美国天然气期货日内暴涨12.00%，现报4.389美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260131034010278800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "COMEX白银期货本月收涨11%，但周线大跌22%",
-          "url": "https://flash.jin10.com/detail/20260131033921702800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
           "title": "WTI 3月原油期货收报65.21美元/桶。 NYMEX 3月天然气期货收报4.3540美元/百万英热单位。 NYMEX 2月汽油期货收报1.9228美元/加仑，NYMEX 2月取暖油期货收报2.7356美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3047558",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 05时36分]"
         },
         {
           "title": "现货白银失守90美元/盎司，为1月16日以来首次，日内跌22.11%。",
@@ -95,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时40分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时40分 ~ 05时36分]"
         },
         {
           "title": "现货黄金跌破4700美元/盎司，日内跌12.60%。",
@@ -108,8 +108,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 05时36分]"
         },
         {
           "title": "现货白银RSI掉出超买区间",
@@ -121,8 +121,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 05时36分]"
         },
         {
           "title": "恒指期货夜盘收跌0.62%，报27330点，低水57点。",
@@ -133,8 +133,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 05时36分]"
         },
         {
           "title": "道明证券：沃什不太可能短期内说服同僚们支持美联储降息或调整资产负债表",
@@ -273,6 +273,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：1月27日当周，投机者所持NYMEX WTI原油净多头头寸增加9,557手合约，至62,991手合约，创六个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3047563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "现货黄金失守4800美元",
           "url": "https://flash.jin10.com/detail/20260131021059277800",
           "source": "金十数据",
@@ -282,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：1月27日当周，投机者所持COMEX黄金净多头头寸减少17,741手合约，至121,421手合约，创八周新低。 所持COMEX白银净多头头寸创23个月新低。 所持COMEX铜净多头头寸创17周新低。 所持NYMEX铂金净空头头寸创八个月新低，所持NYMEX钯金净空头头寸创四周新高。",
+          "url": "https://wallstreetcn.com/livenews/3047562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "现货白银跌势难止，向下触及84美元/盎司，日内跌27.37%。",
@@ -306,6 +328,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "WTI 3月原油期货收报65.21美元/桶。 布伦特3月原油期货收报70.69美元/桶。 NYMEX 3月天然气期货收报4.3540美元/百万英热单位。 NYMEX 2月汽油期货收报1.9228美元/加仑，NYMEX 2月取暖油期货收报2.7356美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3047558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "现货白银日内暴跌25%",
           "url": "https://flash.jin10.com/detail/20260131015341017800",
           "source": "金十数据",
@@ -320,7 +353,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "油价大反转来了？巴克莱：\"过剩危机\"是假象，原油多年牛市即将开启！",
@@ -330,8 +363,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时36分]"
         },
         {
           "title": "黄金牛市还能走多远？小摩喊出8500美元天价 但警告短期回调风险",
@@ -341,8 +374,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时36分]"
         },
         {
           "title": "“这行情你可能一辈子遇不到”！大宗商品轮番上涨，中国投资者把铜“买飞了”",
@@ -352,8 +385,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时36分]"
+        },
+        {
+          "title": "黄金牛市还能走多远",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%89%9B%E5%B8%82%E8%BF%98%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时36分]"
         },
         {
           "title": "黄金为何下跌",
@@ -366,21 +413,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时36分]"
         },
         {
-          "title": "黄金牛市还能走多远",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%89%9B%E5%B8%82%E8%BF%98%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C",
-          "source": "百度热搜",
+          "title": "美股七巨头收盘播报｜周五（1月30日），美国科技股七巨头（Magnificent 7）指数跌0.37%，报206.96点，本周累计上涨0.84%，本周累计下跌0.87%，1月12-27日呈现出V形反转行情。 “超大”市值科技股指数跌0.76%，报393.21点，本周累计下跌0.53%，1月份累跌1.43%。",
+          "url": "https://wallstreetcn.com/livenews/3047586",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            23,
-            22
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.59%，报610.75点，1月份累计上涨大约3%。 欧元区STOXX 50指数初步收涨0.89%，报5944.84点，1月份累涨约2.5%。 富时泛欧绩优300指数初步收涨0.65%，报2433.90点。",
@@ -404,8 +449,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 05时36分]"
         },
         {
           "title": "纳斯达克100指数跌超1%，标普跌0.7%，道指下跌473点跌幅将近1%。 半导体指数跌幅扩大至2.2%。 此前，特朗普“赞赏标普创历史新高”的话音刚落。",
@@ -444,6 +489,17 @@
           "time_info": "[02时57分 ~ 03时40分]"
         },
         {
+          "title": "1月份，标普累涨1.2%，道指涨1.7%，纳指涨0.8%。 周五当天，标普500指数初步收跌0.4%，原材料板块跌1.9%，科技板块跌1.3%，能源板块涨1%。 纳斯达克100指数初步收跌1.3%，成分股中，Applovin重挫17.3%，西部数据跌10%，希捷科技跌9.1%，AMD跌6.2%，应用材料跌5.4%，特斯拉涨3.3%，Strategy涨4.8%，特许通讯涨7.9%。 Visa初步收跌2.9%，3M、美国运通、联合健康、耐克、卡特彼勒、亚马逊跌超1%，领跌道指成分股，可口可乐则涨2%，雪佛龙涨3%，VZ涨11.9%。 半导体指数跌3.9%，银行指数跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3047573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报389.16点。 在十个板块中，北欧信息技术板块涨幅最大。 诺基亚涨5.7%，对指数（的表现）贡献最大，并在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3047500",
           "source": "华尔街见闻-快讯",
@@ -464,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "阿根廷MERVAL指数收跌0.34%，报320万点，1月份累计上涨4.87%。",
+          "url": "https://wallstreetcn.com/livenews/3047567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -491,7 +558,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "最能体现沃什政策主张的一场对话：通胀是美联储的一种选择",
@@ -501,8 +568,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时36分]"
         },
         {
           "title": "【数据看盘】6.53亿资金逆势抢筹兴业银锡，湖南黄金龙虎榜现机构与游资博弈",
@@ -512,8 +579,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时36分]"
         },
         {
           "title": "美国民主党参议员沃伦致信要求凯文·沃什就美联储主席鲍威尔和美联储理事库克的调查表明立场，沃伦表示，美联储下一任主席必须承诺在制定政策决策时不受政治考量影响。",
@@ -524,8 +591,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 05时36分]"
         },
         {
           "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
@@ -535,19 +602,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
-        },
-        {
-          "title": "美国参议院民主党党鞭Durbin就总统特朗普的美联储主席提名人沃什发表声明：质疑沃什是否有“胆量”指出特朗普的政策错误。 沃什具备美联储主席所需要的教育背景、训练、经验。 沃什对美联储独立性的看法将决定特朗普是否选对了人。",
-          "url": "https://wallstreetcn.com/livenews/3047560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时36分]"
         },
         {
           "title": "美联储穆萨莱姆：预计在信贷条件和财政政策的推动下，经济将继续以高于趋势水平的速度增长。",
@@ -559,8 +615,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 05时36分]"
+        },
+        {
+          "title": "美国参议院民主党党鞭Durbin就总统特朗普的美联储主席提名人沃什发表声明：质疑沃什是否有“胆量”指出特朗普的政策错误。 沃什具备美联储主席所需要的教育背景、训练、经验。 沃什对美联储独立性的看法将决定特朗普是否选对了人。",
+          "url": "https://wallstreetcn.com/livenews/3047560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时36分]"
         },
         {
           "title": "美联储穆萨莱姆：进一步降息并不可取，当前政策已属中性，经济无需刺激。风险总体平衡，只有在就业市场恶化或通胀下行时才需要进一步降息。",
@@ -572,8 +640,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 05时36分]"
         },
         {
           "title": "美国总统特朗普将于十分钟后出席一场政策会议。",
@@ -584,8 +652,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 05时36分]"
         },
         {
           "title": "2028年FOMC票委、圣路易联储主席穆萨莱姆将于十分钟后就美国经济和货币政策发表讲话。",
@@ -598,6 +666,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时40分]"
+        },
+        {
+          "title": "土耳其针对首次购房人放宽某些贷款政策。",
+          "url": "https://wallstreetcn.com/livenews/3047577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "白宫经济顾问哈塞特：美国财政部奉行强美元政策",
@@ -614,7 +693,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -624,8 +703,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时36分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -636,8 +715,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时36分]"
+        },
+        {
+          "title": "半导体ETF收跌约3.4%，领跌美股行业ETF，1月份能源业ETF涨约14.2%、半导体ETF涨12%紧随其后",
+          "url": "https://wallstreetcn.com/livenews/3047588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -697,6 +787,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普的美联储主席提名人出炉，两年期美债收益率跌超3.4个基点",
+          "url": "https://wallstreetcn.com/livenews/3047571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数创2025年5月份以来最大单日涨幅，1月份仍然累跌约1.3%",
+          "url": "https://wallstreetcn.com/livenews/3047570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         }
       ]
     }
