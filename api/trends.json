@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T19:31:36.266120+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-02-01T21:08:56.419450+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "黄金白银大幅下跌 投资者怎么办",
@@ -34,6 +34,19 @@
           "time_info": "[00时40分 ~ 07时32分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时22分 ~ 21时08分]"
+        },
+        {
           "title": "金价下跌是否值得入手",
           "url": "https://www.douyin.com/hot/2385399",
           "source": "抖音",
@@ -46,19 +59,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时31分 ~ 07时32分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时22分 ~ 19时31分]"
         },
         {
           "title": "金价下跌 多品牌设退货手续费",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 21时08分]"
         },
         {
           "title": "印度支付公司Paytm股价上涨7.6%。",
@@ -107,11 +107,12 @@
           "ranks": [
             4,
             11,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 21时08分]"
         },
         {
           "title": "印度NIFTY信息技术指数上涨1%。",
@@ -209,6 +210,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时43分 ~ 17时40分]"
+        },
+        {
+          "title": "黄金白银下跌会如何影响A股",
+          "url": "https://www.toutiao.com/trending/7601357284174446634/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "印度纺织股上涨3%至6.5%，此前印度政府预算案拟提振该行业。",
@@ -330,15 +342,16 @@
           "time_info": "[13时26分 ~ 16时43分]"
         },
         {
-          "title": "金价暴跌 有柜姐发帖退单一律扣500",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E6%9F%9C%E5%A7%90%E5%8F%91%E5%B8%96%E9%80%80%E5%8D%95%E4%B8%80%E5%BE%8B%E6%89%A3500",
-          "source": "百度热搜",
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
           "ranks": [
-            25
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 15时02分]"
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 21时08分]"
         },
         {
           "title": "金价暴跌 深圳水贝挤满了人",
@@ -348,8 +361,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 21时08分]"
+        },
+        {
+          "title": "金价暴跌 有柜姐发帖退单一律扣500",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E6%9F%9C%E5%A7%90%E5%8F%91%E5%B8%96%E9%80%80%E5%8D%95%E4%B8%80%E5%BE%8B%E6%89%A3500",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 15时02分]"
         },
         {
           "title": "金价暴跌后顾客排长队出售黄金",
@@ -400,17 +424,6 @@
           "time_info": "[11时22分 ~ 13时26分]"
         },
         {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
           "title": "金价巨震 有人昨天赚5万今天倒亏4万",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%98%A8%E5%A4%A9%E8%B5%9A5%E4%B8%87%E4%BB%8A%E5%A4%A9%E5%80%92%E4%BA%8F4%E4%B8%87",
           "source": "百度热搜",
@@ -428,7 +441,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -542,11 +555,12 @@
           "ranks": [
             12,
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 21时08分]"
         },
         {
           "title": "以旧换新政策带动消费需求释放，部分地区家电订单量同比增64%",
@@ -588,7 +602,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -613,8 +627,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时22分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[11时22分 ~ 21时08分]"
         },
         {
           "title": "中国移动：电信服务增值税税目适用范围调整，对应增值税税率由6%调整为9%。此次税目适用范围调整，将对公司收入及利润产生影响。",
@@ -634,11 +648,12 @@
           "ranks": [
             2,
             6,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 21时08分]"
         },
         {
           "title": "中国联通：电信服务增值税税目适用范围调整，将对本公司收入及利润产生影响",
@@ -647,11 +662,12 @@
           "ranks": [
             4,
             8,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 21时08分]"
         },
         {
           "title": "歌尔股份：调整回购股份方案，股份回购的资金总额由5亿元-10亿元调整至10亿元-15亿元。",
@@ -661,11 +677,12 @@
             9,
             16,
             20,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时43分 ~ 19时31分]"
+          "appearance_count": 5,
+          "time_info": "[16时43分 ~ 21时08分]"
         },
         {
           "title": "中国移动：电信服务增值税税目适用范围调整，将对公司收入及利润产生影响",
@@ -674,11 +691,12 @@
           "ranks": [
             9,
             13,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 21时08分]"
         },
         {
           "title": "印度税务局长：提高对期货与期权的交易税旨在抑制投机交易；提高结算保证金是为了应对衍生品市场的系统性风险。",
@@ -686,11 +704,23 @@
           "source": "金十数据",
           "ranks": [
             6,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时31分]"
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 21时08分]"
+        },
+        {
+          "title": "三大运营商：电信服务增值税税目适用范围调整，将影响营收和利润",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510877",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "印度预算案：将上调期货证券交易税至0.05%。",
@@ -707,7 +737,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "人民币现金收付新规今起施行，遇这些情况可投诉举报",
@@ -720,8 +750,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时26分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[13时26分 ~ 21时08分]"
         },
         {
           "title": "人民币现金收付新规今起施行",
@@ -738,6 +768,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时22分 ~ 18时37分]"
+        },
+        {
+          "title": "人民币现金收付施行新规",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E7%8E%B0%E9%87%91%E6%94%B6%E4%BB%98%E6%96%BD%E8%A1%8C%E6%96%B0%E8%A7%84",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "人民币现金收付新规今起实施",
