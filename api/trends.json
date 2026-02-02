@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T15:14:53.858385+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-02-02T16:57:32.685685+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "三大运营商：电信服务增值税税目适用范围调整，将影响营收和利润",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 15时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 16时57分]"
         },
         {
           "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
@@ -82,7 +82,30 @@
           "time_info": "[10时55分 ~ 13时06分]"
         },
         {
+          "title": "三大运营商电信服务增值税率由 6% 上调至 9%，怎样看待这一调整？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2001563061870408476",
+          "source": "知乎",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 16时57分]"
+        },
+        {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜、沪铝期货主力合约跌停",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
           "url": "https://wallstreetcn.com/articles/3764699",
           "source": "华尔街见闻",
           "ranks": [
@@ -90,7 +113,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "16时57分"
         },
         {
           "title": "现货金银快速下挫 白银盘初暴跌8%",
@@ -143,21 +166,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
-        },
-        {
-          "title": "三大运营商电信服务增值税率由 6% 上调至 9%，怎样看待这一调整？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2001563061870408476",
-          "source": "知乎",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 15时14分]"
         },
         {
           "title": "现货黄金向下触及4410美元/盎司，日内跌9.82%。",
@@ -166,7 +177,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -214,11 +225,12 @@
           "ranks": [
             22,
             21,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 16时57分]"
         },
         {
           "title": "分析师：印度拟上调期货交易税 市场交易或承压",
@@ -233,6 +245,18 @@
           "time_info": "[06时35分 ~ 07时35分]"
         },
         {
+          "title": "现货黄金跌破4500美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44500%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时57分]"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260202100752268800",
           "source": "金十数据",
@@ -243,6 +267,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时55分 ~ 15时14分]"
+        },
+        {
+          "title": "现货黄金失守4500美元",
+          "url": "https://www.toutiao.com/trending/7601742033405788166/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时57分]"
         },
         {
           "title": "现货白银日内跌幅扩大至10%",
@@ -274,7 +310,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -296,7 +332,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -323,17 +359,6 @@
           "time_info": "07时35分"
         },
         {
-          "title": "现货黄金跌破4500美元",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44500%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
           "title": "现货金银周一开盘暴跌",
           "url": "https://flash.jin10.com/detail/20260202070154001800",
           "source": "金十数据",
@@ -351,7 +376,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -373,7 +398,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -384,7 +409,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -398,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "2 月 2 日现货黄金失守 4500 美元 / 盎司，现货白银跌超 14%，何时止跌？会跌出「黄金坑」吗？",
+          "url": "https://www.zhihu.com/question/2001659526181561223",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "现货白银回落至76美元/盎司下方，日内跌10.94%。",
@@ -417,7 +453,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -428,18 +464,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "现货黄金失守4500美元",
-          "url": "https://www.toutiao.com/trending/7601742033405788166/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -461,7 +486,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -472,7 +497,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -483,7 +508,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -494,7 +519,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -527,7 +552,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -538,7 +563,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -549,7 +574,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -582,7 +607,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -593,7 +618,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -604,7 +629,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -623,7 +648,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 26,
+      "match_count": 37,
       "titles": [
         {
           "title": "美银Hartnett：终结\"黄金大牛市\"的只能是\"更大的事件\"",
@@ -660,8 +685,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时57分]"
         },
         {
           "title": "A股人形机器人板块午后异动拉升，五洲新春直线拉升涨超5%，国机精工、昊志机电、华伍股份、新兴装备等个股跟涨。",
@@ -692,7 +717,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -714,9 +739,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "金银价格周一大震荡！四大看点研判：未来走势在何方？",
+          "url": "https://www.cls.cn/detail/2277079",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时57分]"
         },
         {
           "title": "抛物线涨势告一段落 黄金“高位跳水”后震荡难平",
@@ -728,6 +765,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "英债收益率在英国央行决议前下跌",
+          "url": "https://flash.jin10.com/detail/20260202163451685800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "越南VN指数下跌1%至1810.49点。",
@@ -747,21 +795,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
-        },
-        {
-          "title": "金银价格周一大震荡！四大看点研判：未来走势在何方？",
-          "url": "https://www.cls.cn/detail/2277079",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时14分]"
         },
         {
           "title": "黄金白银大幅下跌 投资者怎么办",
@@ -786,6 +822,17 @@
           "time_info": "10时55分"
         },
         {
+          "title": "小摩分析师：黄金上涨势头还会持续",
+          "url": "https://www.toutiao.com/trending/7602154497137184265/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "印尼基准股指下跌多达5.1%，至7,904.170点。",
           "url": "https://flash.jin10.com/detail/20260202102733520800",
           "source": "金十数据",
@@ -797,6 +844,17 @@
           "time_info": "10时55分"
         },
         {
+          "title": "欧洲TTG天然气价格下跌12.1%，至每兆瓦时34.55欧元。",
+          "url": "https://flash.jin10.com/detail/20260202161819169800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "LME三个月期铜下跌逾3%。",
           "url": "https://flash.jin10.com/detail/20260202121740343800",
           "source": "金十数据",
@@ -806,6 +864,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌2.23%，恒生科技指数收跌3.36%；黄金股领跌，芯片、新能源车等板块跌幅居前，比亚迪股份跌超6%，华虹半导体跌超11%。",
+          "url": "https://wallstreetcn.com/livenews/3048205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "李大霄直播解读金价震荡",
+          "url": "https://www.toutiao.com/trending/7601506327084600886/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "日本10年期国债收益率上涨2.5个基点，至2.270%。",
@@ -841,6 +921,17 @@
           "time_info": "13时06分"
         },
         {
+          "title": "欧洲基础资源指数下跌3.3%，创近10个月来最大单日跌幅。",
+          "url": "https://flash.jin10.com/detail/20260202160956190800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "创业板指回落翻绿，此前一度涨超1%，贵金属、油气、农业、有色等板块跌幅居前，沪深京三市下跌个股近3000只。",
           "url": "https://wallstreetcn.com/livenews/3047980",
           "source": "华尔街见闻-快讯",
@@ -858,9 +949,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "欧洲斯托克600矿业板块开盘下跌1.2%。",
+          "url": "https://flash.jin10.com/detail/20260202160540528800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "欧股开盘集体下挫，欧洲斯托克50指数下跌0.88%，德国DAX指数下跌0.57%，英国富时100指数下跌0.72%。由于原油价格暴跌，欧股能源股走低，BP股价下跌2.6%，壳牌下跌2.2%。欧股芯片板块走低，阿斯麦、ASM国际均跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3048199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "越南VN指数收盘下跌1.2%，至1806.50点。",
+          "url": "https://wallstreetcn.com/livenews/3048198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "印尼基准股指下跌3%，至8,078点。",
@@ -874,13 +998,24 @@
           "time_info": "10时55分"
         },
         {
+          "title": "A股三大股指跌超2% 有色金属板块大跌",
+          "url": "https://www.toutiao.com/trending/7602160332387126826/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "A股存储芯片板块跌幅扩大，兆易创新午后跌停，香农芯创、江波龙、普冉股份、华虹公司、富满微等多股跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3048136",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -907,6 +1042,17 @@
           "time_info": "13时06分"
         },
         {
+          "title": "贵金属市场震荡 业内专家：投资者应严控风险、理性应对",
+          "url": "https://wallstreetcn.com/livenews/3048188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "上证指数早盘收报4063.54点，跌1.32%。 深证成指早盘收报14006.25点，跌1.41%。 创业板指早盘收报3306.94点，跌1.18%。 沪深300早盘收报4656.16点，跌1.07%。 科创50早盘收报1476.00点，跌2.21%。 中证500早盘收报8179.80点，跌2.28%。 中证1000早盘收报8105.79点，跌1.81%。",
           "url": "https://wallstreetcn.com/livenews/3048032",
           "source": "华尔街见闻-快讯",
@@ -921,7 +1067,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -932,8 +1078,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 15时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 16时57分]"
         },
         {
           "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
@@ -947,6 +1093,19 @@
           "time_info": "[10时55分 ~ 15时14分]"
         },
         {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 16时57分]"
+        },
+        {
           "title": "金价暴跌后回收变现火爆",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -958,18 +1117,6 @@
           "time_info": "[07时34分 ~ 07时35分]"
         },
         {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 15时14分]"
-        },
-        {
           "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
           "url": "https://www.zhihu.com/question/1999853811821463456",
           "source": "知乎",
@@ -978,8 +1125,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时57分]"
+        },
+        {
+          "title": "金价暴跌后黄金市场挤满顾客",
+          "url": "https://www.douyin.com/hot/2386891",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时57分]"
         },
         {
           "title": "金价",
@@ -994,27 +1154,28 @@
           "time_info": "[10时55分 ~ 15时14分]"
         },
         {
-          "title": "金价暴跌后黄金市场挤满顾客",
-          "url": "https://www.douyin.com/hot/2386891",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时14分]"
-        },
-        {
           "title": "金价暴跌，刚买的金饰能退吗？",
           "url": "https://news.ifeng.com/c/8qPhA47Tw2J",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时57分]"
+        },
+        {
+          "title": "黄金暴跌为何瑞银却上调金价目标",
+          "url": "https://www.toutiao.com/trending/7602143255571992083/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时57分]"
         },
         {
           "title": "金十图示：2026年02月02日（周一）上海金早盘价为1063.22元/克，较国际金价(1055.02元/克)，高8.2元/克",
@@ -1028,21 +1189,32 @@
           "time_info": "10时55分"
         },
         {
-          "title": "黄金暴跌为何瑞银却上调金价目标",
-          "url": "https://www.toutiao.com/trending/7602143255571992083/",
+          "title": "这次金价暴跌真的只是因为沃什吗",
+          "url": "https://www.toutiao.com/trending/7602102244296625670/",
           "source": "今日头条",
           "ranks": [
-            23
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "16时57分"
+        },
+        {
+          "title": "德意志银行在金价暴跌后仍然看涨 维持6000美元目标价",
+          "url": "https://wallstreetcn.com/livenews/3048186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "当光伏“卷”上太空，产业苦等“廉价船票”，万亿赛道如何突围?",
@@ -1091,6 +1263,18 @@
           "time_info": "10时55分"
         },
         {
+          "title": "太空算力的尽头是光伏？产业链公司忙布局 但前景仍受多重因素制约",
+          "url": "https://www.cls.cn/detail/2277288",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时57分]"
+        },
+        {
           "title": "有色狂潮终结 2月资金转向哪些赛道",
           "url": "https://www.toutiao.com/trending/7601851625245773375/",
           "source": "今日头条",
@@ -1102,15 +1286,15 @@
           "time_info": "[07时34分 ~ 07时35分]"
         },
         {
-          "title": "太空算力的尽头是光伏？产业链公司忙布局 但前景仍受多重因素制约",
-          "url": "https://www.cls.cn/detail/2277288",
-          "source": "财联社热门",
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "16时57分"
         },
         {
           "title": "国家人工智能产业投资基金入股芯片研发商新芯航途",
@@ -1122,6 +1306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "金十图示：2026年02月02日（周一）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20260202161513018800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "沃什提名难平政策动荡 金银抛售或现买入良机",
@@ -1138,7 +1333,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "人民币现金收付施行新规",
@@ -1165,6 +1360,17 @@
           "time_info": "[00时40分 ~ 07时35分]"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9513，较上一交易日官方收盘价跌27点，较上日夜盘收盘涨53点。",
+          "url": "https://wallstreetcn.com/livenews/3048221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "离岸人民币同业拆息利率涨跌互现 日间回购协议流动性被用近三成",
           "url": "https://flash.jin10.com/detail/20260202125203127800",
           "source": "金十数据",
@@ -1188,7 +1394,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -1216,7 +1422,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
