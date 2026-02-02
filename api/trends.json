@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T07:35:00.325994+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-02-02T10:55:52.123139+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "三大运营商：电信服务增值税税目适用范围调整，将影响营收和利润",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 10时55分]"
         },
         {
           "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
@@ -76,7 +76,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -87,7 +87,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -98,7 +98,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -109,9 +109,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "现货黄金跌破4600美元",
+          "url": "https://www.toutiao.com/trending/7601742033405788166/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "三大运营商集体回应增值税率调整",
@@ -119,11 +141,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 05时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 10时55分]"
         },
         {
           "title": "分析师：印度拟上调期货交易税 市场交易或承压",
@@ -144,7 +167,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -155,7 +178,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -166,7 +189,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -177,55 +200,81 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 3,
-      "titles": [
+        },
         {
-          "title": "当光伏“卷”上太空，产业苦等“廉价船票”，万亿赛道如何突围?",
-          "url": "https://www.cls.cn/detail/2276702",
-          "source": "财联社热门",
+          "title": "现货白银日内转涨",
+          "url": "https://www.douyin.com/hot/2386691",
+          "source": "抖音",
           "ranks": [
-            11,
             10
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
-          "title": "前日本财务省财务官渡边博史：放宽财政政策或再掀市场动荡",
-          "url": "https://wallstreetcn.com/livenews/3047846",
-          "source": "华尔街见闻-快讯",
+          "title": "三大运营商电信服务增值税率由 6% 上调至 9%，怎样看待这一调整？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2001563061870408476",
+          "source": "知乎",
           "ranks": [
-            2
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时55分"
         },
         {
-          "title": "有色狂潮终结 2月资金转向哪些赛道",
-          "url": "https://www.toutiao.com/trending/7601851625245773375/",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260202100752268800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "现货金银周一开盘延续跌势",
+          "url": "https://www.douyin.com/hot/2386649",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "现货白银日内跌幅扩大至10%",
+          "url": "https://www.toutiao.com/trending/7601140991626903571/",
           "source": "今日头条",
           "ranks": [
-            28
+            24
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "A股三大电信运营商集体走弱，中国移动跌超5%，股价创2024年6月以来新低，中国联通、中国电信均跌超4%，消息面上，中国移动、中国联通、中国电信2月1日均发布公告称，电信服务增值税税目适用范围调整，税率由6%调整为9%，将对公司收入及利润产生影响。",
+          "url": "https://wallstreetcn.com/livenews/3047964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 2,
+      "match_count": 12,
       "titles": [
         {
           "title": "美银Hartnett：终结\"黄金大牛市\"的只能是\"更大的事件\"",
@@ -235,8 +284,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 10时55分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -251,6 +300,252 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时33分 ~ 07时35分]"
+        },
+        {
+          "title": "印尼矿业相关股票下跌，默迪卡铜金（Merdeka Copper Gold）股价下跌14%，印尼淡水河谷股票下跌10%。",
+          "url": "https://flash.jin10.com/detail/20260202104917524800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "深成指跌超1%，沪指跌0.87%，创业板指跌0.80%，有色金属、油气、农业、半导体芯片等方向跌幅居前，沪深京三市下跌个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3048004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "越南VN指数下跌1%至1810.49点。",
+          "url": "https://wallstreetcn.com/livenews/3047998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数下跌1.1%，报8,771.500点。",
+          "url": "https://flash.jin10.com/detail/20260202103234816800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "印尼基准股指下跌多达5.1%，至7,904.170点。",
+          "url": "https://flash.jin10.com/detail/20260202102733520800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "日本10年期国债收益率上涨2.5个基点，至2.270%。",
+          "url": "https://flash.jin10.com/detail/20260202102004954800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "受大宗商品和金属价格下跌影响，印尼股市基准指数下跌5%，符合触发交易暂停的条件。",
+          "url": "https://flash.jin10.com/detail/20260202101929992800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "创业板指回落翻绿，此前一度涨超1%，贵金属、油气、农业、有色等板块跌幅居前，沪深京三市下跌个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3047980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "印尼基准股指下跌3%，至8,078点。",
+          "url": "https://flash.jin10.com/detail/20260202101151211800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "黄金白银大幅下跌 投资者怎么办",
+          "url": "https://www.toutiao.com/trending/7600794442408329279/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 10时55分]"
+        },
+        {
+          "title": "金价暴跌后回收变现火爆",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
+        },
+        {
+          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
+          "url": "https://www.cls.cn/detail/2276967",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "金十图示：2026年02月02日（周一）上海金早盘价为1063.22元/克，较国际金价(1055.02元/克)，高8.2元/克",
+          "url": "https://flash.jin10.com/detail/20260202102356374800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "当光伏“卷”上太空，产业苦等“廉价船票”，万亿赛道如何突围?",
+          "url": "https://www.cls.cn/detail/2276702",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 10时55分]"
+        },
+        {
+          "title": "前日本财务省财务官渡边博史：放宽财政政策或再掀市场动荡",
+          "url": "https://wallstreetcn.com/livenews/3047846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260202104023316800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "有色狂潮终结 2月资金转向哪些赛道",
+          "url": "https://www.toutiao.com/trending/7601851625245773375/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
+        },
+        {
+          "title": "沃什提名难平政策动荡 金银抛售或现买入良机",
+          "url": "https://flash.jin10.com/detail/20260202100550249800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     },
@@ -266,8 +561,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 10时55分]"
         },
         {
           "title": "人民币现金收付新规今起施行，遇这些情况可投诉举报",
@@ -281,34 +576,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 07时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时35分]"
-        },
-        {
-          "title": "金价暴跌后回收变现火爆",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
         }
       ]
     }
