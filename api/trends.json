@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T01:01:49.996201+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-05T02:00:27.738485+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时00分]"
         },
         {
           "title": "现货白银较日高回落近7美元 此前一度站上92美元",
@@ -28,6 +28,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "金价巨震之下，水贝难寻金条现货|传真",
+          "url": "https://www.cls.cn/detail/2280847",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时00分]"
+        },
+        {
+          "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
+          "url": "https://wallstreetcn.com/articles/3764985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 02时00分]"
         },
         {
           "title": "现货黄金加速回落，跌破4850美元/盎司，日内跌1.96%；纽约期金日内走低1.00%，现报4885.00美元/盎司。",
@@ -46,17 +69,6 @@
           "source": "金十数据",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "金价巨震之下，水贝难寻金条现货|传真",
-          "url": "https://www.cls.cn/detail/2280847",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -121,7 +133,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "克宫：发展与中国的关系是俄罗斯外交政策优先事项",
@@ -131,8 +143,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时00分]"
+        },
+        {
+          "title": "美国财长贝森特：我们仍然看到大量外资流入美国国债，以及巨额资金流入美国股市。",
+          "url": "https://flash.jin10.com/detail/20260205014132918800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "02时00分"
         },
         {
           "title": "【数据看盘】两家游资集体出逃海兰信，多路资金激烈博弈红宝丽",
@@ -142,19 +165,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "美国财长贝森特声称：我们往往会支持一个强势美元政策。",
-          "url": "https://wallstreetcn.com/livenews/3050016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时00分]"
         },
         {
           "title": "南向资金追踪｜净流入约134亿港元创近两周新高 大举加仓多只科技龙头",
@@ -162,6 +174,17 @@
           "source": "财联社热门",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时00分]"
+        },
+        {
+          "title": "美国财长贝森特声称：我们往往会支持一个强势美元政策。",
+          "url": "https://wallstreetcn.com/livenews/3050016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -190,6 +213,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "美国财长贝森特：我们将引入外部审计师来监控流向委内瑞拉的石油资金。",
+          "url": "https://flash.jin10.com/detail/20260205012039013800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时00分"
+        },
+        {
           "title": "美国财长贝森特：美国总统特朗普有权就美联储货币政策发表意见。",
           "url": "https://flash.jin10.com/detail/20260205003021472800",
           "source": "金十数据",
@@ -199,12 +233,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "据联合声明，贸易倡议可能包括协调一致的贸易政策、价格下限、基于标准的市场、价格差额补贴或购货协议等。",
+          "url": "https://flash.jin10.com/detail/20260205010843213800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时00分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -214,8 +259,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时00分]"
         },
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -225,8 +270,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时00分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -236,8 +281,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时00分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -247,8 +292,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时00分]"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -258,8 +303,30 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时00分]"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260205013955939800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "02时00分"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260205013948070800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时00分"
         },
         {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
@@ -276,8 +343,42 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "散户因何在牛市都赚不到钱？",
+          "url": "https://www.zhihu.com/question/1931696074998931651",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时00分]"
+        },
+        {
+          "title": "新春走基层：澎湃新闻六大板块报道全面启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32531597",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时00分]"
+        },
+        {
+          "title": "标普500指数下跌1%，科技板块跌超3%，电信板块跌2%。 道指涨幅收窄至0.1%，纳指跌2.29%，纳斯达克100指数跌2.44%，半导体指数重挫超6%。",
+          "url": "https://wallstreetcn.com/livenews/3050044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时00分"
+        },
         {
           "title": "意大利银行板块继续创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3050013",
@@ -290,15 +391,15 @@
           "time_info": "01时01分"
         },
         {
-          "title": "散户因何在牛市都赚不到钱？",
-          "url": "https://www.zhihu.com/question/1931696074998931651",
-          "source": "知乎",
+          "title": "欧洲半导体板块涨跌各异，Soitec收涨23.30%，阿斯麦控股跌4.18%。 最新业绩报告显示，Soitec第三财季营收1.60亿欧元，分析师预期1.488亿欧元。 预计2026财年四季度营收（按恒定汇率）将增长大约20%。",
+          "url": "https://wallstreetcn.com/livenews/3050029",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "02时00分"
         },
         {
           "title": "费城半导体指数下跌4%。",
@@ -306,17 +407,6 @@
           "source": "金十数据",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "新春走基层：澎湃新闻六大板块报道全面启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32531597",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -332,6 +422,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3050043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "WTI原油日内涨幅达2.5%，刷新日高至64.83美元/桶。 纳斯达克综合指数跌幅扩大至2%，AMD跌超17%。标普500指数跌约0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3050039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时00分"
         }
       ]
     }
