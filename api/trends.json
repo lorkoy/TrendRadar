@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T05:42:39.245331+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-02-05T06:39:10.816254+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时39分]"
         },
         {
           "title": "金价巨震之下，水贝难寻金条现货|传真",
@@ -27,8 +27,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时39分]"
+        },
+        {
+          "title": "纳指期货周三跌约1.3%",
+          "url": "https://wallstreetcn.com/livenews/3050132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
         },
         {
           "title": "现货白银较日高回落近7美元 此前一度站上92美元",
@@ -40,6 +51,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "标普道琼斯指数公司宣布，Ciena将取代Dayforce纳入标普500指数，调整将于2月9日开盘前生效。",
+          "url": "https://flash.jin10.com/detail/20260205062031227800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
+          "url": "https://wallstreetcn.com/articles/3764985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 06时39分]"
         },
         {
           "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
@@ -77,17 +111,6 @@
           "time_info": "[03时04分 ~ 04时46分]"
         },
         {
-          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
-          "url": "https://wallstreetcn.com/articles/3764985",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时42分]"
-        },
-        {
           "title": "现货黄金加速回落，跌破4850美元/盎司，日内跌1.96%；纽约期金日内走低1.00%，现报4885.00美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260205004930135800",
           "source": "金十数据",
@@ -110,13 +133,24 @@
           "time_info": "01时01分"
         },
         {
+          "title": "周三（2月4日）纽约尾盘，现货白银涨3.62%，报88.2660美元/盎司，北京时间22:05刷新日高至92.2043美元，随后回吐涨幅，逼近07:08刷新的日低83.2961美元。 COMEX白银期货涨5.11%，报87.555美元/盎司，22:06刷新日高至92.015美元。 COMEX铜期货跌2.77%，报5.9420美元/磅，22:00-02:00持续扩大跌幅。 现货铂金涨0.60%，现货钯金涨1.05%。",
+          "url": "https://wallstreetcn.com/livenews/3050121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
           "title": "高通第一财季调整后营收122.5亿美元，分析师预期122亿美元。",
           "url": "https://wallstreetcn.com/livenews/3050102",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -149,7 +183,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -174,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "美联储决定在考虑压力测试调整的同时，将大型银行压力资本缓冲要求维持至2027年不变。",
+          "url": "https://flash.jin10.com/detail/20260205053121460800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
         },
         {
           "title": "芝加哥大豆期货短线飙升，日内整体涨1.6%，带动农产品走高",
@@ -212,7 +257,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "新春走基层：澎湃新闻六大板块报道全面启动",
@@ -223,8 +268,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时39分]"
         },
         {
           "title": "散户因何在牛市都赚不到钱？",
@@ -233,11 +278,12 @@
           "ranks": [
             12,
             9,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时39分]"
         },
         {
           "title": "三国题材的游戏为啥很少做 「三国后期」 的剧情？",
@@ -289,6 +335,18 @@
           "time_info": "[02时00分 ~ 03时04分]"
         },
         {
+          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
+          "url": "https://wallstreetcn.com/livenews/3050096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时39分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 2月4日（周三）晚盘收盘下跌1.54%报1112.0元/克；<br/>上海黄金交易所白银T+D 2月4日（周三）晚盘收盘下跌0.13%报22414.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260205023147989800",
           "source": "金十数据",
@@ -317,7 +375,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -328,18 +386,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
-          "url": "https://wallstreetcn.com/livenews/3050096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -361,7 +408,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -410,6 +457,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。 ETF中，中国科技指数ETF（CQQQ）收跌3.17%，中概互联网指数ETF（KWEB）收跌2.91%。 XtrackersHarvest中证50（ASHS）收涨0.09%，德银嘉实沪深300指数ETF（ASHR）收涨0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3050099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
           "title": "巴西基准股指BOVESPA指数下跌2%。",
           "url": "https://flash.jin10.com/detail/20260205002653817800",
           "source": "金十数据",
@@ -424,29 +482,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时42分]"
-        },
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
           "url": "https://wallstreetcn.com/articles/3764793",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时39分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -459,6 +507,17 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时39分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 05时42分]"
         },
@@ -467,11 +526,12 @@
           "url": "https://wallstreetcn.com/articles/3764895",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时39分]"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -481,30 +541,55 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时39分]"
+        },
+        {
+          "title": "Ciena美股盘后涨超8%。",
+          "url": "https://flash.jin10.com/detail/20260205062053364800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
         },
         {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
           "url": "https://flash.jin10.com/detail/20260205051229076800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时39分]"
         },
         {
           "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
           "url": "https://wallstreetcn.com/livenews/3050110",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时39分]"
+        },
+        {
+          "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
+          "url": "https://wallstreetcn.com/livenews/3050105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时39分]"
         },
         {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股盘中）",
@@ -529,24 +614,24 @@
           "time_info": "02时00分"
         },
         {
+          "title": "（美股）费城金银指数收跌0.23%，报397.53点。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.55%，报2830.82点。 （美股）原材料指数收涨0.57%，（美股）金属与矿业指数收跌1.61%。",
+          "url": "https://wallstreetcn.com/livenews/3050123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260205050532468800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
-          "url": "https://wallstreetcn.com/livenews/3050105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -557,7 +642,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -568,7 +653,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -579,7 +664,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -608,8 +693,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时39分]"
         },
         {
           "title": "【数据看盘】两家游资集体出逃海兰信，多路资金激烈博弈红宝丽",
@@ -619,8 +704,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时39分]"
         },
         {
           "title": "南向资金追踪｜净流入约134亿港元创近两周新高 大举加仓多只科技龙头",
@@ -630,8 +715,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时39分]"
         },
         {
           "title": "美国财长贝森特：我们仍然看到大量外资流入美国国债，以及巨额资金流入美国股市。",
@@ -747,6 +832,34 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "离岸人民币一度创2023年5月以来新高",
+          "url": "https://wallstreetcn.com/livenews/3050125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9450元，较周二夜盘收盘跌53点。成交量442.71亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -769,7 +882,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         }
@@ -802,23 +915,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时00分 ~ 03时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9450元，较周二夜盘收盘跌53点。成交量442.71亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3050070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
         }
       ]
     }
