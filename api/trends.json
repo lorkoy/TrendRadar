@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-04T12:48:17.879372+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-02-04T13:57:45.583662+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260204103935321800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 13时57分]"
+        },
         {
           "title": "现货价格",
           "url": "https://flash.jin10.com/detail/20260204073307837800",
@@ -19,15 +30,15 @@
           "time_info": "07时37分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260204103935321800",
-          "source": "金十数据",
+          "title": "挪威国家石油公司（Equinor）第四季度调整后税后营业收入为15.5亿美元，市场预期为15.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049595",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "13时57分"
         },
         {
           "title": "现货黄金日内涨幅达7.0%，报4984.69美元/盎司。",
@@ -76,6 +87,29 @@
           "time_info": "[05时44分 ~ 06时40分]"
         },
         {
+          "title": "现货黄金重新站上5000美元",
+          "url": "https://www.douyin.com/hot/2388894",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 13时57分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时57分]"
+        },
+        {
           "title": "思佳讯（Skyworks）第一财季营收10.4亿美元，同比下降3.1%。 第一财季调整后每股收益（EPS）为1.54美元，上年同期1.60美元。 第一财季调整后运营利润2.521亿美元，分析师预期2.30亿美元。 预计第二财季营收8.75亿美元，分析师预期9.25亿美元。 预计第二财季调整后EPS为1.54美元。",
           "url": "https://wallstreetcn.com/livenews/3049359",
           "source": "华尔街见闻-快讯",
@@ -86,17 +120,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时37分]"
-        },
-        {
-          "title": "现货黄金重新站上5000美元",
-          "url": "https://www.douyin.com/hot/2388894",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时48分]"
         },
         {
           "title": "纳指期货周二跌约1.7%",
@@ -157,17 +180,6 @@
           "time_info": "07时37分"
         },
         {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
           "title": "现货黄金短线下挫35美元，跌破4917美元/盎司，日内跌0.65%。",
           "url": "https://flash.jin10.com/detail/20260204070814499800",
           "source": "金十数据",
@@ -207,9 +219,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "现货黄金突破5080美元/盎司，日内涨2.71%。",
+          "url": "https://flash.jin10.com/detail/20260204125729335800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "现货黄金涨破5070美元/盎司，日内涨约2.5%。",
@@ -218,7 +241,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -251,7 +274,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -262,7 +285,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -278,13 +301,24 @@
           "time_info": "10时45分"
         },
         {
+          "title": "纽约期金触及5100美元/盎司，日内涨3.34%。 现货黄金突破5080美元/盎司，日内涨2.73%。",
+          "url": "https://wallstreetcn.com/livenews/3049570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约涨多跌少，沪银涨超7%，沪金涨超6%，焦煤涨超5%，燃料油涨超4%，沪锡、低硫燃料油、玻璃、钯、焦炭、铂涨超3%，沪镍、国际铜、SC原油、沪铜、碳酸锂、苯乙烯、纯碱、BR橡胶、纯苯涨超2%。跌幅方面，集运欧线跌超1%，菜粕、菜籽小幅下跌。",
           "url": "https://flash.jin10.com/detail/20260204113107604800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -295,7 +329,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -317,7 +351,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -391,7 +425,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "复盘金银价格巨震，倒车接人还是牛市终结？",
@@ -450,8 +484,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 13时57分]"
+        },
+        {
+          "title": "A股煤炭板块午后进一步走强，潞安环能、宝泰隆、山西焦化、中煤能源、陕西黑猫、兖矿能源等近10股涨停。",
+          "url": "https://wallstreetcn.com/livenews/3049590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，连续三个交易日走高，报394.43点。 在十个板块中，北欧工业板块涨幅最大。 博利登Boliden AB收涨5.3%，在一众北欧个股里领跑。",
@@ -498,15 +543,37 @@
           "time_info": "07时37分"
         },
         {
+          "title": "A股光伏设备板块午后涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3049575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "上证指数早盘收报4067.67点，跌0.00%。 深证成指早盘收报13997.72点，跌0.92%。 创业板指早盘收报3266.99点，跌1.74%。 沪深300早盘收报4653.32点，跌0.15%。 科创50早盘收报1435.15点，跌2.44%。 中证500早盘收报8203.60点，跌1.00%。 中证1000早盘收报8124.98点，跌1.02%。",
           "url": "https://wallstreetcn.com/livenews/3049539",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "5年期日本国债收益率下跌1个基点，至1.670%。",
+          "url": "https://flash.jin10.com/detail/20260204123030609800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "比特币跌穿7.3万美元，跌幅扩大至将近7%，北京时间00:00之前大致持稳于7.8万美元附近，之后加速下跌。",
@@ -592,7 +659,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -702,6 +769,17 @@
           "time_info": "[01时06分 ~ 06时40分]"
         },
         {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 13时57分]"
+        },
+        {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
           "url": "https://www.cls.cn/detail/2279540",
           "source": "财联社热门",
@@ -714,17 +792,6 @@
           "time_info": "[01时06分 ~ 10时45分]"
         },
         {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 12时48分]"
-        },
-        {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
@@ -732,8 +799,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 13时57分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -745,19 +812,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时40分 ~ 12时48分]"
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 13时57分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
           "url": "https://www.zhihu.com/question/2002302871203440223",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时57分]"
         },
         {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
@@ -768,8 +836,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 13时57分]"
         },
         {
           "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
@@ -782,6 +850,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时40分]"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时57分]"
         },
         {
           "title": "【超微电脑上调全年净销售指引，股价盘后涨8%】超微电脑第二财季净销售126.8亿美元，分析师预期104.3亿美元。 预计全年净销售至少400亿美元，公司原本预计至少360亿美元。 预计第三财季净销售至少123亿美元，分析师预期102.5亿美元。 超微电脑美股盘后涨8%。",
@@ -828,17 +907,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -910,7 +978,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "8000亿！央行加量续作3个月期买断式逆回购 呵护资金面平稳迎春节",
@@ -978,22 +1046,24 @@
           "url": "https://wallstreetcn.com/livenews/3049555",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时57分]"
         },
         {
           "title": "韩文秀：巩固拓展脱贫攻坚成果是长期任务，避免出现政策“悬崖效应”",
           "url": "https://wallstreetcn.com/livenews/3049551",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时57分]"
         },
         {
           "title": "浙江：拟科学布局人形机器人、 生物制造、清洁氢、商业航空等未来产业",
@@ -1024,7 +1094,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -1038,6 +1108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "矿业涨势退潮触发资金轮动 南非内需板块有望开启补涨行情",
+          "url": "https://flash.jin10.com/detail/20260204122709605800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "30亿美元资金蓄势待发 美国稀土公司加速矿产供应链建设",
@@ -1057,7 +1138,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -1079,7 +1160,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -1090,7 +1171,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
@@ -1105,11 +1186,12 @@
           "url": "https://flash.jin10.com/detail/20260204120432980800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时57分]"
         },
         {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
@@ -1149,7 +1231,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中华民国以前的一块大洋相当于现在人民币多少啊？",
@@ -1188,6 +1270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "阿布扎比国家石油公司据悉计划发行不超过140亿元人民币点心债。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3049566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         }
       ]
     },
@@ -1258,7 +1351,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
