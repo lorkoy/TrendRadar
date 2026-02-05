@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T21:22:42.466618+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2026-02-05T22:54:37.456584+08:00",
+  "total_titles_processed": 1901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 88,
+      "match_count": 90,
       "titles": [
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -44,6 +44,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时01分 ~ 10时48分]"
+        },
+        {
+          "title": "美股盘前三大股指齐跌，纳指期货跌逾1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时54分]"
         },
         {
           "title": "现货白银重回80美元/盎司，日内跌幅收窄至10.72%，此前一度重挫18%。",
@@ -123,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        },
-        {
-          "title": "美股盘前三大股指齐跌，纳指期货跌逾1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "现货黄金再度回到5000美元之上",
@@ -516,7 +517,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -637,7 +638,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -758,7 +759,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -912,7 +913,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -926,6 +927,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：关于重新调整回购额度的更多消息可能在几天内公布。考虑向非欧元区央行开放回购协议额度。",
+          "url": "https://flash.jin10.com/detail/20260205221015946800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "现货白银日内跌超15%，现报74.72美元/盎司。",
@@ -992,12 +1004,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "“做空白银豪赚”小作文引关注，中财期货回应来了！",
+          "url": "https://wallstreetcn.com/livenews/3050721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 63,
+      "match_count": 68,
       "titles": [
         {
           "title": "新春走基层：澎湃新闻六大板块报道全面启动",
@@ -1061,6 +1084,20 @@
           "time_info": "14时04分"
         },
         {
+          "title": "【每日收评】三大指数集体收跌，两市成交额单日萎缩超3000亿，大消费板块逆势爆发",
+          "url": "https://www.cls.cn/detail/2281641",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 22时54分]"
+        },
+        {
           "title": "大众汽车股价下跌3.2%，势创自2025年9月以来最大单日跌幅。",
           "url": "https://flash.jin10.com/detail/20260205164259167800",
           "source": "金十数据",
@@ -1094,6 +1131,17 @@
           "time_info": "15时55分"
         },
         {
+          "title": "雅诗兰黛下跌11%。",
+          "url": "https://wallstreetcn.com/livenews/3050753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "港股新能源汽车股震荡走高，蔚来、小米集团双双涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3050447",
           "source": "华尔街见闻-快讯",
@@ -1117,19 +1165,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时04分 ~ 17时58分]"
-        },
-        {
-          "title": "【每日收评】三大指数集体收跌，两市成交额单日萎缩超3000亿，大消费板块逆势爆发",
-          "url": "https://www.cls.cn/detail/2281641",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 21时22分]"
         },
         {
           "title": "路透调查：加元/美元在接下来的12个月内预计将上涨1.3%，达到1.35；未来三个月将下跌0.9%，至1.38（均与1月份调查结果相同）。",
@@ -1191,6 +1226,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时00分 ~ 03时04分]"
+        },
+        {
+          "title": "【焦点复盘】金融权重股午后护盘，沪指缩量震荡收十字星，太空光伏概念大面积退潮",
+          "url": "https://www.cls.cn/detail/2281691",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时54分]"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时54分]"
         },
         {
           "title": "比特币持续下跌 加密市场正陷入一场“信仰危机”",
@@ -1293,15 +1352,15 @@
           "time_info": "14时04分"
         },
         {
-          "title": "【焦点复盘】金融权重股午后护盘，沪指缩量震荡收十字星，太空光伏概念大面积退潮",
-          "url": "https://www.cls.cn/detail/2281691",
+          "title": "茅台股价创9个月新高！融资余额却连降5日，白酒指数4连涨，板块均价重登首位",
+          "url": "https://www.cls.cn/detail/2281677",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "22时54分"
         },
         {
           "title": "马士基预计2026年EBITDA为45亿至70亿美元，市场预期为57.6亿美元。 预计2026年全球集装箱贸易量增长2%至4%。 预计2026年EBIT将在亏损15亿美元至盈利10亿美元之间。 第四季度EBITDA为18.4亿美元，同比下降49%，市场预期为17.4亿美元。 第四季度海运板块EBITDA为11.7亿美元，市场预期为8.76亿美元。 第四季度物流与服务板块EBITDA为4.18亿美元，市场预期为4.38亿美元。",
@@ -1324,6 +1383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "欧元兑英镑上涨0.7%至0.8709，有望创下自8月以来的最大涨幅。",
+          "url": "https://flash.jin10.com/detail/20260205221821192800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "意大利银行板块继续创收盘历史新高",
@@ -1436,17 +1506,6 @@
           "time_info": "15时55分"
         },
         {
-          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
-          "url": "https://www.zhihu.com/question/2002675555208803379",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "明星科技股美股盘前涨跌不一，英伟达涨超1%；谷歌跌超1%，Q4云收入猛增48%，今年支出指引接近翻倍大超预期；存储板块反弹，闪迪涨超3%，美光科技涨近2%，博通涨超5%；高通跌超11%，公司二季度营收指引不及市场预期。",
           "url": "https://wallstreetcn.com/livenews/3050540",
           "source": "华尔街见闻-快讯",
@@ -1478,6 +1537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "WTI原油日内下跌2.00%，现报63.23美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260205221422636800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "欧洲半导体板块涨跌各异，Soitec收涨23.30%，阿斯麦控股跌4.18%。 最新业绩报告显示，Soitec第三财季营收1.60亿欧元，分析师预期1.488亿欧元。 预计2026财年四季度营收（按恒定汇率）将增长大约20%。",
@@ -1574,7 +1644,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -1689,6 +1759,17 @@
           "time_info": "06时39分"
         },
         {
+          "title": "诺和诺德ADR美股盘前跌6.3%，报道称“平价医药供应商”Hims & Hers提供49美元的Wegovy仿制药。 礼来制药盘前下跌。",
+          "url": "https://wallstreetcn.com/livenews/3050723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "巴西基准股指BOVESPA指数下跌2%。",
           "url": "https://flash.jin10.com/detail/20260205002653817800",
           "source": "金十数据",
@@ -1714,7 +1795,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "克宫：发展与中国的关系是俄罗斯外交政策优先事项",
@@ -1774,11 +1855,12 @@
           "ranks": [
             13,
             8,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 21时22分]"
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 22时54分]"
         },
         {
           "title": "美联储理事丽莎·库克将于十分钟后就货币政策与经济前景发表讲话。",
@@ -1850,6 +1932,18 @@
           "time_info": "[16时57分 ~ 17时58分]"
         },
         {
+          "title": "李家超表示香港将首次制定五年规划，主动对接「十五五」规划，这对香港未来的产业结构将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2002678701482009309",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时54分]"
+        },
+        {
           "title": "美国财长贝森特：对总统是否可以借口（货币）政策原因罢免美联储主席不发表意见。 我认为美联储是一个独立的机构。 让我们对“最高法院围绕美联储的判决结果”拭目以待。",
           "url": "https://wallstreetcn.com/livenews/3050054",
           "source": "华尔街见闻-快讯",
@@ -1862,6 +1956,18 @@
           "time_info": "[03时04分 ~ 04时46分]"
         },
         {
+          "title": "科创与产业融合存在难点？代表从孵化器赋能、科创金融等维度提出建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533862",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时54分]"
+        },
+        {
           "title": "航升卫星完成1.6亿元A轮融资 湖南湘江新区推动商业航天产业发展",
           "url": "https://wallstreetcn.com/livenews/3050613",
           "source": "华尔街见闻-快讯",
@@ -1871,17 +1977,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
-        },
-        {
-          "title": "李家超表示香港将首次制定五年规划，主动对接「十五五」规划，这对香港未来的产业结构将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2002678701482009309",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "美国财长贝森特声称：我们往往会支持一个强势美元政策。",
@@ -1928,6 +2023,17 @@
           "time_info": "14时04分"
         },
         {
+          "title": "欧洲央行行长拉加德：货币政策状况良好，因为其具有灵活性。",
+          "url": "https://flash.jin10.com/detail/20260205221727363800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "美国财长贝森特：美联储双重职责（维持价格稳定+实现充分就业）是一个“非常微妙的平衡”。 美联储在货币政策方面应该保持独立性。 当美联储涉足其他领域时，就会损害到自身的独立性。",
           "url": "https://wallstreetcn.com/livenews/3050011",
           "source": "华尔街见闻-快讯",
@@ -1961,6 +2067,17 @@
           "time_info": "02时00分"
         },
         {
+          "title": "欧洲央行行长拉加德：货币政策处于良好状态。",
+          "url": "https://wallstreetcn.com/livenews/3050738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）沪深港通南向资金流向",
           "url": "https://flash.jin10.com/detail/20260205161536521800",
           "source": "金十数据",
@@ -1972,15 +2089,15 @@
           "time_info": "16时57分"
         },
         {
-          "title": "科创与产业融合存在难点？代表从孵化器赋能、科创金融等维度提出建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32533862",
-          "source": "澎湃新闻",
+          "title": "欧洲央行行长拉加德：通胀和央行政策都“处于良好状态”。 通胀朝着央行2%目标逐步靠拢。 没有什么东西在改变（央行假设的欧元区）通胀基线。",
+          "url": "https://wallstreetcn.com/livenews/3050733",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "22时54分"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普有权就美联储货币政策发表意见。",
@@ -2000,7 +2117,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -2022,7 +2139,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -2044,9 +2161,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：增长主要由服务业驱动，尤其是信息技术和通信业。 劳动力市场持续支撑居民收入。 制造业在贸易逆风下仍保持韧性。 企业正持续加大数字技术投资力度。 必须在地缘政治背景下增强欧元区韧性。 外部环境依然充满挑战。 敦促各国政府继续推进改革。 由于关税及欧元等因素的影响，贸易环境面临严峻挑战。 基础通胀率与2%的目标一致。 当前面临不确定性增加的全球政策环境。 不确定性再度增加可能抑制需求。",
+          "url": "https://wallstreetcn.com/livenews/3050722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出836.62亿元，占比3.84%；大单资金净流出358.92亿元，占比1.65%；小单资金净流入641.92亿元，占比2.95%。",
@@ -2063,7 +2191,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -2126,6 +2254,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时01分 ~ 10时48分]"
+        },
+        {
+          "title": "美股开盘，道指跌0.55%，标普500指数跌0.87%，纳指跌1.3%。Alphabet(GOOG.O)跌6.6%，公司2026年资本支出指引远超预期。蔚来汽车(NIO.N)涨7.9%，公司预计Q4将首次实现单季度盈利。叮咚买菜(DDL.N)跌12%，美团拟7.17亿美元收购叮咚买菜。",
+          "url": "https://flash.jin10.com/detail/20260205223029069800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "可选消费ETF跌1.39%，能源业ETF跌1.15%，网络股指数ETF跌1.05%，科技行业ETF跌0.59%，在美股盘初领跌行业ETF，生物科技指数ETF涨0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3050756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
@@ -2210,6 +2360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股盘中）",
