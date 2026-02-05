@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T18:55:49.602482+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2026-02-05T19:42:40.617610+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 77,
+      "match_count": 83,
       "titles": [
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[04时46分 ~ 18时55分]"
+          "appearance_count": 14,
+          "time_info": "[04时46分 ~ 19时42分]"
         },
         {
           "title": "金价巨震之下，水贝难寻金条现货|传真",
@@ -63,7 +63,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -101,17 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
-        },
-        {
-          "title": "上期能源调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
-          "url": "https://flash.jin10.com/detail/20260205184028486800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "碳酸锂期货主力合约盘中触及跌停，沪银主力合约跌超7%，铂主力合约跌超8%。",
@@ -158,17 +147,6 @@
           "time_info": "14时04分"
         },
         {
-          "title": "上期能源：调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
-          "url": "https://wallstreetcn.com/livenews/3050598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "纳指期货周三跌约1.3%",
           "url": "https://wallstreetcn.com/livenews/3050132",
           "source": "华尔街见闻-快讯",
@@ -179,6 +157,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
+          "title": "上期能源调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://flash.jin10.com/detail/20260205184028486800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时42分]"
         },
         {
           "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
@@ -214,6 +204,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时42分]"
+        },
+        {
+          "title": "上期能源：调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3050598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时42分]"
         },
         {
           "title": "现货白银日内重挫16%",
@@ -365,6 +367,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "穆迪：将印尼评级展望从“稳定”调整为“负面”，确认Baa2评级。",
+          "url": "https://wallstreetcn.com/livenews/3050612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "现货白银重回80美元之上",
           "url": "https://flash.jin10.com/detail/20260205152640687800",
           "source": "金十数据",
@@ -420,6 +433,17 @@
           "time_info": "10时48分"
         },
         {
+          "title": "郑商所：动力煤期货2702合约交易保证金标准为50%，涨跌停板幅度为10%",
+          "url": "https://wallstreetcn.com/livenews/3050611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "现货金银快速反弹",
           "url": "https://flash.jin10.com/detail/20260205103013622800",
           "source": "金十数据",
@@ -440,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "郑商所：春节期间调整部分期货合约交易保证金标准和涨跌停板幅度",
+          "url": "https://wallstreetcn.com/livenews/3050610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "美国芝加哥期权交易所（CBOE）1月指数期权日均成交量（ADV）增长20.8%，期货日均成交量增长4.6%。",
@@ -492,7 +527,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -574,6 +609,17 @@
           "time_info": "15时55分"
         },
         {
+          "title": "上期所调整铜等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://flash.jin10.com/detail/20260205185251910800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "现货白银跌破86美元关口，日内跌2.6%。",
           "url": "https://wallstreetcn.com/livenews/3050260",
           "source": "华尔街见闻-快讯",
@@ -594,6 +640,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "上期所：调整铜、黄金、白银等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3050604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "上期所调整黄金、白银期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://flash.jin10.com/detail/20260205185157712800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "芝加哥农产品期货普遍上涨，大豆期货涨超2.4%",
@@ -624,7 +692,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -690,7 +758,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -712,7 +780,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -938,17 +1006,6 @@
           "time_info": "14时04分"
         },
         {
-          "title": "路透调查：加元/美元在接下来的12个月内预计将上涨1.3%，达到1.35；未来三个月将下跌0.9%，至1.38（均与1月份调查结果相同）。",
-          "url": "https://flash.jin10.com/detail/20260205184158703800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "大众汽车股价下跌3.2%，势创自2025年9月以来最大单日跌幅。",
           "url": "https://flash.jin10.com/detail/20260205164259167800",
           "source": "金十数据",
@@ -1007,6 +1064,31 @@
           "time_info": "[14时04分 ~ 17时58分]"
         },
         {
+          "title": "路透调查：加元/美元在接下来的12个月内预计将上涨1.3%，达到1.35；未来三个月将下跌0.9%，至1.38（均与1月份调查结果相同）。",
+          "url": "https://flash.jin10.com/detail/20260205184158703800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时42分]"
+        },
+        {
+          "title": "【每日收评】三大指数集体收跌，两市成交额单日萎缩超3000亿，大消费板块逆势爆发",
+          "url": "https://www.cls.cn/detail/2281641",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 19时42分]"
+        },
+        {
           "title": "三国题材的游戏为啥很少做 「三国后期」 的剧情？",
           "url": "https://www.zhihu.com/question/1997053344133448774",
           "source": "知乎",
@@ -1018,18 +1100,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时03分 ~ 05时42分]"
-        },
-        {
-          "title": "【每日收评】三大指数集体收跌，两市成交额单日萎缩超3000亿，大消费板块逆势爆发",
-          "url": "https://www.cls.cn/detail/2281641",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 18时55分]"
         },
         {
           "title": "美三大股指全线下跌 AMD股价创下多年来最大跌幅",
@@ -1317,7 +1387,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1556,7 +1626,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "克宫：发展与中国的关系是俄罗斯外交政策优先事项",
@@ -1578,11 +1648,12 @@
             5,
             4,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 18时55分]"
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 19时42分]"
         },
         {
           "title": "【数据看盘】两家游资集体出逃海兰信，多路资金激烈博弈红宝丽",
@@ -1686,8 +1757,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 18时55分]"
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 19时42分]"
         },
         {
           "title": "美国财长贝森特：对总统是否可以借口（货币）政策原因罢免美联储主席不发表意见。 我认为美联储是一个独立的机构。 让我们对“最高法院围绕美联储的判决结果”拭目以待。",
@@ -1700,6 +1771,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时04分 ~ 04时46分]"
+        },
+        {
+          "title": "航升卫星完成1.6亿元A轮融资 湖南湘江新区推动商业航天产业发展",
+          "url": "https://wallstreetcn.com/livenews/3050613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "美国财长贝森特声称：我们往往会支持一个强势美元政策。",
@@ -1902,6 +1984,19 @@
           "time_info": "[01时01分 ~ 10时48分]"
         },
         {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时42分]"
+        },
+        {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
           "url": "https://flash.jin10.com/detail/20260205051229076800",
           "source": "金十数据",
@@ -1936,19 +2031,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时39分]"
-        },
-        {
-          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
-          "url": "https://www.cls.cn/detail/2281312",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时55分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.23%，报397.53点。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.55%，报2830.82点。 （美股）原材料指数收涨0.57%，（美股）金属与矿业指数收跌1.61%。",
@@ -2058,7 +2140,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -2080,7 +2162,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
@@ -2166,6 +2248,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "贝莱德基金刘鑫：短端境外债券相对稳健 长端美债短期内存在交易性机会",
+          "url": "https://wallstreetcn.com/livenews/3050619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3050043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 03时04分]"
+        },
+        {
+          "title": "长端美债收益率涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3050086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SZ SH HK",
       "match_count": 2,
       "titles": [
@@ -2190,35 +2312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
-          "url": "https://wallstreetcn.com/livenews/3050043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 03时04分]"
-        },
-        {
-          "title": "长端美债收益率涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3050086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
         }
       ]
     },
