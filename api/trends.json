@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-02-06T05:39:42.532997+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-02-06T06:38:45.012822+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
-          "title": "芝商所上调黄金、白银期货保证金比例",
-          "url": "https://flash.jin10.com/detail/20260206052709197800",
-          "source": "金十数据",
+          "title": "周四，现货白银一度下跌超过19.87%，在临近结束一天的交易时跌至70.52美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3050906",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时39分"
+          "time_info": "06时38分"
+        },
+        {
+          "title": "芝商所上调黄金、白银期货保证金比例",
+          "url": "https://flash.jin10.com/detail/20260206052709197800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
         },
         {
           "title": "上期所原油期货2603合约夜盘收跌0.73%，报460.30元人民币/桶。 沪金夜盘收跌1.48%，沪银收跌9.96%。",
@@ -40,6 +52,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 02时00分]"
+        },
+        {
+          "title": "芝加哥大豆期货涨约1.7%，豆粕涨超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3050876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
         },
         {
           "title": "加拿大央行行长Macklem警告称：降息可能会推高CPI，推迟必要的结构性调整。 重申央行准备在前景展望发生变化的情况下做出反应。",
@@ -66,15 +90,85 @@
           "time_info": "[04时44分 ~ 05时39分]"
         },
         {
-          "title": "芝加哥大豆期货涨约1.7%，豆粕涨超2.2%",
-          "url": "https://wallstreetcn.com/livenews/3050876",
+          "title": "现货黄金再度跌破4800美元/盎司，逼近日低。",
+          "url": "https://flash.jin10.com/detail/20260206045728894800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
+        },
+        {
+          "title": "现货铂金再度跌破2000美元/盎司关口，日内跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260206045020419800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
+        },
+        {
+          "title": "中国男篮公布 21 人集训名单，周琦落选杨瀚森未进，此次人员调整是出于哪些考量？",
+          "url": "https://www.zhihu.com/question/2002313775911573031",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 06时38分]"
+        },
+        {
+          "title": "机构：资金从金属流向估值偏低的农产品期货",
+          "url": "https://flash.jin10.com/detail/20260206044800775800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
+        },
+        {
+          "title": "现货白银日内跌幅达19.5%，报70.84美元/盎司。 纽约银日内跌幅达16.5%，报70.44美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3050901",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时39分"
+          "time_info": "06时38分"
+        },
+        {
+          "title": "现货白银跌幅扩大至19%，现报71.40美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260206054218676800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "现货黄金日内跌幅达4.0%，报4763.2美元/盎司。 纽约金日内跌幅达3.0%，报4793美元/盎司。 纽约银日内跌幅达15.5%，报71.12美元/盎司。 现货白银日内跌幅达18.5%，报71.67美元/盎司。 商品货币澳元/美元日内跌幅达1.0%，报0.6927。",
+          "url": "https://wallstreetcn.com/livenews/3050898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         },
         {
           "title": "恒指期货夜盘下跌1%。",
@@ -88,6 +182,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "现货金银均刷新日低，现分别报4766美元/盎司和71.9美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260206053514435800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
           "title": "现货白银日内跌幅达18.0%，报72.12美元/盎司。 纽约银日内跌幅达15.0%，报71.72美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3050784",
           "source": "华尔街见闻-快讯",
@@ -99,6 +204,28 @@
           "time_info": "01时01分"
         },
         {
+          "title": "微芯科技第三财季净销售11.9亿美元，分析师预期11.8亿美元。 第三财季调整后EPS为0.44美元，分析师预期0.42美元。 预计第四财季净销售12.4亿-12.8亿美元，分析师预期12.3亿美元。 预计第四财季调整后EPS为0.48-0.52美元，分析师预期0.48美元。",
+          "url": "https://wallstreetcn.com/livenews/3050892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "美国芝商所上调黄金、白银期货保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3050891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：加拿大（企业）高管“需要调整”以适应新的经济现实。",
           "url": "https://flash.jin10.com/detail/20260206012735473800",
           "source": "金十数据",
@@ -108,56 +235,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
-        },
-        {
-          "title": "现货黄金再度跌破4800美元/盎司，逼近日低。",
-          "url": "https://flash.jin10.com/detail/20260206045728894800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "现货铂金再度跌破2000美元/盎司关口，日内跌超10%。",
-          "url": "https://flash.jin10.com/detail/20260206045020419800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "中国男篮公布 21 人集训名单，周琦落选杨瀚森未进，此次人员调整是出于哪些考量？",
-          "url": "https://www.zhihu.com/question/2002313775911573031",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "机构：资金从金属流向估值偏低的农产品期货",
-          "url": "https://flash.jin10.com/detail/20260206044800775800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "李家超表示香港将首次制定五年规划，主动对接「十五五」规划，这对香港未来的产业结构将带来哪些影响？",
@@ -167,11 +250,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时38分]"
         },
         {
           "title": "科创与产业融合存在难点？代表从孵化器赋能、科创金融等维度提出建议",
@@ -276,6 +360,17 @@
           "time_info": "02时00分"
         },
         {
+          "title": "Strategy四季度营收1.23亿美元，分析师预期1.232亿美元。 四季度持有比特币71.3502万枚。 公司已经在2月1日动用22.5亿美元美元储备资金。",
+          "url": "https://wallstreetcn.com/livenews/3050887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
           "title": "美国财长贝森特：白宫预算办公室将决定何时分配社区发展金融机构（CDFI）资金。",
           "url": "https://flash.jin10.com/detail/20260206000931966800",
           "source": "金十数据",
@@ -324,8 +419,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时38分]"
         },
         {
           "title": "【焦点复盘】金融权重股午后护盘，沪指缩量震荡收十字星，太空光伏概念大面积退潮",
@@ -335,8 +430,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时38分]"
         },
         {
           "title": "茅台股价创9个月新高！融资余额却连降5日，白酒指数4连涨，板块均价重登首位",
@@ -347,8 +442,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时38分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -360,8 +455,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时38分]"
         },
         {
           "title": "标普500指数初步收跌1.2%，原材料板块跌2.8%，可选消费板块跌2.7%，科技板块跌1.8%，金融板块跌1.3%。 纳斯达克100指数初步收跌1.3%，成分股中，Strategy跌17.7%，CrowdStrike跌9.2%，高通跌8.7%，Zscaler跌8.6%，Datadog跌7.77%，Palantir跌7%，应用材料涨1.7%，吉利德科学涨2.3%，Arm控股涨5.7%。 微软初步收跌5%，Salesforce跌4.6%，亚马逊跌4.2%，高盛跌2.5%，领跌道指成分股，思科、强生、Travelers Companies Inc.等则涨超1%。",
@@ -370,7 +465,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -403,11 +498,12 @@
           "url": "https://wallstreetcn.com/livenews/3050878",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
         },
         {
           "title": "FactSec下跌10%，创2020年3月份以来盘中新低，投资者关注Anthropic对AI模型进行升级。",
@@ -449,7 +545,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -468,7 +564,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -478,8 +574,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时38分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -489,8 +585,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时38分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
@@ -500,11 +596,12 @@
             26,
             27,
             14,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时38分]"
         },
         {
           "title": "美股",
@@ -517,8 +614,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时38分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
@@ -547,55 +644,127 @@
           "url": "https://wallstreetcn.com/livenews/3050879",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260206050531968800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260206050524149800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
         },
         {
           "title": "亚马逊(AMZN.O)美股盘后大跌近9%。",
           "url": "https://flash.jin10.com/detail/20260206050409662800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
           "url": "https://flash.jin10.com/detail/20260206050117661800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
+          "url": "https://wallstreetcn.com/livenews/3050900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "06时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，叮咚买菜初步收跌15%，阿特斯太阳能跌8.4%，阿里、新东方跌1%，小米、理想、美团则涨超2%，文远知行涨3.6%，百胜中国涨4.6%，蔚来涨6%。 ETF中，ASHS跌1.7%，ASHR跌0.8%，CQQQ跌0.8%，KWEB跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3050883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.90%，报7528.91点。 热门中概股里，叮咚买菜初步收跌15%，阿特斯太阳能跌8.4%，阿里、新东方跌1%，小米、理想、美团则涨超2%，文远知行涨3.6%，百胜中国涨4.6%，蔚来涨6%。 ETF中，ASHS跌1.7%，ASHR跌0.8%，CQQQ跌0.8%，KWEB跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3050883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周四（2月5日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.9405 元，较周三纽约尾盘涨7点，日内整体交投于6.9477-6.9338元区间。",
+          "url": "https://wallstreetcn.com/livenews/3050905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.3648元元，较周三夜盘收盘涨228点。成交量570.75亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     },
@@ -609,11 +778,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时39分]"
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时38分]"
         },
         {
           "title": "美国财长贝森特：美国国债市场非常有韧性。 外国对于美债拍卖的需求非常旺盛。",
@@ -625,40 +795,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，叮咚买菜初步收跌15%，阿特斯太阳能跌8.4%，阿里、新东方跌1%，小米、理想、美团则涨超2%，文远知行涨3.6%，百胜中国涨4.6%，蔚来涨6%。 ETF中，ASHS跌1.7%，ASHR跌0.8%，CQQQ跌0.8%，KWEB跌0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3050883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.3648元元，较周三夜盘收盘涨228点。成交量570.75亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3050850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
         }
       ]
     },
