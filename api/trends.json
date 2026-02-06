@@ -1,44 +1,69 @@
 {
-  "generated_at": "2026-02-07T03:03:43.563173+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-02-07T04:44:10.072291+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
-          "title": "上期所原油期货2603合约夜盘收涨1.52%，报468.80元人民币/桶。 沪金夜盘收涨2.82%，沪银收涨3.51%。",
-          "url": "https://wallstreetcn.com/livenews/3051592",
+          "title": "美国商品期货交易委员会（CFTC）：2月3日当周，投机者所持COMEX黄金净多头头寸减少27,983手合约，至93,438手合约，创15周新低。",
+          "url": "https://wallstreetcn.com/livenews/3051610",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "04时44分"
         },
         {
           "title": "【焦点复盘】市场延续缩量调整，能化等周期股逆势爆发，太空光伏概念午后回暖",
           "url": "https://www.cls.cn/detail/2282967",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时44分]"
+        },
+        {
+          "title": "上期所原油期货2603合约夜盘收涨1.52%，报468.80元人民币/桶。 沪金夜盘收涨2.82%，沪银收涨3.51%。",
+          "url": "https://wallstreetcn.com/livenews/3051592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时44分]"
         },
         {
           "title": "现货白银日内涨幅达10.0%，报77.77美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3051585",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时44分]"
+        },
+        {
+          "title": "WTI 3月原油期货收报63.55美元/桶。 布伦特4月原油期货收报68.05美元/桶。 NYMEX 3月天然气期货收报3.4220美元/百万英热单位。 NYMEX 3月汽油期货收报1.9532美元/加仑，NYMEX 3月取暖油期货收报2.4133美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3051604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "04时44分"
         },
         {
           "title": "现货钯金延续涨势，最新报1737.01美元/盎司，涨幅逾7%。",
@@ -58,7 +83,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -69,7 +94,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -80,9 +105,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "美国黄金期货价格在数据发布延迟后收于4979.8美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260207032258342800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "现货白银日内暴涨10.00%，现报77.88美元/盎司。",
@@ -91,7 +127,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -105,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "恒指期货夜盘收涨1.8%，报27053点，高水493点。",
+          "url": "https://flash.jin10.com/detail/20260207030132643800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "美联储副主席杰斐逊暗示：短期内无需进行政策调整",
@@ -132,7 +179,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股人工智能相关股多数上涨，超微电脑(SMCI.O)、Arm(ARM.O)大涨10%，AMD(AMD.O)涨超8%，英伟达(NVDA.O)涨超7%。",
@@ -152,7 +199,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -181,6 +228,18 @@
           "time_info": "[01时53分 ~ 03时03分]"
         },
         {
+          "title": "周五（2月6日），韩元兑美元最终跌0.01%，报1463.55韩元，本周累计下跌1.32%。",
+          "url": "https://wallstreetcn.com/livenews/3051587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时44分]"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌0.17%，报2362.35点，本周累计上涨2.05%。",
           "url": "https://wallstreetcn.com/livenews/3051541",
           "source": "华尔街见闻-快讯",
@@ -191,17 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时53分]"
-        },
-        {
-          "title": "周五（2月6日），韩元兑美元最终跌0.01%，报1463.55韩元，本周累计下跌1.32%。",
-          "url": "https://wallstreetcn.com/livenews/3051587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时03分"
         },
         {
           "title": "一些美国住宅建筑商的股价下跌，凯建（KB Home）下跌0.8%，普尔特集团股价下跌1.1%，霍文尼亚企业股价下跌0.5%，霍顿房屋下跌2.5%，莱纳下跌2.2%。",
@@ -226,6 +274,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "奈飞(NFLX.O)股价回吐部分涨幅，最新上涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20260207033752450800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
           "title": "由于伊朗与美国的谈判前景不明，油价每桶上涨逾1美元。",
           "url": "https://flash.jin10.com/detail/20260207012513513800",
           "source": "金十数据",
@@ -243,7 +302,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         }
@@ -251,7 +310,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "虚拟货币监管再升级！央行等八部门重申境内禁止性政策 未经同意境内主体不得在境外发行虚拟货币",
@@ -261,19 +320,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时03分]"
-        },
-        {
-          "title": "据Politico：亚马逊(AMZN.O)的税单将在共和党的减税政策后大幅下降。",
-          "url": "https://flash.jin10.com/detail/20260207024149254800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时03分"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "明年起我国将禁止使用隐藏式车门把手，隐藏式车门把手存在哪些隐患？将对汽车产业产生哪些影响？",
@@ -282,22 +330,35 @@
           "ranks": [
             1,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时44分]"
+        },
+        {
+          "title": "据Politico：亚马逊(AMZN.O)的税单将在共和党的减税政策后大幅下降。",
+          "url": "https://flash.jin10.com/detail/20260207024149254800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
         },
         {
           "title": "【数据看盘】超6亿元资金抢筹恩捷股份，IM期指空头大幅加仓",
           "url": "https://www.cls.cn/detail/2283029",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
@@ -324,13 +385,24 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
+          "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
+          "url": "https://flash.jin10.com/detail/20260207024944141800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
           "title": "美国财长贝森特：推行强势美元政策意味着采取措施为美元创造强劲的支撑环境。",
           "url": "https://flash.jin10.com/detail/20260207020014168800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         }
@@ -338,8 +410,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2283417",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时44分]"
+        },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
           "url": "https://wallstreetcn.com/articles/3765113",
@@ -352,15 +435,15 @@
           "time_info": "[00时58分 ~ 03时03分]"
         },
         {
-          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2283417",
-          "source": "财联社热门",
+          "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时03分]"
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 04时44分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -384,6 +467,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时53分]"
+        },
+        {
+          "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
+          "url": "https://flash.jin10.com/detail/20260207035802693800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "金十图示：2026年02月06日（周五）美股热门股票行情一览（美股盘中）",
@@ -428,6 +522,23 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9354元，较周四夜盘收盘涨9点。成交量373.22亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3051597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -439,8 +550,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数本周涨超0.6%",
+          "url": "https://wallstreetcn.com/livenews/3051608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     }
