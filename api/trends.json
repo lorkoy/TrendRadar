@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-06T15:10:53.299410+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-02-06T16:56:36.004670+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
+        {
+          "title": "中财期货边锡明被指精准做空三天赚36亿，如何看公司回应？",
+          "url": "https://www.cls.cn/detail/2282362",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 16时56分]"
+        },
         {
           "title": "现货黄金回落至4760美元/盎司下方，日内跌0.41%。",
           "url": "https://flash.jin10.com/detail/20260206070140239800",
@@ -72,18 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        },
-        {
-          "title": "中财期货边锡明被指精准做空三天赚36亿，如何看公司回应？",
-          "url": "https://www.cls.cn/detail/2282362",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 15时10分]"
         },
         {
           "title": "现货白银日内涨超3.00%，现报72.92美元/盎司。",
@@ -434,6 +435,17 @@
           "time_info": "14时01分"
         },
         {
+          "title": "欧洲央行管委雷恩：未来如有必要，不排除对关键利率进行任何调整。",
+          "url": "https://flash.jin10.com/detail/20260206161624124800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "纳指期货周四跌约2.3%",
           "url": "https://wallstreetcn.com/livenews/3050909",
           "source": "华尔街见闻-快讯",
@@ -478,6 +490,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "欧洲央行管委雷恩：在下次会议上，将会收到新的数据和欧洲央行预测的最新更新，这将帮助我们进一步完善对欧元区增长势头和通胀动态的评估。 必须做好准备，地缘政治的发展仍可能带来新的意外，必须随时准备应对。 未来关键利率的任何调整，如果有合理依据，都不会被排除。",
+          "url": "https://wallstreetcn.com/livenews/3051261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "现货白银日内涨幅扩大至1%，现报71.50美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260206101825381800",
           "source": "金十数据",
@@ -517,7 +540,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -605,9 +628,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "上金所：调整部分合约保证金水平和涨跌停板",
+          "url": "https://wallstreetcn.com/livenews/3051240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "现货白银反弹势头强劲，日内大涨4.00%，此前一度跌超8%，现报73.64美元/盎司。",
@@ -619,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "德邦证券高管再调整，宋晓光出任首席信息官",
+          "url": "https://wallstreetcn.com/livenews/3051238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "A股零售股震荡调整，百大集团触及跌停，新华百货逼近跌停，三江购物、友好集团、国光连锁、上海九百跌超6%。",
@@ -638,7 +683,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         }
@@ -646,7 +691,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "李家超表示香港将首次制定五年规划，主动对接「十五五」规划，这对香港未来的产业结构将带来哪些影响？",
@@ -672,8 +717,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 16时56分]"
         },
         {
           "title": "日本央行审议委员增一行：没有设定具体加息步伐。 认为日本央行的货币政策并未落后。 关注除大米价格之外的食品通胀。 如果价格走势持续高于2%，并不特别可取。 需要让价格走势稳定在2%左右。",
@@ -693,7 +738,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -720,6 +765,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 02时00分]"
+        },
+        {
+          "title": "国家卫健委工作组赴湖北督查部分精神病医院存在违规收治、涉嫌套取医保资金等问题，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2002842963101836098",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时56分]"
         },
         {
           "title": "康菲石油希望先获得委内瑞拉偿还最近约20年的资金，然后再考虑在委开采石油。",
@@ -791,26 +847,26 @@
           "time_info": "01时01分"
         },
         {
-          "title": "国家卫健委工作组赴湖北督查部分精神病医院存在违规收治、涉嫌套取医保资金等问题，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2002842963101836098",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
           "title": "期限溢价攀升引发美债市场警惕 政策前景放缓或压制长端利率",
           "url": "https://flash.jin10.com/detail/20260206144513390800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "金十图示：2026年02月06日（周五）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20260206161649465800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "英国央行行长贝利：随着政策利率更加接近中性，在指引中删除了“逐步”。 五五开押注3月份降息“不算太糟糕”。（彭博电视）",
@@ -956,6 +1012,17 @@
           "time_info": "02时00分"
         },
         {
+          "title": "商务部谈消费“三新”试点：多数服务消费新增长点领域已经纳入试点资金支持方向",
+          "url": "https://wallstreetcn.com/livenews/3051243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "日本央行委员增一行：日本央行需要继续推进进一步加息，以完成政策正常化。",
           "url": "https://wallstreetcn.com/livenews/3051025",
           "source": "华尔街见闻-快讯",
@@ -981,7 +1048,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -1080,6 +1147,18 @@
           "time_info": "[01时01分 ~ 02时00分]"
         },
         {
+          "title": "分析师更新对基本金属预期：铜锡铝将继续上涨 切勿盲目乐观",
+          "url": "https://www.cls.cn/detail/2282547",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时56分]"
+        },
+        {
           "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
           "url": "https://wallstreetcn.com/livenews/3050816",
           "source": "华尔街见闻-快讯",
@@ -1102,6 +1181,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时38分]"
+        },
+        {
+          "title": "港股科技板块卖空显著升温 快手卖空金额增超10倍",
+          "url": "https://www.cls.cn/detail/2282576",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时56分]"
         },
         {
           "title": "A股光伏设备板块震荡走高，正泰电源涨停，泽润新能涨超10%，协鑫集成、奥特维、亚玛顿、晶科能源、迈为股份、拉普拉斯等个股跟涨。",
@@ -1132,7 +1223,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1159,17 +1250,6 @@
           "time_info": "14时01分"
         },
         {
-          "title": "分析师更新对基本金属预期：铜锡铝将继续上涨 切勿盲目乐观",
-          "url": "https://www.cls.cn/detail/2282547",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
           "title": "澳洲联储主席布洛克：近期通胀的大部分上涨被认为是暂时的，但其中一些似乎具有持久性。",
           "url": "https://flash.jin10.com/detail/20260206063556554800",
           "source": "金十数据",
@@ -1181,15 +1261,15 @@
           "time_info": "07时33分"
         },
         {
-          "title": "港股科技板块卖空显著升温 快手卖空金额增超10倍",
-          "url": "https://www.cls.cn/detail/2282576",
-          "source": "财联社热门",
+          "title": "澜起科技港股暗盘上涨超37%，报147港元/股。",
+          "url": "https://wallstreetcn.com/livenews/3051262",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时10分"
+          "time_info": "16时56分"
         },
         {
           "title": "FactSec下跌10%，创2020年3月份以来盘中新低，投资者关注Anthropic对AI模型进行升级。",
@@ -1247,6 +1327,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "越南VN指数收盘下跌1.5%，至1755.49点。",
+          "url": "https://wallstreetcn.com/livenews/3051247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "美元指数5日上涨",
           "url": "https://flash.jin10.com/detail/20260206043959949800",
           "source": "金十数据",
@@ -1267,6 +1358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "黄金短期震荡背后藏着哪些关键逻辑",
+          "url": "https://www.toutiao.com/trending/7603609850806816310/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "标普500指数跌幅扩大至1.3%，道指下跌超500点、跌幅超过1%，纳指跌1.77%，纳斯达克100指数跌1.6%，半导体指数、银行指数跌1.5%。",
@@ -1545,7 +1647,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -1555,8 +1657,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 15时10分]"
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 16时56分]"
+        },
+        {
+          "title": "印度央行否认减持美债 称持仓变动属正常波动",
+          "url": "https://flash.jin10.com/detail/20260206163550587800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
@@ -1597,7 +1710,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周四（2月5日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.9405 元，较周三纽约尾盘涨7点，日内整体交投于6.9477-6.9338元区间。",
@@ -1610,6 +1723,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时33分]"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9401，较上一交易日官方收盘价涨7点，较上日夜盘收盘跌38点。",
+          "url": "https://wallstreetcn.com/livenews/3051268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.3648元元，较周三夜盘收盘涨228点。成交量570.75亿美元。",
