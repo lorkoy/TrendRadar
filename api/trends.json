@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T05:51:01.188423+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-02-10T06:49:42.009187+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "乘势而上｜专访史晋川：要让民营经济的发展，从政策红利转到法治红利",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 05时51分]"
+          "appearance_count": 5,
+          "time_info": "[03时28分 ~ 06时49分]"
         },
         {
           "title": "中方回应对日外交政策",
@@ -25,11 +25,23 @@
           "ranks": [
             4,
             8,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 05时51分]"
+          "appearance_count": 5,
+          "time_info": "[03时28分 ~ 06时49分]"
+        },
+        {
+          "title": "美联储理事米兰：美联储缩减资产负债表（缩表）之前还需采取许多步骤。 如果货币政策没有（被总统特朗普）政治化，会有更好的结果。 如果保留美联储独立性，美联储就应该坚持其核心使命。",
+          "url": "https://wallstreetcn.com/livenews/3052543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "希望高市早苗政府奉行怎样的外交政策？外交部回应",
@@ -39,8 +51,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 05时51分]"
+          "appearance_count": 5,
+          "time_info": "[03时28分 ~ 06时49分]"
         },
         {
           "title": "英国央行货币政策委员曼恩：英国脱欧持续拖累英国经济，担心消费和生产力增长缓慢。",
@@ -48,11 +60,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时51分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时49分]"
         },
         {
           "title": "英国央行货币政策委员会（MPC）成员Mann：英国脱欧问题将继续拖累英国经济。 （消费者/企业/财政）开支和生产力让人感到忧心忡忡。",
@@ -183,41 +196,8 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "周一（2月9日）纽约尾盘，现货白银涨6.98%，报83.2699美元/盎司。 COMEX白银期货涨7.67%，报82.795美元/盎司。 COMEX铜期货涨1.31%，报5.9590美元/磅。 现货铂金涨1.34%，现货钯金涨1.93%。",
-          "url": "https://wallstreetcn.com/livenews/3052526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "现货黄金在美盘末跌破5050美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260210052927237800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "周一（2月9日）纽约尾盘，现货黄金涨2.01%，报5064.10美元/盎司。 COMEX黄金期货涨2.04%，报5081.50美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3052525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
         {
           "title": "头部房企向内“动刀”：建发、保利、华润等密集调整组织架构",
           "url": "https://www.cls.cn/detail/2284734",
@@ -226,8 +206,44 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 05时51分]"
+          "appearance_count": 5,
+          "time_info": "[03时28分 ~ 06时49分]"
+        },
+        {
+          "title": "周一（2月9日）纽约尾盘，现货白银涨6.98%，报83.2699美元/盎司。 COMEX白银期货涨7.67%，报82.795美元/盎司。 COMEX铜期货涨1.31%，报5.9590美元/磅。 现货铂金涨1.34%，现货钯金涨1.93%。",
+          "url": "https://wallstreetcn.com/livenews/3052526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
+        },
+        {
+          "title": "现货黄金在美盘末跌破5050美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260210052927237800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
+        },
+        {
+          "title": "周一（2月9日）纽约尾盘，现货黄金涨2.01%，报5064.10美元/盎司。 COMEX黄金期货涨2.04%，报5081.50美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3052525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
         },
         {
           "title": "现货白银日内大涨6美元，现报83.81美元/盎司，涨幅7.73%。",
@@ -235,11 +251,24 @@
           "source": "金十数据",
           "ranks": [
             8,
-            23
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时49分]"
+        },
+        {
+          "title": "英国政府：强烈谴责以色列安全内阁决定扩大以色列对约旦河西岸的控制。拟在西岸实施的土地、执法和行政权力重大调整将损害推动和平与稳定的努力。",
+          "url": "https://flash.jin10.com/detail/20260210045919445800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时51分]"
+          "time_info": "[05时51分 ~ 06时49分]"
         },
         {
           "title": "芝加哥大豆期货跌约0.5%，豆粕跌约2%，大豆油涨超2.5%",
@@ -254,6 +283,18 @@
           "time_info": "[04时54分 ~ 05时51分]"
         },
         {
+          "title": "现货白银向上触及84美元/盎司，日内涨近8%。",
+          "url": "https://flash.jin10.com/detail/20260210045447261800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
+        },
+        {
           "title": "恒指期货夜盘收涨0.62%，报27221点，高水194点。",
           "url": "https://flash.jin10.com/detail/20260210030054594800",
           "source": "金十数据",
@@ -265,26 +306,15 @@
           "time_info": "03时28分"
         },
         {
-          "title": "英国政府：强烈谴责以色列安全内阁决定扩大以色列对约旦河西岸的控制。拟在西岸实施的土地、执法和行政权力重大调整将损害推动和平与稳定的努力。",
-          "url": "https://flash.jin10.com/detail/20260210045919445800",
-          "source": "金十数据",
+          "title": "周一（2月9日）纽约尾盘，标普500股指期货最终涨0.46%，道指期货涨0.01%，纳斯达克100股指期货涨0.78%。 罗素2000股指期货涨0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3052532",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "现货白银向上触及84美元/盎司，日内涨近8%。",
-          "url": "https://flash.jin10.com/detail/20260210045447261800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
+          "time_info": "06时49分"
         },
         {
           "title": "WTI 3月原油期货收涨0.81美元，涨幅1.27%，报64.36美元/桶。 布伦特4月原油期货收涨0.99美元，涨幅1.45%，报69.04美元/桶。 NYMEX 3月天然气期货收报3.1380美元/百万英热单位。 NYMEX 3月汽油期货收报1.9855美元/加仑，NYMEX 3月取暖油期货收报2.4169美元/加仑。",
@@ -311,8 +341,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 05时51分]"
+          "appearance_count": 5,
+          "time_info": "[03时28分 ~ 06时49分]"
         },
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -326,16 +356,28 @@
           "time_info": "[03时28分 ~ 04时54分]"
         },
         {
+          "title": "股价一度突破300元！CPO龙头历史新高，板块均价居第二，百元股占比已达一成",
+          "url": "https://www.cls.cn/detail/2284684",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时28分 ~ 06时49分]"
+        },
+        {
           "title": "美元指数9日下跌",
           "url": "https://flash.jin10.com/detail/20260210044510192800",
           "source": "金十数据",
           "ranks": [
             1,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时51分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时49分]"
         },
         {
           "title": "非美货币普遍上涨，瑞郎、澳元、瑞典克朗、挪威克朗、波兰兹罗提、匈牙利福林等涨超1%",
@@ -350,26 +392,16 @@
           "time_info": "[04时54分 ~ 05时51分]"
         },
         {
-          "title": "股价一度突破300元！CPO龙头历史新高，板块均价居第二，百元股占比已达一成",
-          "url": "https://www.cls.cn/detail/2284684",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 05时51分]"
-        },
-        {
           "title": "国际油价9日上涨",
           "url": "https://flash.jin10.com/detail/20260210045614280800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
         },
         {
           "title": "欧洲军工股普遍上涨，Renk集团收涨5.68%，泰雷兹涨4.17%。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.94%。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨2.36%。",
@@ -400,17 +432,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "（美股）费城金银指数收涨5.85%，报414.90点。 （全球时段）纽约证交所ARCA金矿开采商指数涨5.68%，报2921.91点。 （美股）原材料指数收涨1.55%，（美股）金属与矿业指数收涨0.96%。",
-          "url": "https://wallstreetcn.com/livenews/3052528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2285010",
           "source": "财联社热门",
@@ -418,74 +439,92 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 05时51分]"
+          "appearance_count": 5,
+          "time_info": "[03时28分 ~ 06时49分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨5.85%，报414.90点。 （全球时段）纽约证交所ARCA金矿开采商指数涨5.68%，报2921.91点。 （美股）原材料指数收涨1.55%，（美股）金属与矿业指数收涨0.96%。",
+          "url": "https://wallstreetcn.com/livenews/3052528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260210050623603800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
         },
         {
           "title": "黄金ETF收涨超2.4%，领跑美股大类资产类ETF，做多美元指数跌0.8%",
           "url": "https://wallstreetcn.com/livenews/3052519",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260210050620792800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
         },
         {
           "title": "科技行业收涨超1.5%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3052518",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
         },
         {
           "title": "美股收盘：三大股指收涨 甲骨文涨超9%",
           "url": "https://flash.jin10.com/detail/20260210050104456800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
         },
         {
           "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3052510",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
         }
       ]
     },
@@ -498,11 +537,12 @@
           "url": "https://wallstreetcn.com/livenews/3052514",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
         },
         {
           "title": "Jump Trading料将对Kalshi和Polymetal持股。（彭博）",
@@ -514,6 +554,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9208元，较上周五夜盘收盘涨146点。成交量441.84亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3052481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时54分]"
+        },
+        {
+          "title": "周一（2月9日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9152元，较上周五纽约尾盘涨149点，日内整体交投于6.9332-6.9147元区间。",
+          "url": "https://wallstreetcn.com/livenews/3052531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         }
       ]
     },
@@ -543,24 +612,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9208元，较上周五夜盘收盘涨146点。成交量441.84亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3052481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时54分]"
         }
       ]
     },
