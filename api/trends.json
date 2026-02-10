@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T11:21:13.014498+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-02-10T13:42:44.740850+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "现货黄金失守5000美元关口",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "现货白银日内跌超3%，现报80.67美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3052741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "现货黄金回落至5030美元/盎司下方，日内跌0.75%。",
@@ -173,6 +184,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "A股黄金概念股震荡调整，菜百股份午后跌停，白银有色、晓程科技、湖南黄金、四川黄金、招金黄金等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3052732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "现货金银周二小幅高开，现分别报5067美元/盎司和83.78美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260210070119994800",
           "source": "金十数据",
@@ -184,15 +206,48 @@
           "time_info": "07时49分"
         },
         {
+          "title": "金十期货2月10日讯，马来西亚棕榈油局MPOB：马来西亚1月棕榈油进口为32316吨，环比减少2.93%。",
+          "url": "https://flash.jin10.com/detail/20260210124238905800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "金十期货2月10日讯，马来西亚棕榈油局MPOB：马来西亚1月棕榈油产量为1577454吨，环比减少13.78%。",
+          "url": "https://flash.jin10.com/detail/20260210124056773800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "白宫哈塞特预告就业转差，金银多头占比仍居高位，国际现货白银隔夜大涨7%，多头占比高达96%，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260210104317938800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "金十期货2月10日讯，马来西亚棕榈油局MPOB：马来西亚1月棕榈油库存量为2815493吨，环比减少7.72%。",
+          "url": "https://flash.jin10.com/detail/20260210124211652800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "期货热点追踪",
@@ -201,9 +256,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "金十期货2月10日讯，马来西亚棕榈油局MPOB：马来西亚1月棕榈油出口为1484267吨，环比增长11.44%。",
+          "url": "https://flash.jin10.com/detail/20260210124203936800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "日本石油天然气和金属国家公司：日本1月液化天然气现货合同价格为每百万英热单位11.30美元；日本1月液化天然气现货到岸价格为11.20美元/百万英热单位。",
+          "url": "https://flash.jin10.com/detail/20260210121620188800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "金十期货2月10日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨100元/吨，中间价报136800元/吨。",
@@ -212,7 +289,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -231,7 +308,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "乘势而上｜专访史晋川：要让民营经济的发展，从政策红利转到法治红利",
@@ -254,11 +331,12 @@
             8,
             9,
             20,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时28分 ~ 11时21分]"
+          "appearance_count": 9,
+          "time_info": "[03时28分 ~ 13时42分]"
         },
         {
           "title": "希望高市早苗政府奉行怎样的外交政策？外交部回应",
@@ -267,11 +345,23 @@
           "ranks": [
             17,
             18,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时28分 ~ 11时21分]"
+          "appearance_count": 9,
+          "time_info": "[03时28分 ~ 13时42分]"
+        },
+        {
+          "title": "巴克莱：新加坡2026年GDP增长上调 但预计不会立即引发政策收紧",
+          "url": "https://flash.jin10.com/detail/20260210133307270800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "美联储理事米兰：美联储缩减资产负债表（缩表）之前还需采取许多步骤。 如果货币政策没有（被总统特朗普）政治化，会有更好的结果。 如果保留美联储独立性，美联储就应该坚持其核心使命。",
@@ -347,13 +437,24 @@
           "time_info": "[04时54分 ~ 05时51分]"
         },
         {
+          "title": "惠誉：日本首相高市早苗的压倒性胜利预示着更宽松的财政政策。",
+          "url": "https://flash.jin10.com/detail/20260210125326530800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "主力资金流向前十大个股",
           "url": "https://flash.jin10.com/detail/20260210104352240800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -375,9 +476,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "日本经济产业大臣拟访问美国，与美商务部长卢特尼克讨论投资项目",
+          "url": "https://wallstreetcn.com/livenews/3052715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "美联储理事米兰：美联储应远离非货币政策议题。",
@@ -397,7 +509,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -460,7 +572,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -484,6 +596,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时54分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
+          "url": "https://www.cls.cn/detail/2285220",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时49分 ~ 13时42分]"
         },
         {
           "title": "股价一度突破300元！CPO龙头历史新高，板块均价居第二，百元股占比已达一成",
@@ -515,21 +639,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
-          "url": "https://www.cls.cn/detail/2285220",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时49分 ~ 11时21分]"
         },
         {
           "title": "隔夜SHIBOR报1.3620%，上涨9.20个基点。 7天SHIBOR报1.5310%，上涨2.60个基点。 3个月SHIBOR报1.5800%，上涨0.00个基点。",
@@ -538,7 +650,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -586,9 +698,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "30年期日本国债收益率下跌6.0个基点，至3.500%。",
+          "url": "https://flash.jin10.com/detail/20260210125133283800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "20年期日本国债收益率下跌4.0个基点，至3.125%。",
+          "url": "https://flash.jin10.com/detail/20260210124213564800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "欧洲军工股普遍上涨，Renk集团收涨5.68%，泰雷兹涨4.17%。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.94%。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨2.36%。",
@@ -608,7 +742,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -650,8 +784,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 13时42分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.85%，报414.90点。 （全球时段）纽约证交所ARCA金矿开采商指数涨5.68%，报2921.91点。 （美股）原材料指数收涨1.55%，（美股）金属与矿业指数收涨0.96%。",
@@ -808,7 +942,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
@@ -883,7 +1017,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
