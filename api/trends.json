@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T17:57:39.355358+08:00",
-  "total_titles_processed": 1456,
+  "generated_at": "2026-02-13T18:54:25.174163+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
@@ -44,17 +44,6 @@
           "time_info": "15时55分"
         },
         {
-          "title": "李大霄谈三大指数下跌原因",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
           "title": "半导体板块震荡拉升，圣晖集成反包涨停，股价续创历史新高，富创精密、盛科通信涨超10%，微导纳米、京仪装备、杰华特、华海诚科涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3054857",
           "source": "华尔街见闻-快讯",
@@ -72,7 +61,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -87,6 +76,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时18分]"
+        },
+        {
+          "title": "李大霄谈三大指数下跌原因",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时54分]"
         },
         {
           "title": "AI震荡波及金属市场 暴跌背后的程序化交易“踩踏”",
@@ -108,8 +109,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 18时54分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡下挫均跌超1%，全市场超3800股收绿，成交额不足2万亿",
+          "url": "https://www.cls.cn/detail/2289622",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时54分]"
         },
         {
           "title": "印度NIFTY 50指数下跌1%，小盘股指数跌2%。",
@@ -193,17 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
-        },
-        {
-          "title": "【每日收评】三大指数震荡下挫均跌超1%，全市场超3800股收绿，成交额不足2万亿",
-          "url": "https://www.cls.cn/detail/2289622",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "美元兑日元上涨0.5%，至153.51。",
@@ -671,7 +672,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -799,330 +800,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
-          "url": "https://wallstreetcn.com/articles/3765629",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时57分 ~ 17时57分]"
-        },
-        {
-          "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
-          "url": "https://www.cls.cn/detail/2289071",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时39分 ~ 16时56分]"
-        },
-        {
-          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2289051",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时40分 ~ 15时55分]"
-        },
-        {
-          "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2288812",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            11,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 10时58分]"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时57分 ~ 17时57分]"
-        },
-        {
-          "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时18分]"
-        },
-        {
-          "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
-          "url": "https://www.cls.cn/detail/2289007",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 14时11分]"
-        },
-        {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 17时57分]"
-        },
-        {
-          "title": "美股存储芯片指数收涨不到1.4%",
-          "url": "https://wallstreetcn.com/livenews/3054760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260213051126204800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260213050512806800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "AI引发的资本市场大溃逃，美股商业地产遭遇“黑色星期四”",
-          "url": "https://wallstreetcn.com/livenews/3054707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时42分]"
-        },
-        {
-          "title": "美股收盘：三大指数收跌 苹果大跌5%",
-          "url": "https://flash.jin10.com/detail/20260213050029671800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌7.12%，报398.20点。 （全球时段）纽约证交所ARCA金矿开采商指数跌5.55%，报2853.94点。 （美股）原材料指数收跌3.64%，（美股）金属与矿业指数收跌3.96%。",
-          "url": "https://wallstreetcn.com/livenews/3054752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时39分]"
-        },
-        {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 17时57分]"
-        },
-        {
-          "title": "美股跳水 黄金白银大跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 13时01分]"
-        },
-        {
-          "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
-          "url": "https://flash.jin10.com/detail/20260213034826757800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时42分]"
-        },
-        {
-          "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
-          "url": "https://wallstreetcn.com/livenews/3054722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "黄金ETF收跌将近3.5%，和布油基金领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3054740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时39分]"
-        },
-        {
-          "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260213013248023800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260213013021476800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
-          "url": "https://wallstreetcn.com/livenews/3054738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "Rivian美股盘前大涨19%，公司第四季度业绩超预期，且预计2026年交付量将激增53%。",
-          "url": "https://wallstreetcn.com/livenews/3055070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "数字货币市场回吐涨幅，追随美股和金银的短线走势",
-          "url": "https://wallstreetcn.com/livenews/3054642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜苹果创去年4月份以来最差单日表现",
-          "url": "https://wallstreetcn.com/livenews/3054738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "思科美股盘初跌7.4%，创2023年以来最大盘中跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3054587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "可选消费ETF涨1.02%，在美股盘初领跑行业ETF，银行业ETF涨0.9%，半导体ETF涨0.84%，能源业ETF跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3054586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "【数据看盘】北向资金联手游资“爆买”利欧股份，多家机构抢筹液冷人气股",
@@ -1168,7 +847,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1220,6 +899,18 @@
           "time_info": "[06时41分 ~ 07时39分]"
         },
         {
+          "title": "【数据看盘】一线游资扎堆深科技，多路资金联手抢筹光线传媒",
+          "url": "https://www.cls.cn/detail/2289721",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时54分]"
+        },
+        {
           "title": "日本财务大臣片山皋月：相信海外金融主管已经理解我们的政策。",
           "url": "https://flash.jin10.com/detail/20260213101905116800",
           "source": "金十数据",
@@ -1229,6 +920,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "美银：美国政策催生“一切皆可、美元除外”交易 其他国际资产将受提振",
+          "url": "https://wallstreetcn.com/livenews/3055137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "俄罗斯央行：根据预测，在当前货币政策立场下，2026年年度通胀率将降至4.5%至5.5%。",
+          "url": "https://flash.jin10.com/detail/20260213183152296800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "金十图示：2026年02月13日（周五）沪深港通南向资金流向",
@@ -1275,17 +988,6 @@
           "time_info": "16时56分"
         },
         {
-          "title": "【数据看盘】一线游资扎堆深科技，多路资金联手抢筹光线传媒",
-          "url": "https://www.cls.cn/detail/2289721",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
           "title": "挪威首相：美国政策使挪威面临“高度严峻”局面",
           "url": "https://wallstreetcn.com/livenews/3054605",
           "source": "华尔街见闻-快讯",
@@ -1295,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "西南证券：拟募集资金不超过60亿元 全部用于补充公司资本金。",
+          "url": "https://wallstreetcn.com/livenews/3055128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出690.40亿元，占比3.48%；大单资金净流出322.99亿元，占比1.63%；小单资金净流入555.31亿元，占比2.8%。",
@@ -1317,6 +1030,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "工业和信息化部召开低空产业发展领导小组全体会议",
+          "url": "https://wallstreetcn.com/livenews/3055123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "日本央行审议委员田村直树：即使日本央行进一步提高政策利率，货币环境仍将保持宽松。",
@@ -1409,8 +1133,330 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
+          "url": "https://wallstreetcn.com/articles/3765629",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时54分]"
+        },
+        {
+          "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
+          "url": "https://www.cls.cn/detail/2289071",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时39分 ~ 16时56分]"
+        },
+        {
+          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2289051",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时40分 ~ 15时55分]"
+        },
+        {
+          "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2288812",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            11,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 10时58分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时54分]"
+        },
+        {
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 18时54分]"
+        },
+        {
+          "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 03时18分]"
+        },
+        {
+          "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
+          "url": "https://www.cls.cn/detail/2289007",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 14时11分]"
+        },
+        {
+          "title": "美股存储芯片指数收涨不到1.4%",
+          "url": "https://wallstreetcn.com/livenews/3054760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260213051126204800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 18时54分]"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260213050512806800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "AI引发的资本市场大溃逃，美股商业地产遭遇“黑色星期四”",
+          "url": "https://wallstreetcn.com/livenews/3054707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 05时42分]"
+        },
+        {
+          "title": "美股收盘：三大指数收跌 苹果大跌5%",
+          "url": "https://flash.jin10.com/detail/20260213050029671800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌7.12%，报398.20点。 （全球时段）纽约证交所ARCA金矿开采商指数跌5.55%，报2853.94点。 （美股）原材料指数收跌3.64%，（美股）金属与矿业指数收跌3.96%。",
+          "url": "https://wallstreetcn.com/livenews/3054752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时39分]"
+        },
+        {
+          "title": "美股跳水 黄金白银大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 13时01分]"
+        },
+        {
+          "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
+          "url": "https://flash.jin10.com/detail/20260213034826757800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 05时42分]"
+        },
+        {
+          "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
+          "url": "https://wallstreetcn.com/livenews/3054722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "黄金ETF收跌将近3.5%，和布油基金领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3054740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时39分]"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260213013248023800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260213013021476800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
+          "url": "https://wallstreetcn.com/livenews/3054738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "Rivian美股盘前大涨19%，公司第四季度业绩超预期，且预计2026年交付量将激增53%。",
+          "url": "https://wallstreetcn.com/livenews/3055070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "数字货币市场回吐涨幅，追随美股和金银的短线走势",
+          "url": "https://wallstreetcn.com/livenews/3054642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜苹果创去年4月份以来最差单日表现",
+          "url": "https://wallstreetcn.com/livenews/3054738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "思科美股盘初跌7.4%，创2023年以来最大盘中跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3054587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "可选消费ETF涨1.02%，在美股盘初领跑行业ETF，银行业ETF涨0.9%，半导体ETF涨0.84%，能源业ETF跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3054586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -1420,8 +1466,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时57分 ~ 17时57分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时54分]"
         },
         {
           "title": "创业板涨超1%，算力硬件股全线大涨，恒科指跌超1%，智谱狂飙近30%、MINIMAX-WP暴涨15%，人民币升破6.9关口",
@@ -1449,6 +1495,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时03分 ~ 10时58分]"
+        },
+        {
+          "title": "创识科技：控股股东张更生因犯单位行贿罪，判处有期徒刑二年，缓刑二年，并处罚金人民币三十万元。",
+          "url": "https://wallstreetcn.com/livenews/3055144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "周四（2月12日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.8981元，较周三纽约尾盘涨114点，日内整体交投于6.9096-6.8912元区间。 日线图上，离岸人民币逼近2023年4月14日顶部6.8302元。",
@@ -1503,7 +1560,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1525,7 +1582,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1536,7 +1593,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1547,9 +1604,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "富力地产在港交所公告，集团于2026年1月的月内总销售收入共约人民币7.2亿元，销售面积达约65,100平方米。",
+          "url": "https://wallstreetcn.com/livenews/3055112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "中国1至1月社会融资规模增量 72200亿人民币，前值 356000亿人民币。",
@@ -1558,7 +1626,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
