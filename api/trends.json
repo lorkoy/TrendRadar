@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T15:17:24.021339+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-02-16T17:01:20.208269+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "2026年私募调研十大个股出炉，淡水泉、高毅资产等百亿私募密集出动",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3765773",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时01分]"
         },
         {
           "title": "蛇年收官战港股收涨，有色板块拉升，MINIMAX-WP暴涨24%、智谱涨4.74%齐创新高",
@@ -39,6 +40,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时11分 ~ 13时12分]"
+        },
+        {
+          "title": "港股半导体板块全线爆发",
+          "url": "https://www.toutiao.com/trending/7607019178361290778/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时01分]"
+        },
+        {
+          "title": "印度NIFTY 50指数上涨0.5%。",
+          "url": "https://flash.jin10.com/detail/20260216161632793800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "北海康成-B(01228.HK)上涨11%，公司稍早公布折价近15%向药明生物子公司发行新股。",
@@ -58,7 +82,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -72,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
+        },
+        {
+          "title": "育碧股价下跌2.9%。",
+          "url": "https://flash.jin10.com/detail/20260216160910096800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "港股半导体板块涨跌不一，兆易创新(03986.HK)强势大涨14%，澜起科技(06809.HK)涨9.19%，中芯国际(00981.HK)微跌0.5%，英诺赛科(02577.HK)跌1.57%。",
@@ -94,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
+        },
+        {
+          "title": "英国富时100指数金融板块开盘上涨1.2%；科技板块开盘上涨0.7%，公用事业板块开盘下跌0.9%。",
+          "url": "https://flash.jin10.com/detail/20260216160256702800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "蛇年最后一个交易日，港股低开高走，恒指收涨0.52%，科指收涨0.13%。存储概念及有色金属板块走强，澜起科技（06809.HK）收涨14.05%，兆易创新(03986.HK)涨9.78%；此外，受将被纳入恒生指数的消息带动，宁德时代(03750.HK)收涨2.71%，老铺黄金(06181.HK)涨6.64%，洛阳钼业(03993.HK)涨6.35%。（注：受春节假期影响，今日港股仅交易半日，下午休市）",
@@ -151,6 +197,17 @@
           "time_info": "13时12分"
         },
         {
+          "title": "伦敦金属交易所（LME）三个月期基准锡价下跌1.9%。",
+          "url": "https://flash.jin10.com/detail/20260216153537611800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "美团(03690.HK)盘中下跌2.0%再创新低，此前公司发出亏损预警。",
           "url": "https://flash.jin10.com/detail/20260216094646446800",
           "source": "金十数据",
@@ -160,17 +217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        },
-        {
-          "title": "港股半导体板块全线爆发",
-          "url": "https://www.toutiao.com/trending/7607019178361290778/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         },
         {
           "title": "栾川钼业(03993.HK)、老铺黄金(06181.HK)盘中上涨5.9%及5.6%，二者均获纳入香港恒生指数成份股。",
@@ -190,7 +236,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
@@ -251,11 +297,12 @@
           "ranks": [
             1,
             14,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 17时01分]"
         },
         {
           "title": "现货金银低开低走，现货黄金跌0.57%，报5014.13美元/盎司，现货白银一度跌超3%，现报75.41美元/盎司。",
@@ -274,11 +321,12 @@
           "url": "https://wallstreetcn.com/articles/3765768",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 17时01分]"
         },
         {
           "title": "富时中国A50指数期货开盘涨0.29%。",
@@ -366,7 +414,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
@@ -374,7 +422,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "外交部：自2月17日起 对加拿大、英国持普通护照人员实施免签政策",
@@ -389,15 +437,26 @@
           "time_info": "[00时42分 ~ 07时36分]"
         },
         {
-          "title": "以总理计划十年后告别美军事方面的资金援助",
-          "url": "https://wallstreetcn.com/livenews/3055688",
+          "title": "日本央行行长植田和男：日本首相高市早苗未提出具体政策请求。 与首相讨论了经济问题。 此次会面仅为总体交换意见。",
+          "url": "https://wallstreetcn.com/livenews/3055701",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "17时01分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本首相高市早苗未提出具体政策请求。",
+          "url": "https://flash.jin10.com/detail/20260216161953227800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "中国将对加拿大、英国实施免签政策",
@@ -425,6 +484,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 06时35分]"
+        },
+        {
+          "title": "以总理计划十年后告别美军事方面的资金援助",
+          "url": "https://wallstreetcn.com/livenews/3055688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时01分]"
         },
         {
           "title": "外交部：对加拿大、英国持普通护照人员实施免签政策",
@@ -455,11 +526,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 15时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 17时01分]"
         },
         {
           "title": "外交部发布单方面免签政策答疑",
@@ -479,7 +551,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -512,7 +584,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -540,7 +612,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -597,11 +669,12 @@
           "ranks": [
             20,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 17时01分]"
         },
         {
           "title": "玉渊谭天：人民币正从交易货币延伸至资产货币",
@@ -609,34 +682,18 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 15时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大摩：市场开始买美债了",
-          "url": "https://www.toutiao.com/trending/7607327141323083327/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 17时01分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
@@ -652,6 +709,34 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时36分]"
+        },
+        {
+          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
+          "url": "https://wallstreetcn.com/articles/3765769",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大摩：市场开始买美债了",
+          "url": "https://www.toutiao.com/trending/7607327141323083327/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     }
