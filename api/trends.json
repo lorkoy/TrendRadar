@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T19:45:56.350877+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-02-17T21:24:01.654346+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "行业首例！国投白银LOF估值调整补偿方案出炉：1000元以下损失全额补偿",
@@ -63,7 +63,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -170,6 +170,17 @@
           "time_info": "[10时51分 ~ 14时08分]"
         },
         {
+          "title": "美国三大股指期货盘前普跌，日元反弹，黄金一度跌破4900，白银暴跌5%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
+        },
+        {
           "title": "现货黄金再次跌穿4970美元，跌幅重新扩大至超过1.2%，逼近北京时间13:03刷新的日低4966.41美元。",
           "url": "https://wallstreetcn.com/livenews/3055785",
           "source": "华尔街见闻-快讯",
@@ -210,7 +221,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -298,7 +309,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -328,7 +339,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -379,6 +390,19 @@
           "time_info": "16时59分"
         },
         {
+          "title": "如何评价张艺谋执导的首部当代国家安全题材影片《惊蛰无声》？",
+          "url": "https://www.zhihu.com/question/2006891554887917646",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时59分 ~ 21时24分]"
+        },
+        {
           "title": "受假期及库存增加等因素影响 工业金属价格下跌",
           "url": "https://flash.jin10.com/detail/20260217133901902800",
           "source": "金十数据",
@@ -388,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "奈飞股价美股盘前一度上涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3055985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "日本20年期国债收益率下跌10个基点至2.98%。 日本40年期国债收益率下跌12个基点至3.6%。",
@@ -412,19 +447,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 14时08分]"
-        },
-        {
-          "title": "如何评价张艺谋执导的首部当代国家安全题材影片《惊蛰无声》？",
-          "url": "https://www.zhihu.com/question/2006891554887917646",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时45分]"
         },
         {
           "title": "英镑兑美元5分钟内下跌约30点，报1.3583。",
@@ -678,7 +700,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -784,7 +806,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -813,6 +835,73 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
+          "url": "https://wallstreetcn.com/articles/3765781",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 14时08分]"
+        },
+        {
+          "title": "Paramount美股盘前涨超4%，报道称华纳兄弟探索将暂时重启与Paramount的交易谈判。",
+          "url": "https://wallstreetcn.com/livenews/3055969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "提醒：美股今日因假期休市一天。",
+          "url": "https://wallstreetcn.com/livenews/3055774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗石油部官方网站Shana：伊朗与俄罗斯会谈涉及石油、能源、交通和贸易。",
+          "url": "https://flash.jin10.com/detail/20260217201154851800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "伊朗石油部官方网站Shana：伊朗石油部长与俄罗斯能源部长在德黑兰会晤。",
+          "url": "https://flash.jin10.com/detail/20260217201145673800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 2,
       "titles": [
@@ -827,8 +916,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时51分 ~ 19时45分]"
+          "appearance_count": 9,
+          "time_info": "[10时51分 ~ 21时24分]"
         },
         {
           "title": "新春伊始，如何看待人民币升值？",
@@ -846,34 +935,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
-          "url": "https://wallstreetcn.com/articles/3765781",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 14时08分]"
-        },
-        {
-          "title": "提醒：美股今日因假期休市一天。",
-          "url": "https://wallstreetcn.com/livenews/3055774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -882,11 +943,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时24分]"
         }
       ]
     },
