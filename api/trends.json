@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T10:54:13.239473+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-02-18T13:02:33.415636+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "如何评价张艺谋执导的首部当代国家安全题材影片《惊蛰无声》？",
@@ -27,9 +27,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "印度NIFTY IT指数延续跌势，最新下跌2.5%。",
+          "url": "https://flash.jin10.com/detail/20260218123646808800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "亚马逊收涨1.19%，结束此前连续九个交易日下跌的趋势——期间市值蒸发超过4500亿美元。",
@@ -92,6 +103,18 @@
           "time_info": "[06时42分 ~ 07时38分]"
         },
         {
+          "title": "新西兰元兑美元下跌0.4%，此前新西兰央行维持利率不变。",
+          "url": "https://wallstreetcn.com/livenews/3056190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 13时02分]"
+        },
+        {
           "title": "印尼“股灾”会引发亚洲金融震荡吗",
           "url": "https://www.toutiao.com/trending/7607993822907207210/",
           "source": "今日头条",
@@ -131,7 +154,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -145,17 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "新西兰元兑美元下跌0.4%，此前新西兰央行维持利率不变。",
-          "url": "https://wallstreetcn.com/livenews/3056190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         },
         {
           "title": "美股三大股指收涨 贵金属、有色板块跌幅居前",
@@ -175,9 +187,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数上涨1.2%至57,253.46点；日本东证指数上涨1.4%至3,813.05点。",
+          "url": "https://wallstreetcn.com/livenews/3056205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "Paramount SkyDance股价上涨9%，公司与华纳兄弟探索的谈判重启。",
@@ -270,8 +293,289 @@
       ]
     },
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "为什么游戏里的难度选项往往只是调整敌人伤害，而不是让敌人变聪明或变蠢？",
+          "url": "https://www.zhihu.com/question/2006713868894901535",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时50分 ~ 07时38分]"
+        },
+        {
+          "title": "现货黄金短线下挫，向下触及4870美元/盎司，日内跌0.23%。",
+          "url": "https://flash.jin10.com/detail/20260218070141226800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "现货、纽约期银日内涨超3%",
+          "url": "https://flash.jin10.com/detail/20260218125422454800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "现货白银涨破75美元/盎司，日内涨幅2.12%。",
+          "url": "https://wallstreetcn.com/livenews/3056214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "现货黄金一度突破4930美元/盎司，现涨1.05%。",
+          "url": "https://wallstreetcn.com/livenews/3056213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "市场消息：美国商品期货交易委员会（CFTC）主席宣布“通过执法进行监管”的时代结束。",
+          "url": "https://flash.jin10.com/detail/20260217233843568800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "美联储理事巴尔：美联储在再次调整政策前花时间观察数据是谨慎之举。",
+          "url": "https://flash.jin10.com/detail/20260218014543813800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "现货黄金回升至4900美元上方，日内涨幅0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3056204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 13时02分]"
+        },
+        {
+          "title": "周二（2月17日）纽约尾盘，标普500股指期货最终涨0.16%，道指期货涨0.10%，纳斯达克100股指期货跌0.13%。 罗素2000股指期货跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3056158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时38分]"
+        },
+        {
+          "title": "新西兰联储主席：未来路径反映更强劲的经济前景。 纽元升值将抑制可贸易品通胀。 劳动力市场正趋于稳定。 如果前景发生变化，货币政策委员会将调整立场。",
+          "url": "https://wallstreetcn.com/livenews/3056198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 13时02分]"
+        },
+        {
+          "title": "4个省级党委领导班子调整",
+          "url": "https://www.toutiao.com/trending/7607948871947403274/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 13时02分]"
+        },
+        {
+          "title": "WTI 3月原油期货收跌0.56美元，跌幅0.89%，报62.33美元/桶。 布伦特4月原油期货收跌1.23美元，跌幅1.79%，报67.42美元/桶。 NYMEX 3月天然气期货收报3.0310美元/百万英热单位。 NYMEX 3月汽油期货收报1.9144美元/加仑，NYMEX 3月取暖油期货收报2.3906美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3056107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时44分]"
+        },
+        {
+          "title": "电子设计自动化/EDA供应商铿腾电子（CNDS）四季度营收14.4亿美元，分析师预期14.2亿美元。 四季度调整后每股收益（EPS）为1.99美元，分析师预期19.1亿美元。 预计2026年营收59亿-60亿美元，分析师预期59.4亿美元。 预计2026年调整后EPS为8.05-8.15美元，分析师预期8.03美元。 预计一季度调整后EPS为1.89-1.95美元，分析师预期1.81美元。",
+          "url": "https://wallstreetcn.com/livenews/3056128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时42分]"
+        },
+        {
+          "title": "周二（2月17日）纽约尾盘，现货白银跌4.08%，报73.4851美元/盎司，北京时间23:00刷新日低至72.0204美元。 COMEX白银期货跌5.74%，报73.525美元/盎司。 COMEX铜期货跌2.14%，报5.7370美元/磅。 现货铂金跌1.72%，现货钯金跌2.14%。",
+          "url": "https://wallstreetcn.com/livenews/3056153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时38分]"
+        },
+        {
+          "title": "周二（2月17日）纽约尾盘，现货黄金跌2.30%，报4877.79美元/盎司，日内交投区间为5000.65-48432.51美元，整体持续走低。 COMEX黄金期货跌2.93%，报4897.80美元/盎司，北京时间22:01刷新日低至4854.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3056151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时38分]"
+        },
+        {
+          "title": "现货白银日内暴涨2.00美元，现报75.51美元/盎司，涨幅2.72%。",
+          "url": "https://flash.jin10.com/detail/20260218123519444800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：如果前景发生变化货币政策委员会将调整立场。",
+          "url": "https://flash.jin10.com/detail/20260218101344475800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "芝加哥玉米期货跌超1.3%，阿拉比卡咖啡跌约5.4%，纽约可可跌4.7%",
+          "url": "https://wallstreetcn.com/livenews/3056120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "现货钯金向上触及1700美元/盎司，日内涨1.41%。",
+          "url": "https://flash.jin10.com/detail/20260218100956062800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "现货白银向上触及75美元/盎司，日内涨2.03%；纽约期银日内涨幅达2.00%，现报75.05美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260218121414211800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "现货黄金突破4930美元/盎司，日内涨1.09%。",
+          "url": "https://flash.jin10.com/detail/20260218121106185800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "现货黄金向上触及4900美元/盎司，日内涨0.86%。",
+          "url": "https://flash.jin10.com/detail/20260218100748157800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "美国天然气期货跌近5%，现报2.966美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3056015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "城市年鉴2025｜科技产业：“速度”和 “泡沫”中找平衡",
@@ -292,7 +596,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -303,7 +607,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -314,7 +618,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -355,6 +659,30 @@
           "time_info": "[04时50分 ~ 05时44分]"
         },
         {
+          "title": "新西兰联储：如果经济按预期发展，货币政策可能会在一段时间内保持宽松。 委员会将继续密切评估数据。 随着经济复苏势头增强，通胀率持续迈向目标区间中点水平，货币政策将逐步正常化。",
+          "url": "https://wallstreetcn.com/livenews/3056194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 13时02分]"
+        },
+        {
+          "title": "新西兰联储：随着通胀率降至目标水平，货币政策将“正常化”。 本季度通胀率可能回归1-3%的目标区间。 劳动力市场正在企稳，但失业率仍处于高位。",
+          "url": "https://wallstreetcn.com/livenews/3056189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 13时02分]"
+        },
+        {
           "title": "机器人扎堆上春晚，企业坦言订单小、贡献低，这波热度能撑起多高的估值？如何看待人形机器人产业的真实现状？",
           "url": "https://www.zhihu.com/question/2006838700613600126",
           "source": "知乎",
@@ -372,7 +700,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -383,7 +711,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -405,7 +733,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -416,18 +744,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "新西兰联储：如果经济按预期发展，货币政策可能会在一段时间内保持宽松。 委员会将继续密切评估数据。 随着经济复苏势头增强，通胀率持续迈向目标区间中点水平，货币政策将逐步正常化。",
-          "url": "https://wallstreetcn.com/livenews/3056194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -443,15 +760,15 @@
           "time_info": "04时50分"
         },
         {
-          "title": "新西兰联储：随着通胀率降至目标水平，货币政策将“正常化”。 本季度通胀率可能回归1-3%的目标区间。 劳动力市场正在企稳，但失业率仍处于高位。",
-          "url": "https://wallstreetcn.com/livenews/3056189",
+          "title": "日本经济产业大臣赤泽亮正：决定继续进行3个美国投资项目。 美国燃气发电项目规模约为333亿美元。东芝、日立、软银有意参与燃气项目。 合成钻石项目规模约为6亿美元。旭金刚石工业和则武株式会社被提为人造钻石项目的承购方。 美国原油项目规模约为21亿美元。商船三井、JFE、日本制铁和三井海洋开发考虑参与原油项目。",
+          "url": "https://wallstreetcn.com/livenews/3056202",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "13时02分"
         },
         {
           "title": "美联储理事、原来负责金融监管事务的副主席Barr：在一段时期内按兵不动可能是适宜的。 望看到证据表明美国通胀显著下降，然后再继续降息。 1月就业数据表明，劳动力市场正在趋于稳定。 短期而言，人工智能（AI）可能会深度干扰就业市场；其长期效果可能基本上偏正面。 AI可能会推高中性利率，意味着更高的政策背景。",
@@ -476,6 +793,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "新西兰联储确认将维持宽松政策一段时间 纽元应声下跌",
+          "url": "https://flash.jin10.com/detail/20260218120712468800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
           "url": "https://flash.jin10.com/detail/20260218012450530800",
           "source": "金十数据",
@@ -487,13 +815,24 @@
           "time_info": "01时59分"
         },
         {
+          "title": "春晚机器人爆红背后的产业思辨",
+          "url": "https://www.toutiao.com/trending/7608016788055412266/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "日本财务大臣片山皋月：我们将实施负责任的财政政策，同时谨记国际货币基金组织对日本的初步政策建议。",
           "url": "https://flash.jin10.com/detail/20260218100037870800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -507,218 +846,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "为什么游戏里的难度选项往往只是调整敌人伤害，而不是让敌人变聪明或变蠢？",
-          "url": "https://www.zhihu.com/question/2006713868894901535",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时50分 ~ 07时38分]"
-        },
-        {
-          "title": "现货黄金回升至4900美元上方，日内涨幅0.51%。",
-          "url": "https://wallstreetcn.com/livenews/3056204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "现货黄金短线下挫，向下触及4870美元/盎司，日内跌0.23%。",
-          "url": "https://flash.jin10.com/detail/20260218070141226800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "市场消息：美国商品期货交易委员会（CFTC）主席宣布“通过执法进行监管”的时代结束。",
-          "url": "https://flash.jin10.com/detail/20260217233843568800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "美联储理事巴尔：美联储在再次调整政策前花时间观察数据是谨慎之举。",
-          "url": "https://flash.jin10.com/detail/20260218014543813800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "新西兰联储主席：未来路径反映更强劲的经济前景。 纽元升值将抑制可贸易品通胀。 劳动力市场正趋于稳定。 如果前景发生变化，货币政策委员会将调整立场。",
-          "url": "https://wallstreetcn.com/livenews/3056198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "周二（2月17日）纽约尾盘，标普500股指期货最终涨0.16%，道指期货涨0.10%，纳斯达克100股指期货跌0.13%。 罗素2000股指期货跌0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3056158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时38分]"
-        },
-        {
-          "title": "WTI 3月原油期货收跌0.56美元，跌幅0.89%，报62.33美元/桶。 布伦特4月原油期货收跌1.23美元，跌幅1.79%，报67.42美元/桶。 NYMEX 3月天然气期货收报3.0310美元/百万英热单位。 NYMEX 3月汽油期货收报1.9144美元/加仑，NYMEX 3月取暖油期货收报2.3906美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3056107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时44分]"
-        },
-        {
-          "title": "电子设计自动化/EDA供应商铿腾电子（CNDS）四季度营收14.4亿美元，分析师预期14.2亿美元。 四季度调整后每股收益（EPS）为1.99美元，分析师预期19.1亿美元。 预计2026年营收59亿-60亿美元，分析师预期59.4亿美元。 预计2026年调整后EPS为8.05-8.15美元，分析师预期8.03美元。 预计一季度调整后EPS为1.89-1.95美元，分析师预期1.81美元。",
-          "url": "https://wallstreetcn.com/livenews/3056128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时42分]"
-        },
-        {
-          "title": "周二（2月17日）纽约尾盘，现货白银跌4.08%，报73.4851美元/盎司，北京时间23:00刷新日低至72.0204美元。 COMEX白银期货跌5.74%，报73.525美元/盎司。 COMEX铜期货跌2.14%，报5.7370美元/磅。 现货铂金跌1.72%，现货钯金跌2.14%。",
-          "url": "https://wallstreetcn.com/livenews/3056153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时38分]"
-        },
-        {
-          "title": "4个省级党委领导班子调整",
-          "url": "https://www.toutiao.com/trending/7607948871947403274/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
-          "title": "周二（2月17日）纽约尾盘，现货黄金跌2.30%，报4877.79美元/盎司，日内交投区间为5000.65-48432.51美元，整体持续走低。 COMEX黄金期货跌2.93%，报4897.80美元/盎司，北京时间22:01刷新日低至4854.20美元。",
-          "url": "https://wallstreetcn.com/livenews/3056151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时38分]"
-        },
-        {
-          "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "新西兰联储主席布雷曼：如果前景发生变化货币政策委员会将调整立场。",
-          "url": "https://flash.jin10.com/detail/20260218101344475800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "芝加哥玉米期货跌超1.3%，阿拉比卡咖啡跌约5.4%，纽约可可跌4.7%",
-          "url": "https://wallstreetcn.com/livenews/3056120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "现货钯金向上触及1700美元/盎司，日内涨1.41%。",
-          "url": "https://flash.jin10.com/detail/20260218100956062800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "现货黄金向上触及4900美元/盎司，日内涨0.86%。",
-          "url": "https://flash.jin10.com/detail/20260218100748157800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "美国天然气期货跌近5%，现报2.966美元/百万英热。",
-          "url": "https://wallstreetcn.com/livenews/3056015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
         }
       ]
     },
@@ -737,8 +864,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 10时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 13时02分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -748,8 +875,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 13时02分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -814,11 +941,12 @@
           "url": "https://www.cls.cn/detail/2291354",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 13时02分]"
         },
         {
           "title": "应用材料美股盘后跌7.6%。",
@@ -891,7 +1019,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少219.8吨，当前持仓量为15821.93吨。欢迎点击查看数据中心...",
@@ -928,6 +1056,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "据日本放送协会NHK：日本交通部计划最早于四月起禁止在飞机上使用移动电源为手机充电，以防止火灾发生。",
+          "url": "https://flash.jin10.com/detail/20260218120549357800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
           "url": "https://wallstreetcn.com/livenews/3056053",
           "source": "华尔街见闻-快讯",
@@ -937,6 +1076,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时38分]"
+        },
+        {
+          "title": "金价银价直线跳水",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            25,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时11分 ~ 07时38分]"
+        },
+        {
+          "title": "打金师傅：没见过这么疯狂的金价",
+          "url": "https://www.toutiao.com/trending/7608029981725278262/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -966,37 +1147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时38分]"
-        },
-        {
-          "title": "金价银价直线跳水",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            25,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时11分 ~ 07时38分]"
         }
       ]
     },
