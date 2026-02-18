@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T15:13:16.163294+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-02-18T16:58:25.497301+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "如何评价张艺谋执导的首部当代国家安全题材影片《惊蛰无声》？",
@@ -38,7 +38,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "拜耳股价在法兰克福市场下跌5.8%。",
+          "url": "https://flash.jin10.com/detail/20260218161757017800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "亚马逊收涨1.19%，结束此前连续九个交易日下跌的趋势——期间市值蒸发超过4500亿美元。",
@@ -171,6 +182,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "嘉能可股价在公布业绩后上涨2.7%，公司表示将向股东返还20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260218160545536800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "铜价上涨被煤炭价格下跌抵消 嘉能可利润下滑",
+          "url": "https://flash.jin10.com/detail/20260218160528297800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "印尼基准股指上涨1%，至8,292.63。",
@@ -307,8 +340,320 @@
       ]
     },
     {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "城市年鉴2025｜科技产业：“速度”和 “泡沫”中找平衡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565573",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时44分]"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：将继续与美国协调第二批投资协议。",
+          "url": "https://flash.jin10.com/detail/20260218102651195800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：决定继续进行3个美国投资项目。 美国燃气发电项目规模约为333亿美元。东芝、日立、软银有意参与燃气项目。 合成钻石项目规模约为6亿美元。 美国原油项目规模约为21亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：提前离职是个人决定。 欧洲央行已成功战胜通胀。 法国通胀因暂时因素而低于预期。 政策处于有利地位，但并非一成不变。 政策应以灵活务实为导向。 通胀下行风险大于上行风险。 2026年法国GDP应至少增长1%。",
+          "url": "https://wallstreetcn.com/livenews/3056263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：多家日本小型企业也对与零部件供应相关的美国投资项目感兴趣。",
+          "url": "https://flash.jin10.com/detail/20260218102542170800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "美联储戴利：人工智能是帮助我们应对通胀的一种机制，但它也是一种限制性政策。",
+          "url": "https://flash.jin10.com/detail/20260218042137521800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时44分]"
+        },
+        {
+          "title": "新西兰联储：如果经济按预期发展，货币政策可能会在一段时间内保持宽松。 委员会将继续密切评估数据。 随着经济复苏势头增强，通胀率持续迈向目标区间中点水平，货币政策将逐步正常化。",
+          "url": "https://wallstreetcn.com/livenews/3056194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 15时13分]"
+        },
+        {
+          "title": "新西兰联储：随着通胀率降至目标水平，货币政策将“正常化”。 本季度通胀率可能回归1-3%的目标区间。 劳动力市场正在企稳，但失业率仍处于高位。",
+          "url": "https://wallstreetcn.com/livenews/3056189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 15时13分]"
+        },
+        {
+          "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
+          "url": "https://wallstreetcn.com/livenews/3056090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时50分]"
+        },
+        {
+          "title": "美国旧金山联储主席戴利：达到中性利率之前，我们大约还有75个基点的空间。 官员们应该等待关于人工智能（AI）影响的信号。 美联储在研究中使用AI技术，但在做FOMC货币政策决定时不会。",
+          "url": "https://wallstreetcn.com/livenews/3056106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时44分]"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：决定继续进行3个美国投资项目。 美国燃气发电项目规模约为333亿美元。东芝、日立、软银有意参与燃气项目。 合成钻石项目规模约为6亿美元。旭金刚石工业和则武株式会社被提为人造钻石项目的承购方。 美国原油项目规模约为21亿美元。商船三井、JFE、日本制铁和三井海洋开发考虑参与原油项目。",
+          "url": "https://wallstreetcn.com/livenews/3056202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 15时13分]"
+        },
+        {
+          "title": "机器人扎堆上春晚，企业坦言订单小、贡献低，这波热度能撑起多高的估值？如何看待人形机器人产业的真实现状？",
+          "url": "https://www.zhihu.com/question/2006838700613600126",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：商船三井、新日铁、JFE钢铁、三井海洋开发对原油项目感兴趣。",
+          "url": "https://flash.jin10.com/detail/20260218102352930800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：东芝、日立、三菱电机、软银集团等公司对能源项目感兴趣。",
+          "url": "https://flash.jin10.com/detail/20260218102252260800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "美联储理事巴尔：美联储在货币政策上可以从容不迫。",
+          "url": "https://flash.jin10.com/detail/20260218022256497800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：旭钻石工业、则武（Noritake）对人造钻石项目感兴趣。",
+          "url": "https://flash.jin10.com/detail/20260218102241541800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：三项美国投资项目包括，6亿美元用于人造钻石项目，21亿美元用于原油项目，333亿美元用于数据中心的燃气火力发电项目。我们将继续就项目细节与美国密切协调。",
+          "url": "https://flash.jin10.com/detail/20260218102019700800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "新兴市场ETFs连续第17周获得资金流入。 2月13日当周，在美上市新兴市场ETFs流入40亿美元，较之前一周11亿美元的规模显著增长。 2026年迄今，明晟公司MSCI新兴市场股票指数已经累计上涨超过10%。",
+          "url": "https://wallstreetcn.com/livenews/3056104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "美政府移民政策支持率创新低 国土安全部发言人离职",
+          "url": "https://wallstreetcn.com/livenews/3056250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "美联储理事、原来负责金融监管事务的副主席Barr：在一段时期内按兵不动可能是适宜的。 望看到证据表明美国通胀显著下降，然后再继续降息。 1月就业数据表明，劳动力市场正在趋于稳定。 短期而言，人工智能（AI）可能会深度干扰就业市场；其长期效果可能基本上偏正面。 AI可能会推高中性利率，意味着更高的政策背景。",
+          "url": "https://wallstreetcn.com/livenews/3056079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "美联储戴利：目前，货币政策处于温和或略微收紧水平。",
+          "url": "https://flash.jin10.com/detail/20260218043639087800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "新西兰联储确认将维持宽松政策一段时间 纽元应声下跌",
+          "url": "https://flash.jin10.com/detail/20260218120712468800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
+          "url": "https://flash.jin10.com/detail/20260218012450530800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "千问3.5引爆全球AI产业链，英伟达、华为昇腾、AMD、苹果等第一时间适配",
+          "url": "https://wallstreetcn.com/livenews/3056241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "春晚机器人爆红背后的产业思辨",
+          "url": "https://www.toutiao.com/trending/7608016788055412266/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：我们将实施负责任的财政政策，同时谨记国际货币基金组织对日本的初步政策建议。",
+          "url": "https://flash.jin10.com/detail/20260218100037870800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大未来十年将在国防领域投资（至少）数千亿美元。 策略是，（相比以往）更多的资金将朝着本土军工企业倾斜。",
+          "url": "https://wallstreetcn.com/livenews/3056049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "调整 期货 现货",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "为什么游戏里的难度选项往往只是调整敌人伤害，而不是让敌人变聪明或变蠢？",
@@ -508,7 +853,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -599,285 +944,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "城市年鉴2025｜科技产业：“速度”和 “泡沫”中找平衡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565573",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时44分]"
         },
         {
-          "title": "日本经济产业大臣赤泽亮正：将继续与美国协调第二批投资协议。",
-          "url": "https://flash.jin10.com/detail/20260218102651195800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：决定继续进行3个美国投资项目。 美国燃气发电项目规模约为333亿美元。东芝、日立、软银有意参与燃气项目。 合成钻石项目规模约为6亿美元。 美国原油项目规模约为21亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056202",
+          "title": "嘉能可全年营收2475.4亿美元，预估2339.3亿美元。 全年调整后EBITDA为135亿美元，预估132.2亿美元。 全年调整后EBIT为59.8亿美元，预估54.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056238",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：多家日本小型企业也对与零部件供应相关的美国投资项目感兴趣。",
-          "url": "https://flash.jin10.com/detail/20260218102542170800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "美联储戴利：人工智能是帮助我们应对通胀的一种机制，但它也是一种限制性政策。",
-          "url": "https://flash.jin10.com/detail/20260218042137521800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时44分]"
-        },
-        {
-          "title": "新西兰联储：如果经济按预期发展，货币政策可能会在一段时间内保持宽松。 委员会将继续密切评估数据。 随着经济复苏势头增强，通胀率持续迈向目标区间中点水平，货币政策将逐步正常化。",
-          "url": "https://wallstreetcn.com/livenews/3056194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 15时13分]"
-        },
-        {
-          "title": "新西兰联储：随着通胀率降至目标水平，货币政策将“正常化”。 本季度通胀率可能回归1-3%的目标区间。 劳动力市场正在企稳，但失业率仍处于高位。",
-          "url": "https://wallstreetcn.com/livenews/3056189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 15时13分]"
-        },
-        {
-          "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
-          "url": "https://wallstreetcn.com/livenews/3056090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时50分]"
-        },
-        {
-          "title": "美国旧金山联储主席戴利：达到中性利率之前，我们大约还有75个基点的空间。 官员们应该等待关于人工智能（AI）影响的信号。 美联储在研究中使用AI技术，但在做FOMC货币政策决定时不会。",
-          "url": "https://wallstreetcn.com/livenews/3056106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时44分]"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：决定继续进行3个美国投资项目。 美国燃气发电项目规模约为333亿美元。东芝、日立、软银有意参与燃气项目。 合成钻石项目规模约为6亿美元。旭金刚石工业和则武株式会社被提为人造钻石项目的承购方。 美国原油项目规模约为21亿美元。商船三井、JFE、日本制铁和三井海洋开发考虑参与原油项目。",
-          "url": "https://wallstreetcn.com/livenews/3056202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 15时13分]"
-        },
-        {
-          "title": "机器人扎堆上春晚，企业坦言订单小、贡献低，这波热度能撑起多高的估值？如何看待人形机器人产业的真实现状？",
-          "url": "https://www.zhihu.com/question/2006838700613600126",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：商船三井、新日铁、JFE钢铁、三井海洋开发对原油项目感兴趣。",
-          "url": "https://flash.jin10.com/detail/20260218102352930800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：东芝、日立、三菱电机、软银集团等公司对能源项目感兴趣。",
-          "url": "https://flash.jin10.com/detail/20260218102252260800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "美联储理事巴尔：美联储在货币政策上可以从容不迫。",
-          "url": "https://flash.jin10.com/detail/20260218022256497800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：旭钻石工业、则武（Noritake）对人造钻石项目感兴趣。",
-          "url": "https://flash.jin10.com/detail/20260218102241541800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：三项美国投资项目包括，6亿美元用于人造钻石项目，21亿美元用于原油项目，333亿美元用于数据中心的燃气火力发电项目。我们将继续就项目细节与美国密切协调。",
-          "url": "https://flash.jin10.com/detail/20260218102019700800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "新兴市场ETFs连续第17周获得资金流入。 2月13日当周，在美上市新兴市场ETFs流入40亿美元，较之前一周11亿美元的规模显著增长。 2026年迄今，明晟公司MSCI新兴市场股票指数已经累计上涨超过10%。",
-          "url": "https://wallstreetcn.com/livenews/3056104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美联储理事、原来负责金融监管事务的副主席Barr：在一段时期内按兵不动可能是适宜的。 望看到证据表明美国通胀显著下降，然后再继续降息。 1月就业数据表明，劳动力市场正在趋于稳定。 短期而言，人工智能（AI）可能会深度干扰就业市场；其长期效果可能基本上偏正面。 AI可能会推高中性利率，意味着更高的政策背景。",
-          "url": "https://wallstreetcn.com/livenews/3056079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "美联储戴利：目前，货币政策处于温和或略微收紧水平。",
-          "url": "https://flash.jin10.com/detail/20260218043639087800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "新西兰联储确认将维持宽松政策一段时间 纽元应声下跌",
-          "url": "https://flash.jin10.com/detail/20260218120712468800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
-          "url": "https://flash.jin10.com/detail/20260218012450530800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "春晚机器人爆红背后的产业思辨",
-          "url": "https://www.toutiao.com/trending/7608016788055412266/",
-          "source": "今日头条",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：我们将实施负责任的财政政策，同时谨记国际货币基金组织对日本的初步政策建议。",
-          "url": "https://flash.jin10.com/detail/20260218100037870800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "加拿大总理卡尼：加拿大未来十年将在国防领域投资（至少）数千亿美元。 策略是，（相比以往）更多的资金将朝着本土军工企业倾斜。",
-          "url": "https://wallstreetcn.com/livenews/3056049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "16时58分"
         }
       ]
     },
@@ -896,8 +973,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 15时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 16时58分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -907,8 +984,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 15时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 16时58分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -931,6 +1008,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 16时58分]"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
@@ -967,18 +1056,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时42分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 15时13分]"
         },
         {
           "title": "应用材料美股盘后跌7.6%。",
