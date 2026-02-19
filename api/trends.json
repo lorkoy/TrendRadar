@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T10:53:53.594491+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-02-19T13:01:36.198853+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "4个省级党委领导班子调整",
@@ -43,6 +43,17 @@
           "time_info": "04时52分"
         },
         {
+          "title": "现货白银站上78美元/盎司，日内涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3056568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "WTI原油期货涨幅扩大至5%，突破65美元。",
           "url": "https://wallstreetcn.com/livenews/3056460",
           "source": "华尔街见闻-快讯",
@@ -66,24 +77,25 @@
           "time_info": "[06时42分 ~ 07时39分]"
         },
         {
+          "title": "富时中国A50指数期货开盘涨0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3056551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 13时01分]"
+        },
+        {
           "title": "金十数据整理：每日期货市场要闻速递（2026-02-19）",
           "url": "https://flash.jin10.com/detail/20260219100746959800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "富时中国A50指数期货开盘涨0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3056551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -116,7 +128,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -209,6 +221,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "现货白银向上触及78美元/盎司，日内涨1.10%。",
+          "url": "https://flash.jin10.com/detail/20260219115105987800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "现货白银向上触及77美元/盎司，日内涨近5%。",
           "url": "https://wallstreetcn.com/livenews/3056357",
           "source": "华尔街见闻-快讯",
@@ -240,6 +263,184 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "一场极致的气温震荡即将登场",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E6%9E%81%E8%87%B4%E7%9A%84%E6%B0%94%E6%B8%A9%E9%9C%87%E8%8D%A1%E5%8D%B3%E5%B0%86%E7%99%BB%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 10时53分]"
+        },
+        {
+          "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时43分]"
+        },
+        {
+          "title": "印尼“股灾”会引发亚洲金融震荡吗",
+          "url": "https://www.toutiao.com/trending/7607993822907207210/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            20,
+            18,
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时56分 ~ 07时39分]"
+        },
+        {
+          "title": "日本20年期国债收益率上涨0.5个基点，至2.975%。",
+          "url": "https://flash.jin10.com/detail/20260219125214362800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3056498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时39分]"
+        },
+        {
+          "title": "波罗的海干散货指数逼近一周低点，海岬型船和超灵便型船运价下跌",
+          "url": "https://flash.jin10.com/detail/20260218233019126800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "房利美股价迅速扩大涨幅，上涨4%。",
+          "url": "https://flash.jin10.com/detail/20260218231319433800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨1.4%，创2月6日以来最佳单日表现，报391.29点。 在十个板块中，北欧工业板块涨幅最大。 Kongsberg Gruppen ASA涨5.4%，在一众北欧个股里领跑。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨3.71%。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.66%。",
+          "url": "https://wallstreetcn.com/livenews/3056409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "Pinterest股价上涨5%，公司上调第一季度营收预期。",
+          "url": "https://flash.jin10.com/detail/20260218230536036800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "德国DAX30指数2月18日（周三）收盘上涨264.43点，涨幅1.06%，报25,269.77点；<br/>英国富时100指数2月18日（周三）收盘上涨131.73点，涨幅1.25%，报10,687.90点；<br/>法国CAC40指数2月18日（周三）收盘上涨67.57点，涨幅0.81%，报8,429.03点；<br/>欧洲斯托克50指数2月18日（周三）收盘上涨80.81点，涨幅1.34%，报6,102.66点；<br/>西班牙IBEX35指数2月18日（周三）收盘上涨240.36点，涨幅1.34%，报18,195.76点；<br/>意大利富时MIB指数2月18日（周三）收盘上涨565.43点，涨幅1.24%，报46,329.50点。",
+          "url": "https://flash.jin10.com/detail/20260219004951936800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "日本5年期国债收益率上涨1.0个基点，至1.630%。",
+          "url": "https://flash.jin10.com/detail/20260219120259489800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "美国总统特朗普兜售股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3056468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "印度NIFTY IT指数上涨1.35%。",
+          "url": "https://flash.jin10.com/detail/20260219114803246800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数一度上涨1.24%，报9,118.30点，触及历史新高。",
+          "url": "https://flash.jin10.com/detail/20260219092413180800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "日本10年期国债收益率上涨1.0个基点，至2.145%。",
+          "url": "https://flash.jin10.com/detail/20260219114015527800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
@@ -284,8 +485,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 13时01分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -297,8 +498,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 13时01分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -309,8 +510,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 13时01分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -320,8 +521,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 10时53分]"
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 13时01分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -417,142 +618,8 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "一场极致的气温震荡即将登场",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E6%9E%81%E8%87%B4%E7%9A%84%E6%B0%94%E6%B8%A9%E9%9C%87%E8%8D%A1%E5%8D%B3%E5%B0%86%E7%99%BB%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时53分]"
-        },
-        {
-          "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时43分]"
-        },
-        {
-          "title": "印尼“股灾”会引发亚洲金融震荡吗",
-          "url": "https://www.toutiao.com/trending/7607993822907207210/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            20,
-            18,
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 07时39分]"
-        },
-        {
-          "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3056498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时43分 ~ 07时39分]"
-        },
-        {
-          "title": "波罗的海干散货指数逼近一周低点，海岬型船和超灵便型船运价下跌",
-          "url": "https://flash.jin10.com/detail/20260218233019126800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "房利美股价迅速扩大涨幅，上涨4%。",
-          "url": "https://flash.jin10.com/detail/20260218231319433800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨1.4%，创2月6日以来最佳单日表现，报391.29点。 在十个板块中，北欧工业板块涨幅最大。 Kongsberg Gruppen ASA涨5.4%，在一众北欧个股里领跑。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨3.71%。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.66%。",
-          "url": "https://wallstreetcn.com/livenews/3056409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "Pinterest股价上涨5%，公司上调第一季度营收预期。",
-          "url": "https://flash.jin10.com/detail/20260218230536036800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "德国DAX30指数2月18日（周三）收盘上涨264.43点，涨幅1.06%，报25,269.77点；<br/>英国富时100指数2月18日（周三）收盘上涨131.73点，涨幅1.25%，报10,687.90点；<br/>法国CAC40指数2月18日（周三）收盘上涨67.57点，涨幅0.81%，报8,429.03点；<br/>欧洲斯托克50指数2月18日（周三）收盘上涨80.81点，涨幅1.34%，报6,102.66点；<br/>西班牙IBEX35指数2月18日（周三）收盘上涨240.36点，涨幅1.34%，报18,195.76点；<br/>意大利富时MIB指数2月18日（周三）收盘上涨565.43点，涨幅1.24%，报46,329.50点。",
-          "url": "https://flash.jin10.com/detail/20260219004951936800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "美国总统特朗普兜售股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3056468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数一度上涨1.24%，报9,118.30点，触及历史新高。",
-          "url": "https://flash.jin10.com/detail/20260219092413180800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "高市连任后，就安保问题、对华政策等表态",
@@ -563,8 +630,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时51分 ~ 10时53分]"
+          "appearance_count": 7,
+          "time_info": "[04时51分 ~ 13时01分]"
         },
         {
           "title": "美联储将于十分钟后公布货币政策会议纪要。",
@@ -601,6 +668,28 @@
           "time_info": "[03时08分 ~ 04时52分]"
         },
         {
+          "title": "路透调查：日本央行或将在6月底前将政策利率上调至1%",
+          "url": "https://flash.jin10.com/detail/20260219123146827800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "新西兰联储确定，从2027年开始，将把每年的货币政策决议次数从7次增加到8次。",
+          "url": "https://wallstreetcn.com/livenews/3056565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "报道：对冲基金AlphaQuest连续三年亏损后关闭，向投资者返还资金",
           "url": "https://wallstreetcn.com/livenews/3056516",
           "source": "华尔街见闻-快讯",
@@ -629,7 +718,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -640,7 +729,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -721,6 +810,58 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周三（2月18日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.8921元，较周二纽约尾盘跌69点，日内整体交投于6.8821-6.8942元区间。",
+          "url": "https://wallstreetcn.com/livenews/3056509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时39分]"
+        },
+        {
+          "title": "中国1月Swift人民币在全球支付中占比 3.13%，前值 2.73%。",
+          "url": "https://wallstreetcn.com/livenews/3056549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 13时01分]"
+        },
+        {
+          "title": "离岸人民币兑美元一度跌破6.9关口。",
+          "url": "https://wallstreetcn.com/livenews/3056566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "据新浪报价，离岸人民币兑美元跌破6.9关口，最低至6.8881。",
+          "url": "https://flash.jin10.com/detail/20260219114340010800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -757,35 +898,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周三（2月18日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.8921元，较周二纽约尾盘跌69点，日内整体交投于6.8821-6.8942元区间。",
-          "url": "https://wallstreetcn.com/livenews/3056509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时39分]"
-        },
-        {
-          "title": "中国1月Swift人民币在全球支付中占比 3.13%，前值 2.73%。",
-          "url": "https://wallstreetcn.com/livenews/3056549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
         }
       ]
     },
@@ -832,6 +944,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛：随着产量上升，铜和锂的价格或难以追上黄金的涨幅。",
+          "url": "https://flash.jin10.com/detail/20260219115507291800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     }
