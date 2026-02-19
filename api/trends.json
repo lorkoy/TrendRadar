@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T14:12:30.312468+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-02-19T15:55:23.124303+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "4个省级党委领导班子调整",
@@ -19,17 +19,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时07分 ~ 06时42分]"
-        },
-        {
-          "title": "空中客车：第四季度营收259.8亿欧元，预估263.2亿欧元。 第四季度调整后EBIT 29.8亿欧元，预估28.5亿欧元。 预计2026年调整后EBIT 大约75亿欧元。 预计2026年将交付约870架飞机，预估为896架。",
-          "url": "https://wallstreetcn.com/livenews/3056576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
         },
         {
           "title": "美国天然气期货日内跌幅达3.00%，现报2.940美元/百万英热。",
@@ -65,6 +54,19 @@
           "time_info": "04时52分"
         },
         {
+          "title": "现货白银站上78美元/盎司，日内涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3056568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时55分]"
+        },
+        {
           "title": "周三（2月18日）纽约尾盘，标普500股指期货最终涨0.49%，道指期货涨0.23%，纳斯达克100股指期货涨0.68%。 罗素2000股指期货涨0.34%。",
           "url": "https://wallstreetcn.com/livenews/3056510",
           "source": "华尔街见闻-快讯",
@@ -77,16 +79,16 @@
           "time_info": "[06时42分 ~ 07时39分]"
         },
         {
-          "title": "现货白银站上78美元/盎司，日内涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3056568",
+          "title": "空中客车：第四季度营收259.8亿欧元，预估263.2亿欧元。 第四季度调整后EBIT 29.8亿欧元，预估28.5亿欧元。 预计2026年调整后EBIT 大约75亿欧元。 预计2026年将交付约870架飞机，预估为896架。",
+          "url": "https://wallstreetcn.com/livenews/3056576",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            9
+            3,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时12分]"
+          "time_info": "[14时12分 ~ 15时55分]"
         },
         {
           "title": "富时中国A50指数期货开盘涨0.13%。",
@@ -113,6 +115,28 @@
           "time_info": "10时53分"
         },
         {
+          "title": "现货白银向上触及79美元/盎司，日内涨2.39%。",
+          "url": "https://wallstreetcn.com/livenews/3056594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "现货黄金站上5020美元/盎司，日内涨0.86%。",
+          "url": "https://wallstreetcn.com/livenews/3056591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "现货黄金日内涨幅达2.5%，报4999.41美元/盎司。 纽约金5分钟内上涨6.7美元/盎司，报5020美元/盎司。 纽约银日内涨幅达6.0%，报77.98美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3056375",
           "source": "华尔街见闻-快讯",
@@ -133,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "现货白银日内涨超2％，现报78.8美元/盎司。现货黄金涨0.76%，报5015.2美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3056589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "韩国交易所启动KOSDAQ程序化交易暂停机制，因KOSDAQ 150期货上涨6%，程序化交易暂停5分钟。",
@@ -163,7 +198,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -185,9 +220,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "现货黄金再次站上5000美元/盎司，日内涨0.48%。",
+          "url": "https://wallstreetcn.com/livenews/3056583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "新西兰联储主席布雷曼：如果通胀前景发生变化，委员会将调整政策立场，以确保通胀回归目标。",
@@ -386,7 +432,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -493,7 +539,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -524,6 +570,17 @@
           "time_info": "[00时01分 ~ 10时53分]"
         },
         {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 15时55分]"
+        },
+        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
@@ -532,8 +589,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 14时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 15时55分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -545,19 +602,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 14时12分]"
-        },
-        {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 14时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 15时55分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -565,11 +611,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 14时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 15时55分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -641,6 +688,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、区域银行业ETF涨超1%，公用事业ETF跌近1%。",
           "url": "https://wallstreetcn.com/livenews/3056367",
           "source": "华尔街见闻-快讯",
@@ -666,7 +724,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "高市连任后，就安保问题、对华政策等表态",
@@ -674,11 +732,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时51分 ~ 14时12分]"
+          "appearance_count": 9,
+          "time_info": "[04时51分 ~ 15时55分]"
         },
         {
           "title": "美联储将于十分钟后公布货币政策会议纪要。",
@@ -690,6 +749,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "菲律宾央行行长：政策前景不确定性加大。",
+          "url": "https://flash.jin10.com/detail/20260219154241265800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
@@ -772,13 +842,24 @@
           "time_info": "10时53分"
         },
         {
+          "title": "印尼央行官员：货币政策宽松传导机制的强化仍在持续推进。",
+          "url": "https://flash.jin10.com/detail/20260219152133194800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "机构：新西兰联储明年起将货币政策会议次数提至8次 或能略微缩短政策滞后时间",
           "url": "https://flash.jin10.com/detail/20260219130027633800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -886,6 +967,19 @@
           "time_info": "[06时42分 ~ 07时39分]"
         },
         {
+          "title": "离岸人民币兑美元一度跌破6.9关口。",
+          "url": "https://wallstreetcn.com/livenews/3056566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时55分]"
+        },
+        {
           "title": "中国1月Swift人民币在全球支付中占比 3.13%，前值 2.73%。",
           "url": "https://wallstreetcn.com/livenews/3056549",
           "source": "华尔街见闻-快讯",
@@ -897,18 +991,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时53分 ~ 14时12分]"
-        },
-        {
-          "title": "离岸人民币兑美元一度跌破6.9关口。",
-          "url": "https://wallstreetcn.com/livenews/3056566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时12分]"
         },
         {
           "title": "据新浪报价，离岸人民币兑美元跌破6.9关口，最低至6.8881。",
