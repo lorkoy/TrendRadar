@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-19T22:57:56.939128+08:00",
-  "total_titles_processed": 1772,
+  "generated_at": "2026-02-19T23:59:33.337915+08:00",
+  "total_titles_processed": 1865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
       "match_count": 35,
       "titles": [
+        {
+          "title": "三星、海力士“调整战略”：新存储工厂生产计划提前",
+          "url": "https://wallstreetcn.com/articles/3765866",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时01分 ~ 23时59分]"
+        },
         {
           "title": "4个省级党委领导班子调整",
           "url": "https://www.toutiao.com/trending/7607948871947403274/",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
-        },
-        {
-          "title": "三星、海力士“调整战略”：新存储工厂生产计划提前",
-          "url": "https://wallstreetcn.com/articles/3765866",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时01分 ~ 22时57分]"
         },
         {
           "title": "WTI原油期货涨幅扩大至5%，突破65美元。",
@@ -419,7 +419,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "一场极致的气温震荡即将登场",
@@ -460,15 +460,15 @@
           "time_info": "[01时56分 ~ 07时39分]"
         },
         {
-          "title": "美国机械制造商Deere美股盘初上涨7.8%，创2025年4月以来最大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3056663",
-          "source": "华尔街见闻-快讯",
+          "title": "波罗的海干散货指数跌至一周低点，海岬型船和超灵便型船运价下跌",
+          "url": "https://flash.jin10.com/detail/20260219233829222800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "23时59分"
         },
         {
           "title": "波罗的海干散货指数下跌2.13%，至2019点。",
@@ -533,6 +533,31 @@
           "time_info": "[21时27分 ~ 22时57分]"
         },
         {
+          "title": "美国机械制造商Deere美股盘初上涨7.8%，创2025年4月以来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3056663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时59分]"
+        },
+        {
+          "title": "电影镖人排片上涨",
+          "url": "https://www.douyin.com/hot/2405936",
+          "source": "抖音",
+          "ranks": [
+            26,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时57分 ~ 23时59分]"
+        },
+        {
           "title": "DoorDash美股盘前上涨超13%，公司一季度可销售的GOV的预测优于市场预估。",
           "url": "https://wallstreetcn.com/livenews/3056610",
           "source": "华尔街见闻-快讯",
@@ -557,19 +582,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时01分 ~ 19时51分]"
-        },
-        {
-          "title": "电影镖人排片上涨",
-          "url": "https://www.douyin.com/hot/2405936",
-          "source": "抖音",
-          "ranks": [
-            26,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时57分 ~ 22时57分]"
         },
         {
           "title": "欧元兑美元下跌0.1%至1.1772。",
@@ -645,7 +657,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -763,7 +775,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "高市连任后，就安保问题、对华政策等表态",
@@ -777,6 +789,30 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[04时51分 ~ 18时01分]"
+        },
+        {
+          "title": "美媒爆料：美国正推动北约政策“恢复出厂设置”",
+          "url": "https://news.ifeng.com/c/8qsBz1kTjhm",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时01分 ~ 23时59分]"
+        },
+        {
+          "title": "卢旺达国家银行货币政策委员会实施将近三年来最大幅度的加息——从6.75%提高至7.25%，希望能在短期内抑制通胀。",
+          "url": "https://wallstreetcn.com/livenews/3056694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "美联储将于十分钟后公布货币政策会议纪要。",
@@ -801,19 +837,6 @@
           "time_info": "15时55分"
         },
         {
-          "title": "美媒爆料：美国正推动北约政策“恢复出厂设置”",
-          "url": "https://news.ifeng.com/c/8qsBz1kTjhm",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时01分 ~ 22时57分]"
-        },
-        {
           "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
           "url": "https://flash.jin10.com/detail/20260218233358175800",
           "source": "金十数据",
@@ -831,7 +854,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -890,7 +913,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -983,6 +1006,17 @@
           "time_info": "14时12分"
         },
         {
+          "title": "美国参议员沃伦要求鲍威尔和贝森特承诺不会动用纳税人资金救助高杠杆加密货币投资者。",
+          "url": "https://wallstreetcn.com/livenews/3056667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "市场消息：美国法官推翻移民上诉委员会支持特朗普政府大规模拘留政策的裁决。",
           "url": "https://flash.jin10.com/detail/20260219093138689800",
           "source": "金十数据",
@@ -1011,7 +1045,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -1030,7 +1064,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -1041,8 +1075,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时42分 ~ 22时57分]"
+          "appearance_count": 14,
+          "time_info": "[06时42分 ~ 23时59分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -1082,8 +1116,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时01分 ~ 22时57分]"
+          "appearance_count": 21,
+          "time_info": "[00时01分 ~ 23时59分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1095,8 +1129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时01分 ~ 22时57分]"
+          "appearance_count": 21,
+          "time_info": "[00时01分 ~ 23时59分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1107,11 +1141,25 @@
             11,
             10,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时01分 ~ 22时57分]"
+          "appearance_count": 21,
+          "time_info": "[00时01分 ~ 23时59分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时55分 ~ 23时59分]"
         },
         {
           "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
@@ -1127,19 +1175,6 @@
           "time_info": "[19时50分 ~ 22时57分]"
         },
         {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 22时57分]"
-        },
-        {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260219014349881800",
           "source": "金十数据",
@@ -1151,26 +1186,27 @@
           "time_info": "01时56分"
         },
         {
-          "title": "波音美股盘初跌超1.8%，越南航空公司Vietnam Airlines、Sun PhuQuoc Airways、以及VietJet宣布，采购将近100架波音飞机。",
-          "url": "https://wallstreetcn.com/livenews/3056664",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "23时59分"
         },
         {
-          "title": "美股盘初：纳指跌近0.5%，特斯拉跌1%因纽约撤回机器人出租车计划",
-          "url": "https://wallstreetcn.com/livenews/3056662",
+          "title": "波音美股盘初跌超1.8%，越南航空公司Vietnam Airlines、Sun PhuQuoc Airways、以及VietJet宣布，采购将近100架波音飞机。",
+          "url": "https://wallstreetcn.com/livenews/3056664",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时59分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -1195,6 +1231,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时42分]"
+        },
+        {
+          "title": "美股盘初：纳指跌近0.5%，特斯拉跌1%因纽约撤回机器人出租车计划",
+          "url": "https://wallstreetcn.com/livenews/3056662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时59分]"
         },
         {
           "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
@@ -1238,7 +1286,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -1249,7 +1297,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -1304,17 +1352,6 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "美联储Kashkari：人工智能投资可能正在推高中性利率。 沃什完全有资格担任美联储主席。 不确定能否在没有重大变化的情况下缩减资产负债表。",
-          "url": "https://wallstreetcn.com/livenews/3056665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少180.34吨，当前持仓量为15641.59吨。欢迎点击查看数据中心...",
           "url": "https://flash.jin10.com/detail/20260219070344350800",
           "source": "金十数据",
@@ -1324,6 +1361,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "美联储Kashkari：人工智能投资可能正在推高中性利率。 沃什完全有资格担任美联储主席。 不确定能否在没有重大变化的情况下缩减资产负债表。",
+          "url": "https://wallstreetcn.com/livenews/3056665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时59分]"
         },
         {
           "title": "Doordash预计一季度可销售的GOV为310亿-318亿美元，分析师预期307.5亿美元。",
@@ -1378,7 +1427,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         }
@@ -1462,7 +1511,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
