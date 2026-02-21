@@ -1,1221 +1,205 @@
 {
-  "generated_at": "2026-02-21T23:35:15.519461+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-02-22T00:41:11.294526+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 41,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "美国最高法院裁定特朗普关税政策违法",
-          "url": "https://news.ifeng.com/c/8quMh516WKs",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时38分]"
-        },
-        {
-          "title": "美国最高法院裁定特朗普政府大规模关税政策违法 ，这会带来哪些影响？关税政策会撤回吗？",
-          "url": "https://www.zhihu.com/question/2008321129270486041",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7,
-            4,
-            3,
-            2,
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时47分 ~ 16时42分]"
-        },
         {
           "title": "泰国智库批特朗普关税政策：别人在搭桥，美国在筑墙",
           "url": "https://news.ifeng.com/c/8qvXaKA67vQ",
           "source": "凤凰网",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时39分 ~ 23时35分]"
-        },
-        {
-          "title": "特朗普关税政策被裁违法，欧盟、加拿大回应",
-          "url": "https://news.ifeng.com/c/8qv0GYUKSa8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 16时42分]"
-        },
-        {
-          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
-          "url": "https://wallstreetcn.com/articles/3765896",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 12时44分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
           "url": "https://www.cls.cn/detail/2291748",
           "source": "财联社热门",
           "ranks": [
-            7,
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时53分 ~ 23时35分]"
-        },
-        {
-          "title": "“十四五”时期我国落实小型水库运行管护中央补助资金120亿元",
-          "url": "https://wallstreetcn.com/livenews/3057167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            10,
-            18,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时40分 ~ 23时35分]"
-        },
-        {
-          "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
-          "url": "https://wallstreetcn.com/livenews/3057183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时36分 ~ 23时35分]"
-        },
-        {
-          "title": "关税政策被判违法后，加州州长呼吁美政府立即“连本带利”退还税款",
-          "url": "https://wallstreetcn.com/livenews/3057148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            14,
-            17,
-            20,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时42分 ~ 17时39分]"
-        },
-        {
-          "title": "乘联分会崔东树：中国汽车海外产销体系完成从“产品出海”到“产业出海”关键转型",
-          "url": "https://wallstreetcn.com/livenews/3057172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 23时35分]"
-        },
-        {
-          "title": "特朗普政府全球关税被推翻！美最高法院裁定政策违法",
-          "url": "https://wallstreetcn.com/articles/3765909",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
-        },
-        {
-          "title": "关税政策被判违法后不确定性仍存，美小企业主损失难弥补",
-          "url": "https://wallstreetcn.com/livenews/3057187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 23时35分]"
-        },
-        {
-          "title": "欧洲央行管委Panetta：关税对美国自身的伤害大于对其他国家。 关税导致了贸易流动格局重组。 美国需要欧洲。 欧洲需要共同债务来实现增长。 通胀风险可能双向发展。 货币政策必须保持灵活。",
-          "url": "https://wallstreetcn.com/livenews/3057185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 23时35分]"
-        },
-        {
-          "title": "韩国产业部：与美国就贸易协议落实问题的磋商将以有利的方式继续推进。",
-          "url": "https://flash.jin10.com/detail/20260221093041409800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12,
-            13,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 15时40分]"
-        },
-        {
-          "title": "Futures International LLC董事Joe Davis：（美国最高法院判决特朗普关税政策违法之后）市场反应偏空，因所有与主权国家达成的协议可能被忽视，这意味着他们不会按协议承诺的水平购买美国农产品。",
-          "url": "https://wallstreetcn.com/livenews/3057032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "德国总理默茨：（被问及德国企业因美国关税裁决而将收回数十亿美元资金）在采取相关行动之前，我们得先与美国政府进行沟通，我将在大约一周后前往华盛顿。",
-          "url": "https://flash.jin10.com/detail/20260221225521006800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "耐克跌幅扩大至2.6%。 “特朗普关税输家指数”跌0.3%，刷新日低至117.81点，美国最高法院判定特朗普关税政策违法时飙升至122.02点刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3057031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "欧洲央行管委帕内塔：货​​币政策必须保持灵活性。",
-          "url": "https://flash.jin10.com/detail/20260221182651333800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 21时07分]"
-        },
-        {
-          "title": "美国国债价格扩大跌幅，此前最高法院推翻特朗普关税政策，让投资者担忧美国债务问题",
-          "url": "https://wallstreetcn.com/livenews/3057077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时43分]"
-        },
-        {
-          "title": "美国加州州长Newsom：呼吁退还关税。 （特朗普政府）必须立即退还这部分资金。",
-          "url": "https://wallstreetcn.com/livenews/3057017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时47分]"
-        },
-        {
-          "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
-          "url": "https://flash.jin10.com/detail/20260221180525056800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 21时07分]"
-        },
-        {
-          "title": "美国最高法院2月20日判决特朗普关税政策违法的要点总结",
-          "url": "https://wallstreetcn.com/livenews/3057109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 07时37分]"
-        },
-        {
-          "title": "专家：美最高法院裁定重击美关税政策",
-          "url": "https://www.toutiao.com/trending/7609146123554393606/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 14时56分]"
-        },
-        {
-          "title": "专家：美最高法院裁定重击美关税政策 却难阻其后续动作",
-          "url": "https://flash.jin10.com/detail/20260221083620322800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 13时51分]"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：总统特朗普非法地从美国民众身上攫取金钱。 他应该将这些资金退还给美国民众。",
-          "url": "https://wallstreetcn.com/livenews/3057092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时34分]"
-        },
-        {
-          "title": "欧洲议会贸易委员会将评估“美国最高法院判决特朗普关税政策违法”的影响。",
-          "url": "https://wallstreetcn.com/livenews/3057011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时47分]"
-        },
-        {
-          "title": "耐克转跌，美国最高法院宣判特朗普关税政策违法之后，一度上涨4.4%。",
-          "url": "https://wallstreetcn.com/livenews/3057009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时47分]"
-        },
-        {
-          "title": "德国工商总会：美国最高法院裁决限制了美国在贸易政策中的行政权力。",
-          "url": "https://flash.jin10.com/detail/20260221000026284800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时47分]"
-        },
-        {
-          "title": "美国总统特朗普：我们将用新的方式来攫取更多（外国）资金。 将采用替代方案来取代被最高法院否决的关税。 许可证是比关税手段更强大的工具。 法院说我可以发放许可证，但不可以对此收费。 我有权发放许可证（并收费）。 我可以收取比以往更高的费用。 现在，我在一个不同于关税的方向上。 对法院“称我不可以征收关税费用”表示谴责。",
-          "url": "https://wallstreetcn.com/livenews/3057065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时44分]"
-        },
-        {
-          "title": "美国总统特朗普：我们将能够收取更多资金，而且将不再有疑虑。",
-          "url": "https://flash.jin10.com/detail/20260221023945734800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时44分]"
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "关税政策被判违法后，特朗普称将加征10%全球进口关税",
           "url": "https://m.thepaper.cn/newsDetail_forward_32638044",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时34分 ~ 23时35分]"
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
-          "title": "美国总统特朗普：最高法院的关税判决极度让人失望。 对最高法院的特定成员感到羞耻，他们缺乏勇气去做正确的事。 对那些（判定关税政策违法）持异议的成员表示感谢，他们真的让人感到骄傲。 最高法院“是愚蠢的”，他们是“走狗”。 在我看来，法院已经动摇了。 关税官司是经济国家安全的象征，对国家安全具有重要意义。 好消息是，还有比IEEPA更好的方法。 对美国占便宜的国家欣喜若狂，他们“在街头载歌载舞”的日子不会太长。",
-          "url": "https://wallstreetcn.com/livenews/3057062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时44分]"
-        },
-        {
-          "title": "特朗普第一条动态用来夸奖支持其关税政策的三名大法官",
-          "url": "https://flash.jin10.com/detail/20260221224152170800",
+          "title": "德国总理默茨：（被问及德国企业因美国关税裁决而将收回数十亿美元资金）在采取相关行动之前，我们得先与美国政府进行沟通，我将在大约一周后前往华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260221225521006800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时35分"
+          "time_info": "00时41分"
         },
         {
-          "title": "提醒：美国总统特朗普将于美东时间2月20日12:45（北京时间21日01:45）举行新闻发布会，回应最高法院判决其关税政策违法一事。",
-          "url": "https://wallstreetcn.com/livenews/3057028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "加拿大负责美国贸易事务的部长Leblanc：美国最高法院针对特朗普关税政策的判决结果表明，特朗普针对加拿大的关税立场是不公平的。",
-          "url": "https://wallstreetcn.com/livenews/3057006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美国最高法院宣判特朗普关税政策违法当天，标普500指数收涨47.62点，涨幅0.69%，报6909.51点，本周（四个交易日）累计上涨1.07%。 道琼斯工业平均指数收涨230.81点，涨幅0.47%，报49625.97点，本周累涨0.25%。 纳斯达克综合指数（纳指）收涨203.34点，涨幅0.90%，报22886.069点，本周累涨1.51%。 纳斯达克100指数收涨215.279点，涨幅0.87%，报25012.619点，本周累涨1.13%。",
-          "url": "https://wallstreetcn.com/livenews/3057111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：关税政策被最高法院驳回之后，敦促特朗普政府对美国民众退税。",
-          "url": "https://wallstreetcn.com/livenews/3056996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美联储博斯蒂克：我认为中性利率可能比目前的政策利率低0.25到0.5个百分点。",
-          "url": "https://flash.jin10.com/detail/20260220233812520800",
+          "title": "特朗普当天第一条动态用来夸奖支持其关税政策的三名大法官",
+          "url": "https://flash.jin10.com/detail/20260221224152170800",
           "source": "金十数据",
           "ranks": [
-            24
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "00时41分"
         },
         {
-          "title": "美国亚特兰大联储主席Bostic（2027年FOMC票委）：让（美联储政策）利率具有轻微限制性是审慎的做法。 政策利率比中性利率高出25-50个基点。 如果通胀回落至2%，将允许下调政策利率。 如果通胀上行，必须考虑加息。",
-          "url": "https://wallstreetcn.com/livenews/3056994",
+          "title": "关税政策被判违法后不确定性仍存，美小企业主损失难弥补",
+          "url": "https://wallstreetcn.com/livenews/3057187",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "00时41分"
         },
         {
-          "title": "美国最高法院裁定特朗普政府大规模关税政策违法",
-          "url": "https://wallstreetcn.com/livenews/3056991",
+          "title": "欧洲央行管委Panetta：关税对美国自身的伤害大于对其他国家。 关税导致了贸易流动格局重组。 美国需要欧洲。 欧洲需要共同债务来实现增长。 通胀风险可能双向发展。 货币政策必须保持灵活。",
+          "url": "https://wallstreetcn.com/livenews/3057185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
+          "url": "https://wallstreetcn.com/livenews/3057183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "乘联分会崔东树：中国汽车海外产销体系完成从“产品出海”到“产业出海”关键转型",
+          "url": "https://wallstreetcn.com/livenews/3057172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "“十四五”时期我国落实小型水库运行管护中央补助资金120亿元",
+          "url": "https://wallstreetcn.com/livenews/3057167",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美联储洛根：关注美联储政策利率目标问题至关重要。",
-          "url": "https://flash.jin10.com/detail/20260221022723513800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 16,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时53分 ~ 23时35分]"
-        },
-        {
-          "title": "多地气温断崖式下跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时42分 ~ 21时07分]"
-        },
-        {
-          "title": "如何看待灯塔专业版票房预测《镖人》总票房连续 4 天上涨，预测票房超 15 亿？",
-          "url": "https://www.zhihu.com/question/2008320735198803842",
-          "source": "知乎",
-          "ranks": [
-            4,
-            7,
-            9,
-            10,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 18时36分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（2月20日），美国科技股七巨头（Magnificent 7）指数涨1.56%，报197.67点，早盘持续上扬，北京时间23:40以来持续高位震荡，本周累计上涨2.63%。 “超大”市值科技股指数涨0.74%，报368.99点，本周累涨1.29%。",
-          "url": "https://wallstreetcn.com/livenews/3057139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15,
-            20,
-            22,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时37分 ~ 15时40分]"
-        },
         {
           "title": "SK海力士高盛电话会：所有客户需求都无法满足，今年存储价格持续上涨",
           "url": "https://wallstreetcn.com/articles/3765932",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时07分 ~ 23时35分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
-          "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
-          "url": "https://wallstreetcn.com/livenews/3057124",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            8,
-            15,
-            28
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时34分 ~ 10时42分]"
-        },
-        {
-          "title": "周五（2月20日），彭博电动汽车价格回报指数跌0.71%，报3622.13点，本周累计下跌0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3057123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时34分 ~ 10时42分]"
-        },
-        {
-          "title": "分析师：关税裁决利空昙花一现，黄金牛市逻辑未改",
-          "url": "https://flash.jin10.com/detail/20260221151557834800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 17时39分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "SK海力士：所有客户需求都无法满足，今年存储价格持续上涨！",
           "url": "https://wallstreetcn.com/livenews/3057186",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22,
             29
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 23时35分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.05%，报7549.88点，本周累计下跌0.55%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.65%，本周累涨1.25%； XtrackersHarvest中证50（ASHS）收涨0.50%，本周累涨1.09%； 中国科技指数ETF（CQQQ）收涨0.22%，本周累涨0.73%； 中概互联网指数ETF（KWEB）收跌0.15%，本周累跌0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3057113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 07时37分]"
-        },
-        {
-          "title": "芝加哥期权交易所波动率指数下跌1.35点，至18.88。",
-          "url": "https://flash.jin10.com/detail/20260221000529085800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时47分]"
-        },
-        {
-          "title": "金价震荡后回升，关税风波叠加俄罗斯售金",
-          "url": "https://wallstreetcn.com/livenews/3057034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.6%，报392.33点，创2月11日以来收盘新高。 在十个板块中，北欧金融板块涨幅最大。 潘多拉Pandora A/S涨4.1%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3057023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "意大利银行板块收涨约2%，本周涨超3%",
-          "url": "https://wallstreetcn.com/livenews/3057021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "戴尔上涨1.9%，惠普公司上涨1.4%。",
-          "url": "https://flash.jin10.com/detail/20260220233509692800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "在美国最高法院裁定反对美国总统特朗普的全球关税后，内存芯片制造商的股价上涨。闪迪上涨2.1%，西部数据上涨1%。",
-          "url": "https://flash.jin10.com/detail/20260220233325578800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3057138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16,
-            21,
-            23,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时37分 ~ 15时40分]"
-        },
-        {
-          "title": "周五（2月20日）纽约尾盘，标普500股指期货最终涨0.71%，道指期货涨0.47%，纳斯达克100股指期货涨0.87%。 罗素2000股指期货跌0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3057130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            23,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时38分 ~ 13时51分]"
-        },
-        {
-          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3057134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20,
-            25,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时37分 ~ 14时56分]"
-        },
-        {
-          "title": "现货白银站上83美元/盎司，日内涨5.77%。",
-          "url": "https://flash.jin10.com/detail/20260221034016715800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时43分 ~ 07时37分]"
-        },
-        {
-          "title": "纽约期金周五涨2.5%，本周现货白银涨9.3%",
-          "url": "https://wallstreetcn.com/livenews/3057125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 10时42分]"
-        },
-        {
-          "title": "芝加哥小麦期货周五涨超2.6%，本周涨6%",
-          "url": "https://wallstreetcn.com/livenews/3057108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 07时37分]"
-        },
-        {
-          "title": "WTI 3月原油期货收跌0.04美元，跌幅0.06%，报66.39美元/桶。 布伦特4月原油期货收涨0.10美元，涨幅0.14%，报71.76美元/桶。 NYMEX 3月天然气期货收报3.0470美元/百万英热单位。 NYMEX 3月汽油期货收报1.9973美元/加仑，NYMEX 3月取暖油期货收报2.5858美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3057091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时34分]"
-        },
-        {
-          "title": "现货黄金短线波动不大，现报5070.89美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260221024028732800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时44分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：2月17日当周，投机者所持美元空头头寸创2021年以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3057104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时38分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：2月17日当周，投机者所持NYMEX WTI原油净多头头寸减少5,095手合约，至81,219手合约。 所持ICE布伦特与WTI原油净多头头寸降低至342,222手合约，创三周新低。 所持NYMEX天然气净多头头寸创四周新低。",
-          "url": "https://wallstreetcn.com/livenews/3057102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时38分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：2月17日当周，投机者所持COMEX黄金净多头头寸增加3,019手合约，至96,057手合约，创三周新高。 所持COMEX白银净多头头寸创三周新高。 所持COMEX铜净多头头寸创20周新低。 所持NYMEX铂金净多头头寸创四周新高，所持NYMEX钯金净多头头寸创三年新高。",
-          "url": "https://wallstreetcn.com/livenews/3057101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时38分]"
-        },
-        {
-          "title": "现货黄金持续反弹，向上触及5070美元/盎司，日内涨1.48%。",
-          "url": "https://flash.jin10.com/detail/20260221010436910800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.086美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260221002912704800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "标普500指数涨幅重新扩大至0.6%，纳斯达克综合指数日内涨幅达1.0%，报22910.12点。 “特朗普关税输家指数”一度从118.50点附近狂飙至122.02点，日内整体涨幅瞬间扩大至超过3.19%，目前涨幅不足1.20%。 现货白银日内涨幅达5.0%，报82.45美元/盎司。 纽约银日内涨幅达6.0%，报82.3美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3057005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美国最高法院就特朗普的贸易案作出裁决后，现货黄金短线波幅较大，一度从5063.96美元/盎司下跌73美元至4990.9美元/盎司。现回升至5052美元/盎司，较低点回升约61美元。分析师James Athey指出，市场似乎不太确定该如何应对裁决。最大的问题原本在于关税退款事宜。",
-          "url": "https://flash.jin10.com/detail/20260220235013955800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
           "url": "https://wallstreetcn.com/articles/3765902",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时37分 ~ 23时35分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时41分 ~ 23时35分]"
-        },
-        {
-          "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时38分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 12时44分]"
-        },
-        {
-          "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时44分 ~ 06时38分]"
-        },
-        {
-          "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时01分]"
-        },
-        {
-          "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3057137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17,
-            22,
-            24,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时37分 ~ 15时40分]"
-        },
-        {
-          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291551",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时43分]"
-        },
-        {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时37分 ~ 10时42分]"
-        },
-        {
-          "title": "瑞达利欧家族办公室披露5亿美元美股持仓：重仓黄金",
-          "url": "https://wallstreetcn.com/livenews/3057004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美股走强，纳指现涨1%、标普500指数涨0.59%。",
-          "url": "https://flash.jin10.com/detail/20260220235256591800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少29.58吨，当前持仓量为15517.61吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20260221083747206800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 13时51分]"
-        },
-        {
-          "title": "微软：Asha Sharma接替Phil Spencer，担任游戏业务的首席执行官（CEO）。",
-          "url": "https://wallstreetcn.com/livenews/3057100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "报道：高盛旗下Petershill为新旗舰基金募资50亿美元",
-          "url": "https://wallstreetcn.com/livenews/3057048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周五（2月20日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.8978元，较周四纽约尾盘涨24点，日内整体交投于6.9065-6.8960元区间。",
-          "url": "https://wallstreetcn.com/livenews/3057132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            22,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时38分 ~ 13时51分]"
-        },
-        {
-          "title": "离岸人民币兑美元短线反弹，重返6.8980元上方，逼近北京时间13:59刷新的日高6.8974元，23:06曾刷新日低至6.9065元。",
-          "url": "https://wallstreetcn.com/livenews/3057002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价银价大涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时56分 ~ 21时07分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            13,
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时56分 ~ 19时31分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
           "url": "https://wallstreetcn.com/articles/3765925",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            6,
-            5,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时56分 ~ 23时35分]"
-        },
-        {
-          "title": "美国GDP、PCE数据叠加最高法宣判特朗普关税，美债收益率周五“触底反弹”",
-          "url": "https://wallstreetcn.com/livenews/3057133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            21,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时38分 ~ 13时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数本周涨超0.9%",
-          "url": "https://wallstreetcn.com/livenews/3057096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时34分]"
+          "time_info": "[00时40分 ~ 00时41分]"
         }
       ]
     }
