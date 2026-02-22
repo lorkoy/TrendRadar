@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T21:09:06.620801+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-02-22T22:36:20.308692+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "泰国智库批特朗普关税政策：别人在搭桥，美国在筑墙",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时57分 ~ 21时09分]"
+          "appearance_count": 11,
+          "time_info": "[12时57分 ~ 22时36分]"
         },
         {
           "title": "关税政策被判违法后，特朗普称将加征10%全球进口关税",
@@ -161,11 +161,23 @@
             1,
             8,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 21时09分]"
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 22时36分]"
+        },
+        {
+          "title": "美国贸易代表格里尔：在根据122条款实施的关税到期后，将探讨政策连续性问题。",
+          "url": "https://flash.jin10.com/detail/20260222221221038800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "以色列称不会向所谓“和平委员会”提供资金",
@@ -228,6 +240,21 @@
           "time_info": "[00时40分 ~ 15时03分]"
         },
         {
+          "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
+          "url": "https://wallstreetcn.com/articles/3765941",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时01分 ~ 22时36分]"
+        },
+        {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2291935",
           "source": "财联社热门",
@@ -240,19 +267,17 @@
           "time_info": "[00时40分 ~ 18时36分]"
         },
         {
-          "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
-          "url": "https://wallstreetcn.com/articles/3765941",
-          "source": "华尔街见闻",
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8,
-            6,
-            4,
-            5
+            13,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时01分 ~ 21时09分]"
+          "appearance_count": 7,
+          "time_info": "[16时43分 ~ 22时36分]"
         },
         {
           "title": "SK海力士：所有客户需求都无法满足，今年存储价格持续上涨！",
@@ -264,19 +289,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时41分 ~ 06时34分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时43分 ~ 21时09分]"
         }
       ]
     },
@@ -307,8 +319,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时40分 ~ 21时09分]"
+          "appearance_count": 25,
+          "time_info": "[00时40分 ~ 22时36分]"
         }
       ]
     },
