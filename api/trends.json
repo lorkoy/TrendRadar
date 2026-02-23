@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T15:18:42.856512+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-02-23T17:01:35.184285+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "周一亚市盘初，美国三大股指期货波动不大。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "国投资本： 国投瑞银白银期货证券投资基金估值调整预计对公司2026年度归母净利润产生一定负面影响",
+          "url": "https://wallstreetcn.com/livenews/3057406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "现货金银早盘短线上扬 WTI原油大幅低开",
@@ -154,6 +165,137 @@
       ]
     },
     {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 17时01分]"
+        },
+        {
+          "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
+          "url": "https://wallstreetcn.com/articles/3765941",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时35分]"
+        },
+        {
+          "title": "春节后A股将会怎么走？以史为鉴这三大板块上涨概率更高，核心受益标的梳理",
+          "url": "https://www.cls.cn/detail/2290554",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 17时01分]"
+        },
+        {
+          "title": "印度NIFTY 50指数回吐盘中大部分涨幅，最新上涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20260223163616938800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数下跌3.1%，至168,453.80点。",
+          "url": "https://wallstreetcn.com/livenews/3057402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "日本央行前委员樱井真：若日元再度下跌，日本央行或将于3月加息",
+          "url": "https://flash.jin10.com/detail/20260223122717299800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "菲律宾比索兑美元最高上涨0.6%，至57.695，创下自2025年9月下旬以来的新高。",
+          "url": "https://flash.jin10.com/detail/20260223121640699800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨1.1%至33,964.00点。",
+          "url": "https://wallstreetcn.com/livenews/3057320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "印尼基准股指一度上涨1.5%，至8,394.896点，创下自1月30日以来的新高。",
+          "url": "https://flash.jin10.com/detail/20260223113703854800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "泰国股市最高上涨1.5%，至1501.96点，创下自2024年10月18日以来的新高。",
+          "url": "https://flash.jin10.com/detail/20260223112631783800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "美元/日元下跌0.5%至154.27。",
+          "url": "https://wallstreetcn.com/livenews/3057314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
       "match_count": 9,
       "titles": [
@@ -166,8 +308,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 15时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 17时01分]"
         },
         {
           "title": "全球资金推动拉丁美洲股市创下历史性强劲开局",
@@ -266,115 +408,6 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 15时18分]"
-        },
-        {
-          "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
-          "url": "https://wallstreetcn.com/articles/3765941",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "春节后A股将会怎么走？以史为鉴这三大板块上涨概率更高，核心受益标的梳理",
-          "url": "https://www.cls.cn/detail/2290554",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 15时18分]"
-        },
-        {
-          "title": "日本央行前委员樱井真：若日元再度下跌，日本央行或将于3月加息",
-          "url": "https://flash.jin10.com/detail/20260223122717299800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "菲律宾比索兑美元最高上涨0.6%，至57.695，创下自2025年9月下旬以来的新高。",
-          "url": "https://flash.jin10.com/detail/20260223121640699800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "台湾证交所加权股价指数上涨1.1%至33,964.00点。",
-          "url": "https://wallstreetcn.com/livenews/3057320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "印尼基准股指一度上涨1.5%，至8,394.896点，创下自1月30日以来的新高。",
-          "url": "https://flash.jin10.com/detail/20260223113703854800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "泰国股市最高上涨1.5%，至1501.96点，创下自2024年10月18日以来的新高。",
-          "url": "https://flash.jin10.com/detail/20260223112631783800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "美元/日元下跌0.5%至154.27。",
-          "url": "https://wallstreetcn.com/livenews/3057314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
@@ -407,8 +440,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时50分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[02时50分 ~ 17时01分]"
         }
       ]
     },
@@ -425,8 +458,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 15时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 17时01分]"
         }
       ]
     }
