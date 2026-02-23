@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T17:01:35.184285+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-02-23T18:09:01.958432+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "周一亚市盘初，美国三大股指期货波动不大。",
@@ -41,17 +41,6 @@
           "time_info": "07时35分"
         },
         {
-          "title": "国投资本： 国投瑞银白银期货证券投资基金估值调整预计对公司2026年度归母净利润产生一定负面影响",
-          "url": "https://wallstreetcn.com/livenews/3057406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
           "title": "现货金银早盘短线上扬 WTI原油大幅低开",
           "url": "https://flash.jin10.com/detail/20260223071416961800",
           "source": "金十数据",
@@ -85,6 +74,18 @@
           "time_info": "07时35分"
         },
         {
+          "title": "国投资本： 国投瑞银白银期货证券投资基金估值调整预计对公司2026年度归母净利润产生一定负面影响",
+          "url": "https://wallstreetcn.com/livenews/3057406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 18时09分]"
+        },
+        {
           "title": "纳斯达克100指数期货跌幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3057336",
           "source": "华尔街见闻-快讯",
@@ -95,6 +96,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时54分 ~ 13时07分]"
+        },
+        {
+          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 18时09分]"
         },
         {
           "title": "现货白银短线持续走高，日内涨超1.00%，现报85.46美元/盎司。",
@@ -166,7 +178,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -177,8 +189,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 17时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 18时09分]"
+        },
+        {
+          "title": "春节后A股将会怎么走？以史为鉴这三大板块上涨概率更高，核心受益标的梳理",
+          "url": "https://www.cls.cn/detail/2290554",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时54分 ~ 18时09分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -193,39 +219,49 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "春节后A股将会怎么走？以史为鉴这三大板块上涨概率更高，核心受益标的梳理",
-          "url": "https://www.cls.cn/detail/2290554",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 17时01分]"
-        },
-        {
           "title": "印度NIFTY 50指数回吐盘中大部分涨幅，最新上涨0.2%。",
           "url": "https://flash.jin10.com/detail/20260223163616938800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
+        },
+        {
+          "title": "礼来(LLY.N)美股盘前上涨2.1%。",
+          "url": "https://flash.jin10.com/detail/20260223174523816800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "诺和诺德欧股股价下跌11%。公司表示，在试验中，其CagriSema的效果不及礼来的Zepbound。",
+          "url": "https://flash.jin10.com/detail/20260223174453788800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "巴基斯坦KSE-100指数下跌3.1%，至168,453.80点。",
           "url": "https://wallstreetcn.com/livenews/3057402",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 18时09分]"
         },
         {
           "title": "日本央行前委员樱井真：若日元再度下跌，日本央行或将于3月加息",
@@ -297,7 +333,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -305,11 +341,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 17时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 18时09分]"
         },
         {
           "title": "全球资金推动拉丁美洲股市创下历史性强劲开局",
@@ -373,6 +410,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "匈牙利外长：制裁政策已经失败。",
+          "url": "https://flash.jin10.com/detail/20260223172842961800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "韩国产业部长：芯片不受美国总统特朗普最新关税的影响。",
           "url": "https://flash.jin10.com/detail/20260223085113118800",
           "source": "金十数据",
@@ -408,6 +456,85 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据港交所公告，贝莱德在长城汽车(02333.HK)H股的多头持仓于2月17日从7.68%增至8.22%。",
+          "url": "https://flash.jin10.com/detail/20260223173136709800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "据港交所公告，摩根士丹利在天齐锂业(09696.HK) H股的多头持仓于2月13日从5.83%增至7.40%。",
+          "url": "https://flash.jin10.com/detail/20260223173027638800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "据港交所公告，2月12日，瑞银在东风集团股份(00489.HK)H股中的多头持仓从4.72%增至5.38%。",
+          "url": "https://flash.jin10.com/detail/20260223172431606800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 17时01分]"
+        },
+        {
+          "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
+          "url": "https://wallstreetcn.com/livenews/3057431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/3057423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
@@ -437,29 +564,12 @@
             13,
             12,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时50分 ~ 17时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 17时01分]"
+          "appearance_count": 13,
+          "time_info": "[02时50分 ~ 18时09分]"
         }
       ]
     }
