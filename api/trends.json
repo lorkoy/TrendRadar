@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T22:21:00.350431+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-02-23T22:58:13.758889+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 22时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时41分 ~ 22时58分]"
         },
         {
           "title": "全球资金推动拉丁美洲股市创下历史性强劲开局",
@@ -233,7 +233,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -343,7 +343,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -373,7 +373,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "春节后A股将会怎么走？以史为鉴这三大板块上涨概率更高，核心受益标的梳理",
@@ -387,8 +387,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时54分 ~ 22时21分]"
+          "appearance_count": 13,
+          "time_info": "[10时54分 ~ 22时58分]"
+        },
+        {
+          "title": "拆解黄金白银为何震荡",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E9%9C%87%E8%8D%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时46分 ~ 22时58分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -401,8 +413,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 22时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时41分 ~ 22时58分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -417,16 +429,17 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "拆解黄金白银为何震荡",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E9%9C%87%E8%8D%A1",
-          "source": "bilibili 热搜",
+          "title": "比特币价格为何瀑布式下跌",
+          "url": "https://www.toutiao.com/trending/7609967033089789467/",
+          "source": "今日头条",
           "ranks": [
-            1,
-            2
+            12,
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时46分 ~ 22时21分]"
+          "appearance_count": 6,
+          "time_info": "[19时46分 ~ 22时58分]"
         },
         {
           "title": "印度NIFTY 50指数回吐盘中大部分涨幅，最新上涨0.2%。",
@@ -462,16 +475,27 @@
           "time_info": "18时09分"
         },
         {
-          "title": "比特币价格为何瀑布式下跌",
-          "url": "https://www.toutiao.com/trending/7609967033089789467/",
-          "source": "今日头条",
+          "title": "美伊冲突走向愈加悲观 多位分析师预测油价将大幅上涨",
+          "url": "https://www.cls.cn/detail/2292872",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时46分 ~ 22时21分]"
+          "time_info": "[22时20分 ~ 22时58分]"
+        },
+        {
+          "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
+          "url": "https://www.cls.cn/detail/2292558",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 22时58分]"
         },
         {
           "title": "巴基斯坦KSE-100指数下跌3.1%，至168,453.80点。",
@@ -486,26 +510,15 @@
           "time_info": "[17时01分 ~ 18时09分]"
         },
         {
-          "title": "美伊冲突走向愈加悲观 多位分析师预测油价将大幅上涨",
-          "url": "https://www.cls.cn/detail/2292872",
-          "source": "财联社热门",
+          "title": "英国10年期国债收益率下跌2个基点至4.33%，为自2024年12月以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260223223948745800",
+          "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
-        },
-        {
-          "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
-          "url": "https://www.cls.cn/detail/2292558",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国国债上涨，10年期国债收益率跌至日内低点4.05%。",
@@ -514,7 +527,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -528,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)股价迅速上涨1.4%。",
+          "url": "https://flash.jin10.com/detail/20260223223544033800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "菲律宾比索兑美元最高上涨0.6%，至57.695，创下自2025年9月下旬以来的新高。",
@@ -547,9 +571,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
+        },
+        {
+          "title": "达美乐披萨股价上涨5.8%，创去年7月21日以来盘中最大涨幅。",
+          "url": "https://flash.jin10.com/detail/20260223223217755800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "台湾证交所加权股价指数上涨1.1%至33,964.00点。",
@@ -580,7 +615,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -610,7 +645,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
@@ -619,11 +654,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时08分 ~ 22时21分]"
+          "appearance_count": 8,
+          "time_info": "[18时08分 ~ 22时58分]"
         },
         {
           "title": "周一亚市盘初，美国三大股指期货波动不大。",
@@ -659,6 +695,28 @@
           "time_info": "07时35分"
         },
         {
+          "title": "现货白银日内大涨4.00%，现报87.98美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260223224528270800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "现货黄金站上5200美元/盎司，日内涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3057532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "现货金银早盘短线上扬 WTI原油大幅低开",
           "url": "https://flash.jin10.com/detail/20260223071416961800",
           "source": "金十数据",
@@ -679,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "现货黄金站上5190美元/盎司，日内涨1.61%。",
+          "url": "https://flash.jin10.com/detail/20260223224449017800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "现货黄金短线持续上扬，向上触及5140美元/盎司，日内涨0.64%。纽约期金突破5150美元/盎司，日内涨1.36%。",
@@ -749,6 +818,28 @@
           "time_info": "07时35分"
         },
         {
+          "title": "现货黄金短线上扬16美元，向上触及5180美元/盎司，日内涨1.42%。",
+          "url": "https://flash.jin10.com/detail/20260223223745964800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "现货黄金短线拉升，特朗普称玩花招的国家将面临更高的关税",
+          "url": "https://wallstreetcn.com/livenews/3057521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "金十数据整理：每日期货市场要闻速递（2026-02-23）",
           "url": "https://flash.jin10.com/detail/20260223090542409800",
           "source": "金十数据",
@@ -796,7 +887,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -811,17 +902,6 @@
           "time_info": "[00时41分 ~ 17时01分]"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3057503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
           "url": "https://wallstreetcn.com/livenews/3057431",
           "source": "华尔街见闻-快讯",
@@ -832,6 +912,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时09分 ~ 19时47分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3057503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时58分]"
+        },
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 22时58分]"
         },
         {
           "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
@@ -846,17 +950,6 @@
           "time_info": "[18时09分 ~ 19时47分]"
         },
         {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
-        },
-        {
           "title": "特朗普关税被判违法 华尔街投行：哪些美股公司最受益？",
           "url": "https://www.cls.cn/detail/2292391",
           "source": "财联社热门",
@@ -868,6 +961,17 @@
           "time_info": "[19时46分 ~ 19时47分]"
         },
         {
+          "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260223223817753800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "Arcellx美股盘前涨超76%，吉利德科学将以每股115美元的价格收购Arcellx。",
           "url": "https://wallstreetcn.com/livenews/3057446",
           "source": "华尔街见闻-快讯",
@@ -877,6 +981,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
+        },
+        {
+          "title": "全球航空业ETF跌1.79%，在美股盘初领跌行业ETF，网络股指数ETF跌1.77%，可选消费ETF跌1.18%，全球科技股指数ETF跌0.34%，科技行业ETF跌0.28%，半导体ETF涨0.44%，生物科技指数ETF涨1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3057524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美股开盘，道指跌0.33%、标普500指数跌0.15%、纳指跌0.13%，诺和诺德(NVO.N)大跌15.65%，公司称其减肥药物卡格列肽（Cagrisema）的实验效果不及礼来的替尔泊肽（Zepbound），礼来(LLY.N)开涨3.86%。",
+          "url": "https://flash.jin10.com/detail/20260223223042733800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
@@ -954,8 +1080,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时50分 ~ 22时21分]"
+          "appearance_count": 19,
+          "time_info": "[02时50分 ~ 22时58分]"
         }
       ]
     }
