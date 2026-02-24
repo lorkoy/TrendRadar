@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T15:57:28.067614+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-02-24T17:01:45.400846+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "春节后A股将会怎么走？以史为鉴这三大板块上涨概率更高，核心受益标的梳理",
@@ -19,6 +19,19 @@
           "time_info": "[01时11分 ~ 08时08分]"
         },
         {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 17时01分]"
+        },
+        {
           "title": "美伊冲突走向愈加悲观 多位分析师预测油价将大幅上涨",
           "url": "https://www.cls.cn/detail/2292872",
           "source": "财联社热门",
@@ -30,19 +43,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 10时52分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 15时57分]"
         },
         {
           "title": "拆解黄金白银为何震荡",
@@ -82,26 +82,26 @@
           "time_info": "01时11分"
         },
         {
-          "title": "日本两年期国债收益率扩大跌幅，最新下滑3.5个基点至1.215%。 日本五年期国债收益率下跌4个基点至1.565%。",
-          "url": "https://wallstreetcn.com/livenews/3057983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
           "title": "日本两年期国债收益率下跌2.5个基点，至1.225%。",
           "url": "https://flash.jin10.com/detail/20260224154303774800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "瑞银集团：预计未来几个月金价将触及每盎司6200美元，因为推动其在过去一年中强劲上涨的关键因素依然存在。",
+          "url": "https://flash.jin10.com/detail/20260224164153665800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "大年初八贵金属为何震荡",
@@ -112,8 +112,31 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 17时01分]"
+        },
+        {
+          "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
+          "url": "https://wallstreetcn.com/articles/3766024",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "日本两年期国债收益率扩大跌幅，最新下滑3.5个基点至1.215%。 日本五年期国债收益率下跌4个基点至1.565%。",
+          "url": "https://wallstreetcn.com/livenews/3057983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时01分 ~ 15时57分]"
+          "time_info": "[15时57分 ~ 17时01分]"
         },
         {
           "title": "A股开市在即 哪些板块将领涨",
@@ -141,6 +164,18 @@
           "time_info": "[08时08分 ~ 10时52分]"
         },
         {
+          "title": "日本两年期国债收益率下跌2.5个基点至1.225%。",
+          "url": "https://wallstreetcn.com/livenews/3057979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 17时01分]"
+        },
+        {
           "title": "韩国首尔综指上涨2%，报5963.07点。",
           "url": "https://wallstreetcn.com/livenews/3057866",
           "source": "华尔街见闻-快讯",
@@ -163,6 +198,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 14时10分]"
+        },
+        {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 17时01分]"
         },
         {
           "title": "上证指数早盘收报4129.78点，涨1.17%。 深证成指早盘收报14356.88点，涨1.82%。 创业板指早盘收报3333.62点，涨1.76%。 沪深300早盘收报4722.51点，涨1.33%。 科创50早盘收报1475.38点，涨0.34%。 中证500早盘收报8429.52点，涨1.57%。 中证1000早盘收报8340.82点，涨1.66%。",
@@ -200,17 +246,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "日本两年期国债收益率下跌2.5个基点至1.225%。",
-          "url": "https://wallstreetcn.com/livenews/3057979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
           "title": "巴基斯坦KSE-100指数下跌2%，报164081.30点。",
           "url": "https://wallstreetcn.com/livenews/3057892",
           "source": "华尔街见闻-快讯",
@@ -228,7 +263,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -242,17 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
-        },
-        {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
         },
         {
           "title": "Paypal(PYPL.O)触发盘中熔断，此前有报道称，该公司在股价下跌后收获收购意向。",
@@ -332,6 +356,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "诺和诺德股价下跌3%，延续周一的跌势。",
+          "url": "https://flash.jin10.com/detail/20260224160023880800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "卓创资讯：国际原油上涨 成品油零售价格预计开启上调窗口",
           "url": "https://wallstreetcn.com/livenews/3057843",
           "source": "华尔街见闻-快讯",
@@ -349,7 +384,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -382,7 +417,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -437,7 +472,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -456,7 +491,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -487,7 +522,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -576,6 +611,28 @@
           "time_info": "[07时35分 ~ 08时08分]"
         },
         {
+          "title": "商务部回应美近期关税调整举措",
+          "url": "https://www.douyin.com/hot/2410484",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "商务部回应“美近期关税调整举措”",
+          "url": "https://www.toutiao.com/trending/7610344271094222377/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "鉴于波动性持续，日本正考虑调整旨在增强流动性的日债标售框架",
           "url": "https://flash.jin10.com/detail/20260224115422581800",
           "source": "金十数据",
@@ -593,7 +650,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -607,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "商务部新闻发言人就美近期关税调整举措答记者问",
+          "url": "https://wallstreetcn.com/livenews/3058000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "国债期货早盘收盘，30年期主力合约涨0.32%，10年期主力合约涨0.06%，5年期主力合约涨0.07%，2年期主力合约涨0.03%。",
@@ -686,6 +754,17 @@
           "time_info": "05时46分"
         },
         {
+          "title": "商务部回应美近期关税调整举措",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%BF%91%E6%9C%9F%E5%85%B3%E7%A8%8E%E8%B0%83%E6%95%B4%E4%B8%BE%E6%8E%AA",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "现货黄金日内涨超100美元",
           "url": "https://flash.jin10.com/detail/20260224001736848800",
           "source": "金十数据",
@@ -703,7 +782,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -758,7 +837,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -799,7 +878,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
@@ -812,6 +891,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时08分 ~ 14时10分]"
+        },
+        {
+          "title": "春节期间多省电力交易平台现零电价、负电价时段 电力市场产业链已开始重构",
+          "url": "https://www.cls.cn/detail/2293366",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 17时01分]"
+        },
+        {
+          "title": "美最高法为何裁定关税政策不合法",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E4%B8%BA%E4%BD%95%E8%A3%81%E5%AE%9A%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E4%B8%8D%E5%90%88%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            17,
+            19,
+            30,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 17时01分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -864,35 +971,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
-        },
-        {
-          "title": "美最高法为何裁定关税政策不合法",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E4%B8%BA%E4%BD%95%E8%A3%81%E5%AE%9A%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E4%B8%8D%E5%90%88%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            17,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 15时57分]"
-        },
-        {
-          "title": "春节期间多省电力交易平台现零电价、负电价时段 电力市场产业链已开始重构",
-          "url": "https://www.cls.cn/detail/2293366",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 15时57分]"
         },
         {
           "title": "松延动力姜哲源：具身智能产业“马拉松”刚跑了十米",
@@ -1004,9 +1085,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20260224161608379800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：尚未有访美进行更多关税谈判的具体计划。",
@@ -1026,7 +1118,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -1133,7 +1225,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1143,8 +1235,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 15时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 17时01分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -1184,6 +1276,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时35分 ~ 08时08分]"
+        },
+        {
+          "title": "诺和诺德(NVO.N)美股盘前跌约3%，此前其UBT251减肥药物试验显示减重效果达19.7%。",
+          "url": "https://flash.jin10.com/detail/20260224165144268800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -1233,6 +1336,18 @@
           "time_info": "[05时46分 ~ 05时56分]"
         },
         {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 17时01分]"
+        },
+        {
           "title": "美股三大股指大幅收跌 IBM大跌13%",
           "url": "https://flash.jin10.com/detail/20260224050545152800",
           "source": "金十数据",
@@ -1243,17 +1358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 05时56分]"
-        },
-        {
-          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
-          "url": "https://wallstreetcn.com/articles/3765995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时57分]"
         },
         {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
@@ -1277,6 +1381,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "离岸人民币兑美元升破6.88，现报6.8776，日内涨0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3058013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "中证报：今年人民币汇率料延续双向波动走势",
+          "url": "https://wallstreetcn.com/livenews/3057691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 08时08分]"
+        },
+        {
+          "title": "周一（2月23日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.8879元，较上周五纽约尾盘涨99点，日内整体交投于6.9009-6.8823元区间。",
+          "url": "https://wallstreetcn.com/livenews/3057678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 08时08分]"
+        },
+        {
+          "title": "在岸人民币兑美元收报6.8849，创2023年4月20日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3058010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "在岸人民币兑美元升穿6.89关口，创2023年5月初以来高位，日内涨逾100点。",
+          "url": "https://wallstreetcn.com/livenews/3057987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "华为2025年销售收入超过8800亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3057836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
@@ -1343,47 +1521,6 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中证报：今年人民币汇率料延续双向波动走势",
-          "url": "https://wallstreetcn.com/livenews/3057691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 08时08分]"
-        },
-        {
-          "title": "周一（2月23日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.8879元，较上周五纽约尾盘涨99点，日内整体交投于6.9009-6.8823元区间。",
-          "url": "https://wallstreetcn.com/livenews/3057678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 08时08分]"
-        },
-        {
-          "title": "华为2025年销售收入超过8800亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3057836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "SZ SH HK",
       "match_count": 2,
       "titles": [
@@ -1424,7 +1561,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
