@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-24T08:08:36.636908+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-02-24T10:52:26.332483+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
+          "url": "https://www.cls.cn/detail/2293072",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 10时52分]"
+        },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
           "url": "https://www.cls.cn/detail/2292433",
@@ -30,6 +42,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "美最高法为何裁定关税政策不合法",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E4%B8%BA%E4%BD%95%E8%A3%81%E5%AE%9A%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E4%B8%8D%E5%90%88%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "惠誉：禁止使用《国际紧急经济权力法》的决定给美国贸易政策带来了重大不确定性。",
           "url": "https://flash.jin10.com/detail/20260224034306649800",
           "source": "金十数据",
@@ -39,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
-          "url": "https://www.cls.cn/detail/2293072",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
         },
         {
           "title": "松延动力姜哲源：具身智能产业“马拉松”刚跑了十米",
@@ -111,6 +123,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "特朗普将在国情咨文中推销经济政策",
+          "url": "https://flash.jin10.com/detail/20260224102355019800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "联邦快递起诉美国，在最高法院推翻总统特朗普关税政策之后寻求政府全额退款。",
           "url": "https://wallstreetcn.com/livenews/3057695",
           "source": "华尔街见闻-快讯",
@@ -122,6 +145,39 @@
           "time_info": "07时35分"
         },
         {
+          "title": "海南：构建星箭产业集群“超级大脑”",
+          "url": "https://wallstreetcn.com/livenews/3057815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：我们成功地将美国关税转化为双赢协议。",
+          "url": "https://flash.jin10.com/detail/20260224102337477800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：尚未有访美进行更多关税谈判的具体计划。",
+          "url": "https://flash.jin10.com/detail/20260224101524398800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "欧洲央行行长拉加德：欧洲央行的政策处于良好境地。",
           "url": "https://wallstreetcn.com/livenews/3057614",
           "source": "华尔街见闻-快讯",
@@ -131,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：如果美国征收新的10%关税，日本在某些商品上可能面临超出先前商定的15%税率的额外关税成本。",
+          "url": "https://flash.jin10.com/detail/20260224101329133800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "标普全球：更广泛的关税政策不确定性仍是全球信用展望的关键风险，也是市场波动的潜在触发因素。",
@@ -201,198 +268,8 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "春节后A股将会怎么走？以史为鉴这三大板块上涨概率更高，核心受益标的梳理",
-          "url": "https://www.cls.cn/detail/2290554",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 08时08分]"
-        },
-        {
-          "title": "拆解黄金白银为何震荡",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E9%9C%87%E8%8D%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            9,
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 08时08分]"
-        },
-        {
-          "title": "美伊冲突走向愈加悲观 多位分析师预测油价将大幅上涨",
-          "url": "https://www.cls.cn/detail/2292872",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 08时08分]"
-        },
-        {
-          "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
-          "url": "https://www.cls.cn/detail/2292558",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 08时08分]"
-        },
-        {
-          "title": "数字货币市场周一亚太早盘出现一波V形下跌行情，比特币目前跌约3%",
-          "url": "https://wallstreetcn.com/livenews/3057586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "A股开市在即 哪些板块将领涨",
-          "url": "https://www.toutiao.com/trending/7610049830315888147/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时46分]"
-        },
-        {
-          "title": "周一（2月23日）纽约尾盘，欧元兑美元涨0.05%，报1.1790，北京时间07:08曾开启一波快速上涨的行情。",
-          "url": "https://wallstreetcn.com/livenews/3057645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 05时56分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌2.4%，创2025年7月29日以来最大单日跌幅，报383.03点。 在十个板块中，北欧医疗保健板块跌幅最大。 权重股诺和诺德暴跌16.5%，在一众北欧个股里表现最差 。",
-          "url": "https://wallstreetcn.com/livenews/3057581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "拆解黄金白银为何震荡",
-          "url": "https://www.douyin.com/hot/2409647",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "Paypal(PYPL.O)触发盘中熔断，此前有报道称，该公司在股价下跌后收获收购意向。",
-          "url": "https://flash.jin10.com/detail/20260224003134015800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "标普500指数收跌71.76点，跌幅1.04%，报6837.75点。 道琼斯工业平均指数收跌821.91点，跌幅1.66%，报48804.06点。 纳斯达克综合指数（纳指）收跌258.796点，跌幅1.13%，报22627.273点。 纳斯达克100指数收跌303.677点，跌幅1.21%，报24708.942点。 纳斯达克生物科技指数收涨0.58%，报6014.09点。 费城半导体指数收跌0.57%，报8213.457点。 费城证交所KBW银行指数收跌4.40%，报161.73点，美股早盘持续下跌，呈现出长尾L形走势。 道琼斯KBW地区银行指数收跌4.27%，报132.90点。",
-          "url": "https://wallstreetcn.com/livenews/3057648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
-          "title": "墨西哥主要股指下跌1%。",
-          "url": "https://flash.jin10.com/detail/20260224002644307800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "沙特四季度财政预算赤字达到949亿沙特里亚尔（折合253亿美元），创2020年以来新高，受累于油价下跌。",
-          "url": "https://wallstreetcn.com/livenews/3057608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "周一（2月23日）纽约尾盘，ICE美元指数跌0.10%，报97.702点，日内交投区间为97.853-97.355点，亚太盘初“跳空低开”，北京时间14:30之前低位震荡，随后逐步收复失地、曾在20:00过后短暂地微幅转涨。 彭博美元指数涨0.06%，报1189.31点，日内交投区间为1185-1190.08点。",
-          "url": "https://wallstreetcn.com/livenews/3057635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
-          "title": "波罗的海干散货指数触及三周以来高位，各船型运价普遍上涨",
-          "url": "https://flash.jin10.com/detail/20260224000605937800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
-          "url": "https://wallstreetcn.com/livenews/3057632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "调整 期货 现货",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -404,6 +281,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时11分 ~ 05时56分]"
+        },
+        {
+          "title": "金十期货2月24日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨7500元/吨，中间价报153050元/吨。",
+          "url": "https://flash.jin10.com/detail/20260224103946207800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "WTI 4月原油期货收跌0.27美元，跌幅0.38%，报66.31美元/桶。 布伦特4月原油期货收报71.49美元/桶。 NYMEX 3月天然气期货收报2.9850美元/百万英热单位。 NYMEX 3月汽油期货收报1.9892美元/加仑，NYMEX 3月取暖油期货收报2.6782美元/加仑。",
@@ -484,7 +372,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -498,6 +386,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "富时中国A50指数期货跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3057792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "年后开工第一天，你有「节后综合症」吗？有哪些「收心大法」能快速调整状态？",
+          "url": "https://www.zhihu.com/question/2005645368113770983",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "恒指期货夜盘收跌0.75%，报26869点，低水202点。",
@@ -544,6 +454,17 @@
           "time_info": "05时46分"
         },
         {
+          "title": "国债期货开盘，30年期主力合约涨0.05%，10年期主力合约跌0.03%，5年期主力合约涨0.02%，2年期主力合约跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3057772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "现货黄金站上5220美元/盎司，日内涨2.20%。",
           "url": "https://flash.jin10.com/detail/20260224040256417800",
           "source": "金十数据",
@@ -568,9 +489,236 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 10,
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 18,
       "titles": [
+        {
+          "title": "春节后A股将会怎么走？以史为鉴这三大板块上涨概率更高，核心受益标的梳理",
+          "url": "https://www.cls.cn/detail/2290554",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 08时08分]"
+        },
+        {
+          "title": "美伊冲突走向愈加悲观 多位分析师预测油价将大幅上涨",
+          "url": "https://www.cls.cn/detail/2292872",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 10时52分]"
+        },
+        {
+          "title": "拆解黄金白银为何震荡",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E9%9C%87%E8%8D%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            9,
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 08时08分]"
+        },
+        {
+          "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
+          "url": "https://www.cls.cn/detail/2292558",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 08时08分]"
+        },
+        {
+          "title": "数字货币市场周一亚太早盘出现一波V形下跌行情，比特币目前跌约3%",
+          "url": "https://wallstreetcn.com/livenews/3057586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "A股开市在即 哪些板块将领涨",
+          "url": "https://www.toutiao.com/trending/7610049830315888147/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 05时46分]"
+        },
+        {
+          "title": "拆解黄金白银为何震荡",
+          "url": "https://www.douyin.com/hot/2409647",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 10时52分]"
+        },
+        {
+          "title": "周一（2月23日）纽约尾盘，欧元兑美元涨0.05%，报1.1790，北京时间07:08曾开启一波快速上涨的行情。",
+          "url": "https://wallstreetcn.com/livenews/3057645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 05时56分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌2.4%，创2025年7月29日以来最大单日跌幅，报383.03点。 在十个板块中，北欧医疗保健板块跌幅最大。 权重股诺和诺德暴跌16.5%，在一众北欧个股里表现最差 。",
+          "url": "https://wallstreetcn.com/livenews/3057581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "Paypal(PYPL.O)触发盘中熔断，此前有报道称，该公司在股价下跌后收获收购意向。",
+          "url": "https://flash.jin10.com/detail/20260224003134015800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "标普500指数收跌71.76点，跌幅1.04%，报6837.75点。 道琼斯工业平均指数收跌821.91点，跌幅1.66%，报48804.06点。 纳斯达克综合指数（纳指）收跌258.796点，跌幅1.13%，报22627.273点。 纳斯达克100指数收跌303.677点，跌幅1.21%，报24708.942点。 纳斯达克生物科技指数收涨0.58%，报6014.09点。 费城半导体指数收跌0.57%，报8213.457点。 费城证交所KBW银行指数收跌4.40%，报161.73点，美股早盘持续下跌，呈现出长尾L形走势。 道琼斯KBW地区银行指数收跌4.27%，报132.90点。",
+          "url": "https://wallstreetcn.com/livenews/3057648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "墨西哥主要股指下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260224002644307800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "沙特四季度财政预算赤字达到949亿沙特里亚尔（折合253亿美元），创2020年以来新高，受累于油价下跌。",
+          "url": "https://wallstreetcn.com/livenews/3057608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "香港恒生指数日内下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3057776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "周一（2月23日）纽约尾盘，ICE美元指数跌0.10%，报97.702点，日内交投区间为97.853-97.355点，亚太盘初“跳空低开”，北京时间14:30之前低位震荡，随后逐步收复失地、曾在20:00过后短暂地微幅转涨。 彭博美元指数涨0.06%，报1189.31点，日内交投区间为1185-1190.08点。",
+          "url": "https://wallstreetcn.com/livenews/3057635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "波罗的海干散货指数触及三周以来高位，各船型运价普遍上涨",
+          "url": "https://flash.jin10.com/detail/20260224000605937800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
+          "url": "https://wallstreetcn.com/livenews/3057632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 10时52分]"
+        },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
@@ -583,17 +731,28 @@
           "time_info": "[07时35分 ~ 08时08分]"
         },
         {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7,
-            9
+            12,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 08时08分]"
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 10时52分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -629,18 +788,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 05时56分]"
-        },
-        {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 08时08分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股收盘）",
@@ -693,7 +840,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
@@ -708,13 +855,24 @@
           "time_info": "[01时11分 ~ 07时35分]"
         },
         {
+          "title": "金十图示：2026年02月24日（周二）上海金早盘价为1147.41元/克，较国际金价(1147.67元/克)，低0.26元/克",
+          "url": "https://flash.jin10.com/detail/20260224103414330800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "瑞银：美联储降息及地缘政治风险加剧的背景下 金价将升至6200美元",
           "url": "https://flash.jin10.com/detail/20260224072858580800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -728,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美元走强令金价从三周高位回落",
+          "url": "https://flash.jin10.com/detail/20260224100521755800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     },
