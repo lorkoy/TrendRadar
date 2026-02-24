@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T06:56:06.744816+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-02-25T07:50:53.620810+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时50分]"
         },
         {
           "title": "商务部回应美近期关税调整举措",
@@ -28,11 +29,12 @@
             12,
             16,
             11,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时50分]"
         },
         {
           "title": "WTI 4月原油期货收跌1.03%，报65.63美元/桶。 NYMEX 3月天然气期货收报2.9150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9714美元/加仑，NYMEX 3月取暖油期货收报2.6869美元/加仑。",
@@ -44,6 +46,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "现货白银盘初跌幅达1.00%，现报86.28美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260225070137510800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "美联储Barkin：希望看到数据中体现出让通胀回落的那些因素。 通胀数据一直高于目标，有望回落至2%。 预计最高法院相关的关税调整不会对整体走势造成太大影响。",
@@ -67,6 +80,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时56分]"
+        },
+        {
+          "title": "数据显示：CME美国国债期货未平仓合约数量激增至3630万手的历史新高。",
+          "url": "https://flash.jin10.com/detail/20260225061905324800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时50分]"
         },
         {
           "title": "恒指期货夜盘收涨0.77%，报26763点，高水173点。",
@@ -93,15 +118,27 @@
           "time_info": "[03时12分 ~ 03时53分]"
         },
         {
-          "title": "数据显示：CME美国国债期货未平仓合约数量激增至3630万手的历史新高。",
-          "url": "https://flash.jin10.com/detail/20260225061905324800",
-          "source": "金十数据",
+          "title": "周二（2月24日）纽约尾盘，标普500股指期货最终涨0.73%，道指期货涨0.73%，纳斯达克100股指期货涨1.05%。 罗素2000股指期货涨1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3058367",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时50分]"
+        },
+        {
+          "title": "周三亚太盘初，美国三大股指期货微幅下跌，罗素2000股指期货跌0.15%。 美国总统特朗普即将发表国情咨文演讲。",
+          "url": "https://wallstreetcn.com/livenews/3058394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "07时50分"
         },
         {
           "title": "Lucid集团四季度营收5.227亿美元，分析师预期4.594亿美元。 四季度调整后每股亏损3.08美元，分析师预期亏损2.68美元。",
@@ -124,17 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
-        },
-        {
-          "title": "周二（2月24日）纽约尾盘，标普500股指期货最终涨0.73%，道指期货涨0.73%，纳斯达克100股指期货涨1.05%。 罗素2000股指期货涨1.16%。",
-          "url": "https://wallstreetcn.com/livenews/3058367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
         },
         {
           "title": "WTI原油期货日内跌超1.00%，现报65.64美元/桶。",
@@ -165,7 +191,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -228,7 +254,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -243,6 +269,19 @@
           "time_info": "[00时12分 ~ 06时56分]"
         },
         {
+          "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
+          "url": "https://wallstreetcn.com/articles/3766024",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时50分]"
+        },
+        {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
           "source": "华尔街见闻",
@@ -254,18 +293,6 @@
           "time_info": "[00时12分 ~ 05时47分]"
         },
         {
-          "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
-          "url": "https://wallstreetcn.com/articles/3766024",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时56分]"
-        },
-        {
           "title": "大年初八贵金属为何震荡",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%85%AB%E8%B4%B5%E9%87%91%E5%B1%9E%E4%B8%BA%E4%BD%95%E9%9C%87%E8%8D%A1",
           "source": "bilibili 热搜",
@@ -275,11 +302,34 @@
             7,
             13,
             12,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时50分]"
+        },
+        {
+          "title": "据路透调查：预计日经225指数到2026年中期将上涨约0.3%至57500点（此前11月调查预测为52000点），预计到2027年中期将突破60750点。",
+          "url": "https://flash.jin10.com/detail/20260225070643644800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "国际油价24日下跌",
@@ -354,6 +404,18 @@
           "time_info": "[04时49分 ~ 05时47分]"
         },
         {
+          "title": "Vital Knowledge的Adam Crisafulli在研报中写道：Anthropic对合作的重视缓解了市场的担忧，因为它强调了Claude如何整合进而非取代现有系统。 Anthropic传递的“我们是来帮忙而不是伤人”的信息帮助激发了软件板块相当健康的反弹，而这或许是整个市场中最遭人恨的领域。 软件股尤其受到关注，因为投资者几个月来出于对人工智能（AI）潜在颠覆性冲击的担心一直在抛售。",
+          "url": "https://wallstreetcn.com/livenews/3058369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时50分]"
+        },
+        {
           "title": "为什么说黄金这波春节上涨“不健康”",
           "url": "https://www.toutiao.com/trending/7610286715936345651/",
           "source": "今日头条",
@@ -386,17 +448,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
-        },
-        {
-          "title": "Vital Knowledge的Adam Crisafulli在研报中写道：Anthropic对合作的重视缓解了市场的担忧，因为它强调了Claude如何整合进而非取代现有系统。 Anthropic传递的“我们是来帮忙而不是伤人”的信息帮助激发了软件板块相当健康的反弹，而这或许是整个市场中最遭人恨的领域。 软件股尤其受到关注，因为投资者几个月来出于对人工智能（AI）潜在颠覆性冲击的担心一直在抛售。",
-          "url": "https://wallstreetcn.com/livenews/3058369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
         }
       ]
     },
@@ -410,11 +461,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时50分]"
         },
         {
           "title": "【数据看盘】多路资金联手抢筹深南电路，顶级游资扎堆通源石油",
@@ -425,8 +477,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时50分]"
         },
         {
           "title": "美最高法为何裁定关税政策不合法",
@@ -437,22 +489,24 @@
             26,
             22,
             15,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时50分]"
         },
         {
           "title": "业内人士：存储芯片涨价或将贯穿全年，中国产业崛起成“胜负手”",
           "url": "https://wallstreetcn.com/livenews/3058379",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时50分]"
         },
         {
           "title": "Anthropic发布第三版负责任扩展政策。",
@@ -465,6 +519,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时47分]"
+        },
+        {
+          "title": "债市强势延续，交易资金左右修复节奏",
+          "url": "https://wallstreetcn.com/livenews/3058375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时50分]"
         },
         {
           "title": "瑞士央行行长Schlegel：当前经济增长的很大一部分来自服务业。 瑞士企业称，招聘员工变得更加容易。 央行预计，瑞士经济将在2026年增长大约1%，通胀将在未来几个季度加速。 2026年可能会出现个别月份通胀为负值的情况。 央行政策将保持宽松状态。",
@@ -490,17 +556,6 @@
           "time_info": "04时49分"
         },
         {
-          "title": "债市强势延续，交易资金左右修复节奏",
-          "url": "https://wallstreetcn.com/livenews/3058375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
           "title": "美联储巴尔金：意识到人们对美联储政策选择会有不同看法。",
           "url": "https://flash.jin10.com/detail/20260225044248892800",
           "source": "金十数据",
@@ -518,7 +573,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -579,22 +634,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时56分]"
-        },
-        {
-          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
-          "url": "https://wallstreetcn.com/livenews/3058381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时50分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
@@ -629,6 +674,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时47分]"
+        },
+        {
+          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
+          "url": "https://wallstreetcn.com/livenews/3058381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时50分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
@@ -691,8 +748,19 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8812元，较上个交易日夜盘收盘涨220点。成交量365.49亿美元。",
           "url": "https://wallstreetcn.com/livenews/3058304",
@@ -711,22 +779,24 @@
           "url": "https://wallstreetcn.com/livenews/3058372",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时50分]"
         },
         {
           "title": "周二（2月24日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报6.8793元，较周一纽约尾盘涨86点，日内整体交投于6.89 64-6.8725元区间。",
           "url": "https://wallstreetcn.com/livenews/3058366",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时50分]"
         }
       ]
     },
@@ -739,11 +809,12 @@
           "url": "https://flash.jin10.com/detail/20260225064710315800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时50分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.37%，报7581.04点。 热门中概股里，万国数据初步收涨6.7%，世纪互联涨6.6%，小鹏涨6.6%，金山云涨4.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨0.52%，德银嘉实沪深300指数ETF（ASHR）收涨0.38%。 中概互联网指数ETF（KWEB）收跌0.09%，中国科技指数ETF（CQQQ）收跌0.38%。",
@@ -781,7 +852,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
