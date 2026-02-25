@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T18:59:33.346582+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-02-25T19:50:03.952928+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "商务部回应美近期关税调整举措",
@@ -91,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "静待英伟达财报，美国科技股盘前小幅上涨，欧股续创新高，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 19时50分]"
         },
         {
           "title": "惠普第一财季调整后每股收益（EPS）为0.81美元，分析师预期0.77美元。 第一财季净营收144.4亿美元，分析师预期139亿美元。 第一财季个人系统营收102.5亿美元，分析师预期97.6亿美元。 维持全年调整后EPS预期在2.90-3.20美元不变，分析师预期3美元。 预计第二财季调整后EPS为0.70-0.76美元，分析师预期0.75美元。",
@@ -197,6 +208,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3058828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
@@ -206,17 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
-        },
-        {
-          "title": "静待英伟达财报，美国科技股盘前小幅上涨，欧股续创新高，现货黄金日内涨超1%",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
         },
         {
           "title": "现货黄金向上触及5210美元/盎司，日内涨1.29%。",
@@ -250,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260225192746907800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "Lucid集团四季度营收5.227亿美元，分析师预期4.594亿美元。 四季度调整后每股亏损3.08美元，分析师预期亏损2.68美元。",
@@ -552,7 +574,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -644,6 +666,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "甲骨文(ORCL.N)美股盘前一度上涨3%。",
+          "url": "https://flash.jin10.com/detail/20260225193717302800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "国际油价24日下跌",
           "url": "https://flash.jin10.com/detail/20260225050307678800",
           "source": "金十数据",
@@ -688,6 +721,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 04时49分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡收红，全市场连续两日逾百股涨停，涨价题材持续爆发",
+          "url": "https://www.cls.cn/detail/2294768",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 19时50分]"
         },
         {
           "title": "为什么说黄金这波春节上涨“不健康”",
@@ -816,17 +860,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
-        },
-        {
-          "title": "【每日收评】三大指数震荡收红，全市场连续两日逾百股涨停，涨价题材持续爆发",
-          "url": "https://www.cls.cn/detail/2294768",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
         },
         {
           "title": "特朗普：低利率将解决房地产市场问题。 抵押贷款利率为四年来最低。 想保护房价，就保持房价上涨。",
@@ -1000,7 +1033,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -1019,7 +1052,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "节后首周资金面迎大考 央行开展6000亿元MLF操作 连续12个月加量续做",
@@ -1156,6 +1189,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时50分]"
+        },
+        {
+          "title": "连续2日百股涨停！周期成资金“扫货”重点，融资余额节后回升，这些方向热度也大增",
+          "url": "https://www.cls.cn/detail/2294832",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "突发！480亿光模块概念股拟收购股权布局光通信产业链上游|盘后公告集锦",
@@ -1385,7 +1429,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         }
@@ -1532,7 +1576,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -1551,7 +1595,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -1561,8 +1605,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时50分 ~ 18时59分]"
+          "appearance_count": 11,
+          "time_info": "[07时50分 ~ 19时50分]"
         },
         {
           "title": "中国央行在香港发行300亿元人民币3个月期央票，中标利率1.53%；发行200亿元人民币1年期央票，中标利率1.47%。",
@@ -1589,6 +1633,18 @@
           "time_info": "[03时12分 ~ 04时49分]"
         },
         {
+          "title": "温氏股份：拟以8亿元-12亿元回购股份，回购价格不超过人民币24.00元/股。",
+          "url": "https://wallstreetcn.com/livenews/3058805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时50分]"
+        },
+        {
           "title": "人民币汇率开年走强，专家提醒切勿盲目“赌”方向",
           "url": "https://wallstreetcn.com/livenews/3058372",
           "source": "华尔街见闻-快讯",
@@ -1599,6 +1655,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时50分]"
+        },
+        {
+          "title": "印尼开始推介人民币和欧元债券 试探全球投资者需求",
+          "url": "https://wallstreetcn.com/livenews/3058795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时50分]"
         },
         {
           "title": "周二（2月24日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报6.8793元，较周一纽约尾盘涨86点，日内整体交投于6.89 64-6.8725元区间。",
@@ -1624,15 +1692,15 @@
           "time_info": "17时04分"
         },
         {
-          "title": "温氏股份：拟以8亿元-12亿元回购股份，回购价格不超过人民币24.00元/股。",
-          "url": "https://wallstreetcn.com/livenews/3058805",
+          "title": "农发行上海市分行：2月25日起面向对公客户开办数字人民币相关业务",
+          "url": "https://wallstreetcn.com/livenews/3058837",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "19时50分"
         },
         {
           "title": "在岸人民币及离岸人民币兑美元均创2023年4月以来新高",
@@ -1644,17 +1712,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
-        },
-        {
-          "title": "印尼开始推介人民币和欧元债券 试探全球投资者需求",
-          "url": "https://wallstreetcn.com/livenews/3058795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
         }
       ]
     },
@@ -1669,7 +1726,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -1790,8 +1847,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数DXY突破98，日内涨0.10%。",
+          "url": "https://flash.jin10.com/detail/20260225193029245800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
         {
           "title": "周二（2月24日）纽约尾盘，ICE美元指数涨0.14%，报97,843点，日内交投区间为97.695-97.986点。 彭博美元指数涨0.03%，报1189.77点，日内交投区间为1188.71-1192.00点。",
           "url": "https://wallstreetcn.com/livenews/3058322",
