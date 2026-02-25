@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T04:46:45.098982+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-02-26T05:43:42.977645+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时43分]"
         },
         {
           "title": "消息人士：在欧盟提出反垄断指控后，谷歌(GOOG.O)将测试搜索引擎结果的调整。新提案将提升搜索结果中竞争对手的曝光度。新提案即将在欧洲推出，最初将适用于住宿搜索。",
@@ -31,38 +31,17 @@
           "time_info": "02时07分"
         },
         {
-          "title": "芝商所（CME）已恢复金属期货交易，纽约期金现报5226美元/盎司，现货黄金报5206美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260226035234865800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.42美元/桶。 布伦特4月原油期货收涨0.08美元，涨幅0.11%，报70.85美元/桶。 NYMEX 3月天然气期货收报2.9690美元/百万英热单位。 NYMEX 3月汽油期货收报1.9914美元/加仑，NYMEX 3月取暖油期货收报2.6740美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3059038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
           "title": "芝商所金属期货将于凌晨3:45正式恢复交易",
           "url": "https://flash.jin10.com/detail/20260226032021794800",
           "source": "金十数据",
           "ranks": [
             3,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[03时53分 ~ 05时43分]"
         },
         {
           "title": "芝商所（CME）：Globex平台的金属期货和期权市场将于美国中部时间下午1:31进入盘前阶段。",
@@ -70,11 +49,36 @@
           "source": "金十数据",
           "ranks": [
             5,
-            15
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时53分 ~ 05时43分]"
+        },
+        {
+          "title": "芝商所（CME）已恢复金属期货交易，纽约期金现报5226美元/盎司，现货黄金报5206美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260226035234865800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时53分 ~ 04时46分]"
+          "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.42美元/桶。 布伦特4月原油期货收涨0.08美元，涨幅0.11%，报70.85美元/桶。 NYMEX 3月天然气期货收报2.9690美元/百万英热单位。 NYMEX 3月汽油期货收报1.9914美元/加仑，NYMEX 3月取暖油期货收报2.6740美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3059038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
         },
         {
           "title": "倍耐力四季度营收15.8亿欧元，分析师预期15.6亿欧元。 四季度调整后EBIT为2.459亿欧元，分析师预期2.472亿欧元。 全年度调整后EBIT为10.8亿欧元，符合分析师预期。 全年营收67.8亿欧元，分析师预期67.6亿欧元。 预计2026年营收大约67亿-69亿欧元，分析师预期67.9亿欧元。",
@@ -94,11 +98,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[03时53分 ~ 05时43分]"
         },
         {
           "title": "恒指期货夜盘收涨0.65%，报26923点，高水157点。",
@@ -147,6 +152,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时46分]"
+        },
+        {
+          "title": "美国商品期货交易委员会在一份声明中表示，其有权监管预测市场的非法交易行为。",
+          "url": "https://flash.jin10.com/detail/20260226042022423800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
@@ -154,6 +170,18 @@
       "keyword_group": "资金 政策 产业",
       "match_count": 10,
       "titles": [
+        {
+          "title": "连续2日百股涨停！周期成资金“扫货”重点，融资余额节后回升，这些方向热度也大增",
+          "url": "https://www.cls.cn/detail/2294832",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时53分 ~ 05时43分]"
+        },
         {
           "title": "美联储博斯蒂克：广泛群体已开始对美联储的独立性产生怀疑。美联储在制定货币政策方面的独立性改善了经济成果和市场信心，有助于保持美国作为避险天堂的地位。",
           "url": "https://flash.jin10.com/detail/20260226030234340800",
@@ -177,17 +205,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 02时07分]"
-        },
-        {
-          "title": "连续2日百股涨停！周期成资金“扫货”重点，融资余额节后回升，这些方向热度也大增",
-          "url": "https://www.cls.cn/detail/2294832",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 04时46分]"
         },
         {
           "title": "市场消息：美国法官驳回了特朗普的一项政策，该政策允许将移民迅速驱逐到其本国以外的国家。",
@@ -269,9 +286,115 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 5,
+      "keyword_group": "美股",
+      "match_count": 8,
       "titles": [
+        {
+          "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3059060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时43分]"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260226013223686800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260226050531438800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3059057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260226013220825800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260226050527817800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 Circle涨超30%",
+          "url": "https://flash.jin10.com/detail/20260226050058223800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
+          "url": "https://wallstreetcn.com/livenews/3059059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
         {
           "title": "【每日收评】三大指数震荡收红，全市场连续两日逾百股涨停，涨价题材持续爆发",
           "url": "https://www.cls.cn/detail/2294768",
@@ -306,6 +429,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 02时07分]"
+        },
+        {
+          "title": "美元指数25日下跌",
+          "url": "https://flash.jin10.com/detail/20260226045409170800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "据知情人士透露，俄罗斯考虑因油价下跌而下调2026年GDP预期。（彭博）",
@@ -343,8 +477,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时43分]"
         },
         {
           "title": "离岸人民币兑美元升破 6.9 元关口创新高，驱动因素是什么？人民币升值后续空间还有多大？",
@@ -353,11 +487,12 @@
           "ranks": [
             12,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[02时07分 ~ 05时43分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8592元，较周二夜盘收盘涨220点。成交量525.09亿美元。",
@@ -374,42 +509,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2295156",
-          "source": "财联社热门",
+          "title": "纳斯达克金龙中国指数收跌0.47%，报7545.55点。 热门中概股里，阿特斯太阳能初步收跌5.3%，新东方跌5.1%，大全新能源跌2.9%，小鹏跌2.7%，万国数据跌2.4%，网易、理想跌超1%，阿里、腾讯至多跌约0.5%，唯品会涨1.9%，亚朵涨2.5%，贝壳涨3%，老虎证券涨4.2%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨1.26%，XtrackersHarvest中证50（ASHS）收涨2.26%。 中概互联网指数ETF（KWEB）收跌0.03%，中国科技指数ETF（CQQQ）收涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3059051",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            8
+            12
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时46分]"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260226013223686800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260226013220825800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "time_info": "05时43分"
         }
       ]
     },
@@ -427,8 +539,42 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10年期美债收益率涨约2个基点",
+          "url": "https://wallstreetcn.com/livenews/3059042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（2月25日）纽约尾盘，ICE美元指数跌0.16%，报97.690点，日内交投区间为98.002-97.622点整体呈现出W形走势。 彭博美元指数跌0.20%，报1187.44点，日内交投区间为1190.67-1186.54点。",
+          "url": "https://wallstreetcn.com/livenews/3059041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     }
