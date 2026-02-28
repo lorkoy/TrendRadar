@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T10:35:13.357604+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-02-28T12:21:57.401148+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 10时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 12时21分]"
         },
         {
           "title": "中方调整对加拿大进口商品关税",
@@ -97,6 +98,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时58分 ~ 04时38分]"
+        },
+        {
+          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2297921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 12时21分]"
         },
         {
           "title": "美国原油收涨约2.8%，纽约天然气2月累跌29%，中东原油期货累涨6.7%",
@@ -229,17 +242,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时34分]"
-        },
-        {
-          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2297921",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，COMEX铜期货投机者将净多头头寸减少1741手，至50959手。",
@@ -437,7 +439,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "英伟达重挫引发板块轮动，软件股上演逼空，避险情绪撑债汇齐涨，金涨银跌，纽铜三连涨",
@@ -493,11 +495,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 12时21分]"
+        },
+        {
+          "title": "美国金融板块周五再度爆发抛售潮 发生了什么？",
+          "url": "https://www.cls.cn/detail/2297867",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时33分 ~ 10时35分]"
+          "time_info": "[10时34分 ~ 12时21分]"
         },
         {
           "title": "周五（2月27日），韩元兑美元最终跌0.46%，报1439.97韩元，2月份累计上涨0.32%，交投于1475.26-1419.33韩元区间。",
@@ -550,17 +565,6 @@
           "time_info": "[02时58分 ~ 04时38分]"
         },
         {
-          "title": "美国金融板块周五再度爆发抛售潮 发生了什么？",
-          "url": "https://www.cls.cn/detail/2297867",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 2月27日（周五）晚盘收盘上涨0.93%报1155.17元/克；<br/>上海黄金交易所白银T+D 2月27日（周五）晚盘收盘上涨5.38%报23231.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260228023017051800",
           "source": "金十数据",
@@ -609,6 +613,29 @@
           "time_info": "[00时52分 ~ 01时44分]"
         },
         {
+          "title": "标普科技板块收跌约2.2%，金融板块跌约2%，2月份可选消费、电信板块跌超5%",
+          "url": "https://wallstreetcn.com/livenews/3060561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时21分]"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3180%，下降4.00个基点。 7天SHIBOR报1.5000%，上涨2.60个基点。 3个月SHIBOR报1.5679%，下降0.11个基点。",
+          "url": "https://wallstreetcn.com/livenews/3060589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌1.7%，2月份累计下跌约5.8%。 热门中概股里，蔚来初步收跌4%，阿里跌2.6%，新东方、理想、京东、文远知行、拼多多、小鹏、小米等跌超1%，大全新能源涨0.6%，金山云涨7%。",
           "url": "https://wallstreetcn.com/livenews/3060505",
           "source": "华尔街见闻-快讯",
@@ -631,15 +658,15 @@
           "time_info": "06时34分"
         },
         {
-          "title": "标普科技板块收跌约2.2%，金融板块跌约2%，2月份可选消费、电信板块跌超5%",
-          "url": "https://wallstreetcn.com/livenews/3060561",
-          "source": "华尔街见闻-快讯",
+          "title": "国际油价大幅上涨",
+          "url": "https://www.douyin.com/hot/2414153",
+          "source": "抖音",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "12时21分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.81%，报7277.39点，本周累计下跌3.61%，2月份累计下跌5.88%。 热门中概股里，蔚来初步收跌4%，阿里跌2.6%，新东方、理想、京东、文远知行、拼多多、小鹏、小米等跌超1%，大全新能源涨0.6%，金山云涨7%。",
@@ -677,22 +704,12 @@
           "ranks": [
             20,
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时43分 ~ 10时35分]"
-        },
-        {
-          "title": "上海：加快打造创业基金、先导产业母基金、产业转型升级基金、社会化基金等全周期基金矩阵",
-          "url": "https://wallstreetcn.com/livenews/3060582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "appearance_count": 12,
+          "time_info": "[01时43分 ~ 12时21分]"
         },
         {
           "title": "草案显示，欧盟拟动员资金和投资，支持印度在拟议自由贸易协定框架下减少排放。",
@@ -718,6 +735,18 @@
           "time_info": "[04时38分 ~ 05时37分]"
         },
         {
+          "title": "上海：加快打造创业基金、先导产业母基金、产业转型升级基金、社会化基金等全周期基金矩阵",
+          "url": "https://wallstreetcn.com/livenews/3060582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时21分]"
+        },
+        {
           "title": "【数据看盘】一线游资联手量化抢筹拓维信息，多路资金激烈博弈首都在线",
           "url": "https://www.cls.cn/detail/2297369",
           "source": "财联社热门",
@@ -736,8 +765,32 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 12时21分]"
+        },
+        {
+          "title": "两融余额“三连增”，杠杆资金回归科技主线",
+          "url": "https://wallstreetcn.com/livenews/3060572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "time_info": "[10时35分 ~ 12时21分]"
+        },
+        {
+          "title": "节后资金面扰动可控，机构预计三月流动性延续宽松",
+          "url": "https://wallstreetcn.com/livenews/3060570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时21分]"
         },
         {
           "title": "特朗普发文呼吁最高法院重审或再审其关税政策案",
@@ -761,28 +814,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        },
-        {
-          "title": "两融余额“三连增”，杠杆资金回归科技主线",
-          "url": "https://wallstreetcn.com/livenews/3060572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "节后资金面扰动可控，机构预计三月流动性延续宽松",
-          "url": "https://wallstreetcn.com/livenews/3060570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
         },
         {
           "title": "印度总理莫迪：在过去的11年里，我们专注于制造、产品质量和经济政策，使印度成为世界的增长引擎。正是这种实力，让今天的发达国家也主动寻求与印度达成贸易协议。",
@@ -832,7 +863,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -875,6 +906,17 @@
           "time_info": "[03时40分 ~ 05时37分]"
         },
         {
+          "title": "人民币汇率三日急涨600点 央行出手",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%B8%89%E6%97%A5%E6%80%A5%E6%B6%A8600%E7%82%B9+%E5%A4%AE%E8%A1%8C%E5%87%BA%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "专家：警惕人民币过度升值的陷阱",
           "url": "https://www.toutiao.com/trending/7611504448090672694/",
           "source": "今日头条",
@@ -895,6 +937,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "2月人民币对美元即期汇率升值1.3%：央行出手，后续如何走",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32666912",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "央行出大招 人民币汇率有何影响",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%87%BA%E5%A4%A7%E6%8B%9B+%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     },
@@ -910,8 +974,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 12时21分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -973,7 +1037,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
