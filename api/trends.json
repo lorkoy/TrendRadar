@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T07:33:39.234378+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-02-28T10:35:13.357604+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -24,11 +24,12 @@
           "url": "https://www.cls.cn/detail/2297673",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 10时35分]"
         },
         {
           "title": "中方调整对加拿大进口商品关税",
@@ -230,6 +231,17 @@
           "time_info": "[05时37分 ~ 06时34分]"
         },
         {
+          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2297921",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，COMEX铜期货投机者将净多头头寸减少1741手，至50959手。",
           "url": "https://flash.jin10.com/detail/20260228043946443800",
           "source": "金十数据",
@@ -296,7 +308,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -373,7 +385,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -395,7 +407,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -425,7 +437,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "英伟达重挫引发板块轮动，软件股上演逼空，避险情绪撑债汇齐涨，金涨银跌，纽铜三连涨",
@@ -444,11 +456,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 10时35分]"
         },
         {
           "title": "连续3日百亿成交！“稀土茅”股价历史新高，板块量能历史次高，哪些个股持续“吸金”",
@@ -473,6 +486,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时51分 ~ 07时33分]"
+        },
+        {
+          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2297908",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时33分 ~ 10时35分]"
         },
         {
           "title": "周五（2月27日），韩元兑美元最终跌0.46%，报1439.97韩元，2月份累计上涨0.32%，交投于1475.26-1419.33韩元区间。",
@@ -523,6 +548,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时58分 ~ 04时38分]"
+        },
+        {
+          "title": "美国金融板块周五再度爆发抛售潮 发生了什么？",
+          "url": "https://www.cls.cn/detail/2297867",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月27日（周五）晚盘收盘上涨0.93%报1155.17元/克；<br/>上海黄金交易所白银T+D 2月27日（周五）晚盘收盘上涨5.38%报23231.0元/千克。",
@@ -584,17 +620,6 @@
           "time_info": "05时37分"
         },
         {
-          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
-          "url": "https://www.cls.cn/detail/2297908",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周五（2月27日），美国科技股七巨头（Magnificent 7）指数跌1.83%，报193.36点，本周累计下跌2.18%，2月份累计下跌6.57%，大部分时间低位震荡——交投于195点附近。 “超大”市值科技股指数跌0.82%，报366.62点，2月份累跌6.91%。",
           "url": "https://wallstreetcn.com/livenews/3060517",
           "source": "华尔街见闻-快讯",
@@ -604,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "标普科技板块收跌约2.2%，金融板块跌约2%，2月份可选消费、电信板块跌超5%",
+          "url": "https://wallstreetcn.com/livenews/3060561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.81%，报7277.39点，本周累计下跌3.61%，2月份累计下跌5.88%。 热门中概股里，蔚来初步收跌4%，阿里跌2.6%，新东方、理想、京东、文远知行、拼多多、小鹏、小米等跌超1%，大全新能源涨0.6%，金山云涨7%。",
@@ -620,7 +656,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "南向资金追踪｜2月净流入约905亿港元 频现单日百亿流入逆势抄底科网股",
@@ -644,8 +680,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时43分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[01时43分 ~ 10时35分]"
+        },
+        {
+          "title": "上海：加快打造创业基金、先导产业母基金、产业转型升级基金、社会化基金等全周期基金矩阵",
+          "url": "https://wallstreetcn.com/livenews/3060582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
           "title": "草案显示，欧盟拟动员资金和投资，支持印度在拟议自由贸易协定框架下减少排放。",
@@ -682,6 +729,17 @@
           "time_info": "[00时51分 ~ 01时44分]"
         },
         {
+          "title": "意外升温！美国1月核心PPI创一年最快增速，美联储货币政策复杂化加剧",
+          "url": "https://wallstreetcn.com/articles/3766388",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
           "title": "特朗普发文呼吁最高法院重审或再审其关税政策案",
           "url": "https://flash.jin10.com/detail/20260228052645165800",
           "source": "金十数据",
@@ -703,6 +761,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "两融余额“三连增”，杠杆资金回归科技主线",
+          "url": "https://wallstreetcn.com/livenews/3060572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "节后资金面扰动可控，机构预计三月流动性延续宽松",
+          "url": "https://wallstreetcn.com/livenews/3060570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
           "title": "印度总理莫迪：在过去的11年里，我们专注于制造、产品质量和经济政策，使印度成为世界的增长引擎。正是这种实力，让今天的发达国家也主动寻求与印度达成贸易协议。",
@@ -812,7 +892,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         }
@@ -820,8 +900,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
           "url": "https://wallstreetcn.com/articles/3766324",
@@ -829,7 +920,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -853,7 +944,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         }
@@ -861,7 +952,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据印度NDTV电视台：印度国防研究与发展组织（DRDO）在奥迪沙邦昌迪普尔近海的综合试验场（ITR）成功进行了三次连续的超近程防空系统（VSHORADS）飞行试验。",
@@ -874,6 +965,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时40分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少104.25吨，当前持仓量为15992.4吨。欢迎点击查看数据中心..",
+          "url": "https://flash.jin10.com/detail/20260228083518088800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
           "title": "日本铠侠控股任命Yoshihiko Kawamura为首席财务官。",
