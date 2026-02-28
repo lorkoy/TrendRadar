@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T19:28:12.915335+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2026-02-28T21:03:27.844051+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
@@ -475,7 +475,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "英伟达重挫引发板块轮动，软件股上演逼空，避险情绪撑债汇齐涨，金涨银跌，纽铜三连涨",
@@ -568,6 +568,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时21分 ~ 16时40分]"
+        },
+        {
+          "title": "黄金白银原油全线上涨",
+          "url": "https://www.douyin.com/hot/2413986",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "周五（2月27日），韩元兑美元最终跌0.46%，报1439.97韩元，2月份累计上涨0.32%，交投于1475.26-1419.33韩元区间。",
@@ -739,8 +750,21 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "意外升温！美国1月核心PPI创一年最快增速，美联储货币政策复杂化加剧",
+          "url": "https://wallstreetcn.com/articles/3766388",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时34分 ~ 21时03分]"
+        },
         {
           "title": "南向资金追踪｜2月净流入约905亿港元 频现单日百亿流入逆势抄底科网股",
           "url": "https://www.cls.cn/detail/2297521",
@@ -767,19 +791,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[01时43分 ~ 15时35分]"
-        },
-        {
-          "title": "意外升温！美国1月核心PPI创一年最快增速，美联储货币政策复杂化加剧",
-          "url": "https://wallstreetcn.com/articles/3766388",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时34分 ~ 19时28分]"
         },
         {
           "title": "草案显示，欧盟拟动员资金和投资，支持印度在拟议自由贸易协定框架下减少排放。",
@@ -898,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "事关人形机器人！我国首个国家级标准体系发布 产业迫近临界点",
+          "url": "https://www.cls.cn/detail/2298376",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "印度总理莫迪：在过去的11年里，我们专注于制造、产品质量和经济政策，使印度成为世界的增长引擎。正是这种实力，让今天的发达国家也主动寻求与印度达成贸易协议。",
@@ -1044,7 +1066,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1177,11 +1199,12 @@
           "source": "微博",
           "ranks": [
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时35分 ~ 19时28分]"
+          "appearance_count": 8,
+          "time_info": "[15时35分 ~ 21时03分]"
         },
         {
           "title": "伊朗局势如何影响金价 专家称未来48小时决定金价走势",
@@ -1190,7 +1213,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1214,8 +1237,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 21时03分]"
         },
         {
           "title": "以色列伊朗 金价",
@@ -1240,11 +1263,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时34分 ~ 19时28分]"
+          "appearance_count": 14,
+          "time_info": "[10时34分 ~ 21时03分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -1297,8 +1321,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时52分 ~ 19时28分]"
+          "appearance_count": 10,
+          "time_info": "[14时52分 ~ 21时03分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
@@ -1309,8 +1333,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 21时03分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
