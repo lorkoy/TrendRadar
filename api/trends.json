@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T05:32:30.300349+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-03-02T06:34:34.739862+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 06时34分]"
         },
         {
           "title": "二手相机价格暴涨有的翻 10 倍，消费电子产品不都越放越便宜么，为何相机却逆势上涨？背后发生了什么？",
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "美以袭击伊朗金价为何下跌",
@@ -44,8 +44,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "多家船司或将绕行好望角，海运费用或将上涨",
@@ -66,11 +66,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时34分]"
+        },
+        {
+          "title": "投资公司：油价可能因伊朗冲突上涨，但水平可控",
+          "url": "https://flash.jin10.com/detail/20260302055159802800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     },
@@ -87,8 +99,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "MSC Mediterranean Shipping Co. SA停止受理中东（航线）的预定。",
@@ -138,7 +150,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "高盛预计，未来将有 3.6 万亿增量资金流入中国股市，会给 A 股带来哪些影响？",
@@ -148,11 +160,12 @@
             12,
             11,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -160,11 +173,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时34分]"
         },
         {
           "title": "钨价1年多涨逾4倍，业内：产业链迎转型关键期",
@@ -172,11 +186,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时34分]"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟海军“阿斯皮德斯”行动将增派更多舰艇以加强红海、海湾及印度洋地区的海上安全保卫工作。",
+          "url": "https://flash.jin10.com/detail/20260302052508186800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     },
@@ -190,11 +216,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY站上98，日内涨0.34%。",
+          "url": "https://flash.jin10.com/detail/20260302061646512800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     }
