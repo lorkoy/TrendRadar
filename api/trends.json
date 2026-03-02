@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T04:49:21.306537+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-03-03T05:43:19.284134+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国石油、中国石化、中国海油三桶油历史首次集体收盘涨停，油气板块后续走势如何？",
@@ -15,19 +15,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时43分]"
         },
         {
           "title": "高盛评估“伊朗冲击”：油价上涨18美元/桶，相当于霍尔木兹海峡封闭6周",
           "url": "https://wallstreetcn.com/articles/3766481",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时43分]"
+        },
+        {
+          "title": "美国务卿：将公布措施以缓解油价上涨问题",
+          "url": "https://flash.jin10.com/detail/20260303052735954800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌1.1%，报382.85点，创2月5日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 Rockwool A/S跌5.3%，在一众北欧个股里表现最差。",
@@ -110,8 +122,105 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时43分]"
+        },
+        {
+          "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
+          "url": "https://flash.jin10.com/detail/20260303012108985800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2300294",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时01分 ~ 05时43分]"
+        },
+        {
+          "title": "美股费城银行指数涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3062071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 03时01分]"
+        },
+        {
+          "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
+          "url": "https://wallstreetcn.com/livenews/3062073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时01分]"
+        },
+        {
+          "title": "金十图示：2026年03月02日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260303050555825800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "金十图示：2026年03月02日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260303050553448800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 Circle涨15%",
+          "url": "https://flash.jin10.com/detail/20260303050334890800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "调整 期货 现货",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "WTI 4月原油期货收报71.23美元/桶。 NYMEX 3月天然气期货收报2.96美元/百万英热单位。 NYMEX 3月汽油期货收报2.3706美元/加仑，NYMEX 3月取暖油期货收报2.9004美元/加仑。",
@@ -138,6 +247,18 @@
           "time_info": "[03时01分 ~ 04时49分]"
         },
         {
+          "title": "国际油价在收盘之后走高，WTI原油期货涨穿72美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3062128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时43分]"
+        },
+        {
           "title": "英国天然气期货周一涨约41%，荷兰天然气期货也涨超37%",
           "url": "https://wallstreetcn.com/livenews/3062111",
           "source": "华尔街见闻-快讯",
@@ -150,26 +271,27 @@
           "time_info": "[03时48分 ~ 04时49分]"
         },
         {
-          "title": "国际油价在收盘之后走高，WTI原油期货涨穿72美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3062128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
           "title": "美国原油期货收涨约6.3%，中东原油期货一度突破83美元",
           "url": "https://wallstreetcn.com/livenews/3062121",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时43分]"
+        },
+        {
+          "title": "芝加哥小麦期货跌约2.6%，豆粕跌2.5%，大豆油涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3062141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "05时43分"
         },
         {
           "title": "恒指期货夜盘收涨0.86%，报26109点，高水49点。",
@@ -186,7 +308,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "近十年第二次涨停！百亿资金“扫货”中石油，油气ETF全线溢价，这些份额近期陡升",
@@ -198,8 +320,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时43分]"
+        },
+        {
+          "title": "【数据看盘】化工ETF上周份额大减，晓程科技龙虎榜现机构与北向资金博弈",
+          "url": "https://www.cls.cn/detail/2299988",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时43分]"
+        },
+        {
+          "title": "澳洲联储主席Bullock：中东局势及时提醒地缘政治不确定性。 油价上涨可能会拖累全球经济（增速）和通胀（进展）。 澳洲联储对通胀预期的迹象“非常警惕”。 现在判断中东局势对通胀的影响还言之过早。 澳洲联储准备在必要时针对冲击做出政策回应。 一系列指标表明，劳动力市场条件是紧俏的。",
+          "url": "https://wallstreetcn.com/livenews/3062152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "美国前财长耶伦：伊朗局势让美联储的利率政策“更加会按兵不动”。",
@@ -211,18 +356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        },
-        {
-          "title": "【数据看盘】化工ETF上周份额大减，晓程科技龙虎榜现机构与北向资金博弈",
-          "url": "https://www.cls.cn/detail/2299988",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时49分]"
         },
         {
           "title": "美国总统特朗普：将确保伊朗无法为其境外武装提供资金以及确保伊朗无法指挥境外武装。",
@@ -247,76 +380,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时49分]"
         },
         {
-          "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
-          "url": "https://flash.jin10.com/detail/20260303012108985800",
+          "title": "澳洲联储主席布洛克：相信我们在政策方面处于有利地位，可在必要时作出回应。",
+          "url": "https://flash.jin10.com/detail/20260303051024780800",
           "source": "金十数据",
           "ranks": [
-            4
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "美股费城银行指数涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3062071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时01分]"
-        },
-        {
-          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2300294",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时49分]"
-        },
-        {
-          "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
-          "url": "https://wallstreetcn.com/livenews/3062073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时01分]"
+          "time_info": "05时43分"
         }
       ]
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "TheShy 乒乓球略懂",
@@ -327,8 +407,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时43分]"
         },
         {
           "title": "据预测网站Kalshi：霍尔木兹海峡“关闭”的实际发生概率飙升至65%。此前伊朗革命卫队指挥官顾问称霍尔木兹海峡已关闭。",
@@ -337,9 +417,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.08%，报7198.52点。 热门中概股里，金山云初步收跌4.9%，再鼎医药、小米跌4.1%，文远知行、美团、唯品会、万国数据至多跌3.6%，晶科能源涨2.1%，贝壳涨2.2%，比亚迪涨5%，奇富科技涨5.8%，斗鱼涨7.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.32%。 XtrackersHarvest中证50（ASHS）收跌0.76%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3062148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
@@ -348,23 +439,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "伊朗货币兑人民币近一年贬值约 96%，对普通人来说这是不是时代的尘埃落在肩上？",
+          "url": "https://www.zhihu.com/question/2011836421929918474",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时48分 ~ 05时43分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9058元，较上周五夜盘收盘跌428点。成交量605.45亿美元。",
           "url": "https://wallstreetcn.com/livenews/3062115",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 04时49分]"
-        },
-        {
-          "title": "伊朗货币兑人民币近一年贬值约 96%，对普通人来说这是不是时代的尘埃落在肩上？",
-          "url": "https://www.zhihu.com/question/2011836421929918474",
-          "source": "知乎",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -381,11 +472,12 @@
           "url": "https://wallstreetcn.com/livenews/3062131",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时43分]"
         },
         {
           "title": "Natixis：建议押注美债曲线陡化，中东冲突加剧经济和供应链风险。",
@@ -410,11 +502,12 @@
           "url": "https://wallstreetcn.com/livenews/3062129",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时43分]"
         }
       ]
     }
