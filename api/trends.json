@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T18:53:28.202413+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2026-03-03T19:41:24.645385+08:00",
+  "total_titles_processed": 1711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "中国石油、中国石化、中国海油三桶油历史首次集体收盘涨停，油气板块后续走势如何？",
@@ -94,11 +94,12 @@
           "ranks": [
             4,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 19时41分]"
         },
         {
           "title": "美元指数2日大幅上涨",
@@ -194,6 +195,28 @@
           "time_info": "03时01分"
         },
         {
+          "title": "印尼财长：已就中东冲突背景下油价上涨对本国经济影响进行预测。",
+          "url": "https://flash.jin10.com/detail/20260303193443134800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "中国海油：近期国际原油市场受地缘局势、供需格局等多重因素影响，价格呈现宽幅震荡走势，短期油价波动存在较大不确定性，敬请广大投资者注意风险。",
+          "url": "https://wallstreetcn.com/livenews/3062749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "深证成指跌超3%，创业板指跌2.4%，沪指跌1.57%，全市场超4800只个股飘绿。",
           "url": "https://wallstreetcn.com/livenews/3062499",
           "source": "华尔街见闻-快讯",
@@ -266,7 +289,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -497,7 +520,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -626,7 +649,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 43,
+      "match_count": 52,
       "titles": [
         {
           "title": "国内商品期货迎涨停潮，三大期货交易所齐发风险提示",
@@ -639,11 +662,12 @@
             7,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时38分 ~ 18时53分]"
+          "appearance_count": 13,
+          "time_info": "[06时38分 ~ 19时41分]"
         },
         {
           "title": "下周一油价将迎调整",
@@ -652,11 +676,12 @@
           "ranks": [
             1,
             2,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 18时53分]"
+          "appearance_count": 9,
+          "time_info": "[12时54分 ~ 19时41分]"
         },
         {
           "title": "油价调整",
@@ -695,15 +720,15 @@
           "time_info": "13时58分"
         },
         {
-          "title": "纳斯达克100指数期货跌幅扩大至2.5%，标普500指数期货下跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3062731",
+          "title": "标普500指数期货跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3062760",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时53分"
+          "time_info": "19时41分"
         },
         {
           "title": "现货白银向下触及88美元/盎司，日内跌1.36%。",
@@ -723,9 +748,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "印尼财长：若全球油价飙升至每桶90美元，印尼财政赤字可能升至GDP的约3.6%，但将调整预算，确保赤字控制在3%以下。",
+          "url": "https://flash.jin10.com/detail/20260303193517108800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "美股股指期货跌幅扩大",
@@ -737,6 +773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "现货白银日内大跌10%，失守80美元/盎司。 现货黄金跌破5200美元/盎司，报5196.61美元/盎司，日内跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3062755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "股指期货午盘收盘",
@@ -761,6 +808,17 @@
           "time_info": "16时55分"
         },
         {
+          "title": "上期所调整燃料油期货相关合约交易限额",
+          "url": "https://wallstreetcn.com/livenews/3062753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "上期所原油期货夜盘收涨将近11%",
           "url": "https://wallstreetcn.com/livenews/3062103",
           "source": "华尔街见闻-快讯",
@@ -772,6 +830,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时49分]"
+        },
+        {
+          "title": "纳斯达克100指数期货跌幅扩大至2.5%，标普500指数期货下跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3062731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时41分]"
         },
         {
           "title": "周一（3月2日）纽约尾盘，标普500股指期货最终跌0.06%，道指期货跌0.20%，纳斯达克100股指期货跌0.02%。 罗素2000股指期货涨0.77%。",
@@ -879,6 +949,39 @@
           "time_info": "13时58分"
         },
         {
+          "title": "现货黄金失守5090美元/盎司，日内跌幅4.36%。",
+          "url": "https://flash.jin10.com/detail/20260303193201169800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "ICE柴油期货突破每吨1000美元，创2023年10月以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3062748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "现货白银日内暴跌12.00%，跌破79美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260303193118725800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "现货白银失守84美元/盎司，日内跌超6%。 沪银主力合约日内重挫10%，现报21459.00元/千克。",
           "url": "https://wallstreetcn.com/livenews/3062497",
           "source": "华尔街见闻-快讯",
@@ -934,6 +1037,17 @@
           "time_info": "13时58分"
         },
         {
+          "title": "上期能源调整原油等期货相关合约交易限额",
+          "url": "https://wallstreetcn.com/livenews/3062742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "周二亚太盘初，WTI原油期货持稳于71美元/桶附近。 美国三大股指期货、罗素2000股指期货跌0.1%。",
           "url": "https://wallstreetcn.com/livenews/3062185",
           "source": "华尔街见闻-快讯",
@@ -965,6 +1079,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "现货白银一度跌破82美元/盎司，日内大跌8%。",
+          "url": "https://wallstreetcn.com/livenews/3062738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "恒指期货夜盘收涨0.86%，报26109点，高水49点。",
@@ -1124,7 +1249,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "近十年第二次涨停！百亿资金“扫货”中石油，油气ETF全线溢价，这些份额近期陡升",
@@ -1166,6 +1291,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时36分 ~ 15时06分]"
+        },
+        {
+          "title": "欧元区通胀超预期 多重压力重塑政策逻辑",
+          "url": "https://flash.jin10.com/detail/20260303193624835800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "准油股份：公司及子公司均没有油气生产业务，也无海外业务",
@@ -1222,8 +1358,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 19时41分]"
         },
         {
           "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
@@ -1235,8 +1371,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 19时41分]"
+        },
+        {
+          "title": "【数据看盘】五家机构激烈博弈通源石油，北向资金逆势加仓晓程科技",
+          "url": "https://www.cls.cn/detail/2301372",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时41分]"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
@@ -1260,17 +1408,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        },
-        {
-          "title": "【数据看盘】五家机构激烈博弈通源石油，北向资金逆势加仓晓程科技",
-          "url": "https://www.cls.cn/detail/2301372",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "黑石集团允许投资者从私人信用基金BCRED Fund撤回7.9%的资金。",
@@ -1312,7 +1449,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -1668,8 +1805,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时51分 ~ 18时53分]"
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 19时41分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -1710,7 +1847,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "惠誉旗下研究机构：若中东局势持续，金价本周或创历史新高",
@@ -1733,6 +1870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "避险情绪转向利空 金价随降息预期降温而回落",
+          "url": "https://flash.jin10.com/detail/20260303192047395800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
