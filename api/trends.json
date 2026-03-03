@@ -1,11 +1,724 @@
 {
-  "generated_at": "2026-03-03T22:55:45.943396+08:00",
-  "total_titles_processed": 1970,
+  "generated_at": "2026-03-03T23:55:41.953634+08:00",
+  "total_titles_processed": 2062,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 63,
+      "titles": [
+        {
+          "title": "中国石油、中国石化、中国海油三桶油历史首次集体收盘涨停，油气板块后续走势如何？",
+          "url": "https://www.zhihu.com/question/2011826557338019467",
+          "source": "知乎",
+          "ranks": [
+            3,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时36分]"
+        },
+        {
+          "title": "高盛评估“伊朗冲击”：油价上涨18美元/桶，相当于霍尔木兹海峡封闭6周",
+          "url": "https://wallstreetcn.com/articles/3766481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时36分]"
+        },
+        {
+          "title": "越南VN指数下跌2%至1,808.95点。",
+          "url": "https://wallstreetcn.com/livenews/3062507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "欧洲斯托克50指数下跌3%，创4月以来最大两日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3062674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "台湾证交所加权股价指数下跌2%，至34391.65点。",
+          "url": "https://wallstreetcn.com/livenews/3062352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "黄金白银断崖式下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            22,
+            23,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时55分 ~ 21时17分]"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）富时中国A50指数成分股今日收盘行情一览：银行、炼化及贸易、航运港口板块全天表现强劲，消费电子、家电、半导体股录得下跌。",
+          "url": "https://flash.jin10.com/detail/20260303150246634800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "德国两年期国债收益率日内上涨8个基点至2.169%，较周五收盘上涨16个基点，有望创一年来最大两日涨幅。",
+          "url": "https://flash.jin10.com/detail/20260303163550624800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "黑石集团(BX.N)股价下跌7.5%，至2023年11月以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260303223236723800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "美元指数2日大幅上涨",
+          "url": "https://flash.jin10.com/detail/20260303061532268800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "美国务卿：将公布措施以缓解油价上涨问题",
+          "url": "https://flash.jin10.com/detail/20260303052735954800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时38分]"
+        },
+        {
+          "title": "澳洲联储主席布洛克：澳元上涨反映了利率差异。",
+          "url": "https://flash.jin10.com/detail/20260303060612828800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "周二开始“分阶段”推出措施，美国称有预案“缓解油价上涨”",
+          "url": "https://wallstreetcn.com/articles/3766570",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 23时55分]"
+        },
+        {
+          "title": "伊朗冲突将支撑金银价格 但分析师认为贵金属仍有下跌空间",
+          "url": "https://www.cls.cn/detail/2300782",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 18时53分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌1.1%，报382.85点，创2月5日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 Rockwool A/S跌5.3%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3062065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
+        },
+        {
+          "title": "油价飙升！白宫终于要出手了：将推出分阶段措施缓解能源成本上涨",
+          "url": "https://www.cls.cn/detail/2300640",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时55分]"
+        },
+        {
+          "title": "A股航运板块持续走强，中远海特、凤凰航运拉升封板，中远海发、南京港、招商轮船、锦江航运、中远海能、招商南油等十余只成分股涨停。",
+          "url": "https://wallstreetcn.com/livenews/3062442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月2日（周一）晚盘收盘上涨0.36%报1181.03元/克；<br/>上海黄金交易所白银T+D 3月2日（周一）晚盘收盘下跌4.69%报22388.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260303023242543800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "印尼财长：已就中东冲突背景下油价上涨对本国经济影响进行预测。",
+          "url": "https://flash.jin10.com/detail/20260303193443134800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "美股存储概念股下跌，美光科技(MU.O)下跌8%，西部数据(WDC.O)跌7.2%，希捷科技(STX.O)跌6.2%，闪迪(SNDK.O)跌5.4%。",
+          "url": "https://flash.jin10.com/detail/20260303223215225800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "中国海油：近期国际原油市场受地缘局势、供需格局等多重因素影响，价格呈现宽幅震荡走势，短期油价波动存在较大不确定性，敬请广大投资者注意风险。",
+          "url": "https://wallstreetcn.com/livenews/3062749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "恒天然：3月3日全球乳品贸易（GDT）拍卖价格指数上涨5.7%，奶粉各合同期FAS拍卖均价4,301美元/吨。 批发奶粉价格指数涨4.5%，报3,863美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3062873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "深证成指跌超3%，创业板指跌2.4%，沪指跌1.57%，全市场超4800只个股飘绿。",
+          "url": "https://wallstreetcn.com/livenews/3062499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "科创50指数跌幅扩大至4%，成份股全线下跌。",
+          "url": "https://wallstreetcn.com/livenews/3062438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "比特币下跌2.2%，以太币下跌2.43%。",
+          "url": "https://wallstreetcn.com/livenews/3062498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "美国前财长耶伦：如果油价保持高位或进一步上涨，通胀问题将会引起担忧。",
+          "url": "https://flash.jin10.com/detail/20260303011022312800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "消息人士：土耳其计划实施一项燃油补贴方案，以缓解全球油价上涨对通胀的影响。",
+          "url": "https://flash.jin10.com/detail/20260303174837176800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "英国预算责任办公室（OBR）：若2026/27年度英国股市下跌15%，将使政府2027/28年度的借款规模增加150亿英镑。",
+          "url": "https://flash.jin10.com/detail/20260303210726462800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "韩元兑美元进一步下跌，日内跌幅近3%，报1481.4。",
+          "url": "https://flash.jin10.com/detail/20260303183922866800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD自上周五以来下跌2.1%，有望创下自2022年9月以来的最大两日跌幅。",
+          "url": "https://flash.jin10.com/detail/20260303234018981800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "MSCI亚太指数下跌2%至251.89点。",
+          "url": "https://wallstreetcn.com/livenews/3062335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "印尼基准股指上涨1%，报8,096.43点。",
+          "url": "https://wallstreetcn.com/livenews/3062334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "上证指数早盘收报4179.46点，跌0.07%。 深证成指早盘收报14314.13点，跌1.05%。 创业板指早盘收报3279.71点，跌0.44%。 沪深300早盘收报4722.54点，跌0.13%。 科创50早盘收报1417.75点，跌3.21%。 中证500早盘收报8466.75点，跌2.21%。 中证1000早盘收报8324.70点，跌1.80%。",
+          "url": "https://wallstreetcn.com/livenews/3062390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "深成指跌超2%，沪指跌1.14%，创业板指跌1.33%，有色、贵金属、军工、稀土等方向跌幅居前，沪深京三市下跌个股近4600只。",
+          "url": "https://wallstreetcn.com/livenews/3062333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "A股天然气板块涨势扩大，南京公用、蓝天燃气、皖天然气、深圳燃气、佛燃能源、成都燃气、重庆燃气等多股封涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3062429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "台币兑美元下跌0.6%至31.620。",
+          "url": "https://wallstreetcn.com/livenews/3062483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "欧洲斯托克600指数下跌2%，至611.14点。",
+          "url": "https://wallstreetcn.com/livenews/3062602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "泰国托运人委员会：霍尔木兹海峡危机使一个40英尺集装箱的运费估计将从3500美元上涨至7000美元，泰国对中东的出口每月面临约333亿泰铢的损失，另有价值320亿泰铢的货物滞留在运输途中。",
+          "url": "https://flash.jin10.com/detail/20260303102451090800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "天然气板块涨势扩大，南京公用、蓝天燃气、皖天然气、深圳燃气、佛燃能源、成都燃气、重庆燃气等多股封涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3062427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "欧元兑美元下跌0.48%至1.1633，创1月19日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3062599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "英国两年期国债收益率当日上涨16个基点，至3.8%，创12月29日以来新高。",
+          "url": "https://flash.jin10.com/detail/20260303162705480800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "中东股市收盘播报｜沙特阿美收涨超1.6%，卡塔尔股市跌约4.3%，土耳其银行板块重挫约7.5%",
+          "url": "https://wallstreetcn.com/livenews/3062053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX 200指数收盘下跌1.3%，报9,077.30点。",
+          "url": "https://wallstreetcn.com/livenews/3062425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "MSCI亚太指数下跌3%至249.30点。",
+          "url": "https://wallstreetcn.com/livenews/3062480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "南非主要股指下跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3062598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "韩国KOSPI指数下跌4%。三星电子股价延续早盘跌势，最新下跌5.3%。",
+          "url": "https://flash.jin10.com/detail/20260303102223482800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "A股煤炭股午后震荡走高，陕西黑猫涨停，中煤能源、兖矿能源、兰花科创、大有能源、云煤能源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3062423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "如何应对A股指数强个股弱",
+          "url": "https://www.toutiao.com/trending/7612574683531575322/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "消息人士称，日元走势仍是日本央行加息时机的关键因素。唯一可能促使日本央行在3月18日至19日会议上加息的因素是日元大幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260303144913487800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "墨西哥主要股指下跌5%。",
+          "url": "https://flash.jin10.com/detail/20260303233336319800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "韩国首尔综合指数下跌5%，报5931.74点。",
+          "url": "https://wallstreetcn.com/livenews/3062381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "法国场外交易市场明年基准负荷电价上涨11.1%，报58欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20260303183410666800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "航空业ETF收跌超2.6%，领跌美股行业ETF，标普能源板块涨超1.9%再创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3062150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）富时中国A50指数成分股午盘收盘行情一览：石油、航运港口、银行股集体上攻，消费电子、白酒板块涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260303113633150800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "A股三大指数均跌超1%，有色、贵金属、军工、稀土等方向跌幅居前，沪深京三市下跌个股近4400只。",
+          "url": "https://wallstreetcn.com/livenews/3062323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "欧洲STOXX 600指数收跌1.65%，报623.36点。 欧元区STOXX 50指数收跌2.47%，报5987.02点，跳空低开之后，持续低位窄幅震荡。 富时泛欧绩优300指数收跌1.64%，报2487.70点。",
+          "url": "https://wallstreetcn.com/livenews/3062060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "网易港股盘中一度上涨近4%，周一公司公告称，正在评估在香港转换为“双重主要上市”地位的影响。",
+          "url": "https://wallstreetcn.com/livenews/3062376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "韩元兑美元一度下跌1.9%，至1467.8，为2月24日以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260303131643614800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "创业板指、深成指午后均跌超2%，全市场近4700只个股下跌。",
+          "url": "https://wallstreetcn.com/livenews/3062473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "欧元兑美元下跌1%至1.1693，为1月22日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3062042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：当前局势将使天然气价格小幅上涨。",
+          "url": "https://flash.jin10.com/detail/20260303024657045800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "深成指跌超1%，沪指跌0.52%，创业板指跌0.35%，有色、贵金属、军工、稀土等方向跌幅居前，沪深京三市下跌个股超3700只。",
+          "url": "https://wallstreetcn.com/livenews/3062311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "台湾证交所加权股价指数下跌1%至34731.66点。",
+          "url": "https://wallstreetcn.com/livenews/3062308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "调整 期货 现货",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "下周一油价将迎调整",
@@ -19,8 +732,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时54分 ~ 21时17分]"
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 23时55分]"
         },
         {
           "title": "国内商品期货迎涨停潮，三大期货交易所齐发风险提示",
@@ -296,6 +1009,18 @@
           "time_info": "[04时49分 ~ 05时43分]"
         },
         {
+          "title": "现货白银跌超10%",
+          "url": "https://www.toutiao.com/trending/7612069382793183251/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 23时55分]"
+        },
+        {
           "title": "能化板块涨停潮，午盘收盘多个期货品种触及涨停",
           "url": "https://flash.jin10.com/detail/20260303150144160800",
           "source": "金十数据",
@@ -395,6 +1120,28 @@
           "time_info": "17时55分"
         },
         {
+          "title": "现货黄金跌破5000美元/盎司关口，日内跌幅超过6.0%。",
+          "url": "https://wallstreetcn.com/livenews/3062867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "现货黄金大跌",
+          "url": "https://www.douyin.com/hot/2417992",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "现货金银周二高开，现分别报5334美元/盎司和89.64美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260303070055645800",
           "source": "金十数据",
@@ -466,17 +1213,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "现货白银跌超10%",
-          "url": "https://www.toutiao.com/trending/7612069382793183251/",
-          "source": "今日头条",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -694,688 +1430,8 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 60,
-      "titles": [
-        {
-          "title": "中国石油、中国石化、中国海油三桶油历史首次集体收盘涨停，油气板块后续走势如何？",
-          "url": "https://www.zhihu.com/question/2011826557338019467",
-          "source": "知乎",
-          "ranks": [
-            3,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时36分]"
-        },
-        {
-          "title": "高盛评估“伊朗冲击”：油价上涨18美元/桶，相当于霍尔木兹海峡封闭6周",
-          "url": "https://wallstreetcn.com/articles/3766481",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时36分]"
-        },
-        {
-          "title": "越南VN指数下跌2%至1,808.95点。",
-          "url": "https://wallstreetcn.com/livenews/3062507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "欧洲斯托克50指数下跌3%，创4月以来最大两日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3062674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "台湾证交所加权股价指数下跌2%，至34391.65点。",
-          "url": "https://wallstreetcn.com/livenews/3062352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "黄金白银断崖式下跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            22,
-            23,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 21时17分]"
-        },
-        {
-          "title": "金十图示：2026年03月03日（周二）富时中国A50指数成分股今日收盘行情一览：银行、炼化及贸易、航运港口板块全天表现强劲，消费电子、家电、半导体股录得下跌。",
-          "url": "https://flash.jin10.com/detail/20260303150246634800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "德国两年期国债收益率日内上涨8个基点至2.169%，较周五收盘上涨16个基点，有望创一年来最大两日涨幅。",
-          "url": "https://flash.jin10.com/detail/20260303163550624800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "黑石集团(BX.N)股价下跌7.5%，至2023年11月以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20260303223236723800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "美元指数2日大幅上涨",
-          "url": "https://flash.jin10.com/detail/20260303061532268800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "美国务卿：将公布措施以缓解油价上涨问题",
-          "url": "https://flash.jin10.com/detail/20260303052735954800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时38分]"
-        },
-        {
-          "title": "澳洲联储主席布洛克：澳元上涨反映了利率差异。",
-          "url": "https://flash.jin10.com/detail/20260303060612828800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "伊朗冲突将支撑金银价格 但分析师认为贵金属仍有下跌空间",
-          "url": "https://www.cls.cn/detail/2300782",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 18时53分]"
-        },
-        {
-          "title": "周二开始“分阶段”推出措施，美国称有预案“缓解油价上涨”",
-          "url": "https://wallstreetcn.com/articles/3766570",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 22时55分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌1.1%，报382.85点，创2月5日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 Rockwool A/S跌5.3%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3062065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时56分]"
-        },
-        {
-          "title": "油价飙升！白宫终于要出手了：将推出分阶段措施缓解能源成本上涨",
-          "url": "https://www.cls.cn/detail/2300640",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 17时55分]"
-        },
-        {
-          "title": "A股航运板块持续走强，中远海特、凤凰航运拉升封板，中远海发、南京港、招商轮船、锦江航运、中远海能、招商南油等十余只成分股涨停。",
-          "url": "https://wallstreetcn.com/livenews/3062442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月2日（周一）晚盘收盘上涨0.36%报1181.03元/克；<br/>上海黄金交易所白银T+D 3月2日（周一）晚盘收盘下跌4.69%报22388.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260303023242543800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "印尼财长：已就中东冲突背景下油价上涨对本国经济影响进行预测。",
-          "url": "https://flash.jin10.com/detail/20260303193443134800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "美股存储概念股下跌，美光科技(MU.O)下跌8%，西部数据(WDC.O)跌7.2%，希捷科技(STX.O)跌6.2%，闪迪(SNDK.O)跌5.4%。",
-          "url": "https://flash.jin10.com/detail/20260303223215225800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "中国海油：近期国际原油市场受地缘局势、供需格局等多重因素影响，价格呈现宽幅震荡走势，短期油价波动存在较大不确定性，敬请广大投资者注意风险。",
-          "url": "https://wallstreetcn.com/livenews/3062749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "深证成指跌超3%，创业板指跌2.4%，沪指跌1.57%，全市场超4800只个股飘绿。",
-          "url": "https://wallstreetcn.com/livenews/3062499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "科创50指数跌幅扩大至4%，成份股全线下跌。",
-          "url": "https://wallstreetcn.com/livenews/3062438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "比特币下跌2.2%，以太币下跌2.43%。",
-          "url": "https://wallstreetcn.com/livenews/3062498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "美国前财长耶伦：如果油价保持高位或进一步上涨，通胀问题将会引起担忧。",
-          "url": "https://flash.jin10.com/detail/20260303011022312800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "消息人士：土耳其计划实施一项燃油补贴方案，以缓解全球油价上涨对通胀的影响。",
-          "url": "https://flash.jin10.com/detail/20260303174837176800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "英国预算责任办公室（OBR）：若2026/27年度英国股市下跌15%，将使政府2027/28年度的借款规模增加150亿英镑。",
-          "url": "https://flash.jin10.com/detail/20260303210726462800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "韩元兑美元进一步下跌，日内跌幅近3%，报1481.4。",
-          "url": "https://flash.jin10.com/detail/20260303183922866800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "MSCI亚太指数下跌2%至251.89点。",
-          "url": "https://wallstreetcn.com/livenews/3062335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "印尼基准股指上涨1%，报8,096.43点。",
-          "url": "https://wallstreetcn.com/livenews/3062334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "上证指数早盘收报4179.46点，跌0.07%。 深证成指早盘收报14314.13点，跌1.05%。 创业板指早盘收报3279.71点，跌0.44%。 沪深300早盘收报4722.54点，跌0.13%。 科创50早盘收报1417.75点，跌3.21%。 中证500早盘收报8466.75点，跌2.21%。 中证1000早盘收报8324.70点，跌1.80%。",
-          "url": "https://wallstreetcn.com/livenews/3062390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "深成指跌超2%，沪指跌1.14%，创业板指跌1.33%，有色、贵金属、军工、稀土等方向跌幅居前，沪深京三市下跌个股近4600只。",
-          "url": "https://wallstreetcn.com/livenews/3062333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "A股天然气板块涨势扩大，南京公用、蓝天燃气、皖天然气、深圳燃气、佛燃能源、成都燃气、重庆燃气等多股封涨停板。",
-          "url": "https://wallstreetcn.com/livenews/3062429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "台币兑美元下跌0.6%至31.620。",
-          "url": "https://wallstreetcn.com/livenews/3062483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "欧洲斯托克600指数下跌2%，至611.14点。",
-          "url": "https://wallstreetcn.com/livenews/3062602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "泰国托运人委员会：霍尔木兹海峡危机使一个40英尺集装箱的运费估计将从3500美元上涨至7000美元，泰国对中东的出口每月面临约333亿泰铢的损失，另有价值320亿泰铢的货物滞留在运输途中。",
-          "url": "https://flash.jin10.com/detail/20260303102451090800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "天然气板块涨势扩大，南京公用、蓝天燃气、皖天然气、深圳燃气、佛燃能源、成都燃气、重庆燃气等多股封涨停板。",
-          "url": "https://wallstreetcn.com/livenews/3062427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "欧元兑美元下跌0.48%至1.1633，创1月19日以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3062599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "英国两年期国债收益率当日上涨16个基点，至3.8%，创12月29日以来新高。",
-          "url": "https://flash.jin10.com/detail/20260303162705480800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "中东股市收盘播报｜沙特阿美收涨超1.6%，卡塔尔股市跌约4.3%，土耳其银行板块重挫约7.5%",
-          "url": "https://wallstreetcn.com/livenews/3062053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "澳大利亚S&P/ASX 200指数收盘下跌1.3%，报9,077.30点。",
-          "url": "https://wallstreetcn.com/livenews/3062425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "MSCI亚太指数下跌3%至249.30点。",
-          "url": "https://wallstreetcn.com/livenews/3062480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "南非主要股指下跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3062598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "韩国KOSPI指数下跌4%。三星电子股价延续早盘跌势，最新下跌5.3%。",
-          "url": "https://flash.jin10.com/detail/20260303102223482800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "A股煤炭股午后震荡走高，陕西黑猫涨停，中煤能源、兖矿能源、兰花科创、大有能源、云煤能源跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3062423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "如何应对A股指数强个股弱",
-          "url": "https://www.toutiao.com/trending/7612574683531575322/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "消息人士称，日元走势仍是日本央行加息时机的关键因素。唯一可能促使日本央行在3月18日至19日会议上加息的因素是日元大幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260303144913487800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "韩国首尔综合指数下跌5%，报5931.74点。",
-          "url": "https://wallstreetcn.com/livenews/3062381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "法国场外交易市场明年基准负荷电价上涨11.1%，报58欧元/兆瓦时。",
-          "url": "https://flash.jin10.com/detail/20260303183410666800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "航空业ETF收跌超2.6%，领跌美股行业ETF，标普能源板块涨超1.9%再创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3062150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "金十图示：2026年03月03日（周二）富时中国A50指数成分股午盘收盘行情一览：石油、航运港口、银行股集体上攻，消费电子、白酒板块涨跌不一",
-          "url": "https://flash.jin10.com/detail/20260303113633150800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "A股三大指数均跌超1%，有色、贵金属、军工、稀土等方向跌幅居前，沪深京三市下跌个股近4400只。",
-          "url": "https://wallstreetcn.com/livenews/3062323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "欧洲STOXX 600指数收跌1.65%，报623.36点。 欧元区STOXX 50指数收跌2.47%，报5987.02点，跳空低开之后，持续低位窄幅震荡。 富时泛欧绩优300指数收跌1.64%，报2487.70点。",
-          "url": "https://wallstreetcn.com/livenews/3062060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "网易港股盘中一度上涨近4%，周一公司公告称，正在评估在香港转换为“双重主要上市”地位的影响。",
-          "url": "https://wallstreetcn.com/livenews/3062376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "韩元兑美元一度下跌1.9%，至1467.8，为2月24日以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20260303131643614800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "创业板指、深成指午后均跌超2%，全市场近4700只个股下跌。",
-          "url": "https://wallstreetcn.com/livenews/3062473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "欧元兑美元下跌1%至1.1693，为1月22日以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3062042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "摩根大通CEO戴蒙：当前局势将使天然气价格小幅上涨。",
-          "url": "https://flash.jin10.com/detail/20260303024657045800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "深成指跌超1%，沪指跌0.52%，创业板指跌0.35%，有色、贵金属、军工、稀土等方向跌幅居前，沪深京三市下跌个股超3700只。",
-          "url": "https://wallstreetcn.com/livenews/3062311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "台湾证交所加权股价指数下跌1%至34731.66点。",
-          "url": "https://wallstreetcn.com/livenews/3062308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "近十年第二次涨停！百亿资金“扫货”中石油，油气ETF全线溢价，这些份额近期陡升",
@@ -1428,8 +1484,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时55分 ~ 22时55分]"
+          "appearance_count": 7,
+          "time_info": "[16时55分 ~ 23时55分]"
         },
         {
           "title": "欧元区通胀超预期 多重压力重塑政策逻辑",
@@ -1463,6 +1519,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "【数据看盘】五家机构激烈博弈通源石油，北向资金逆势加仓晓程科技",
+          "url": "https://www.cls.cn/detail/2301372",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 23时55分]"
         },
         {
           "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
@@ -1501,19 +1571,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时38分]"
-        },
-        {
-          "title": "【数据看盘】五家机构激烈博弈通源石油，北向资金逆势加仓晓程科技",
-          "url": "https://www.cls.cn/detail/2301372",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 22时55分]"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
@@ -1572,13 +1629,24 @@
           "time_info": "05时43分"
         },
         {
+          "title": "尾盘资金逆市加仓股出炉",
+          "url": "https://www.toutiao.com/trending/7612651695729917995/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美国银行分析师迈克尔·哈特尼特：美国的贸易政策正在塑造一个新的世界秩序。",
           "url": "https://flash.jin10.com/detail/20260303221834081800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -1592,6 +1660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：如果通胀像预期的那样下降，则FOMC有必要进一步降息。 货币政策目前情况良好。 就业和通胀面临的风险处于更好的平衡状态。",
+          "url": "https://wallstreetcn.com/livenews/3062854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "乌克兰总理：今天，乌克兰已收到国际货币基金组织（IMF）在新一轮为期四年的“扩展基金安排”项目下发放的首笔款项。15亿美元已划入国家预算，用于为优先支出提供资金支持并维护宏观金融稳定。该项目的总规模为81亿美元。",
@@ -1630,7 +1709,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -1705,6 +1784,18 @@
           "time_info": "[01时01分 ~ 03时01分]"
         },
         {
+          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2301690",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时55分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
           "url": "https://wallstreetcn.com/livenews/3062168",
           "source": "华尔街见闻-快讯",
@@ -1770,18 +1861,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2301690",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -1792,7 +1872,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -1850,6 +1930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "全球航空业ETF跌4.22%，半导体ETF跌4.03%，在美股盘初领跌行业ETF，全球科技股指数ETF跌3.24%，科技行业ETF跌2.13%，能源业ETF涨0.90%。 标普500能源指数高开0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3062849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         }
       ]
     },
@@ -1935,7 +2026,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "TheShy 乒乓球略懂",
@@ -1975,6 +2066,17 @@
           "time_info": "[05时43分 ~ 06时38分]"
         },
         {
+          "title": "纳斯达克金龙中国指数盘初跌3.55%。 中概股金山云跌9.44%，小鹏跌7.42%，再鼎医药、晶科能源、蔚来汽车至少跌5.02%，新东方、大全新能源、阿里巴巴至少跌4.83%。 ETF中，ASHS跌5.64%，CQQQ跌5.39%，KWEB跌3.21%，ASHS跌3.02%。",
+          "url": "https://wallstreetcn.com/livenews/3062847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "隔夜SHIBOR报1.2670%，下降4.80个基点。 7天SHIBOR报1.4480%，下降1.80个基点。 3个月SHIBOR报1.5650%，下降0.28个基点。",
           "url": "https://wallstreetcn.com/livenews/3062371",
           "source": "华尔街见闻-快讯",
@@ -1984,6 +2086,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "惠誉旗下研究机构：若中东局势持续，金价本周或创历史新高",
+          "url": "https://flash.jin10.com/detail/20260303114847241800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）上海金早盘价为1187.3元/克，较国际金价(1184.25元/克)，高3.05元/克",
+          "url": "https://flash.jin10.com/detail/20260303102010236800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "避险情绪转向利空 金价随降息预期降温而回落",
+          "url": "https://flash.jin10.com/detail/20260303192047395800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "金价银价断崖式跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         }
       ]
     },
@@ -2000,8 +2152,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时51分 ~ 22时55分]"
+          "appearance_count": 14,
+          "time_info": "[10时51分 ~ 23时55分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -2041,48 +2193,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "美元",
       "match_count": 3,
       "titles": [
         {
-          "title": "惠誉旗下研究机构：若中东局势持续，金价本周或创历史新高",
-          "url": "https://flash.jin10.com/detail/20260303114847241800",
-          "source": "金十数据",
+          "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "23时55分"
         },
-        {
-          "title": "金十图示：2026年03月03日（周二）上海金早盘价为1187.3元/克，较国际金价(1184.25元/克)，高3.05元/克",
-          "url": "https://flash.jin10.com/detail/20260303102010236800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "避险情绪转向利空 金价随降息预期降温而回落",
-          "url": "https://flash.jin10.com/detail/20260303192047395800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
         {
           "title": "美元指数涨0.8%",
           "url": "https://wallstreetcn.com/livenews/3062129",
