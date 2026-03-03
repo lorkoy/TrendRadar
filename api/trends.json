@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T17:55:40.019194+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-03-03T18:53:28.202413+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "中国石油、中国石化、中国海油三桶油历史首次集体收盘涨停，油气板块后续走势如何？",
@@ -50,7 +50,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -86,6 +86,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        },
+        {
+          "title": "黄金白银断崖式下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 18时53分]"
         },
         {
           "title": "美元指数2日大幅上涨",
@@ -124,18 +137,6 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
-          "title": "黄金白银断崖式下跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 17时55分]"
-        },
-        {
           "title": "伊朗冲突将支撑金银价格 但分析师认为贵金属仍有下跌空间",
           "url": "https://www.cls.cn/detail/2300782",
           "source": "财联社热门",
@@ -144,8 +145,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 18时53分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌1.1%，报382.85点，创2月5日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 Rockwool A/S跌5.3%，在一众北欧个股里表现最差。",
@@ -232,7 +233,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -254,9 +255,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "韩元兑美元进一步下跌，日内跌幅近3%，报1481.4。",
+          "url": "https://flash.jin10.com/detail/20260303183922866800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "MSCI亚太指数下跌2%至251.89点。",
@@ -479,6 +491,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "法国场外交易市场明年基准负荷电价上涨11.1%，报58欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20260303183410666800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "航空业ETF收跌超2.6%，领跌美股行业ETF，标普能源板块涨超1.9%再创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3062150",
           "source": "华尔街见闻-快讯",
@@ -603,20 +626,8 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
-        {
-          "title": "下周一油价将迎调整",
-          "url": "https://www.toutiao.com/trending/7612638678180429830/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时54分 ~ 17时55分]"
-        },
         {
           "title": "国内商品期货迎涨停潮，三大期货交易所齐发风险提示",
           "url": "https://m.thepaper.cn/newsDetail_forward_32685253",
@@ -627,11 +638,25 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时38分 ~ 17时55分]"
+          "appearance_count": 12,
+          "time_info": "[06时38分 ~ 18时53分]"
+        },
+        {
+          "title": "下周一油价将迎调整",
+          "url": "https://www.toutiao.com/trending/7612638678180429830/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时54分 ~ 18时53分]"
         },
         {
           "title": "油价调整",
@@ -640,11 +665,12 @@
           "ranks": [
             9,
             2,
-            5
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时54分 ~ 17时55分]"
+          "appearance_count": 8,
+          "time_info": "[12时54分 ~ 18时53分]"
         },
         {
           "title": "WTI 4月原油期货收报71.23美元/桶。 NYMEX 3月天然气期货收报2.96美元/百万英热单位。 NYMEX 3月汽油期货收报2.3706美元/加仑，NYMEX 3月取暖油期货收报2.9004美元/加仑。",
@@ -669,6 +695,17 @@
           "time_info": "13时58分"
         },
         {
+          "title": "纳斯达克100指数期货跌幅扩大至2.5%，标普500指数期货下跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3062731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "现货白银向下触及88美元/盎司，日内跌1.36%。",
           "url": "https://flash.jin10.com/detail/20260303134954402800",
           "source": "金十数据",
@@ -678,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "现货白银日内暴跌8%",
+          "url": "https://flash.jin10.com/detail/20260303184805770800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "美股股指期货跌幅扩大",
@@ -859,7 +907,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1035,7 +1083,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1057,7 +1105,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1076,7 +1124,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "近十年第二次涨停！百亿资金“扫货”中石油，油气ETF全线溢价，这些份额近期陡升",
@@ -1126,7 +1174,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1174,8 +1222,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 18时53分]"
+        },
+        {
+          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 18时53分]"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
@@ -1190,18 +1251,6 @@
           "time_info": "[01时56分 ~ 03时01分]"
         },
         {
-          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 17时55分]"
-        },
-        {
           "title": "AI推理芯片打开市场空间，市场人士：PCB产业链涨价或持续",
           "url": "https://wallstreetcn.com/livenews/3062191",
           "source": "华尔街见闻-快讯",
@@ -1211,6 +1260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "【数据看盘】五家机构激烈博弈通源石油，北向资金逆势加仓晓程科技",
+          "url": "https://www.cls.cn/detail/2301372",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "黑石集团允许投资者从私人信用基金BCRED Fund撤回7.9%的资金。",
@@ -1244,6 +1304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "欧洲央行管委Stournaras：鉴于伊朗局势，欧洲央行应保持灵活性。 通胀和增长的影响取决于冲突持续时间。 本次冲突是又一次严重的供应端冲击。 不急于改变政策，但欧洲央行保持警惕。",
+          "url": "https://wallstreetcn.com/livenews/3062701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "乌克兰总理：今天，乌克兰已收到国际货币基金组织（IMF）在新一轮为期四年的“扩展基金安排”项目下发放的首笔款项。15亿美元已划入国家预算，用于为优先支出提供资金支持并维护宏观金融稳定。该项目的总规模为81亿美元。",
@@ -1524,7 +1595,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
@@ -1597,8 +1668,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时51分 ~ 17时55分]"
+          "appearance_count": 10,
+          "time_info": "[10时51分 ~ 18时53分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
