@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T13:54:22.834787+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-03-04T15:02:15.190340+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "周二开始“分阶段”推出措施，美国称有预案“缓解油价上涨”",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -194,7 +194,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -293,7 +293,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -331,6 +331,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "新台币兑美元下跌0.5%至31.768。",
+          "url": "https://wallstreetcn.com/livenews/3063386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "韩国KOSDAQ指数下跌13%。",
           "url": "https://flash.jin10.com/detail/20260304113735974800",
           "source": "金十数据",
@@ -356,7 +367,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "下周一油价将迎调整",
@@ -393,11 +404,12 @@
           "ranks": [
             11,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时36分 ~ 13时54分]"
+          "appearance_count": 8,
+          "time_info": "[07时36分 ~ 15时02分]"
         },
         {
           "title": "标普500指数期货跌0.5%。",
@@ -493,13 +505,24 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
+          "title": "日本央行行长植田和男：若市场认为短期利率不会以适当步伐调整，并可能导致通胀超调，则长期利率存在超调风险。",
+          "url": "https://flash.jin10.com/detail/20260304145457405800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "泰国SET指数暴跌8%，触发停牌。 泰国期货交易所宣布，临时暂停指数期货、指数期权和单一股票期货的交易。",
           "url": "https://wallstreetcn.com/livenews/3063345",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -510,7 +533,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -546,6 +569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "拜耳第四季度销售额114.4亿欧元，预估113.5亿欧元。 第四季度调整后EBITDA 19.7亿欧元，预估19亿欧元。 第四季度经调整EBITDA利润率 17.2％，预估17.3％。 拜耳预计2026年负自由现金流15亿欧元至25亿欧元，市场预估负17.3亿欧元。 拜耳预计2026年核心每股收益4.30欧元至4.80欧元，市场预估4.62欧元。",
+          "url": "https://wallstreetcn.com/livenews/3063408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "中证500股指期货（IC）主力合约日内涨幅扩大至1.00%，现报8353.8点。",
@@ -628,7 +662,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "【数据看盘】五家机构激烈博弈通源石油，北向资金逆势加仓晓程科技",
@@ -648,11 +682,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 13时54分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 15时02分]"
         },
         {
           "title": "【焦点复盘】市场再现极致分化行情，资金持续抱团涨价概念，中国石油时隔17年再度收获2连板",
@@ -677,6 +712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "日本央行行长植田和男：清晰的经济和货币政策信息是维持长期利率稳定的关键。",
+          "url": "https://flash.jin10.com/detail/20260304145824497800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "欧洲央行管委Kazaks：更长长期周期的能源价格偏高，通胀面临更多风险。 稍晚可能会需要采取政策行动，但目前不需要。（彭博）",
@@ -742,9 +788,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "官员表示，韩国总统政策首席顾问将于周三就中东局势举行会议。",
+          "url": "https://flash.jin10.com/detail/20260304144049576800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "大会发言人：党和国家促进民营经济发展的基本方针政策不能变也不会变",
@@ -753,7 +810,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -764,7 +821,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -778,6 +835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "日本财务大臣重申政策选项包括外汇干预，日元小幅走高",
+          "url": "https://wallstreetcn.com/livenews/3063383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
@@ -794,8 +862,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时36分 ~ 13时54分]"
+          "appearance_count": 8,
+          "time_info": "[07时36分 ~ 15时02分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -995,8 +1063,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时44分 ~ 13时54分]"
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 15时02分]"
         },
         {
           "title": "美债收益率在亚欧时段走高，美股开盘前后回吐涨幅",
