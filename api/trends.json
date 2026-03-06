@@ -1,34 +1,48 @@
 {
-  "generated_at": "2026-03-06T13:54:43.988854+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-03-06T15:03:26.186430+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "国内成品油价格将迎调整",
+          "url": "https://www.toutiao.com/trending/7612957935588720691/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 15时03分]"
+        },
+        {
+          "title": "史无前例！美国要亲自下场“操盘”原油期货，美财长贝森特要“重操旧业”？",
+          "url": "https://wallstreetcn.com/articles/3766858",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 15时03分]"
+        },
         {
           "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
           "url": "https://wallstreetcn.com/articles/3766831",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 13时54分]"
-        },
-        {
-          "title": "国内成品油价格将迎调整",
-          "url": "https://www.toutiao.com/trending/7612957935588720691/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 15时03分]"
         },
         {
           "title": "芝加哥商品交易所（CME）：将其COMEX 100黄金期货的初始保证金由9%下调至7%。COMEX 5000白银期货的初始保证金由18%下调至14%。",
@@ -59,21 +73,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
-        },
-        {
-          "title": "史无前例！美国要亲自下场“操盘”原油期货，美财长贝森特要“重操旧业”？",
-          "url": "https://wallstreetcn.com/articles/3766858",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时54分]"
         },
         {
           "title": "芝商所（CME）将其COMEX 100黄金期货的初始保证金由9%下调至7%",
@@ -93,7 +95,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -125,11 +127,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 15时03分]"
         },
         {
           "title": "美国内政部长伯古姆：正在考虑所有选项，包括购买石油期货。",
@@ -188,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "欧洲Stoxx 50指数期货上涨1%，德国DAX指数期货上涨0.8%，英国富时100指数期货上涨0.47%。",
+          "url": "https://wallstreetcn.com/livenews/3064924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "定价文件显示，沙特将4月份对西北欧出口的阿拉伯轻质原油官方售价定为较伦敦布伦特期货结算价每桶升水2.85美元。",
@@ -278,6 +292,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "日本央行副行长冰见野良三：从消费价格上涨的角度看，日本正处于通胀之中。 至于日本是否已完全走出通缩，这取决于政府的判断。 日本央行将维持宽松的货币环境，并逐步调整货币宽松的程度。 核心通胀正向着央行2%的目标逐渐加速。 将继续密切审视市场动向及其对经济和物价的影响。 日元走软是推高价格的一个因素。 货币政策旨在稳定物价。货币政策并非旨在控制外汇。 外汇是影响价格和增长的关键因素。",
+          "url": "https://wallstreetcn.com/livenews/3064904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20260306113116549800",
           "source": "金十数据",
@@ -325,7 +350,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -419,13 +444,24 @@
           "time_info": "10时45分"
         },
         {
+          "title": "A股有机硅概念震荡拉升，晨光新材涨停，宏柏新材、硅宝科技、集泰股份、回天新材、东岳硅材跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3064927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "美国将宣布应对油价上涨的措施",
           "url": "https://www.toutiao.com/trending/7613540080673734710/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -452,6 +488,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "油价即将上涨",
+          "url": "https://www.douyin.com/hot/2420731",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "上证指数早盘收报4118.68点，涨0.25%。 深证成指早盘收报14201.73点，涨0.80%。 创业板指早盘收报3244.32点，涨0.85%。 沪深300早盘收报4656.81点，涨0.20%。 科创50早盘收报1415.90点，涨0.75%。 中证500早盘收报8390.78点，涨0.98%。 中证1000早盘收报8270.91点，涨1.22%。",
           "url": "https://wallstreetcn.com/livenews/3064846",
           "source": "华尔街见闻-快讯",
@@ -469,7 +516,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -502,7 +549,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -568,9 +615,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "迪拜主要股指早盘下跌2%。",
+          "url": "https://flash.jin10.com/detail/20260306140354251800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "韩国首尔综指跌幅再次扩大至3%。 MSCI亚太指数下跌1%。",
@@ -587,7 +645,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "【焦点复盘】市场全天现普涨反弹，电网设备板块强势依旧，量子科技等未来产业轮动活跃",
@@ -613,17 +671,6 @@
           "time_info": "02时15分"
         },
         {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20260306104048839800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
           "title": "据华尔街日报：美国官员向美国国会提出相关请求，并督促国防承包商加快生产关键导弹及其他武器。新的美国资金将用于采购“爱国者”、 “战斧”和“萨德”导弹系统。",
           "url": "https://flash.jin10.com/detail/20260306064721671800",
           "source": "金十数据",
@@ -633,6 +680,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "最全剖析！霍尔木兹海峡长期封锁下 十大产业链危机脉络梳理",
+          "url": "https://www.cls.cn/detail/2304733",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 15时03分]"
         },
         {
           "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
@@ -658,16 +717,39 @@
           "time_info": "[10时45分 ~ 12时49分]"
         },
         {
-          "title": "最全剖析！霍尔木兹海峡长期封锁下 十大产业链危机脉络梳理",
-          "url": "https://www.cls.cn/detail/2304733",
-          "source": "财联社热门",
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260306104048839800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            5
+            3,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时54分]"
+          "time_info": "[10时45分 ~ 15时03分]"
+        },
+        {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 15时03分]"
+        },
+        {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 15时03分]"
         },
         {
           "title": "促内需转向“财金联动” 新型政策性金融工具较上年增3000亿元 扩投资政策力度加码",
@@ -680,29 +762,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时57分 ~ 07时11分]"
-        },
-        {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时54分]"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时54分]"
         },
         {
           "title": "全美超20州就美政府新的全球关税政策提起诉讼",
@@ -751,13 +810,35 @@
           "time_info": "07时11分"
         },
         {
+          "title": "日本财务大臣片山皋月：不能说没有重回通缩的可能性。 货币政策并非旨在引导外汇。 市场正出现剧烈波动，因此我们将在与海外当局密切沟通的同时，灵活果断地做出应对。 日本央行的货币政策旨在实现物价稳定，而非操纵汇率。",
+          "url": "https://wallstreetcn.com/livenews/3064905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：将继续作出适当政策决策，以实现稳定、可持续的2%通胀目标。",
+          "url": "https://flash.jin10.com/detail/20260306140704070800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "国家金融监管总局局长李云泽：撬动社会资金补充银行资本",
           "url": "https://wallstreetcn.com/livenews/3064875",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -779,6 +860,18 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
+          "url": "https://www.cls.cn/detail/2304478",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 15时03分]"
+        },
+        {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2304327",
           "source": "财联社热门",
@@ -791,18 +884,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时14分 ~ 13时54分]"
-        },
-        {
-          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
-          "url": "https://www.cls.cn/detail/2304478",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 13时54分]"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -982,8 +1063,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 15时03分]"
         },
         {
           "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
