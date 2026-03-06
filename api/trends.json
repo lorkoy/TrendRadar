@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T10:45:41.508510+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-03-06T12:49:17.914274+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "芝加哥商品交易所（CME）：将其COMEX 100黄金期货的初始保证金由9%下调至7%。COMEX 5000白银期货的初始保证金由18%下调至14%。",
@@ -58,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -71,8 +71,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 12时49分]"
+        },
+        {
+          "title": "史无前例！美国要亲自下场“操盘”原油期货，美财长贝森特要“重操旧业”？",
+          "url": "https://wallstreetcn.com/articles/3766858",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时11分 ~ 10时45分]"
+          "time_info": "[10时45分 ~ 12时49分]"
         },
         {
           "title": "美国内政部长伯古姆：正在考虑所有选项，包括购买石油期货。",
@@ -111,26 +123,26 @@
           "time_info": "[03时57分 ~ 04时50分]"
         },
         {
-          "title": "史无前例！美国要亲自下场“操盘”原油期货，美财长贝森特要“重操旧业”？",
-          "url": "https://wallstreetcn.com/articles/3766858",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
           "title": "金十期货3月6日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格与上日持平，中间价报154800元/吨。",
           "url": "https://flash.jin10.com/detail/20260306103501607800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "现货钯金日内涨幅达2.00%，现报1664.91美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260306120424074800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "定价文件显示，沙特将4月份对西北欧出口的阿拉伯轻质原油官方售价定为较伦敦布伦特期货结算价每桶升水2.85美元。",
@@ -150,7 +162,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -161,9 +173,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.05%，10年期主力合约跌0.00%，5年期主力合约与昨日持平，2年期主力合约与昨日持平。",
+          "url": "https://wallstreetcn.com/livenews/3064843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "现货白银上涨3%，至84.64美元/盎司。 现货黄金涨1.12%，至5138.55美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3064839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "恒指期货夜盘收跌0.6%，报25037点，低水284点。",
@@ -194,9 +228,53 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "富时中国A50指数期货转涨，早盘一度跌0.88%。",
+          "url": "https://wallstreetcn.com/livenews/3064831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260306113116549800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260306113112675800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，烧碱、纯苯、苯乙烯（EB）触及涨停，合成橡胶、菜粕、沥青、低硫燃料油（LU）涨超3%，聚氯乙烯（PVC）、豆粕涨近3%，丙烯、乙二醇（EG）、碳酸锂、豆二、聚丙烯（PP）涨超2%。跌幅方面，集运欧线跌超5%，多晶硅跌超3%，SC原油、苹果跌近2%。",
+          "url": "https://flash.jin10.com/detail/20260306113100172800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.05%，10年期主力合约涨0.05%，5年期主力合约涨0.04%，2年期主力合约与昨日持平。",
@@ -205,7 +283,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         }
@@ -213,7 +291,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -247,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "五年期日本国债收益率下跌0.5个基点，至1.615%。",
+          "url": "https://flash.jin10.com/detail/20260306121035880800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "国际原油结算价大幅上涨",
@@ -291,7 +380,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -307,15 +396,59 @@
           "time_info": "02时15分"
         },
         {
+          "title": "印度Nifty 50指数下跌0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3064852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "上证指数早盘收报4118.68点，涨0.25%。 深证成指早盘收报14201.73点，涨0.80%。 创业板指早盘收报3244.32点，涨0.85%。 沪深300早盘收报4656.81点，涨0.20%。 科创50早盘收报1415.90点，涨0.75%。 中证500早盘收报8390.78点，涨0.98%。 中证1000早盘收报8270.91点，涨1.22%。",
+          "url": "https://wallstreetcn.com/livenews/3064846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "A股算力租赁概念震荡走强，美利云2连板，城地香江涨停，中贝通信、海天瑞声、云赛智联、铜牛信息跟涨。",
           "url": "https://wallstreetcn.com/livenews/3064779",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "金十图示：2026年03月06日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、证券板块涨跌互现，炼化贸易、煤炭、航运港口板块下跌",
+          "url": "https://flash.jin10.com/detail/20260306113411283800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3190%，上涨5.20个基点。 7天SHIBOR报1.4120%，上涨0.00个基点。 3个月SHIBOR报1.5548%，下降0.32个基点。",
+          "url": "https://wallstreetcn.com/livenews/3064829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "美国总统特朗普：目前汽油价格并未大幅上涨；霍尔木兹海峡将保持开放。",
@@ -335,7 +468,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -346,7 +479,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -368,7 +501,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         }
@@ -376,7 +509,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "【焦点复盘】市场全天现普涨反弹，电网设备板块强势依旧，量子科技等未来产业轮动活跃",
@@ -408,18 +541,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "政府工作报告提出培育发展未来能源、量子科技、具身智能、脑机接口、 6G 等未来产业，行业将迎来哪些利好？",
-          "url": "https://www.zhihu.com/question/2011177014359513086",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -433,6 +555,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
+          "url": "https://flash.jin10.com/detail/20260306120949776800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "政府工作报告提出培育发展未来能源、量子科技、具身智能、脑机接口、 6G 等未来产业，行业将迎来哪些利好？",
+          "url": "https://www.zhihu.com/question/2011177014359513086",
+          "source": "知乎",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时49分]"
         },
         {
           "title": "促内需转向“财金联动” 新型政策性金融工具较上年增3000亿元 扩投资政策力度加码",
@@ -460,6 +605,29 @@
           "time_info": "[03时57分 ~ 05时45分]"
         },
         {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时49分]"
+        },
+        {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时49分]"
+        },
+        {
           "title": "据媒体报道，美国十二个州预计将提起诉讼，以阻止特朗普最新实施的全球关税政策。 美股延续跌势，标普500指数跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3064618",
           "source": "华尔街见闻-快讯",
@@ -482,26 +650,15 @@
           "time_info": "07时11分"
         },
         {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
+          "title": "最全剖析！霍尔木兹海峡长期封锁下 十大产业链危机脉络梳理",
+          "url": "https://www.cls.cn/detail/2304733",
           "source": "财联社热门",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "12时49分"
         },
         {
           "title": "增量资金涌入权益类ETF，2天净流入近380亿元",
@@ -541,8 +698,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时14分 ~ 10时45分]"
+          "appearance_count": 8,
+          "time_info": "[02时14分 ~ 12时49分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -553,8 +710,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 10时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 12时49分]"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -673,6 +830,45 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据库尔德媒体RUDAW：遭无人机袭击后，由美国HKN能源公司运营的库尔德SARSANG油田已经停产。",
+          "url": "https://flash.jin10.com/detail/20260306050314803800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "为什么除 Faker 外夺冠的韩国中单选手如此多，却只有 Showmaker 在国内有如此高的人气呢？",
+          "url": "https://www.zhihu.com/question/2011146957666607551",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "据库尔德媒体Rudaw English：巴士拉警方称，一架美国飞机在伊拉克巴士拉省坠毁，官员们正在寻找飞行员。",
+          "url": "https://flash.jin10.com/detail/20260306044314713800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -694,9 +890,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时49分]"
         },
         {
           "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
@@ -704,34 +900,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据库尔德媒体RUDAW：遭无人机袭击后，由美国HKN能源公司运营的库尔德SARSANG油田已经停产。",
-          "url": "https://flash.jin10.com/detail/20260306050314803800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "据库尔德媒体Rudaw English：巴士拉警方称，一架美国飞机在伊拉克巴士拉省坠毁，官员们正在寻找飞行员。",
-          "url": "https://flash.jin10.com/detail/20260306044314713800",
-          "source": "金十数据",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -769,7 +937,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         }
