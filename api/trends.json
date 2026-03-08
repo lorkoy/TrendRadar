@@ -1,33 +1,141 @@
 {
-  "generated_at": "2026-03-09T06:34:26.600441+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-03-09T07:33:44.931150+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美国天然气期货日内上涨6.00%，现报3.379美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260309073134650800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "现货黄金跌破5100美元/盎司，日内下跌1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3065951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
         {
           "title": "美股股指期货跌幅扩大至2%",
           "url": "https://flash.jin10.com/detail/20260309062453185800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
         },
         {
           "title": "CME日经225指数期货跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3065936",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
+          "title": "WTI原油期货日内暴涨19.00%，现报108.22美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260309060922359800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
+          "title": "现货黄金亚市盘初冲高回落，在触及5192.04美元/盎司后快速走低，最低触及5120.98美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3065932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
+          "title": "现货黄金周一高开，最高至5197.85美元/盎司，现回落至5120美元/盎司附近；现货白银小幅高开，最高逼近85美元/盎司，现回落近2美元，跌破83美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260309060829060800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
+          "title": "美国三大股指期货全线下挫，道指期货跌2%，标普500、纳斯达克100指数期货现跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3065930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
+          "title": "WTI原油期货涨破100美元关口，为2002年7月来首次，日内涨超10%。 布伦特原油期货亚市盘初也突破100美元关口，报102.20美元/盎司，日内涨幅10%。",
+          "url": "https://wallstreetcn.com/livenews/3065929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
+          "title": "美国10年期国债期货下跌10个点，30年期国债期货下跌19个点。",
+          "url": "https://flash.jin10.com/detail/20260309060410042800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
+          "title": "澳大利亚三年期国债期货下跌，暗示三年期澳债收益率将（在悉尼开盘时）涨8.5个基点。",
+          "url": "https://wallstreetcn.com/livenews/3065926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
         },
         {
           "title": "WTI原油期货大涨逾20%，突破110美元关口，最高报111.24美元。",
@@ -36,86 +144,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
         {
-          "title": "WTI原油期货日内暴涨19.00%，现报108.22美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260309060922359800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "现货黄金亚市盘初冲高回落，在触及5192.04美元/盎司后快速走低，最低触及5120.98美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3065932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "现货黄金周一高开，最高至5197.85美元/盎司，现回落至5120美元/盎司附近；现货白银小幅高开，最高逼近85美元/盎司，现回落近2美元，跌破83美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260309060829060800",
+          "title": "现货黄金跌破5100美元/盎司，日内跌1.45%。",
+          "url": "https://flash.jin10.com/detail/20260309071119906800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时34分"
+          "time_info": "07时33分"
         },
         {
-          "title": "美国三大股指期货全线下挫，道指期货跌2%，标普500、纳斯达克100指数期货现跌1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3065930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "WTI原油期货涨破100美元关口，为2002年7月来首次，日内涨超10%。 布伦特原油期货亚市盘初也突破100美元关口，报102.20美元/盎司，日内涨幅10%。",
-          "url": "https://wallstreetcn.com/livenews/3065929",
+          "title": "现货黄金日内跌超1.1%，现报5113.11美元/盎司。 现货白银跌超2%，报82.48美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3065946",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "美国10年期国债期货下跌10个点，30年期国债期货下跌19个点。",
-          "url": "https://flash.jin10.com/detail/20260309060410042800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "澳大利亚三年期国债期货下跌，暗示三年期澳债收益率将（在悉尼开盘时）涨8.5个基点。",
-          "url": "https://wallstreetcn.com/livenews/3065926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
+          "time_info": "07时33分"
         },
         {
           "title": "美股三大股指期货周一全线低开，均跌1%。",
@@ -124,16 +177,52 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "美国天然气期货价格创一个月新高",
+          "url": "https://wallstreetcn.com/livenews/3065940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "WTI原油期货大涨22%，突破110美元关口，最高报111.24美元/桶。 布伦特原油期货大涨20%，至每桶111.04美元。此前，更多中东主要产油国削减产量。",
+          "url": "https://wallstreetcn.com/livenews/3065933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "广东代表从包里掏出个“百亿产业”",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BB%A3%E8%A1%A8%E4%BB%8E%E5%8C%85%E9%87%8C%E6%8E%8F%E5%87%BA%E4%B8%AA%E2%80%9C%E7%99%BE%E4%BA%BF%E4%BA%A7%E4%B8%9A%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时48分 ~ 07时33分]"
+        },
         {
           "title": "美国能源部长Wright：（美西方）对俄罗斯石油的（制裁）政策没有变化。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3065891",
@@ -148,19 +237,6 @@
           "time_info": "[00时40分 ~ 05时33分]"
         },
         {
-          "title": "广东代表从包里掏出个“百亿产业”",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BB%A3%E8%A1%A8%E4%BB%8E%E5%8C%85%E9%87%8C%E6%8E%8F%E5%87%BA%E4%B8%AA%E2%80%9C%E7%99%BE%E4%BA%BF%E4%BA%A7%E4%B8%9A%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时48分 ~ 06时34分]"
-        },
-        {
           "title": "据日经新闻：日本经济产业省与丹麦风力发电公司维斯塔斯将于周一签署谅解备忘录，维斯塔斯将在日本建造风力涡轮机。",
           "url": "https://flash.jin10.com/detail/20260309043609694800",
           "source": "金十数据",
@@ -170,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "香港特区财政司长：在地缘政治局势驱动下，不少美国资金入港避险",
+          "url": "https://wallstreetcn.com/livenews/3065943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "广东代表从包里掏出个“百亿产业”",
@@ -228,8 +315,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时33分]"
         },
         {
           "title": "《SHIT》刷屏,学术狗屎炸出圈",
@@ -241,8 +328,53 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数升至99.5 非美货币承压走低",
+          "url": "https://flash.jin10.com/detail/20260309072930169800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美元指数DXY突破99，日内涨0.45%。",
+          "url": "https://flash.jin10.com/detail/20260309051918705800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "离岸人民币兑美元跌破6.92，日内跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260309072334263800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
@@ -256,28 +388,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 06时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY突破99，日内涨0.45%。",
-          "url": "https://flash.jin10.com/detail/20260309051918705800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
+          "appearance_count": 10,
+          "time_info": "[01时31分 ~ 07时33分]"
         }
       ]
     }
