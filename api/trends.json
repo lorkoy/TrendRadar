@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-11T05:46:10.471359+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-03-11T06:38:05.553250+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
       "match_count": 19,
       "titles": [
+        {
+          "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾4500股飘红，CPO等算力硬件股集体爆发",
+          "url": "https://www.cls.cn/detail/2308512",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 06时38分]"
+        },
         {
           "title": "非洲股市收盘播报｜周二（3月10日），南非富时/JSE非洲领先40可交易指数收涨2.60%，逼近11.2万点，跳空高开之后，持续高位震荡。 毛里求斯证交所SEMDEX指数收跌0.05%，尼日利亚证交所全部股指收跌0.57%，肯尼亚内罗毕证交所全股指数收跌0.13%。",
           "url": "https://wallstreetcn.com/livenews/3067432",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾4500股飘红，CPO等算力硬件股集体爆发",
-          "url": "https://www.cls.cn/detail/2308512",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 05时46分]"
         },
         {
           "title": "标普500指数的11个板块中，能源板块收跌1.32%，金融板块跌0.55%，信息技术/科技板块则收涨0.08%，电信板块涨0.26%。",
@@ -92,7 +92,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
@@ -221,7 +221,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -247,17 +247,6 @@
           "time_info": "00时10分"
         },
         {
-          "title": "周二（3月10日）纽约尾盘，标普500股指期货最终跌0.06%，道指期货跌0.01%，纳斯达克100股指期货涨0.07%。 罗素2000股指期货跌0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3067578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
           "title": "WTI 4月原油期货收跌11.32美元，跌幅11.94%，报83.45美元/桶。 中东Abu Dhabi Murban原油期货跌13.68%，报95.10美元/桶。 NYMEX 4月天然气期货收报3.02美元/百万英热单位。 NYMEX 4月汽油期货收报2.6403美元/加仑，NYMEX 3月取暖油期货收报3.3466美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3067518",
           "source": "华尔街见闻-快讯",
@@ -267,6 +256,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "周二（3月10日）纽约尾盘，标普500股指期货最终跌0.06%，道指期货跌0.01%，纳斯达克100股指期货涨0.07%。 罗素2000股指期货跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3067578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时38分]"
         },
         {
           "title": "甲骨文第三财季调整后营收171.9亿美元，分析师预期168.9亿美元。 第三财季云基础设施营收（IAAS）为49亿美元，分析师预期47.4亿美元。 第三财季云营收（IAAS+SAAS）为89亿美元，分析师预期88.4亿美元。 预计2026财年营收670亿美元，上调2027年营收指引至900亿美元。 预计2026财年资本开支500亿美元。 预计第四财季营收按恒定汇率将增长18%-20%。 甲骨文美股盘后涨5%。",
@@ -302,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "WTI原油日内涨幅达4.0%，报85.54美元/桶。 纽约银日内跌幅达1.0%，报88.5美元/盎司。 纽约金日内跌幅达0.5%，报5194.7美元/盎司。 标普500股指期货、纳指期货涨0.1%，罗素2000股指期货跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3067590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         },
         {
           "title": "美国原油期货结算价为每桶83.45美元，下跌11.32美元，跌幅11.94%。",
@@ -365,7 +377,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
@@ -406,8 +418,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 06时38分]"
+        },
         {
           "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
           "url": "https://flash.jin10.com/detail/20260311040618267800",
@@ -432,6 +455,18 @@
           "time_info": "[04时43分 ~ 05时46分]"
         },
         {
+          "title": "甲骨文美股盘后涨幅扩大至9%。",
+          "url": "https://wallstreetcn.com/livenews/3067572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时38分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
           "url": "https://wallstreetcn.com/livenews/3067555",
           "source": "华尔街见闻-快讯",
@@ -442,17 +477,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时46分]"
-        },
-        {
-          "title": "甲骨文美股盘后涨幅扩大至9%。",
-          "url": "https://wallstreetcn.com/livenews/3067572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
         },
         {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股收盘）",
@@ -483,7 +507,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
@@ -497,12 +521,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "甲骨文美股盘后涨幅扩大至10%，该公司正在举行分析师电话会议。",
+          "url": "https://wallstreetcn.com/livenews/3067585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "最高补贴1000万元！佛山、合肥、常熟、深圳出台政策支持“养龙虾”",
@@ -513,8 +548,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 06时38分]"
         },
         {
           "title": "【数据看盘】外资与机构激烈博弈东山精密，多路资金抢筹光迅科技",
@@ -525,8 +560,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 06时38分]"
         },
         {
           "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，这将为能源行业和数据中心带来哪些改变？",
@@ -539,8 +574,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 06时38分]"
         },
         {
           "title": "国际金融协会（IIF）：新兴市场投资组合在2月份迎来217亿美元资金流入，1月流入1005亿美元——罕见地出现开年靠前配置，2025年2月流入455亿美元。",
@@ -566,13 +601,24 @@
           "time_info": "00时10分"
         },
         {
+          "title": "甲骨文(ORCL.N)高管：10吉瓦数据中心约90%的产能已通过合作伙伴获得资金支持，剩余部分预计将于本月完成。",
+          "url": "https://flash.jin10.com/detail/20260311052452006800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
           "title": "报道：General Catalyst洽谈筹集约100亿美元资金",
           "url": "https://wallstreetcn.com/livenews/3067544",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         }
@@ -589,7 +635,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
@@ -600,7 +646,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
@@ -611,7 +657,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         }
@@ -619,18 +665,30 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "印尼再度发行人民币主权债券，新兴市场融资货币多元化趋势显现",
+          "url": "https://wallstreetcn.com/livenews/3067600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
         {
           "title": "周二（3月10日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8790元，较周一纽约尾盘涨85点，日内整体交投于6.8967-6.8605元区间。",
           "url": "https://wallstreetcn.com/livenews/3067577",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时38分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8730元，较周一夜盘收盘涨355点。成交632.35亿美元。",
@@ -642,6 +700,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10年期美债收益率涨约6.2个基点，纽约下午涨幅突出",
+          "url": "https://wallstreetcn.com/livenews/3067587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         }
       ]
     },
