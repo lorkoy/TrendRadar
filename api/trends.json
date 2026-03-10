@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T18:53:39.585585+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-03-10T19:40:45.463842+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "金十期货3月10日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨4350元/吨，中间价报158600元/吨。",
@@ -210,6 +210,28 @@
           "time_info": "[05时43分 ~ 06时39分]"
         },
         {
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "标普500指数期货回吐早前涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3067259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "现货白银日内涨幅达1.00%，现报87.85美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260310071152938800",
           "source": "金十数据",
@@ -238,7 +260,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -252,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "标普500指数期货抹去早盘涨幅，道指期货现涨0.1%，纳指期货涨0.08%。",
+          "url": "https://flash.jin10.com/detail/20260310191857763800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "布伦特原油期货结算价为每桶98.96美元，上涨6.27美元，涨幅6.76%。",
@@ -857,7 +890,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "【数据看盘】北向资金、游资大量甩卖拓维信息，近6亿元资金抢筹中国长城",
@@ -911,6 +944,19 @@
           "time_info": "[01时03分 ~ 01时04分]"
         },
         {
+          "title": "最高补贴1000万元！佛山、合肥、常熟、深圳出台政策支持“养龙虾”",
+          "url": "https://www.cls.cn/detail/2308583",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 19时40分]"
+        },
+        {
           "title": "伊最高领袖外交政策顾问：伊朗已做好与美以长期作战准备",
           "url": "https://wallstreetcn.com/livenews/3066793",
           "source": "华尔街见闻-快讯",
@@ -943,18 +989,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时37分]"
-        },
-        {
-          "title": "最高补贴1000万元！佛山、合肥、常熟、深圳出台政策支持“养龙虾”",
-          "url": "https://www.cls.cn/detail/2308583",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 18时53分]"
         },
         {
           "title": "欧洲央行管委MULLER：近期加息的可能性有所上升。 不应仓促做出任何决定。 下次政策会议保持冷静至关重要。 对伊朗局势不应反应过度。",
@@ -990,6 +1024,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "上交所：研究储备一批支持科技创新和新质生产力发展的政策措施",
+          "url": "https://wallstreetcn.com/livenews/3067253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "中证报：耐心资本服务“硬科技”，创业投资锚定产业新赛道",
@@ -1031,7 +1076,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -1042,7 +1087,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -1116,7 +1161,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -1160,11 +1205,12 @@
           "url": "https://wallstreetcn.com/livenews/3067241",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时40分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
@@ -1201,6 +1247,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 13时54分]"
+        },
+        {
+          "title": "柯尔百货第四季度销售净额49.7亿美元，同比下降3.9%，市场预估50.5亿美元。 第四季度毛利率33.1％，上年同期32.9％。 第四季度每股收益1.07美元，上年同期0.43美元，市场预估0.91美元。 第四季度经营利润2.12亿美元，同比增长68%。 柯尔百货美股盘前跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3067251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -1260,6 +1317,68 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "《SHIT》刷屏,学术狗屎炸出圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351495&amp;topic_name=%E3%80%8ASHIT%E3%80%8B%E5%88%B7%E5%B1%8F%2C%E5%AD%A6%E6%9C%AF%E7%8B%97%E5%B1%8E%E7%82%B8%E5%87%BA%E5%9C%88",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 07时37分]"
+        },
+        {
+          "title": "比尔·阿克曼（Bill Ackman）旗下的潘兴广场（Pershing Square）提交美国IPO申请。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时40分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少50.71吨，当前持仓量为15710.91吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260310065720982800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "港交所公告：小米集团(01810.HK)3月10日以1亿港元回购300万股B类股。",
+          "url": "https://flash.jin10.com/detail/20260310191235885800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "据日本放送协会NHK：日本福岛发生震度为4的地震。",
+          "url": "https://flash.jin10.com/detail/20260310143254329800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 5,
       "titles": [
@@ -1270,7 +1389,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -1318,56 +1437,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "《SHIT》刷屏,学术狗屎炸出圈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351495&amp;topic_name=%E3%80%8ASHIT%E3%80%8B%E5%88%B7%E5%B1%8F%2C%E5%AD%A6%E6%9C%AF%E7%8B%97%E5%B1%8E%E7%82%B8%E5%87%BA%E5%9C%88",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 07时37分]"
-        },
-        {
-          "title": "比尔·阿克曼（Bill Ackman）旗下的潘兴广场（Pershing Square）提交美国IPO申请。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3067235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少50.71吨，当前持仓量为15710.91吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260310065720982800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "据日本放送协会NHK：日本福岛发生震度为4的地震。",
-          "url": "https://flash.jin10.com/detail/20260310143254329800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
         }
       ]
     },
