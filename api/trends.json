@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T19:41:20.346830+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-03-11T21:21:23.360102+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
@@ -82,7 +82,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -142,6 +142,19 @@
           "time_info": "15时07分"
         },
         {
+          "title": "【每日收评】创业板指冲高回落涨1.31%，储能板块集体走强，化工股午后卷土重来",
+          "url": "https://www.cls.cn/detail/2309697",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 21时21分]"
+        },
+        {
           "title": "闰土股份：因近期还原物价格上涨，公司分散染料黑每吨上涨约2.4万元",
           "url": "https://wallstreetcn.com/livenews/3067985",
           "source": "华尔街见闻-快讯",
@@ -154,29 +167,17 @@
           "time_info": "[17时55分 ~ 18时53分]"
         },
         {
-          "title": "【每日收评】创业板指冲高回落涨1.31%，储能板块集体走强，化工股午后卷土重来",
-          "url": "https://www.cls.cn/detail/2309697",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时41分]"
-        },
-        {
           "title": "伊朗封锁海峡为何让全球油价上涨",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%B0%81%E9%94%81%E6%B5%B7%E5%B3%A1%E4%B8%BA%E4%BD%95%E8%AE%A9%E5%85%A8%E7%90%83%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时21分]"
         },
         {
           "title": "标普500指数的11个板块中，能源板块收跌1.32%，金融板块跌0.55%，信息技术/科技板块则收涨0.08%，电信板块涨0.26%。",
@@ -220,7 +221,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -275,7 +276,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -385,7 +386,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -613,7 +614,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -680,7 +681,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -694,6 +695,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "夜盘期货开盘，液化石油气涨近9%，瓶片、PTA涨逾7%，烧碱、原油、塑料涨逾6%，低硫燃油、燃油、聚丙烯涨逾5%；沪银跌逾3%，沪锡跌逾2%，沪铜、国际铜跌逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3068121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "T5阿珂惨遭调整削弱",
+          "url": "https://search.bilibili.com/all?keyword=T5%E9%98%BF%E7%8F%82%E6%83%A8%E9%81%AD%E8%B0%83%E6%95%B4%E5%89%8A%E5%BC%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            19,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 21时21分]"
         },
         {
           "title": "市场消息：一些液化天然气油轮正在从欧洲改道至亚洲，受到该地区现货价格飙升的吸引。",
@@ -731,19 +757,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时51分 ~ 15时07分]"
-        },
-        {
-          "title": "T5阿珂惨遭调整削弱",
-          "url": "https://search.bilibili.com/all?keyword=T5%E9%98%BF%E7%8F%82%E6%83%A8%E9%81%AD%E8%B0%83%E6%95%B4%E5%89%8A%E5%BC%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 19时41分]"
         },
         {
           "title": "标普500指数期货涨幅扩大至0.5%。",
@@ -844,7 +857,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -866,9 +879,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "现货白银日内跌幅扩大至3%，报85.6美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3068113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "美股股指期货集体走低，标普500指数期货跌至盘中低点，日内跌0.28%。纳指期货跌0.24%，道指期货跌0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3068112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "美国原油期货结算价为每桶83.45美元，下跌11.32美元，跌幅11.94%。",
@@ -899,7 +934,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -992,6 +1027,17 @@
           "time_info": "12时51分"
         },
         {
+          "title": "美国2月CPI数据符合市场预期，美国国债保持稳定，美元指数波动不大，美国股指期货小幅走高。",
+          "url": "https://wallstreetcn.com/livenews/3068098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "股指期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20260311113138478800",
           "source": "金十数据",
@@ -1050,7 +1096,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "最高补贴1000万元！佛山、合肥、常熟、深圳出台政策支持“养龙虾”",
@@ -1073,11 +1119,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时43分 ~ 19时41分]"
+          "appearance_count": 10,
+          "time_info": "[10时43分 ~ 21时21分]"
         },
         {
           "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，这将为能源行业和数据中心带来哪些改变？",
@@ -1115,8 +1162,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时21分]"
         },
         {
           "title": "据AXIOS网站：Anthropic将把其公共政策团队规模扩大三倍。",
@@ -1147,7 +1194,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -1174,6 +1221,19 @@
           "time_info": "16时56分"
         },
         {
+          "title": "【数据看盘】机构活跃度大幅降低，一线游资、量化资金激烈博弈华胜天成",
+          "url": "https://www.cls.cn/detail/2309796",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时21分]"
+        },
+        {
           "title": "韩国产业部：韩国将参与国际能源署关于释放石油储备的讨论，并正在评估应采取的立场。",
           "url": "https://flash.jin10.com/detail/20260311122643150800",
           "source": "金十数据",
@@ -1196,18 +1256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 03时02分]"
-        },
-        {
-          "title": "【数据看盘】机构活跃度大幅降低，一线游资、量化资金激烈博弈华胜天成",
-          "url": "https://www.cls.cn/detail/2309796",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时41分]"
         },
         {
           "title": "英国财政大臣里夫斯：超级充电网络政策目前为大约500家企业提供60%的折扣，我们将把这一折扣扩大到90%，将从今年4月开始实施。从明年4月开始，我们将推出新计划，惠及约7,000家企业。",
@@ -1320,6 +1368,17 @@
           "time_info": "10时43分"
         },
         {
+          "title": "日本产业省：日本将从私营和国家储备中释放的原油总量约为8000万桶。",
+          "url": "https://wallstreetcn.com/livenews/3068100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "报道：General Catalyst洽谈筹集约100亿美元资金",
           "url": "https://wallstreetcn.com/livenews/3067544",
           "source": "华尔街见闻-快讯",
@@ -1345,7 +1404,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -1355,8 +1414,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时37分 ~ 19时41分]"
+          "appearance_count": 11,
+          "time_info": "[07时37分 ~ 21时21分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -1429,6 +1488,17 @@
           "time_info": "[06时38分 ~ 07时37分]"
         },
         {
+          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2310036",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260311040539654800",
           "source": "金十数据",
@@ -1460,6 +1530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3068110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "美股周二收盘，道指初步收跌0.07%，标普500指数跌0.2%，纳指微涨。纳斯达克中国金龙指数收涨近2%，蔚来汽车(NIO.N)涨15%。",
@@ -1631,7 +1712,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         }
