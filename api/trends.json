@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T22:56:48.151034+08:00",
-  "total_titles_processed": 1909,
+  "generated_at": "2026-03-11T23:58:28.292308+08:00",
+  "total_titles_processed": 1999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -21,6 +21,20 @@
           "time_info": "[07时37分 ~ 15时07分]"
         },
         {
+          "title": "【每日收评】创业板指冲高回落涨1.31%，储能板块集体走强，化工股午后卷土重来",
+          "url": "https://www.cls.cn/detail/2309697",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时55分 ~ 23时58分]"
+        },
+        {
           "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾4500股飘红，CPO等算力硬件股集体爆发",
           "url": "https://www.cls.cn/detail/2308512",
           "source": "财联社热门",
@@ -32,20 +46,6 @@
           "time_info": "[01时54分 ~ 06时38分]"
         },
         {
-          "title": "【每日收评】创业板指冲高回落涨1.31%，储能板块集体走强，化工股午后卷土重来",
-          "url": "https://www.cls.cn/detail/2309697",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时55分 ~ 22时56分]"
-        },
-        {
           "title": "印度NIFTY汽车指数下跌2%。",
           "url": "https://flash.jin10.com/detail/20260311150136865800",
           "source": "金十数据",
@@ -55,17 +55,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
-        },
-        {
-          "title": "Blue Owl下跌3.6%，创2022年10月份以来盘中新低。",
-          "url": "https://wallstreetcn.com/livenews/3068192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
         },
         {
           "title": "印度Sensex指数下跌1%至77424.22点。 印度Nifty指数跌1%至24017.70。",
@@ -88,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "法国总统马克龙：政府可能会决定采取进一步措施，以缓解油价上涨对法国消费者的影响。",
+          "url": "https://flash.jin10.com/detail/20260311233714703800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "非洲股市收盘播报｜周二（3月10日），南非富时/JSE非洲领先40可交易指数收涨2.60%，逼近11.2万点，跳空高开之后，持续高位震荡。 毛里求斯证交所SEMDEX指数收跌0.05%，尼日利亚证交所全部股指收跌0.57%，肯尼亚内罗毕证交所全股指数收跌0.13%。",
@@ -167,6 +167,32 @@
           "time_info": "15时07分"
         },
         {
+          "title": "伊朗封锁海峡为何让全球油价上涨",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%B0%81%E9%94%81%E6%B5%B7%E5%B3%A1%E4%B8%BA%E4%BD%95%E8%AE%A9%E5%85%A8%E7%90%83%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            24,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 23时58分]"
+        },
+        {
+          "title": "Blue Owl下跌3.6%，创2022年10月份以来盘中新低。",
+          "url": "https://wallstreetcn.com/livenews/3068192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时58分]"
+        },
+        {
           "title": "闰土股份：因近期还原物价格上涨，公司分散染料黑每吨上涨约2.4万元",
           "url": "https://wallstreetcn.com/livenews/3067985",
           "source": "华尔街见闻-快讯",
@@ -177,19 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时55分 ~ 18时53分]"
-        },
-        {
-          "title": "伊朗封锁海峡为何让全球油价上涨",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%B0%81%E9%94%81%E6%B5%B7%E5%B3%A1%E4%B8%BA%E4%BD%95%E8%AE%A9%E5%85%A8%E7%90%83%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 21时21分]"
         },
         {
           "title": "标普500指数的11个板块中，能源板块收跌1.32%，金融板块跌0.55%，信息技术/科技板块则收涨0.08%，电信板块涨0.26%。",
@@ -288,7 +301,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -687,6 +700,21 @@
           "time_info": "10时43分"
         },
         {
+          "title": "T5阿珂惨遭调整削弱",
+          "url": "https://search.bilibili.com/all?keyword=T5%E9%98%BF%E7%8F%82%E6%83%A8%E9%81%AD%E8%B0%83%E6%95%B4%E5%89%8A%E5%BC%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            19,
+            27,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 23时58分]"
+        },
+        {
           "title": "午盘收盘，国内期货主力合约涨跌互现。烧碱、集运欧线涨超7%，瓶片涨超6%，PVC、丁二烯橡胶、对二甲苯涨超5%。跌幅方面，SC原油跌超9%，碳酸锂跌超5%，燃料油跌超4%。",
           "url": "https://flash.jin10.com/detail/20260311150120782800",
           "source": "金十数据",
@@ -704,7 +732,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -740,20 +768,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
-        },
-        {
-          "title": "T5阿珂惨遭调整削弱",
-          "url": "https://search.bilibili.com/all?keyword=T5%E9%98%BF%E7%8F%82%E6%83%A8%E9%81%AD%E8%B0%83%E6%95%B4%E5%89%8A%E5%BC%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            19,
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时56分 ~ 21时21分]"
         },
         {
           "title": "市场消息：一些液化天然气油轮正在从欧洲改道至亚洲，受到该地区现货价格飙升的吸引。",
@@ -793,6 +807,30 @@
           "time_info": "[12时51分 ~ 15时07分]"
         },
         {
+          "title": "王者诸葛亮女娲伤害调整",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%AF%B8%E8%91%9B%E4%BA%AE%E5%A5%B3%E5%A8%B2%E4%BC%A4%E5%AE%B3%E8%B0%83%E6%95%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 23时58分]"
+        },
+        {
+          "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时58分]"
+        },
+        {
           "title": "标普500指数期货涨幅扩大至0.5%。",
           "url": "https://wallstreetcn.com/livenews/3067765",
           "source": "华尔街见闻-快讯",
@@ -815,18 +853,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时46分]"
-        },
-        {
-          "title": "王者诸葛亮女娲伤害调整",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%AF%B8%E8%91%9B%E4%BA%AE%E5%A5%B3%E5%A8%B2%E4%BC%A4%E5%AE%B3%E8%B0%83%E6%95%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 22时56分]"
         },
         {
           "title": "WTI原油日内涨幅达4.0%，报85.54美元/桶。 纽约银日内跌幅达1.0%，报88.5美元/盎司。 纽约金日内跌幅达0.5%，报5194.7美元/盎司。 标普500股指期货、纳指期货涨0.1%，罗素2000股指期货跌0.1%。",
@@ -884,17 +910,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
-        },
-        {
-          "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
         },
         {
           "title": "现货白银失守87美元/盎司，日内跌幅1.53%。",
@@ -1079,7 +1094,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -1134,7 +1149,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -1164,7 +1179,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "最高补贴1000万元！佛山、合肥、常熟、深圳出台政策支持“养龙虾”",
@@ -1192,8 +1207,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时43分 ~ 22时56分]"
+          "appearance_count": 12,
+          "time_info": "[10时43分 ~ 23时58分]"
         },
         {
           "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，这将为能源行业和数据中心带来哪些改变？",
@@ -1242,11 +1257,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时52分 ~ 22时56分]"
+          "appearance_count": 6,
+          "time_info": "[18时52分 ~ 23时58分]"
         },
         {
           "title": "据AXIOS网站：Anthropic将把其公共政策团队规模扩大三倍。",
@@ -1328,6 +1344,28 @@
           "time_info": "[01时54分 ~ 03时02分]"
         },
         {
+          "title": "欧洲央行执委施纳贝尔：货币政策仍处于良好状态。",
+          "url": "https://flash.jin10.com/detail/20260311233559762800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "欧洲央行执委Schnabel：3月预期将在一定程度上体现出伊朗局势带来的冲击。 央行货币政策仍然处于良好状态。 必须警惕通胀上行风险。",
+          "url": "https://wallstreetcn.com/livenews/3068211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "英国财政大臣里夫斯：超级充电网络政策目前为大约500家企业提供60%的折扣，我们将把这一折扣扩大到90%，将从今年4月开始实施。从明年4月开始，我们将推出新计划，惠及约7,000家企业。",
           "url": "https://flash.jin10.com/detail/20260311182230168800",
           "source": "金十数据",
@@ -1359,6 +1397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "伊拉克库尔德自治区高级官员： 除非巴格达中央政府立即向库尔德自治区（KRG）提供美元资金支持，否则库区将不会允许任何石油通过“伊拉克-土耳其输油管道（ITP）”。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3068202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：将采取必要措施应对油价波动。",
@@ -1484,8 +1533,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时37分 ~ 22时56分]"
+          "appearance_count": 13,
+          "time_info": "[07时37分 ~ 23时58分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -1522,6 +1571,18 @@
           "time_info": "[04时43分 ~ 05时46分]"
         },
         {
+          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2310036",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 23时58分]"
+        },
+        {
           "title": "甲骨文美股盘后涨幅扩大至9%。",
           "url": "https://wallstreetcn.com/livenews/3067572",
           "source": "华尔街见闻-快讯",
@@ -1544,17 +1605,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时46分]"
-        },
-        {
-          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2310036",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 22时56分]"
         },
         {
           "title": "甲骨文美股盘后涨幅扩大至10%，该公司正在举行分析师电话会议。",
@@ -1630,7 +1680,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
