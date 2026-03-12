@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T13:59:29.606529+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-03-12T15:10:33.877807+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "通胀继续降温！美国2月CPI同比上涨2.4%，核心CPI同比2.5%，为近五年来最小增幅",
@@ -15,11 +15,12 @@
             10,
             9,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 13时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 15时10分]"
         },
         {
           "title": "伊朗封锁海峡为何让全球油价上涨",
@@ -30,11 +31,12 @@
             25,
             24,
             23,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 13时59分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 15时10分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨1.31%，储能板块集体走强，化工股午后卷土重来",
@@ -61,6 +63,28 @@
           "time_info": "06时36分"
         },
         {
+          "title": "金十图示：2026年03月12日（周四）富时中国A50指数成分股今日收盘行情一览：银行、煤炭开采、航运港口等板块集体收涨",
+          "url": "https://flash.jin10.com/detail/20260312150309443800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "ICE数据显示，荷兰即月天然气批发价格上涨6%，至97.51欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20260312150236504800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.61%，暂报2633.29点，期内大部分时间持稳于2620点附近——低位窄幅震荡。 MarketVectorTM数字资产100中盘指数跌1.25%，报2831.50点，过半时间持稳于2800点一线。 MarketVector数字资产100指数跌0.88%，报14124.93点，过半时间交投于14000点下方。 目前，Solana涨0.56%，狗狗币跌1.84%，XRP持平。 比特币涨0.97%，暂报70695.99美元；以太坊涨1.69%，暂报2069.95美元。",
           "url": "https://wallstreetcn.com/livenews/3068255",
           "source": "华尔街见闻-快讯",
@@ -78,9 +102,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "创业板指缩量跌近1%，煤炭、风电板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3068653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         },
         {
           "title": "美国总统特朗普：政府正设法维持石油供应的流动。 国际能源署（IEA）释放战略石油储备将大幅压低油价。 油价正在下跌，还将下跌。 油价将（继续）下跌，但我们不会提前离开（伊朗）。",
@@ -168,6 +203,17 @@
           "time_info": "[05时42分 ~ 06时36分]"
         },
         {
+          "title": "上证指数收报4129.10点，跌0.10%。 深证成指收报14374.87点，跌0.63%。 创业板指收报3317.52点，跌0.96%。 沪深300收报4687.56点，跌0.36%。 科创50收报1383.65点，跌1.24%。 中证500收报8359.47点，跌0.52%。 中证1000收报8335.91点，跌0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3068652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
           "title": "美国总统特朗普表示，已两次重创伊朗领导层。油价将会下跌。美国军方的进展远超预期。",
           "url": "https://flash.jin10.com/detail/20260312025304600800",
           "source": "金十数据",
@@ -196,7 +242,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -218,7 +264,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -243,6 +289,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "低硫燃料油（LU）主力合约震荡走低，日内涨幅收窄至12.00%，现报5518.00元/吨。",
+          "url": "https://flash.jin10.com/detail/20260312145252053800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "全球债市“涨幅清零” 地缘冲击逆转年初牛市",
+          "url": "https://flash.jin10.com/detail/20260312145058895800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         },
         {
           "title": "周三（3月11日），存储芯片与硬件供应链指数涨2.35%，报108.45点，美股盘初持续上涨，北京时间22:00以来持续高位窄幅震荡。 成分股Sandisk收涨5.90%，美光科技、Rambus至多涨3.86%，拉姆研究、应用材料至多涨1.69%，西部数据、希捷科技、泰瑞达TER至多涨0.97%。 信息科技指数涨1.51%，人工智能（AI）赢家指数涨1.43%，AI软件先驱指数涨0.97%。 北美科技软件股指数ETF收涨0.11%。",
@@ -380,7 +448,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "王者诸葛亮女娲伤害调整",
@@ -393,8 +461,22 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[03时04分 ~ 15时10分]"
+        },
+        {
+          "title": "T5阿珂惨遭调整削弱",
+          "url": "https://search.bilibili.com/all?keyword=T5%E9%98%BF%E7%8F%82%E6%83%A8%E9%81%AD%E8%B0%83%E6%95%B4%E5%89%8A%E5%BC%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            23,
+            28,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[03时04分 ~ 13时59分]"
+          "time_info": "[01时04分 ~ 15时10分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -408,20 +490,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 06时36分]"
-        },
-        {
-          "title": "T5阿珂惨遭调整削弱",
-          "url": "https://search.bilibili.com/all?keyword=T5%E9%98%BF%E7%8F%82%E6%83%A8%E9%81%AD%E8%B0%83%E6%95%B4%E5%89%8A%E5%BC%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            23,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 12时55分]"
         },
         {
           "title": "期货热点追踪",
@@ -572,6 +640,28 @@
           "time_info": "10时49分"
         },
         {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260312150109290800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨多跌少，对二甲苯封涨停，低硫燃料油（LU）涨超14%，SC原油涨超11%，PTA、瓶片涨超10%，燃料油涨超9%，短纤涨超7%。跌幅方面，苹果跌超3%，沪银、钯跌超2%，碳酸锂跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260312150046025800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
           "title": "布伦特原油期货扩大涨势，重返100美元关口上方，日内涨近9%，此前阿曼关键港口遭受干扰。",
           "url": "https://wallstreetcn.com/livenews/3068510",
           "source": "华尔街见闻-快讯",
@@ -581,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "商品期货收盘，对二甲苯主力合约涨停，LU燃油涨超14%，原油涨超11%，PTA、瓶片涨超10%，燃料油涨超9%，短纤涨超7%。苹果跌超3%，沪银、钯跌超2%，碳酸锂跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3068650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         },
         {
           "title": "郑功成：“一刀切”调整养老金不现实",
@@ -627,6 +728,28 @@
           "time_info": "07时36分"
         },
         {
+          "title": "3月12日投资避雷针：国际油价再度大幅上涨 布伦特原油期货逼近100美元关口",
+          "url": "https://www.cls.cn/detail/2310317",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "WTI原油期货涨幅收窄至5%，报92美元/桶，此前一度涨近10%。",
+          "url": "https://wallstreetcn.com/livenews/3068641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
           "title": "周三（3月11日）欧市尾盘，ICE英国天然气期货涨3.62%，报125便士/千卡。 TTF基准荷兰天然气期货涨7.98%，报49.127欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌1.80%，报70.25欧元/吨。",
           "url": "https://wallstreetcn.com/livenews/3068275",
           "source": "华尔街见闻-快讯",
@@ -647,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "现货白银短线拉升，站上86美元/盎司，日内涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3068636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         },
         {
           "title": "芝加哥玉米期货涨超1.8%，大豆油涨约2.4%",
@@ -754,6 +888,18 @@
           "time_info": "[01时04分 ~ 06时36分]"
         },
         {
+          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
+          "url": "https://www.cls.cn/detail/2310241",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 15时10分]"
+        },
+        {
           "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
           "url": "https://www.cls.cn/detail/2310036",
           "source": "财联社热门",
@@ -767,18 +913,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时04分 ~ 12时55分]"
-        },
-        {
-          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
-          "url": "https://www.cls.cn/detail/2310241",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 13时59分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
@@ -885,7 +1019,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "【数据看盘】机构活跃度大幅降低，一线游资、量化资金激烈博弈华胜天成",
@@ -920,6 +1054,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "半导体产业迎新一轮涨价潮 德仪、恩智浦、英飞凌4月集体调价",
+          "url": "https://wallstreetcn.com/livenews/3068646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "全国人大代表夏华：推动“指尖技艺”转化为“指尖产业”",
+          "url": "https://wallstreetcn.com/livenews/3068637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "半导体产业酝酿新一轮涨价潮 德仪、恩智浦、英飞凌4月集体调价",
+          "url": "https://flash.jin10.com/detail/20260312145249504800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         },
         {
           "title": "惠誉：在欧元区，能源价格上涨构成新的逆风，但随着德国在财政宽松政策下开始复苏，潜在增长趋势正在改善。",
@@ -1038,8 +1205,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 13时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 15时10分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
