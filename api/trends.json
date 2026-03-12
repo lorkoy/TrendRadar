@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T07:36:08.160681+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-03-12T10:49:27.993673+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 20,
+      "match_count": 30,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -26,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时04分 ~ 07时36分]"
+          "appearance_count": 8,
+          "time_info": "[03时04分 ~ 10时49分]"
         },
         {
           "title": "T5阿珂惨遭调整削弱",
@@ -42,8 +43,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 10时49分]"
         },
         {
           "title": "亚太盘初，美国三大股指期货跌超0.6%，罗素2000股指期货跌超1.2%。",
@@ -52,9 +53,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "欧洲斯托克50指数期货下跌1.1%，德国DAX指数期货下跌1.2%，英国富时100指数期货下跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260312103943147800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "布伦特原油期货盘中一度涨至101.59美元/桶，日内大涨10%。",
+          "url": "https://wallstreetcn.com/livenews/3068517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "布伦特原油期货涨超9%，重回100美元/桶上方，因阿曼关键港口遭遇中断。",
+          "url": "https://flash.jin10.com/detail/20260312103750885800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "WTI 4月原油期货收报87.25美元/桶。 中东Abu Dhabi Murban原油期货跌1.17%，报98.41美元/桶，北京时间21:45曾跌至95.09美元。 NYMEX 4月天然气期货收报3.2090美元/百万英热单位。 NYMEX 4月汽油期货收报2.7883美元/加仑，NYMEX 3月取暖油期货收报3.6788美元/加仑。",
@@ -66,6 +100,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "欧股期货走低，欧洲Stoxx 50指数期货跌1.1%，德国DAX指数期货跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3068515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260312103600262800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "上期所原油期货2604合约夜盘收涨7.05%，报695元人民币/桶。 沪金夜盘收跌0.37%，沪银收跌2.80%。",
@@ -128,6 +184,28 @@
           "time_info": "[05时42分 ~ 06时36分]"
         },
         {
+          "title": "IEA紧急释放4亿桶石油储备，规模创史上最大。特朗普再称战争将很快结束，伊朗总统提出三大必要条件......当前美油多头持续占优，现货白银多头占比增至90%，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260312103555673800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "布伦特原油期货扩大涨势，重返100美元关口上方，日内涨近9%，此前阿曼关键港口遭受干扰。",
+          "url": "https://wallstreetcn.com/livenews/3068510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "郑功成：“一刀切”调整养老金不现实",
           "url": "https://www.toutiao.com/trending/7615983244659396150/",
           "source": "今日头条",
@@ -145,9 +223,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "金十期货3月12日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌500元/吨，中间价报158200元/吨。",
+          "url": "https://flash.jin10.com/detail/20260312103310625800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "WTI原油期货涨超4.2%，在亚太盘初报89.74美元。",
@@ -156,7 +245,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -194,6 +283,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "内盘低硫燃料油期货主力合约涨近20%，原油涨超14%，燃油涨超13%。",
+          "url": "https://wallstreetcn.com/livenews/3068488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "市场消息：美国证交会（SEC）与美国商品期货交易委员会（CFTC）签署谅解备忘录，以指导协调与合作。",
           "url": "https://flash.jin10.com/detail/20260312044210022800",
           "source": "金十数据",
@@ -211,9 +311,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "A股食品、乳业股早盘调整，新乳业触及跌停，天味食品、西麦食品、皇台酒业、安井食品、东鹏饮料跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3068483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "国际原油期货结算价上涨超4.5%",
@@ -233,7 +344,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         }
@@ -241,8 +352,22 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "通胀继续降温！美国2月CPI同比上涨2.4%，核心CPI同比2.5%，为近五年来最小增幅",
+          "url": "https://wallstreetcn.com/articles/3767258",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 10时49分]"
+        },
         {
           "title": "【每日收评】创业板指冲高回落涨1.31%，储能板块集体走强，化工股午后卷土重来",
           "url": "https://www.cls.cn/detail/2309697",
@@ -257,19 +382,6 @@
           "time_info": "[01时04分 ~ 07时36分]"
         },
         {
-          "title": "通胀继续降温！美国2月CPI同比上涨2.4%，核心CPI同比2.5%，为近五年来最小增幅",
-          "url": "https://wallstreetcn.com/articles/3767258",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时36分]"
-        },
-        {
           "title": "伊朗封锁海峡为何让全球油价上涨",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%B0%81%E9%94%81%E6%B5%B7%E5%B3%A1%E4%B8%BA%E4%BD%95%E8%AE%A9%E5%85%A8%E7%90%83%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8",
           "source": "bilibili 热搜",
@@ -277,11 +389,12 @@
             28,
             25,
             24,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 10时49分]"
         },
         {
           "title": "WTI原油早盘上涨3.00%，现报91.10美元/桶。",
@@ -390,6 +503,28 @@
           "time_info": "03时05分"
         },
         {
+          "title": "A股化工板块涨势扩大，金牛化工9天5板，潞化科技、三房巷、和邦生物、安道麦A、百川股份等多股此前涨停，金煤科技、中泰化学、新疆天业、宝丰能源等涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3068509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指涨0.1%，深成指跌0.53%，军工、培育钻石、工业母机、小金属等方向跌幅居前，沪深京三市下跌个股近3400只。",
+          "url": "https://wallstreetcn.com/livenews/3068503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.4%，报376.75点。 在十个板块中，北欧工业板块跌幅最大。 殷拓集团EQT AB跌3.1%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3068244",
           "source": "华尔街见闻-快讯",
@@ -401,6 +536,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "越南VN指数下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260312102528309800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "周三（3月11日），存储芯片与硬件供应链指数涨2.35%，报108.45点，美股盘初持续上涨，北京时间22:00以来持续高位窄幅震荡。 成分股Sandisk收涨5.90%，美光科技、Rambus至多涨3.86%，拉姆研究、应用材料至多涨1.69%，西部数据、希捷科技、泰瑞达TER至多涨0.97%。 信息科技指数涨1.51%，人工智能（AI）赢家指数涨1.43%，AI软件先驱指数涨0.97%。 北美科技软件股指数ETF收涨0.11%。",
           "url": "https://wallstreetcn.com/livenews/3068336",
           "source": "华尔街见闻-快讯",
@@ -410,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "A股煤炭板块震荡拉升，兖矿能源冲击涨停，中煤能源、电投能源涨超6%，晋控煤业、陕西黑猫、淮北矿业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3068492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月11日（周三）晚盘收盘下跌0.46%报1146.91元/克；<br/>上海黄金交易所白银T+D 3月11日（周三）晚盘收盘下跌2.09%报21750.0元/千克。",
@@ -432,6 +589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "机构：内存芯片价格上涨，三星电子Q1业绩或超预期",
+          "url": "https://flash.jin10.com/detail/20260312100856704800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "美元指数11日上涨",
@@ -465,6 +633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "凯投宏观：能源价格上涨或促使日本央行于4月加息",
+          "url": "https://flash.jin10.com/detail/20260312100520098800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
@@ -490,22 +669,24 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 10时49分]"
         },
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
           "url": "https://www.cls.cn/detail/2310241",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 07时36分]"
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 10时49分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
@@ -593,7 +774,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -604,7 +785,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         }
@@ -612,7 +793,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "【数据看盘】机构活跃度大幅降低，一线游资、量化资金激烈博弈华胜天成",
@@ -627,6 +808,17 @@
           "time_info": "[01时04分 ~ 07时36分]"
         },
         {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260312104021520800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "惠誉：在欧元区，能源价格上涨构成新的逆风，但随着德国在财政宽松政策下开始复苏，潜在增长趋势正在改善。",
           "url": "https://flash.jin10.com/detail/20260312003958646800",
           "source": "金十数据",
@@ -636,6 +828,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "韩国产业部：将防止因美国调查而对韩国出口商造成不利影响。",
+          "url": "https://flash.jin10.com/detail/20260312100907103800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "韩国产业部：将就301条款调查与美方密切合作。",
+          "url": "https://flash.jin10.com/detail/20260312100825125800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "日本央行行长植田和男：外汇是影响经济和物价的重要因素之一。 需要注意的是，当前外汇对物价的影响比过去更大，可能会影响通胀预期。 将在评估外汇对我们预测前景影响程度的同时，实施恰当的货币政策。",
+          "url": "https://wallstreetcn.com/livenews/3068479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
@@ -710,8 +935,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 07时36分]"
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 10时49分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
