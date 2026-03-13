@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T13:58:11.875881+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-03-13T15:08:13.186240+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "煤炭股持续“吸金”！板块均价创三年半新高，这些方向月内也迎攀升",
@@ -61,9 +61,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "沪指收跌0.81%，化工、风电板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3069468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
@@ -184,6 +195,17 @@
           "time_info": "10时47分"
         },
         {
+          "title": "上证指数收报4095.45点，跌0.82%。 深证成指收报14280.78点，跌0.65%。 创业板指收报3310.28点，跌0.22%。 沪深300收报4669.14点，跌0.39%。 科创50收报1373.64点，跌0.72%。 中证500收报8239.80点，跌1.43%。 中证1000收报8214.29点，跌1.46%。",
+          "url": "https://wallstreetcn.com/livenews/3069465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "A股卫星导航板块短线拉升，北斗星通触及涨停，合众思壮、航天发展、中海达、流金科技短线拉升。此前据新华社报道，我国将对北斗卫星导航系统实施在轨升级。",
           "url": "https://wallstreetcn.com/livenews/3069300",
           "source": "华尔街见闻-快讯",
@@ -223,7 +245,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -256,7 +278,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -272,13 +294,24 @@
           "time_info": "10时47分"
         },
         {
+          "title": "集运指数（欧线）主力合约日内下跌9.00%，现报1927.7点。",
+          "url": "https://flash.jin10.com/detail/20260313142148280800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "A股银行板块震荡上扬，重庆银行、华夏银行、沪农商行涨超2%，浦发银行、上海银行、中信银行等纷纷上扬。",
           "url": "https://wallstreetcn.com/livenews/3069381",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -393,6 +426,28 @@
           "time_info": "10时47分"
         },
         {
+          "title": "迪拜主要股指早盘下跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260313140239866800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260313140055093800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "泰国SET指数下跌1%至1415.30点。",
           "url": "https://wallstreetcn.com/livenews/3069331",
           "source": "华尔街见闻-快讯",
@@ -407,7 +462,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -460,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "现货白银日内跌幅达2.00%，现报82.21美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260313145042291800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "WTI 4月原油期货收涨8.48美元，涨幅9.72%，报95.73美元/桶。 NYMEX 4月天然气期货收报3.2330美元/百万英热单位。 NYMEX 4月汽油期货收报2.9646美元/加仑，NYMEX 3月取暖油期货收报3.8989美元/加仑。",
@@ -546,6 +612,17 @@
           "time_info": "[05时42分 ~ 06时36分]"
         },
         {
+          "title": "市场猜测美国财政部已出手！芝商所总裁：如果美国干预原油期货，这会酿成“灾难性后果”",
+          "url": "https://wallstreetcn.com/articles/3767389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 15时08分]"
+        },
+        {
           "title": "CME警告：若美国政府介入石油期货市场将引发史诗级灾难",
           "url": "https://flash.jin10.com/detail/20260313041402618800",
           "source": "金十数据",
@@ -603,6 +680,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "商品期货收盘，集运欧线主力合约跌超7%，沪银、沪锡跌超4%，铂、纯苯跌超3%。原油涨超5%，菜籽粕涨超4%，沥青涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3069461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "美国原油期货收报每桶95.73美元，上涨8.48美元，涨幅9.72%。",
           "url": "https://flash.jin10.com/detail/20260313023209986800",
           "source": "金十数据",
@@ -614,6 +702,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "美方紧急豁免俄油禁令 1900万桶俄油现货获准入市避险",
+          "url": "https://flash.jin10.com/detail/20260313142449816800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "芝加哥大豆期货涨约1%",
           "url": "https://wallstreetcn.com/livenews/3069132",
           "source": "华尔街见闻-快讯",
@@ -623,6 +722,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "现货白银日内走低1.00%，现报83.04美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260313142251740800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "美股三大股指期货全线走低",
+          "url": "https://wallstreetcn.com/livenews/3069452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "英国30年期国债收益率涨12个基点，报5.47%，创10月份以来新高。 美国原油期货涨幅扩大至10%，投资者关注通胀风险。",
@@ -683,7 +804,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "央行行长潘功胜：构建科学稳健的货币政策体系，继续实施好适度宽松的货币政策，加大逆周期和跨周期调节力度",
@@ -738,7 +859,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -794,7 +915,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -805,7 +926,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -827,9 +948,53 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "上海闵行：培育聚变能源、氢基能源、长时储能和新型绿色技术四大未来能源产业",
+          "url": "https://wallstreetcn.com/livenews/3069451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "日本产业省官员：将综合考虑各种情况和国家利益。",
+          "url": "https://flash.jin10.com/detail/20260313141844036800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "上海闵行：加快推进先进能源装备产业集聚区建设，力争到2030年产业规模突破2000亿元",
+          "url": "https://wallstreetcn.com/livenews/3069449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "日本产业省官员：将在美国发布30天制裁豁免后，考虑是否采购俄罗斯原油。",
+          "url": "https://flash.jin10.com/detail/20260313141740702800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：日本企业正寻求包括美国、中亚和南美在内的原油替代采购来源。",
@@ -860,7 +1025,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -874,6 +1039,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260313141031927800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：预计日本原油进口量将在本月晚些时候出现下滑。 将灵活采取措施，以最大限度减少油价对经济的影响。 预计（释放出的）原油储备的买方为国内炼油企业。 政府正努力确保多元化的替代采购渠道。 日本私营企业正在寻找替代石油来源。 合理的油价应是伊朗冲突前的水平。",
@@ -901,8 +1077,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时36分 ~ 13时58分]"
+          "appearance_count": 9,
+          "time_info": "[06时36分 ~ 15时08分]"
         },
         {
           "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
@@ -977,7 +1153,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -992,6 +1168,17 @@
           "time_info": "[00时10分 ~ 06时36分]"
         },
         {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 15时08分]"
+        },
+        {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
           "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
@@ -1001,17 +1188,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时37分 ~ 10时47分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时58分]"
         },
         {
           "title": "战争风险推动美债“恐惧指标”跃升至九个月高点",
@@ -1030,6 +1206,57 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "地区冲突担忧笼罩市场 美债恐慌指标升至九个月高位",
+          "url": "https://wallstreetcn.com/livenews/3069435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周四（3月12日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8813元，较周三纽约尾盘跌46点，日内整体交投于8.8643-6.8854元区间。",
+          "url": "https://wallstreetcn.com/livenews/3069163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时36分]"
+        },
+        {
+          "title": "离岸人民币兑美元跌破6.89，日内跌约80点。",
+          "url": "https://wallstreetcn.com/livenews/3069442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8833元，较周三夜盘收盘跌84点。成交量488.94亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3069115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1059,35 +1286,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周四（3月12日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8813元，较周三纽约尾盘跌46点，日内整体交投于8.8643-6.8854元区间。",
-          "url": "https://wallstreetcn.com/livenews/3069163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时36分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8833元，较周三夜盘收盘跌84点。成交量488.94亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3069115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
