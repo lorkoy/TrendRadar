@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-18T03:15:42.342157+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-03-18T04:59:47.367202+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "国际油价上涨，美政府拟放松对委内瑞拉制裁",
+          "url": "https://wallstreetcn.com/livenews/3071907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
         {
           "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
           "url": "https://flash.jin10.com/detail/20260318024409341800",
@@ -14,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -41,13 +52,24 @@
           "time_info": "01时14分"
         },
         {
+          "title": "标普500指数的11个板块中，能源板块收涨1.02%，可选消费板块涨1%，电信板块涨0.67%，信息技术/科技板块涨0.21%，保健板块跌0.92%。",
+          "url": "https://wallstreetcn.com/livenews/3071893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 3月17日（周二）晚盘收盘下跌0.21%报1113.31元/克；<br/>上海黄金交易所白银T+D 3月17日（周二）晚盘收盘下跌1.86%报20024.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260318023041692800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -58,7 +80,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -69,7 +91,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -85,15 +107,109 @@
           "time_info": "01时14分"
         },
         {
+          "title": "金价银价下跌原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
           "url": "https://wallstreetcn.com/livenews/3071821",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "越共中央总书记：坚定奉行一个中国政策",
+          "url": "https://www.toutiao.com/trending/7617999971983474694/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
+          "url": "https://www.cls.cn/detail/2315651",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 04时59分]"
+        },
+        {
+          "title": "【焦点复盘】大金融护盘提振有限，沪指时隔1年多再现日线4连阴，短线资金逆势抱团次新股",
+          "url": "https://www.cls.cn/detail/2315591",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 04时59分]"
+        },
+        {
+          "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
+          "url": "https://www.cls.cn/detail/2315814",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 04时59分]"
+        },
+        {
+          "title": "伊朗战争削弱吸引力，南非债券资金外流激增",
+          "url": "https://wallstreetcn.com/livenews/3071808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国邮政署若按要求支付退休金，最快将于10月或11月耗尽资金。",
+          "url": "https://flash.jin10.com/detail/20260318042750066800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "美国总统特朗普：不同意英国首相斯塔默的移民和能源政策。",
+          "url": "https://flash.jin10.com/detail/20260318001951811800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
         }
       ]
     },
@@ -109,8 +225,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 04时59分]"
         },
         {
           "title": "WTI 4月原油期货收涨2.71美元，涨幅将近2.90%，报96.21美元/桶。 中东Abu Dhabi Murban原油期货涨3.09%，报110.02美元/桶。 NYMEX 4月天然气期货收报3.0330美元/百万英热单位。 NYMEX 4月汽油期货收报3.1234美元/加仑，2月27日收盘以来累计上涨50.31%；NYMEX 3月取暖油期货收报4.0158美元/加仑，2月27日收盘以来累计上涨超过50.35%。",
@@ -119,7 +235,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -130,7 +246,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -151,67 +267,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
-          "url": "https://www.cls.cn/detail/2315651",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时15分]"
-        },
-        {
-          "title": "【焦点复盘】大金融护盘提振有限，沪指时隔1年多再现日线4连阴，短线资金逆势抱团次新股",
-          "url": "https://www.cls.cn/detail/2315591",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时15分]"
-        },
-        {
-          "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
-          "url": "https://www.cls.cn/detail/2315814",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时15分]"
-        },
-        {
-          "title": "伊朗战争削弱吸引力，南非债券资金外流激增",
-          "url": "https://wallstreetcn.com/livenews/3071808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "美国总统特朗普：不同意英国首相斯塔默的移民和能源政策。",
-          "url": "https://flash.jin10.com/detail/20260318001951811800",
-          "source": "金十数据",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -274,7 +329,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         }
@@ -282,7 +337,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
@@ -292,8 +347,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 04时59分]"
         },
         {
           "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
@@ -305,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3071892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         },
         {
           "title": "金十图示：2026年03月17日（周二）热门中概股行情一览（美股盘中）",
@@ -320,6 +386,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价继续持稳于5000美元整数位心理关口附近",
+          "url": "https://wallstreetcn.com/livenews/3071903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -331,8 +414,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 04时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（3月17日）纽约尾盘，ICE美元指数跌0.14%，报99.577点，日内交投区间为100.115-99.503点，北京时间14:14刷新日高之后，持续走低。 彭博美元指数跌0.18%，报1206.96点，日内交投区间为1212-1206.06点。 美元兑日元跌0.02%，报159.04日元，日内交投区间为159.49-158.72日元。 欧元兑日元涨0.27%，英镑兑日元涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3071867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         }
       ]
     }
