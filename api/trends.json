@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T10:56:07.793762+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-03-18T13:05:29.104704+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "澳大利亚S&P/ASX200指数3月18日（周三）开盘上涨5.80点，涨幅0.07%，报8620.10点。",
@@ -79,6 +79,18 @@
           "time_info": "[05时49分 ~ 06时44分]"
         },
         {
+          "title": "3月18日投资避雷针：4连板人气股提示风险 如股价进一步上涨可能申请停牌核查",
+          "url": "https://www.cls.cn/detail/2316206",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 13时05分]"
+        },
+        {
           "title": "标普500指数的11个板块中，能源板块收涨1.02%，可选消费板块涨1%，电信板块涨0.67%，信息技术/科技板块涨0.21%，保健板块跌0.92%。",
           "url": "https://wallstreetcn.com/livenews/3071893",
           "source": "华尔街见闻-快讯",
@@ -89,17 +101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时49分]"
-        },
-        {
-          "title": "3月18日投资避雷针：4连板人气股提示风险 如股价进一步上涨可能申请停牌核查",
-          "url": "https://www.cls.cn/detail/2316206",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
         },
         {
           "title": "德国DAX30指数3月17日（周二）收盘上涨156.97点，涨幅0.67%，报23722.73点；<br/>英国富时100指数3月17日（周二）收盘上涨86.12点，涨幅0.83%，报10403.81点；<br/>法国CAC40指数3月17日（周二）收盘上涨38.52点，涨幅0.49%，报7974.49点；<br/>欧洲斯托克50指数3月17日（周二）收盘上涨28.19点，涨幅0.49%，报5767.20点；<br/>西班牙IBEX35指数3月17日（周二）收盘上涨151.22点，涨幅0.88%，报17240.62点；<br/>意大利富时MIB指数3月17日（周二）收盘上涨535.94点，涨幅1.21%，报44883.50点。",
@@ -141,7 +142,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -155,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "离岸人民币同业拆息利率多数上涨，隔夜拆息回到一周高位",
+          "url": "https://flash.jin10.com/detail/20260318121511843800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "美国总统特朗普兜售股市上涨。",
@@ -190,13 +202,35 @@
           "time_info": "01时14分"
         },
         {
+          "title": "上证指数早盘收报4033.62点，跌0.40%。 深证成指早盘收报14046.74点，涨0.05%。 创业板指早盘收报3309.14点，涨0.89%。 沪深300早盘收报4621.95点，跌0.33%。 科创50早盘收报1360.15点，涨0.44%。 中证500早盘收报8015.05点，跌0.01%。 中证1000早盘收报8027.20点，涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3072096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "3月18日午间收评：创业板指半日涨0.89%，存储芯片板块再度爆发",
+          "url": "https://wallstreetcn.com/livenews/3072095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "上证指数开盘报4053.31点，涨0.08%。 深证成指开盘报14108.92点，涨0.49%。 创业板指开盘报3307.82点，涨0.85%。 沪深300开盘报4648.75点，涨0.24%。 科创50开盘报1363.54点，涨0.69%。 中证500开盘报8044.92点，涨0.36%。 中证1000开盘报8050.71点，涨0.38%。",
           "url": "https://wallstreetcn.com/livenews/3072016",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -207,7 +241,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -226,7 +260,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -248,8 +282,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 10时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 13时05分]"
         },
         {
           "title": "美国SEC主席提议根据公司规模调整财报披露频率",
@@ -269,7 +303,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -280,7 +314,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -336,9 +370,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "国际原油期货跌幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3072112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "WTI原油期货日内下跌逾2美元，此前伊拉克与库尔德当局达成石油出口协议。",
+          "url": "https://wallstreetcn.com/livenews/3072106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "达飞海运：鉴于中东及近东地区的地缘政治紧张局势，紧急燃油附加费将于3月27日起调整并实施。",
@@ -352,6 +408,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "孟加拉国石油公司官员：孟加拉国批准采购两批液化天然气现货以应对中东供应中断。",
+          "url": "https://flash.jin10.com/detail/20260318120214076800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "美SEC拟按公司规模调整信息披露频率",
           "url": "https://flash.jin10.com/detail/20260318063713806800",
           "source": "金十数据",
@@ -363,15 +430,37 @@
           "time_info": "07时41分"
         },
         {
+          "title": "美国天然气期货日内跌幅达3.00%，现报2.942美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260318120030454800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.02%，10年期主力合约跌0.00%，5年期主力合约涨0.02%，2年期主力合约涨0.00%。",
           "url": "https://wallstreetcn.com/livenews/3072021",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "WTI原油期货日内大跌3.00%，现报92.66美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260318115742552800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "现货黄金日内跌幅达0.5%，报4979.81美元/盎司。",
@@ -399,7 +488,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
@@ -438,6 +527,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时13分 ~ 07时41分]"
+        },
+        {
+          "title": "26年继续实施更加积极的财政政策",
+          "url": "https://www.toutiao.com/trending/7617694216869445686/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "北斗万亿产业赛道启航",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E6%96%97%E4%B8%87%E4%BA%BF%E4%BA%A7%E4%B8%9A%E8%B5%9B%E9%81%93%E5%90%AF%E8%88%AA",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "越共中央总书记：坚定奉行一个中国政策",
@@ -480,7 +591,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -532,7 +643,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国亚利桑那州起诉Kalshi涉嫌非法经营博彩业务。",
@@ -603,6 +714,28 @@
           "time_info": "01时14分"
         },
         {
+          "title": "吉利汽车(00175.HK)：2026年销量目标为345万辆。",
+          "url": "https://flash.jin10.com/detail/20260318122243553800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "吉利汽车(00175.HK)2025年全年营收为3452.3亿元，上年同期为2402亿元。",
+          "url": "https://flash.jin10.com/detail/20260318122207107800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "阿联酋高级官员Gargash：阿联酋可与其他国家一道，在保障霍尔木兹海峡安全与稳定方面发挥作用。",
           "url": "https://flash.jin10.com/detail/20260318003044843800",
           "source": "金十数据",
@@ -623,6 +756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850486&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/41iv_6DrFt70-d2h7wt6W.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260318120145325800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "美国亚利桑那州司法部长：已对KalshiEx和Kalshi Trading提起刑事指控，有指控称相关公司在该州未获许可的情况下非法经营博彩业务。",
@@ -663,8 +807,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 10时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 13时05分]"
         },
         {
           "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
@@ -703,49 +847,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时44分]"
-        },
-        {
-          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
-          "url": "https://wallstreetcn.com/articles/3767701",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 10时56分]"
-        },
-        {
-          "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
-          "url": "https://wallstreetcn.com/livenews/3071908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "周二（3月17日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8830元，较周一纽约尾盘涨60点，日内整体交投于6.8944-6.8797元区间。",
@@ -770,6 +873,69 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时41分]"
+        },
+        {
+          "title": "奇瑞汽车2025年归母净利润190.2亿元人民币，同比+35%。 营收3,002.9亿元人民币，同比+11%。 每股收益3.43元人民币，上年同期2.58元人民币。 每股末期股息0.50港元，上年同期0.33港元。",
+          "url": "https://wallstreetcn.com/livenews/3072124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "吉利汽车2025年归属母公司净利润168.5亿元人民币，预估165.1亿元人民币。 2025年营收3,452.3亿元人民币，预估3,417亿元人民币。 每股末期股息0.50港元。",
+          "url": "https://wallstreetcn.com/livenews/3072117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时44分]"
+        },
+        {
+          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 13时05分]"
+        },
+        {
+          "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
+          "url": "https://wallstreetcn.com/livenews/3071908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时44分]"
         }
       ]
     },
