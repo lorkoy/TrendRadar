@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-18T19:00:52.972177+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2026-03-18T19:54:50.895939+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 19时54分]"
+        },
         {
           "title": "澳大利亚S&P/ASX200指数3月18日（周三）开盘上涨5.80点，涨幅0.07%，报8620.10点。",
           "url": "https://flash.jin10.com/detail/20260318071015482800",
@@ -35,11 +47,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时00分]"
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 19时54分]"
         },
         {
           "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
@@ -51,18 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "黄金价格下跌 普通人能入手吗",
-          "url": "https://www.toutiao.com/trending/7618482201037901355/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时00分]"
         },
         {
           "title": "3月18日投资避雷针：4连板人气股提示风险 如股价进一步上涨可能申请停牌核查",
@@ -127,6 +128,17 @@
           "time_info": "[05时49分 ~ 06时44分]"
         },
         {
+          "title": "【每日收评】创业板指震荡走高涨超2%，科技股集体反攻，算力链再度站上风口",
+          "url": "https://www.cls.cn/detail/2316830",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 19时54分]"
+        },
+        {
           "title": "标普500指数的11个板块中，能源板块收涨1.02%，可选消费板块涨1%，电信板块涨0.67%，信息技术/科技板块涨0.21%，保健板块跌0.92%。",
           "url": "https://wallstreetcn.com/livenews/3071893",
           "source": "华尔街见闻-快讯",
@@ -137,17 +149,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时49分]"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走高涨超2%，科技股集体反攻，算力链再度站上风口",
-          "url": "https://www.cls.cn/detail/2316830",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时00分]"
         },
         {
           "title": "上证指数收报4062.98点，涨0.32%。 深证成指收报14187.80点，涨1.05%。 创业板指收报3346.37点，涨2.02%。 沪深300收报4658.33点，涨0.45%。 科创50收报1372.58点，涨1.36%。 中证500收报8096.43点，涨1.00%。 中证1000收报8096.59点，涨0.96%。",
@@ -293,6 +294,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "宝马销售主管：（谈中国市场）我们看到价格趋于稳定，甚至在某些情况下价格有所上涨。",
+          "url": "https://flash.jin10.com/detail/20260318192242457800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "创业板指涨2%，深成指涨1%，沪指涨0.2%。算力租赁、算力硬件、存储芯片等方向领涨，沪深京三市上涨个股超3400只。",
           "url": "https://wallstreetcn.com/livenews/3072182",
           "source": "华尔街见闻-快讯",
@@ -354,7 +366,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
         },
@@ -417,7 +429,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -487,6 +499,17 @@
           "time_info": "15时14分"
         },
         {
+          "title": "现货黄金跌破4950美元/盎司，为2月18日以来新低，日内跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3072389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260318104422487800",
           "source": "金十数据",
@@ -507,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "蓝白两党2026合作协议出炉！依民调整合、共推候选人",
+          "url": "https://news.ifeng.com/c/8razscleHDX",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 19时54分]"
         },
         {
           "title": "周二（3月17日）纽约尾盘，标普500股指期货最终涨0.33%，道指期货涨0.16%，纳斯达克100股指期货涨0.59%。 罗素2000股指期货涨0.65%。",
@@ -532,15 +566,16 @@
           "time_info": "[10时55分 ~ 10时56分]"
         },
         {
-          "title": "蓝白两党2026合作协议出炉！依民调整合、共推候选人",
-          "url": "https://news.ifeng.com/c/8razscleHDX",
-          "source": "凤凰网",
+          "title": "现货黄金5分钟内下跌15.81美元/盎司，报4966.59美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3072368",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时00分]"
+          "time_info": "[19时00分 ~ 19时54分]"
         },
         {
           "title": "上期所原油期货2605合约夜盘收涨2.74%，报764.90元人民币/桶。 沪金夜盘收跌0.16%，沪银收跌1.85%。",
@@ -582,20 +617,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
         },
         {
-          "title": "现货黄金5分钟内下跌15.81美元/盎司，报4966.59美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3072368",
-          "source": "华尔街见闻-快讯",
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20260318192854337800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时00分"
+          "time_info": "19时54分"
         },
         {
           "title": "腾讯控股第四季度营收1,943.7亿元人民币，市场预估1,940.7亿元人民币； 第四季度调整后净利润646.9亿元人民币，市场预估649.3亿元人民币； 第四季度营业利润603.4亿元人民币，市场预估604.5亿元人民币； 第四季度金融科技及企业服务业务收入608亿元人民币，市场预估611.7亿元人民币； 第四季度增值服务业务收入899亿元人民币，市场预估887.8亿元人民币； 2025年净利润2,248.4亿元人民币，市场预估2,221.6亿元人民币。",
@@ -620,6 +655,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "现货黄金跌破4950美元/盎司，为2月18日以来新低，日内跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260318192741171800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "欧洲斯托克50指数期货上涨1%。",
           "url": "https://wallstreetcn.com/livenews/3072189",
           "source": "华尔街见闻-快讯",
@@ -629,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "梅西百货第四季度净销售额76.4亿美元，预期75.1亿美元。 第四季度经调整后每股收益1.67美元，预期1.54美元。 梅西百货预计全财年净销售额214亿美元-216.5亿美元，预估211.1亿美元。 梅西百货预计一季度净销售额45.75亿美元-46.25亿美元。 梅西百货美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3072379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "中金所：增加2年期国债期货合约可交割国债",
@@ -670,7 +727,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
         },
@@ -1038,7 +1095,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
@@ -1101,6 +1158,17 @@
           "time_info": "[13时05分 ~ 17时02分]"
         },
         {
+          "title": "第五次中韩产业合作部长级对话在京举行",
+          "url": "https://wallstreetcn.com/livenews/3072406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "越共中央总书记：坚定奉行一个中国政策",
           "url": "https://www.toutiao.com/trending/7617999971983474694/",
           "source": "今日头条",
@@ -1157,6 +1225,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "第五次中韩产业合作部长级对话在京举行",
+          "url": "https://flash.jin10.com/detail/20260318192842287800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "伊朗战争削弱吸引力，南非债券资金外流激增",
           "url": "https://wallstreetcn.com/livenews/3071808",
           "source": "华尔街见闻-快讯",
@@ -1207,7 +1286,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
         },
@@ -1240,7 +1319,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
         }
@@ -1388,8 +1467,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时40分 ~ 19时00分]"
+          "appearance_count": 10,
+          "time_info": "[07时40分 ~ 19时54分]"
         },
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
