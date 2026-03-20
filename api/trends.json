@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T05:39:30.345231+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-03-21T06:38:53.745863+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -15,11 +15,50 @@
             8,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时38分]"
+        },
+        {
+          "title": "3 月 20 日沪指失守 4000 点，两市成交额 2.29 万亿，电力板块活跃，如何看待今日行情？",
+          "url": "https://www.zhihu.com/question/2018230164002185495",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时38分]"
+        },
+        {
+          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2319906",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时38分]"
+        },
+        {
+          "title": "创业板指创年内新高！两大赛道“扛旗”上涨，近半板块年内收跌，这些仍涨幅前列",
+          "url": "https://www.cls.cn/detail/2319697",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时38分]"
         },
         {
           "title": "92号汽油上涨幅度预计突破1.6元/升",
@@ -39,9 +78,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "油价上涨 卫生巾纸尿裤价格或受影响",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8+%E5%8D%AB%E7%94%9F%E5%B7%BE%E7%BA%B8%E5%B0%BF%E8%A3%A4%E4%BB%B7%E6%A0%BC%E6%88%96%E5%8F%97%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时38分]"
         },
         {
           "title": "荷兰首相：今天我们在内阁会议上讨论了伊朗冲突的全球影响，特别是急剧上涨的能源价格。我完全可以理解这让人们和企业感到担忧。内阁正在为所有可能的情景做准备，包括必要时可以采取的相关措施。",
@@ -55,53 +108,15 @@
           "time_info": "00时56分"
         },
         {
-          "title": "3 月 20 日沪指失守 4000 点，两市成交额 2.29 万亿，电力板块活跃，如何看待今日行情？",
-          "url": "https://www.zhihu.com/question/2018230164002185495",
-          "source": "知乎",
+          "title": "金饰价格再次大幅下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E5%86%8D%E6%AC%A1%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时39分]"
-        },
-        {
-          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2319906",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时39分]"
-        },
-        {
-          "title": "油价上涨 卫生巾纸尿裤价格或受影响",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8+%E5%8D%AB%E7%94%9F%E5%B7%BE%E7%BA%B8%E5%B0%BF%E8%A3%A4%E4%BB%B7%E6%A0%BC%E6%88%96%E5%8F%97%E5%BD%B1%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时39分]"
-        },
-        {
-          "title": "创业板指创年内新高！两大赛道“扛旗”上涨，近半板块年内收跌，这些仍涨幅前列",
-          "url": "https://www.cls.cn/detail/2319697",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时39分]"
+          "time_info": "[01时42分 ~ 06时38分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌1.6%，报358.25点，创12月17日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 马士基跌6.3%，在一众北欧个股里表现最差。",
@@ -122,11 +137,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时39分]"
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时38分]"
         },
         {
           "title": "德国DAX 30指数初步收跌1.84%，报22419.85点，本周累计下跌大约4.4%。 法国股指初步收跌1.74%，本周累跌约3%；意大利股指初步收跌1.73%、本周累跌约3.2%，银行指数跌2.03%、本周累跌约3.8%；英国股指初步收跌1.34%，本周累跌约3.2%。",
@@ -165,17 +181,6 @@
           "time_info": "[00时56分 ~ 01时42分]"
         },
         {
-          "title": "金饰价格再次大幅下跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E5%86%8D%E6%AC%A1%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 05时39分]"
-        },
-        {
           "title": "国际油价20日上涨",
           "url": "https://flash.jin10.com/detail/20260321040521490800",
           "source": "金十数据",
@@ -183,8 +188,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时39分]"
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时38分]"
         },
         {
           "title": "美元指数20日上涨",
@@ -194,8 +199,31 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时38分]"
+        },
+        {
+          "title": "道琼斯指数3月20日（周五）收盘下跌446.51点，跌幅0.97%，报45574.92点；<br/>标普500指数3月20日（周五）收盘下跌99.86点，跌幅1.51%，报6506.63点；<br/>纳斯达克综合指数3月20日（周五）收盘下跌443.08点，跌幅2.01%，报21647.61点。",
+          "url": "https://flash.jin10.com/detail/20260321040325409800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时38分]"
+        },
+        {
+          "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
+          "url": "https://wallstreetcn.com/livenews/3074352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时39分]"
+          "time_info": "[05时39分 ~ 06时38分]"
         },
         {
           "title": "周五（3月20日），彭博电动汽车价格回报指数跌0.83%，报3481.29点，本周累计下跌2.66%。",
@@ -222,23 +250,24 @@
           "time_info": "[01时42分 ~ 03时02分]"
         },
         {
+          "title": "在美股时段交易的费城金银指数收跌3.82%，报328.28点，本周累计下跌14.50%，3月18-20日持续走低。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.17%，报2319.72点，本周累跌13.87%。 在美股时段交易的原材料指数收跌2.72%，报229.09点，本周累跌6.46%。 在美股时段交易的金属与矿业指数收跌3.29%，报220.05点，本周累跌5.70%。",
+          "url": "https://wallstreetcn.com/livenews/3074347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌2.92%，报6742.84点，本周累计下跌5.67%，整体持续走低。 热门中概股里，小鹏初步收跌8.3%，小米跌7.9%，蔚来跌7.8%，百度跌3.99%，阿里巴巴跌1.9%，文远知行涨2.17%。 ETF中，中国科技指数ETF（CQQQ）收跌4.20%，本周累跌6.39%； XtrackersHarvest中证50（ASHS）收跌3.09%，本周累跌7.35%； 中概互联网指数ETF（KWEB）收跌2.96%，本周累跌6.40%； 德银嘉实沪深300指数ETF（ASHR）收跌2.12%，本周累跌3.46%。",
           "url": "https://wallstreetcn.com/livenews/3074328",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时39分]"
-        },
-        {
-          "title": "道琼斯指数3月20日（周五）收盘下跌446.51点，跌幅0.97%，报45574.92点；<br/>标普500指数3月20日（周五）收盘下跌99.86点，跌幅1.51%，报6506.63点；<br/>纳斯达克综合指数3月20日（周五）收盘下跌443.08点，跌幅2.01%，报21647.61点。",
-          "url": "https://flash.jin10.com/detail/20260321040325409800",
-          "source": "金十数据",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -257,15 +286,15 @@
           "time_info": "[00时56分 ~ 01时42分]"
         },
         {
-          "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3074352",
+          "title": "标普500指数ETF美股盘后涨幅扩大至1%。据新华社报道，特朗普宣称正考虑逐步降级对伊朗的军事行动。 景顺QQQ盘后上涨0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3074368",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时39分"
+          "time_info": "06时38分"
         },
         {
           "title": "<span class=\"section-news\">德国DAX30指数3月20日（周五）收盘下跌484.21点，跌幅2.12%，报22368.27点；</span> <span class=\"section-news\">英国富时100指数3月20日（周五）收盘下跌157.51点，跌幅1.57%，报9905.99点；</span> <span class=\"section-news\">法国CAC40指数3月20日（周五）收盘下跌142.25点，跌幅1.82%，报7665.62点；</span> <span class=\"section-news\">欧洲斯托克50指数3月20日（周五）收盘下跌112.93点，跌幅2.01%，报5500.90点；</span> <span class=\"section-news\">西班牙IBEX35指数3月20日（周五）收盘下跌217.14点，跌幅1.28%，报16688.76点；</span> <span class=\"section-news\">意大利富时MIB指数3月20日（周五）收盘下跌847.88点，跌幅1.94%，报42853.50点。</span>",
@@ -277,17 +306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌3.82%，报328.28点，本周累计下跌14.50%，3月18-20日持续走低。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.17%，报2319.72点，本周累跌13.87%。 在美股时段交易的原材料指数收跌2.72%，报229.09点，本周累跌6.46%。 在美股时段交易的金属与矿业指数收跌3.29%，报220.05点，本周累跌5.70%。",
-          "url": "https://wallstreetcn.com/livenews/3074347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月20日（周五）晚盘收盘下跌2.33%报1015.89元/克；<br/>上海黄金交易所白银T+D 3月20日（周五）晚盘收盘下跌4.21%报17100.0元/千克。",
@@ -406,7 +424,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         }
@@ -414,8 +432,21 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时38分]"
+        },
         {
           "title": "中东原油期货周五涨约16.5%，纽约柴油期货本周涨约14.8%",
           "url": "https://wallstreetcn.com/livenews/3074299",
@@ -461,18 +492,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时39分]"
-        },
-        {
           "title": "现货黄金失守4520美元/盎司，日内跌幅2.81%。",
           "url": "https://flash.jin10.com/detail/20260321024711237800",
           "source": "金十数据",
@@ -496,6 +515,18 @@
           "time_info": "[01时42分 ~ 03时02分]"
         },
         {
+          "title": "周五（3月20日）纽约尾盘，标普500股指期货最终跌1.08%，道指期货跌0.52%，纳斯达克100股指期货跌1.51%。 罗素2000股指期货跌1.76%。",
+          "url": "https://wallstreetcn.com/livenews/3074349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
+        },
+        {
           "title": "芝加哥大豆期货势创2024年以来最大周跌幅",
           "url": "https://wallstreetcn.com/livenews/3074257",
           "source": "华尔街见闻-快讯",
@@ -506,6 +537,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时42分]"
+        },
+        {
+          "title": "现货白银周五跌约6.5%，纽约期银本周跌约16.3%，纽约铜期货累跌约7.9%",
+          "url": "https://wallstreetcn.com/livenews/3074344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
+        },
+        {
+          "title": "现货黄金周五跌超3.2%，纽约期金本周跌约11.1%",
+          "url": "https://wallstreetcn.com/livenews/3074343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
         },
         {
           "title": "王者蚩姹一二技能伤害调整",
@@ -530,15 +585,15 @@
           "time_info": "03时02分"
         },
         {
-          "title": "周五（3月20日）纽约尾盘，标普500股指期货最终跌1.08%，道指期货跌0.52%，纳斯达克100股指期货跌1.51%。 罗素2000股指期货跌1.76%。",
-          "url": "https://wallstreetcn.com/livenews/3074349",
+          "title": "布伦特原油期货在电子交易盘回吐涨幅，美国总统特朗普宣称，美方考虑“逐步缩减”对伊朗的军事行动。",
+          "url": "https://wallstreetcn.com/livenews/3074360",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时39分"
+          "time_info": "06时38分"
         },
         {
           "title": "WTI原油期货日内涨幅扩大至2.00%，现报97.47美元/桶。",
@@ -550,28 +605,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "现货白银周五跌约6.5%，纽约期银本周跌约16.3%，纽约铜期货累跌约7.9%",
-          "url": "https://wallstreetcn.com/livenews/3074344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "现货黄金周五跌超3.2%，纽约期金本周跌约11.1%",
-          "url": "https://wallstreetcn.com/livenews/3074343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
         },
         {
           "title": "现货黄金回落至4540美元/盎司下方，日内跌2.43%。",
@@ -675,8 +708,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时39分]"
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时38分]"
         },
         {
           "title": "超微电脑美股盘后涨1.6%。",
@@ -684,11 +717,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时39分]"
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时38分]"
         },
         {
           "title": "公用事业ETF收跌4%，领跌美股行业ETF",
@@ -710,8 +744,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时39分]"
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时38分]"
         },
         {
           "title": "美股三大指数收跌 超微电脑跌超30%",
@@ -721,8 +755,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时39分]"
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时38分]"
         },
         {
           "title": "美股延续跌势，纳指跌超2%，标普500指数跌1.46%，道指跌超1%。",
@@ -822,11 +856,12 @@
             28,
             30,
             4,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 05时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 06时38分]"
         },
         {
           "title": "金价两天跌百元 新人纷纷抄底五金",
@@ -835,9 +870,39 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时38分]"
+        },
+        {
+          "title": "两年期美债收益率本周涨超18个基点",
+          "url": "https://wallstreetcn.com/livenews/3074359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         }
       ]
     },
@@ -878,11 +943,12 @@
           "url": "https://wallstreetcn.com/livenews/3074348",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时38分]"
         }
       ]
     },
@@ -900,24 +966,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时39分]"
         }
       ]
     }
