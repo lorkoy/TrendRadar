@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T17:42:24.977499+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-03-22T18:38:05.873240+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "财政部部长：财政政策加大投资于人力度",
@@ -16,11 +16,12 @@
             3,
             8,
             11,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 18时38分]"
         },
         {
           "title": "2500亿元支持消费品以旧换新，财政部将加大直达消费者的普惠政策力度",
@@ -28,11 +29,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 18时38分]"
         },
         {
           "title": "金饰受追捧投资金遇冷 沪金主力合约单周跌幅超8%",
@@ -85,6 +87,17 @@
           "time_info": "[02时50分 ~ 04时37分]"
         },
         {
+          "title": "央行行长潘功胜：继续实施适度宽松的货币政策，运用多种工具保持流动性充裕",
+          "url": "https://wallstreetcn.com/articles/3768082",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
+        },
+        {
           "title": "财政部部长蓝佛安：财政政策加大投资于人力度",
           "url": "https://flash.jin10.com/detail/20260322115018252800",
           "source": "金十数据",
@@ -133,6 +146,102 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "专家：金价有一些回调是正常的",
+          "url": "https://www.toutiao.com/trending/7619248018004836406/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 15时43分]"
+        },
+        {
+          "title": "国际金价“八连跌”",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E5%85%AB%E8%BF%9E%E8%B7%8C%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 13时02分]"
+        },
+        {
+          "title": "本轮金价暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E8%BD%AE%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
+        },
+        {
+          "title": "金价八连跌消费者还是不敢买",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%85%AB%E8%BF%9E%E8%B7%8C%E6%B6%88%E8%B4%B9%E8%80%85%E8%BF%98%E6%98%AF%E4%B8%8D%E6%95%A2%E4%B9%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
+        },
+        {
+          "title": "金价还能涨回来吗？",
+          "url": "https://flash.jin10.com/detail/20260322163613272800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "金价大跌原因找到了",
+          "url": "https://flash.jin10.com/detail/20260321221312750800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "粤开证券：长期看支撑黄金价格的有利因素仍在",
+          "url": "https://flash.jin10.com/detail/20260322152315932800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "调整 期货 现货",
       "match_count": 5,
       "titles": [
@@ -159,8 +268,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时40分 ~ 18时38分]"
         },
         {
           "title": "油价即将调整！或重回“9元时代”",
@@ -199,69 +308,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 15时43分]"
-        },
-        {
-          "title": "国际金价“八连跌”",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E5%85%AB%E8%BF%9E%E8%B7%8C%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 13时02分]"
-        },
-        {
-          "title": "金价还能涨回来吗？",
-          "url": "https://flash.jin10.com/detail/20260322163613272800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "金价大跌原因找到了",
-          "url": "https://flash.jin10.com/detail/20260321221312750800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "粤开证券：长期看支撑黄金价格的有利因素仍在",
-          "url": "https://flash.jin10.com/detail/20260322152315932800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
       "match_count": 4,
       "titles": [
@@ -283,7 +329,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -292,11 +338,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32808185",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时42分]"
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 18时38分]"
         },
         {
           "title": "油价上涨前加油站排队变“停车场”",
@@ -305,9 +352,48 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩国政府：国际清算银行经济顾问申铉松（Hyun-Song Shin）出任韩国央行行长。",
+          "url": "https://flash.jin10.com/detail/20260322145233685800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "贾斯汀比伯Usher派对打架",
+          "url": "https://s.weibo.com/weibo?q=%E8%B4%BE%E6%96%AF%E6%B1%80%E6%AF%94%E4%BC%AFUsher%E6%B4%BE%E5%AF%B9%E6%89%93%E6%9E%B6&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 18时38分]"
+        },
+        {
+          "title": "远大医药(00512.HK)：本集团引进的用于治疗蠕形螨睑缘炎的全球创新眼科药物GPN01768 [TP-03，(洛替拉纳滴眼液)0.25%] 近日正式获得中华人民共和国国家药品监督管理局颁发的药品注册证书，且在药品审评过程中未收到补充资料通知，实现“零发补”获批上市。",
+          "url": "https://flash.jin10.com/detail/20260322180610488800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
@@ -335,8 +421,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时40分 ~ 18时38分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -349,34 +435,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时49分 ~ 06时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "韩国政府：国际清算银行经济顾问申铉松（Hyun-Song Shin）出任韩国央行行长。",
-          "url": "https://flash.jin10.com/detail/20260322145233685800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "贾斯汀比伯Usher派对打架",
-          "url": "https://s.weibo.com/weibo?q=%E8%B4%BE%E6%96%AF%E6%B1%80%E6%AF%94%E4%BC%AFUsher%E6%B4%BE%E5%AF%B9%E6%89%93%E6%9E%B6&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         }
       ]
     },
