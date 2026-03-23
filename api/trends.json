@@ -1,11 +1,265 @@
 {
-  "generated_at": "2026-03-23T11:17:01.905705+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-03-23T13:44:37.079272+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "全国多地迎赏花高峰：酒店民宿预订量翻倍增长，机票均价较春节假期下跌三至七成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32808185",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 11时17分]"
+        },
+        {
+          "title": "新西兰国债价格上涨，此前惠誉下调评级前景，称国际油价上涨加重通胀顾虑。 10年期新西兰国债收益率涨7个基点，至4.81%，创2025年4月14日以来新高。 两年期新债收益率涨7个基点，报3.67%。",
+          "url": "https://wallstreetcn.com/livenews/3074630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时39分 ~ 07时37分]"
+        },
+        {
+          "title": "年内险资调研近1900次，更关注科创板和创业板个股",
+          "url": "https://wallstreetcn.com/livenews/3074615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            14,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 06时36分]"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数3月23日（周一）开盘下跌159.80点，跌幅1.90%，报8268.60点。",
+          "url": "https://flash.jin10.com/detail/20260323071013190800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "澳大利亚股市较3月高点下跌10%，迈向回调区间，日内跌幅1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3074660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "贝森特称“50天的物价上涨可以换来50年伊朗无核”",
+          "url": "https://flash.jin10.com/detail/20260322225137421800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时39分]"
+        },
+        {
+          "title": "上证报：上海楼市“小阳春”行情愈发清晰",
+          "url": "https://wallstreetcn.com/livenews/3074644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时37分]"
+        },
+        {
+          "title": "金价高位回落跌破关口，专家分析：短期震荡难掩中长期上行逻辑",
+          "url": "https://wallstreetcn.com/livenews/3074618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            11,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时35分 ~ 06时36分]"
+        },
+        {
+          "title": "磷化铟晶片价格受下游光通信市场需求增加有所上涨 小金属概念股一字涨停 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2320685",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时44分]"
+        },
+        {
+          "title": "贝森特：“50天”的物价上涨可以换来“50年”伊朗无核",
+          "url": "https://wallstreetcn.com/livenews/3074578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时51分]"
+        },
+        {
+          "title": "上证综指日内跌幅扩大至3%，深证成指现跌2.8%，创业板指跌2.47%。",
+          "url": "https://flash.jin10.com/detail/20260323132507522800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "沪指午后跌幅扩大至3%，深成指跌超2.7%，创业板指跌超2.3%，有色金属、养殖业、机场航运、医药生物等方向跌幅居前，全市场上涨个股数不足400只。",
+          "url": "https://wallstreetcn.com/livenews/3074858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "隔夜shibor报1.3170%，下跌0.20个基点",
+          "url": "https://flash.jin10.com/detail/20260323110026709800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数3月23日（周一）收盘下跌58.20点，跌幅0.69%，报8370.20点。",
+          "url": "https://flash.jin10.com/detail/20260323132021698800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3170%，下降0.20个基点。 7天SHIBOR报1.4220%，上涨0.50个基点。 3个月SHIBOR报1.5182%，下降0.38个基点。",
+          "url": "https://wallstreetcn.com/livenews/3074791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "泰国股指SET指数开盘下跌2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3074788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "A股旅游板块持续走低，三峡旅游、桂林旅游逼近跌停，峨眉山A、丽江股份、岭南控股、三特索道等多股跌超7%。",
+          "url": "https://flash.jin10.com/detail/20260323131241869800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "A股磷化工板块午后拉升，湖北宜化涨停，六国化工、兴发集团、川发龙蟒、川金诺、川恒股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3074845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "A股磷化工板块午后拉升，湖北宜化涨停，六国化工、兴发集团、川发龙蟒、川金诺、川恒股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260323130348956800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "A股油气股逆势走高，博迈科封涨停，首华燃气涨超8%，中曼石油、蓝焰控股、水发燃气、惠博普、通源石油等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260323104004713800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "紫金矿业回应并购赤峰黄金：黄金进一步上涨的逻辑没有变化",
+          "url": "https://wallstreetcn.com/livenews/3074835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "调整 期货 现货",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "A股当前良性调整何时结束？十大券商策略来了",
@@ -19,8 +273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 11时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 13时44分]"
         },
         {
           "title": "中小险企因偿付能力压力减仓？多位保险机构人士：个别正常调整影响小，不改增持趋势",
@@ -33,6 +287,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时41分 ~ 07时37分]"
+        },
+        {
+          "title": "中证500股指期货（IC）主力合约回落至7300点下方，日内跌4.03%。",
+          "url": "https://flash.jin10.com/detail/20260323132753154800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "现货黄金快速反弹，收复此前1%的跌幅，现涨至4500美元/盎司。",
@@ -158,7 +423,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -185,13 +450,35 @@
           "time_info": "07时37分"
         },
         {
+          "title": "中证1000股指期货（IM）主力合约日内跌幅达4.00%，现报7306.0点。",
+          "url": "https://flash.jin10.com/detail/20260323131022415800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "A股大金融板块局部异动，互联金融、多元金融方向领涨，银之杰涨超10%，赢时胜、南华期货、瑞达期货、爱建集团、瑞达期货、安硕信息、华信永道跟涨。",
+          "url": "https://flash.jin10.com/detail/20260323130520719800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "金十期货3月23日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌100元/吨，中间价报145250元/吨。",
           "url": "https://flash.jin10.com/detail/20260323103217447800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -202,183 +489,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "全国多地迎赏花高峰：酒店民宿预订量翻倍增长，机票均价较春节假期下跌三至七成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32808185",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            9,
-            10,
-            12
-          ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 11时17分]"
-        },
-        {
-          "title": "新西兰国债价格上涨，此前惠誉下调评级前景，称国际油价上涨加重通胀顾虑。 10年期新西兰国债收益率涨7个基点，至4.81%，创2025年4月14日以来新高。 两年期新债收益率涨7个基点，报3.67%。",
-          "url": "https://wallstreetcn.com/livenews/3074630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 07时37分]"
-        },
-        {
-          "title": "年内险资调研近1900次，更关注科创板和创业板个股",
-          "url": "https://wallstreetcn.com/livenews/3074615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            14,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时51分 ~ 06时36分]"
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数3月23日（周一）开盘下跌159.80点，跌幅1.90%，报8268.60点。",
-          "url": "https://flash.jin10.com/detail/20260323071013190800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "澳大利亚股市较3月高点下跌10%，迈向回调区间，日内跌幅1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3074660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "贝森特称“50天的物价上涨可以换来50年伊朗无核”",
-          "url": "https://flash.jin10.com/detail/20260322225137421800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时39分]"
-        },
-        {
-          "title": "上证报：上海楼市“小阳春”行情愈发清晰",
-          "url": "https://wallstreetcn.com/livenews/3074644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时37分]"
-        },
-        {
-          "title": "金价高位回落跌破关口，专家分析：短期震荡难掩中长期上行逻辑",
-          "url": "https://wallstreetcn.com/livenews/3074618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            11,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 06时36分]"
-        },
-        {
-          "title": "贝森特：“50天”的物价上涨可以换来“50年”伊朗无核",
-          "url": "https://wallstreetcn.com/livenews/3074578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时51分]"
-        },
-        {
-          "title": "磷化铟晶片价格受下游光通信市场需求增加有所上涨 小金属概念股一字涨停 本周机构密集调研相关上市公司",
-          "url": "https://www.cls.cn/detail/2320685",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 11时17分]"
-        },
-        {
-          "title": "隔夜shibor报1.3170%，下跌0.20个基点",
-          "url": "https://flash.jin10.com/detail/20260323110026709800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "隔夜SHIBOR报1.3170%，下降0.20个基点。 7天SHIBOR报1.4220%，上涨0.50个基点。 3个月SHIBOR报1.5182%，下降0.38个基点。",
-          "url": "https://wallstreetcn.com/livenews/3074791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "泰国股指SET指数开盘下跌2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3074788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "A股油气股逆势走高，博迈科封涨停，首华燃气涨超8%，中曼石油、蓝焰控股、水发燃气、惠博普、通源石油等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260323104004713800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "11时17分"
         }
@@ -386,7 +497,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "QFII最新持仓数据出炉，中东资金如何行动？欧美动向也出炉",
@@ -396,11 +507,12 @@
             12,
             11,
             10,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 11时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 13时44分]"
         },
         {
           "title": "2500亿元支持消费品以旧换新，财政部将加大直达消费者的普惠政策力度",
@@ -413,8 +525,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 11时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 13时44分]"
         },
         {
           "title": "财政政策将聚焦扩大内需",
@@ -424,8 +536,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 11时17分]"
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时44分]"
         },
         {
           "title": "专家：绿电产业新型商业模式有望涌现",
@@ -441,6 +553,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时51分 ~ 06时36分]"
+        },
+        {
+          "title": "南向资金净买入额达150亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3074859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "业内：黄金产业链上市公司业绩分化或加剧",
@@ -469,13 +592,35 @@
           "time_info": "[11时16分 ~ 11时17分]"
         },
         {
+          "title": "南向资金净买额达150亿元。",
+          "url": "https://flash.jin10.com/detail/20260323132446936800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "蔡昉：养老保障挑战主要不在资金缺口，而是如何把劳动生产率提高的红利分享",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32812096",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "截至目前，南向资金净买入额达100亿港元。",
           "url": "https://wallstreetcn.com/livenews/3074784",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -486,7 +631,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -497,7 +642,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         }
@@ -529,7 +674,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -553,9 +698,49 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国内金价跌破1000元",
+          "url": "https://www.toutiao.com/trending/7620270700237950500/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时44分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "国内金价跌破1000元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B41000%E5%85%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         }
       ]
     },
@@ -580,11 +765,12 @@
           "url": "https://www.cls.cn/detail/2320841",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 11时17分]"
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时44分]"
         }
       ]
     },
@@ -602,23 +788,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国内金价跌破1000元",
-          "url": "https://www.toutiao.com/trending/7620270700237950500/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 11时17分]"
         }
       ]
     }
