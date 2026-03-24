@@ -1,164 +1,11 @@
 {
-  "generated_at": "2026-03-25T04:53:22.086586+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-03-25T05:48:16.294508+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美国银行：受供应放缓、收益率上涨的影响，投资级债券库存创历史新低。",
-          "url": "https://wallstreetcn.com/livenews/3076148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2323371",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
-        },
-        {
-          "title": "电力股成“香饽饽”！板块成交额历史新高，时隔2月再现7连板，这些股也曾频涨停",
-          "url": "https://www.cls.cn/detail/2323118",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
-        },
-        {
-          "title": "【每日收评】沪指探底回升涨1.78%，全市场超5100股收红，电力板块持续爆发",
-          "url": "https://www.cls.cn/detail/2323009",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时17分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.6%，报360.72点。 在十个板块中，北欧能源板块涨幅最大。 Nibe Industrier AB涨6.0%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3076097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "安哥拉在美元债市场融资25亿美元，押注伊朗战争带来的油价上涨行情将刺激投资者对这个产油国债务的需求。",
-          "url": "https://wallstreetcn.com/livenews/3076184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "国际油价24日显著上涨",
-          "url": "https://flash.jin10.com/detail/20260325041523592800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "标普500指数初步收跌0.4%，电信板块跌2.5%，科技、房地产板块跌0.7%，原材料板块涨1.7%，能源板块涨1.8%。 纳斯达克100指数初步收跌0.8%，成分股中，Axon跌9.7%，Atlassian跌8.2%，Zscaler跌8%，Workday跌5.6%，财捷、Datadog、Applovin、CrowdStrike、TTWO至少跌4.7%，天然气公司Diamondback Energy则涨2.6%，ADI、应用材料、德州仪器、科磊至多涨3.4%，希捷科技涨5.2%领跑。 Salesforce初步收跌6.3%，领跌道指成分股，IBM、微软、迪士尼、亚马逊、波音至多跌3%，摩根大通涨0.7%，雪佛龙涨0.7%，联合健康、沃尔玛、耐克涨超1%，卡特彼勒涨2%，思科涨2.5%。 费城半导体指数涨1.1%，费城银行指数涨1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3076179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美元指数24日上涨",
-          "url": "https://flash.jin10.com/detail/20260325040953058800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
-          "url": "https://www.cls.cn/detail/2323307",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "德国DAX30指数3月24日（周二）收盘上涨14.20点，涨幅0.06%，报22609.45点；<br/>英国富时100指数3月24日（周二）收盘上涨60.23点，涨幅0.61%，报9954.38点；<br/>法国CAC40指数3月24日（周二）收盘上涨17.72点，涨幅0.23%，报7743.92点；<br/>欧洲斯托克50指数3月24日（周二）收盘上涨1.64点，涨幅0.03%，报5575.96点；<br/>西班牙IBEX35指数3月24日（周二）收盘上涨0.81点，涨幅0.00%，报16889.01点；<br/>意大利富时MIB指数3月24日（周二）收盘上涨132.70点，涨幅0.31%，报43322.50点。",
-          "url": "https://flash.jin10.com/detail/20260325003726099800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "道琼斯指数3月24日（周二）收盘下跌84.75点，跌幅0.18%，报46123.72点；<br/>标普500指数3月24日（周二）收盘下跌24.63点，跌幅0.37%，报6556.37点；<br/>纳斯达克综合指数3月24日（周二）收盘下跌184.87点，跌幅0.84%，报21761.89点。",
-          "url": "https://flash.jin10.com/detail/20260325040308845800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月24日（周二）晚盘收盘上涨0.28%报975.51元/克；<br/>上海黄金交易所白银T+D 3月24日（周二）晚盘收盘上涨3.54%报17246.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260325023055722800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "调整 期货 现货",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -168,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时48分]"
         },
         {
           "title": "小米集团 2025 年调整后净利润 391.7 亿元人民币，同比增长 43.8%，怎样解读这一业绩？",
@@ -179,8 +26,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时48分]"
+        },
+        {
+          "title": "多地中考改革调整开闭卷科目，同省不同市采取两种策略",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32815896",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时48分]"
         },
         {
           "title": "周二（3月24日）欧市尾盘，ICE英国天然气期货跌6.36%，报134.160便士/千卡。 TTF基准荷兰天然气期货跌5.78%，报52.793欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）涨3.28%，报70.12欧元/吨。",
@@ -205,6 +63,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "现货白银日内涨幅达3.00%，现报71.20美元/盎司。现货黄金报4480美元/盎司，涨幅1.6%。",
+          "url": "https://flash.jin10.com/detail/20260325045446531800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
           "title": "上期所原油期货2605合约夜盘收跌1.56%，报740.20元人民币/桶。 沪金夜盘收涨0.25%，沪银收涨1.93%。",
           "url": "https://wallstreetcn.com/livenews/3076146",
           "source": "华尔街见闻-快讯",
@@ -216,17 +85,6 @@
           "time_info": "03时17分"
         },
         {
-          "title": "多地中考改革调整开闭卷科目，同省不同市采取两种策略",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32815896",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
-        },
-        {
           "title": "5名央企领导职务调整",
           "url": "https://www.cls.cn/detail/2323296",
           "source": "财联社热门",
@@ -235,8 +93,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 05时48分]"
+        },
+        {
+          "title": "周二（3月24日）纽约尾盘，标普500股指期货最终涨0.29%，道指期货涨0.46%，纳斯达克100股指期货涨0.03%。 罗素2000股指期货涨1.85%。",
+          "url": "https://wallstreetcn.com/livenews/3076206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
@@ -245,9 +114,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "现货白银涨超2.6%，在美股盘后迅速刷新日高，纽约铜、铂族贵金属也短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3076200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "WTI原油期货在电子交易盘下挫。 美元兑G10货币尾盘回吐涨幅。 标普500指数ETF涨幅迅速扩大，（美股盘后）一度达到1%。纳斯达克100指数ETF涨1.3%。 美国国债价格短线走高，使得日内整体跌幅收窄，10年期美债收益率目前报4.35%。",
+          "url": "https://wallstreetcn.com/livenews/3076192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "芝加哥豆粕期货跌约1.3%",
@@ -256,7 +147,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -267,9 +158,163 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2323371",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时48分]"
+        },
+        {
+          "title": "电力股成“香饽饽”！板块成交额历史新高，时隔2月再现7连板，这些股也曾频涨停",
+          "url": "https://www.cls.cn/detail/2323118",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时48分]"
+        },
+        {
+          "title": "美国银行：受供应放缓、收益率上涨的影响，投资级债券库存创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3076148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "【每日收评】沪指探底回升涨1.78%，全市场超5100股收红，电力板块持续爆发",
+          "url": "https://www.cls.cn/detail/2323009",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时17分]"
+        },
+        {
+          "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
+          "url": "https://www.cls.cn/detail/2323307",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时53分 ~ 05时48分]"
+        },
+        {
+          "title": "安哥拉在美元债市场融资25亿美元，押注伊朗战争带来的油价上涨行情将刺激投资者对这个产油国债务的需求。",
+          "url": "https://wallstreetcn.com/livenews/3076184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时48分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.6%，报360.72点。 在十个板块中，北欧能源板块涨幅最大。 Nibe Industrier AB涨6.0%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3076097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "国际油价24日显著上涨",
+          "url": "https://flash.jin10.com/detail/20260325041523592800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "标普500指数初步收跌0.4%，电信板块跌2.5%，科技、房地产板块跌0.7%，原材料板块涨1.7%，能源板块涨1.8%。 纳斯达克100指数初步收跌0.8%，成分股中，Axon跌9.7%，Atlassian跌8.2%，Zscaler跌8%，Workday跌5.6%，财捷、Datadog、Applovin、CrowdStrike、TTWO至少跌4.7%，天然气公司Diamondback Energy则涨2.6%，ADI、应用材料、德州仪器、科磊至多涨3.4%，希捷科技涨5.2%领跑。 Salesforce初步收跌6.3%，领跌道指成分股，IBM、微软、迪士尼、亚马逊、波音至多跌3%，摩根大通涨0.7%，雪佛龙涨0.7%，联合健康、沃尔玛、耐克涨超1%，卡特彼勒涨2%，思科涨2.5%。 费城半导体指数涨1.1%，费城银行指数涨1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3076179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "美元指数24日上涨",
+          "url": "https://flash.jin10.com/detail/20260325040953058800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "德国DAX30指数3月24日（周二）收盘上涨14.20点，涨幅0.06%，报22609.45点；<br/>英国富时100指数3月24日（周二）收盘上涨60.23点，涨幅0.61%，报9954.38点；<br/>法国CAC40指数3月24日（周二）收盘上涨17.72点，涨幅0.23%，报7743.92点；<br/>欧洲斯托克50指数3月24日（周二）收盘上涨1.64点，涨幅0.03%，报5575.96点；<br/>西班牙IBEX35指数3月24日（周二）收盘上涨0.81点，涨幅0.00%，报16889.01点；<br/>意大利富时MIB指数3月24日（周二）收盘上涨132.70点，涨幅0.31%，报43322.50点。",
+          "url": "https://flash.jin10.com/detail/20260325003726099800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "道琼斯指数3月24日（周二）收盘下跌84.75点，跌幅0.18%，报46123.72点；<br/>标普500指数3月24日（周二）收盘下跌24.63点，跌幅0.37%，报6556.37点；<br/>纳斯达克综合指数3月24日（周二）收盘下跌184.87点，跌幅0.84%，报21761.89点。",
+          "url": "https://flash.jin10.com/detail/20260325040308845800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月24日（周二）晚盘收盘上涨0.28%报975.51元/克；<br/>上海黄金交易所白银T+D 3月24日（周二）晚盘收盘上涨3.54%报17246.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260325023055722800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         }
       ]
     },
@@ -286,8 +331,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时48分]"
         },
         {
           "title": "【焦点复盘】市场缩量普涨终结三连跌，全市场超130股涨逾10%，算力硬件产业链全线回暖",
@@ -298,19 +343,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
-        },
-        {
-          "title": "激活10万亿公积金提振住房消费 超30城密集优化相关政策",
-          "url": "https://www.cls.cn/detail/2322979",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时48分]"
         },
         {
           "title": "【数据看盘】四家顶级游资聚焦韶能股份 量化资金、游资集体抢筹汉缆股份",
@@ -322,8 +356,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时48分]"
+        },
+        {
+          "title": "激活10万亿公积金提振住房消费 超30城密集优化相关政策",
+          "url": "https://www.cls.cn/detail/2322979",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
@@ -343,7 +388,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -362,7 +407,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "李大霄解读美股反弹",
@@ -370,22 +415,46 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时48分]"
+        },
+        {
+          "title": "非美货币多数在美股盘后走高",
+          "url": "https://wallstreetcn.com/livenews/3076209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
           "url": "https://wallstreetcn.com/livenews/3076183",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时48分]"
+        },
+        {
+          "title": "美元指数周二涨约0.3%，美股收盘后急剧跳水，日元美股盘后瞬间拉升",
+          "url": "https://wallstreetcn.com/livenews/3076170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时48分"
         },
         {
           "title": "金十图示：2026年03月24日（周二）美股热门股票行情一览（美股收盘）",
@@ -394,7 +463,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -405,7 +474,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -416,7 +485,63 @@
           "ranks": [
             19
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "京东开源基础大模型JoyAI-LLM Flash的Instruct版本，适配近期火爆的“龙虾”",
+          "url": "https://wallstreetcn.com/livenews/3076076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.43%，报6771.27点。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.63%，中概互联网指数ETF（KWEB）收跌0.56%。 德银嘉实沪深300指数ETF（ASHR）收跌0.40%，XtrackersHarvest中证50（ASHS）收涨0.38%。",
+          "url": "https://wallstreetcn.com/livenews/3076182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周二（3月24日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8938元，较周一纽约尾盘跌97点，日内整体交投于6.8826-6.9050元区间。",
+          "url": "https://wallstreetcn.com/livenews/3076205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8916元，较周一夜盘收盘跌121点。成交量408.06亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3076157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         }
@@ -434,53 +559,37 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时48分]"
         },
         {
           "title": "两年期美债收益率涨约6.9个基点",
           "url": "https://wallstreetcn.com/livenews/3076177",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "京东开源基础大模型JoyAI-LLM Flash的Instruct版本，适配近期火爆的“龙虾”",
-          "url": "https://wallstreetcn.com/livenews/3076076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时48分]"
         }
       ]
     },
     {
-      "keyword_group": "人民币",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8916元，较周一夜盘收盘跌121点。成交量408.06亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3076157",
+          "title": "金价美股盘后拉升，投资者紧盯中东局势",
+          "url": "https://wallstreetcn.com/livenews/3076199",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时48分"
         }
       ]
     },
@@ -495,7 +604,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         }
