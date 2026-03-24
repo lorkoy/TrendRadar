@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T05:48:16.294508+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-03-25T06:42:05.259886+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时42分]"
         },
         {
           "title": "小米集团 2025 年调整后净利润 391.7 亿元人民币，同比增长 43.8%，怎样解读这一业绩？",
@@ -26,19 +26,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时42分]"
         },
         {
           "title": "多地中考改革调整开闭卷科目，同省不同市采取两种策略",
           "url": "https://m.thepaper.cn/newsDetail_forward_32815896",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时42分]"
+        },
+        {
+          "title": "5名央企领导职务调整",
+          "url": "https://www.cls.cn/detail/2323296",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时16分 ~ 06时42分]"
         },
         {
           "title": "周二（3月24日）欧市尾盘，ICE英国天然气期货跌6.36%，报134.160便士/千卡。 TTF基准荷兰天然气期货跌5.78%，报52.793欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）涨3.28%，报70.12欧元/吨。",
@@ -63,17 +76,6 @@
           "time_info": "03时17分"
         },
         {
-          "title": "现货白银日内涨幅达3.00%，现报71.20美元/盎司。现货黄金报4480美元/盎司，涨幅1.6%。",
-          "url": "https://flash.jin10.com/detail/20260325045446531800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
-        },
-        {
           "title": "上期所原油期货2605合约夜盘收跌1.56%，报740.20元人民币/桶。 沪金夜盘收涨0.25%，沪银收涨1.93%。",
           "url": "https://wallstreetcn.com/livenews/3076146",
           "source": "华尔街见闻-快讯",
@@ -85,27 +87,28 @@
           "time_info": "03时17分"
         },
         {
-          "title": "5名央企领导职务调整",
-          "url": "https://www.cls.cn/detail/2323296",
-          "source": "财联社热门",
+          "title": "现货白银日内涨幅达3.00%，现报71.20美元/盎司。现货黄金报4480美元/盎司，涨幅1.6%。",
+          "url": "https://flash.jin10.com/detail/20260325045446531800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            11
+            5,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 05时48分]"
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时42分]"
         },
         {
           "title": "周二（3月24日）纽约尾盘，标普500股指期货最终涨0.29%，道指期货涨0.46%，纳斯达克100股指期货涨0.03%。 罗素2000股指期货涨1.85%。",
           "url": "https://wallstreetcn.com/livenews/3076206",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时42分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
@@ -119,15 +122,37 @@
           "time_info": "04时53分"
         },
         {
+          "title": "美股三大股指期货盘初走高，其中纳指期货涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260325060548968800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "现货白银涨超2.6%，在美股盘后迅速刷新日高，纽约铜、铂族贵金属也短线拉升",
           "url": "https://wallstreetcn.com/livenews/3076200",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "周三亚太盘初，WTI原油日内跌幅达4.0%，报88.57美元/桶。 标普500股指期货、道指期货涨超0.7%，纳斯达克100指数涨超0.9%，罗素2000股指期货涨1.1%。 现货黄金5分钟内下跌8.64美元/盎司，报4470.96美元/盎司。 纽约金5分钟内下跌7.09美元/盎司，报4505.6美元/盎司。 据央视报道，美国有意停火一个月以与伊朗讨论15点协议，包括美方支持其发展民用核项目。",
+          "url": "https://wallstreetcn.com/livenews/3076221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "WTI原油期货在电子交易盘下挫。 美元兑G10货币尾盘回吐涨幅。 标普500指数ETF涨幅迅速扩大，（美股盘后）一度达到1%。纳斯达克100指数ETF涨1.3%。 美国国债价格短线走高，使得日内整体跌幅收窄，10年期美债收益率目前报4.35%。",
@@ -136,7 +161,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -166,7 +191,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -178,8 +203,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时42分]"
         },
         {
           "title": "电力股成“香饽饽”！板块成交额历史新高，时隔2月再现7连板，这些股也曾频涨停",
@@ -190,8 +215,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时42分]"
         },
         {
           "title": "美国银行：受供应放缓、收益率上涨的影响，投资级债券库存创历史新低。",
@@ -205,6 +230,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
+          "url": "https://www.cls.cn/detail/2323307",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时53分 ~ 06时42分]"
+        },
+        {
           "title": "【每日收评】沪指探底回升涨1.78%，全市场超5100股收红，电力板块持续爆发",
           "url": "https://www.cls.cn/detail/2323009",
           "source": "财联社热门",
@@ -215,17 +251,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时11分 ~ 03时17分]"
-        },
-        {
-          "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
-          "url": "https://www.cls.cn/detail/2323307",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 05时48分]"
         },
         {
           "title": "安哥拉在美元债市场融资25亿美元，押注伊朗战争带来的油价上涨行情将刺激投资者对这个产油国债务的需求。",
@@ -295,6 +320,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "博鳌亚洲论坛发布旗舰报告：今年亚洲多数股票指数预计仍将保持上涨态势",
+          "url": "https://wallstreetcn.com/livenews/3076225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "道琼斯指数3月24日（周二）收盘下跌84.75点，跌幅0.18%，报46123.72点；<br/>标普500指数3月24日（周二）收盘下跌24.63点，跌幅0.37%，报6556.37点；<br/>纳斯达克综合指数3月24日（周二）收盘下跌184.87点，跌幅0.84%，报21761.89点。",
           "url": "https://flash.jin10.com/detail/20260325040308845800",
           "source": "金十数据",
@@ -306,6 +342,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
+          "url": "https://wallstreetcn.com/livenews/3076219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 3月24日（周二）晚盘收盘上涨0.28%报975.51元/克；<br/>上海黄金交易所白银T+D 3月24日（周二）晚盘收盘上涨3.54%报17246.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260325023055722800",
           "source": "金十数据",
@@ -315,12 +362,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "高盛：由于能源价格上涨影响全球经济增长，考虑到全球GDP增长放缓，将2026年原铝需求预测从平衡表中下调60万吨。",
+          "url": "https://flash.jin10.com/detail/20260325054711298800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "200亿资金“精准抄底”！是谁没浪费大跌机会？",
@@ -331,8 +389,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时42分]"
         },
         {
           "title": "【焦点复盘】市场缩量普涨终结三连跌，全市场超130股涨逾10%，算力硬件产业链全线回暖",
@@ -343,8 +401,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时42分]"
         },
         {
           "title": "【数据看盘】四家顶级游资聚焦韶能股份 量化资金、游资集体抢筹汉缆股份",
@@ -356,8 +414,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时42分]"
         },
         {
           "title": "激活10万亿公积金提振住房消费 超30城密集优化相关政策",
@@ -369,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "资金借道宽基产品入市，公募看好权益资产长期配置价值",
+          "url": "https://wallstreetcn.com/livenews/3076231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
@@ -391,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美国运输安全管理局高级官员在书面证词中表示，资金僵局“正引发重大安全风险”。",
+          "url": "https://flash.jin10.com/detail/20260325054236519800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "资金撤离加速，阿瑞斯和阿波罗限制私募信贷基金赎回",
@@ -419,19 +499,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时42分]"
         },
         {
           "title": "非美货币多数在美股盘后走高",
           "url": "https://wallstreetcn.com/livenews/3076209",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时42分]"
         },
         {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
@@ -452,7 +533,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -492,6 +573,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时42分]"
+        },
+        {
+          "title": "两年期美债收益率涨约6.9个基点",
+          "url": "https://wallstreetcn.com/livenews/3076177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时48分]"
+        },
+        {
+          "title": "美债收益率在美股盘后急剧回吐涨幅，投资者紧盯伊朗局势的动态",
+          "url": "https://wallstreetcn.com/livenews/3076177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SZ SH HK",
       "match_count": 2,
       "titles": [
@@ -513,7 +634,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         }
@@ -528,11 +649,12 @@
           "url": "https://wallstreetcn.com/livenews/3076205",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时42分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8916元，较周一夜盘收盘跌121点。成交量408.06亿美元。",
@@ -548,35 +670,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时48分]"
-        },
-        {
-          "title": "两年期美债收益率涨约6.9个基点",
-          "url": "https://wallstreetcn.com/livenews/3076177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时48分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -587,7 +680,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         }
