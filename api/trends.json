@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T21:43:11.490735+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2026-03-25T23:25:23.629767+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
@@ -301,7 +301,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -606,7 +606,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "小米集团 2025 年调整后净利润 391.7 亿元人民币，同比增长 43.8%，怎样解读这一业绩？",
@@ -666,6 +666,28 @@
           "time_info": "07时40分"
         },
         {
+          "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨多跌少。甲醇涨超3%，合成橡胶涨超2%，PTA涨超1%，聚丙烯（PP）、沥青涨近1%；跌幅方面，低硫燃料油（LU）跌超3%，燃油跌2%。",
+          "url": "https://flash.jin10.com/detail/20260325230115247800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "现货黄金盘中站上4500美元/盎司，日内涨幅0.6%。",
           "url": "https://wallstreetcn.com/livenews/3076253",
           "source": "华尔街见闻-快讯",
@@ -675,6 +697,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "能源公司Devon：石油期货的远端曲线或长端曲线开始上扬。",
+          "url": "https://wallstreetcn.com/livenews/3076780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "周二（3月24日）欧市尾盘，ICE英国天然气期货跌6.36%，报134.160便士/千卡。 TTF基准荷兰天然气期货跌5.78%，报52.793欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）涨3.28%，报70.12欧元/吨。",
@@ -826,6 +859,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
+          "url": "https://www.cls.cn/detail/2324799",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260325041357943800",
           "source": "金十数据",
@@ -909,7 +953,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -931,7 +975,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1063,7 +1107,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         }
@@ -1112,6 +1156,20 @@
           "time_info": "[01时11分 ~ 07时40分]"
         },
         {
+          "title": "【数据看盘】超12亿元资金买入立讯精密 “北向+游资+量化” 联手抢筹平潭发展",
+          "url": "https://www.cls.cn/detail/2324467",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时58分 ~ 23时25分]"
+        },
+        {
           "title": "我国氢能与核聚变能产业加速突破",
           "url": "https://www.toutiao.com/trending/7620684708573397018/",
           "source": "今日头条",
@@ -1119,8 +1177,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时25分]"
         },
         {
           "title": "这就是中国AI产业链的硬核实力",
@@ -1132,19 +1190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时54分 ~ 13时03分]"
-        },
-        {
-          "title": "【数据看盘】超12亿元资金买入立讯精密 “北向+游资+量化” 联手抢筹平潭发展",
-          "url": "https://www.cls.cn/detail/2324467",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时58分 ~ 21时43分]"
         },
         {
           "title": "激活10万亿公积金提振住房消费 超30城密集优化相关政策",
@@ -1349,7 +1394,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "快手(01024.HK)：2025年第四季度，由AIGC营销素材带来的线上营销服务消耗金额达到人民币40亿元。",
@@ -1440,6 +1485,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "SHIT期刊爆火释放什么信号",
+          "url": "https://search.bilibili.com/all?keyword=SHIT%E6%9C%9F%E5%88%8A%E7%88%86%E7%81%AB%E9%87%8A%E6%94%BE%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "石药集团(01093.HK)：2025年全年营收260.1亿元人民币，预估278.2亿元人民币，同比减少10.4%。",
           "url": "https://flash.jin10.com/detail/20260325121858271800",
           "source": "金十数据",
@@ -1501,7 +1557,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1529,11 +1585,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时40分 ~ 21时43分]"
+          "appearance_count": 11,
+          "time_info": "[07时40分 ~ 23时25分]"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -1572,7 +1629,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1589,6 +1646,18 @@
           "time_info": "[05时48分 ~ 06时42分]"
         },
         {
+          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2324750",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时25分]"
+        },
+        {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
           "url": "https://wallstreetcn.com/livenews/3076183",
           "source": "华尔街见闻-快讯",
@@ -1599,17 +1668,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时48分]"
-        },
-        {
-          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2324750",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "美元指数周二涨约0.3%，美股收盘后急剧跳水，日元美股盘后瞬间拉升",
@@ -1629,7 +1687,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1673,7 +1731,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1684,7 +1742,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         }
@@ -1794,11 +1852,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%AA%81%E7%84%B6%E9%A3%99%E5%8D%87",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时25分]"
         },
         {
           "title": "金价美股盘后拉升，投资者紧盯中东局势",
@@ -1930,7 +1989,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
