@@ -1,12 +1,49 @@
 {
-  "generated_at": "2026-03-27T05:40:19.932181+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-03-27T06:41:09.584511+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
       "match_count": 20,
       "titles": [
+        {
+          "title": "【数据看盘】一线游资、量化资金涌入西部材料 超12亿元资金砸盘明阳智能",
+          "url": "https://www.cls.cn/detail/2325760",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时41分]"
+        },
+        {
+          "title": "【焦点复盘】市场连续普反后现地量普跌，绿电产业链分歧加剧，商业航天概念逆势拉升",
+          "url": "https://www.cls.cn/detail/2325706",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时41分]"
+        },
+        {
+          "title": "央行“一次性信用修复政策”月底截止",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E2%80%9C%E4%B8%80%E6%AC%A1%E6%80%A7%E4%BF%A1%E7%94%A8%E4%BF%AE%E5%A4%8D%E6%94%BF%E7%AD%96%E2%80%9D%E6%9C%88%E5%BA%95%E6%88%AA%E6%AD%A2",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时41分]"
+        },
         {
           "title": "墨西哥央行：认为当前的货币政策立场足以应对中东冲突持续升级所带来的挑战。",
           "url": "https://flash.jin10.com/detail/20260327030316727800",
@@ -17,40 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "【数据看盘】一线游资、量化资金涌入西部材料 超12亿元资金砸盘明阳智能",
-          "url": "https://www.cls.cn/detail/2325760",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时40分]"
-        },
-        {
-          "title": "【焦点复盘】市场连续普反后现地量普跌，绿电产业链分歧加剧，商业航天概念逆势拉升",
-          "url": "https://www.cls.cn/detail/2325706",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时40分]"
-        },
-        {
-          "title": "央行“一次性信用修复政策”月底截止",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E2%80%9C%E4%B8%80%E6%AC%A1%E6%80%A7%E4%BF%A1%E7%94%A8%E4%BF%AE%E5%A4%8D%E6%94%BF%E7%AD%96%E2%80%9D%E6%9C%88%E5%BA%95%E6%88%AA%E6%AD%A2",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时40分]"
         },
         {
           "title": "提醒：美联储理事库克并未置评FOMC货币政策与美国经济前景。",
@@ -234,7 +237,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -244,8 +247,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时41分]"
         },
         {
           "title": "恒指期货夜盘收跌0.03%，报24782点，低水74点。",
@@ -259,15 +262,27 @@
           "time_info": "03时20分"
         },
         {
+          "title": "现货黄金周五盘初升至4400美元/盎司，日内涨0.54%。",
+          "url": "https://flash.jin10.com/detail/20260327060623790800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "周四（3月26日）纽约尾盘，标普500股指期货最终跌1.58%，道指期货跌0.83%，纳斯达克100股指期货跌2.25%。 罗素2000股指期货跌1.23%。",
           "url": "https://wallstreetcn.com/livenews/3077696",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时41分]"
         },
         {
           "title": "墨西哥央行：展望未来，委员会将评估进一步调整基准利率的时机和必要性。",
@@ -325,6 +340,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "周五亚太盘初，美国三大股指期货涨0.3%，罗素2000股指期货涨约0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3077711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "标普500指数跌幅扩大至1%，刷新日低。 道指跌266点，跌幅0.6%，纳指跌1.3%。 现货黄金日内跌幅达2.5%，报4392.36美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3077595",
           "source": "华尔街见闻-快讯",
@@ -364,6 +390,18 @@
           "time_info": "[01时14分 ~ 04时44分]"
         },
         {
+          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时41分]"
+        },
+        {
           "title": "加拿大央行高级副行长罗杰斯：需确保油价上涨不会导致CPI持续走高。",
           "url": "https://flash.jin10.com/detail/20260327011207936800",
           "source": "金十数据",
@@ -375,27 +413,16 @@
           "time_info": "01时14分"
         },
         {
-          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时40分]"
-        },
-        {
           "title": "跌破2万亿大关！A股成交额创年内新低，两大板块热度速降，这些方向也缩量明显",
           "url": "https://www.cls.cn/detail/2325757",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时41分]"
         },
         {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
@@ -457,8 +484,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
+          "url": "https://www.cls.cn/detail/2326270",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 06时41分]"
+        },
         {
           "title": "半导体ETF收跌4.6%，领跌美股行业ETF，能源业ETF则涨约1.6%",
           "url": "https://wallstreetcn.com/livenews/3077676",
@@ -504,6 +542,86 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少104.21吨，当前持仓量为15409.46吨。欢迎点击查看数据中心……",
+          "url": "https://flash.jin10.com/detail/20260327060243113800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.55%，报6721.22点。 热门中概股里，小马智行初步收跌15%，诺亚控股跌13.3%，万国数据、小鹏跌6.6%，百度跌5%，蔚来跌4.1%，阿里跌3.5%，比亚迪跌3.1%，百胜中国、美团、理想、网易至少跌超2.6%，亚朵涨0.1%，Boss直聘涨1.4%，华住涨1.7%，文远知行涨1.7%。 ETF中，中国科技指数ETF（CQQQ）收跌4.24%，中概互联网指数ETF（KWEB）收3.23%。 德银嘉实沪深300指数ETF（ASHR）收跌2.42%，XtrackersHarvest中证50（ASHS）收跌2.22%。",
+          "url": "https://wallstreetcn.com/livenews/3077670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时40分]"
+        },
+        {
+          "title": "澳新银行驻奥克兰的新西兰首席经济学家Sharon Zollner：中东冲突为经济前景带来了巨大的不确定性，并已经直接削弱了新西兰民众的购买力。 消费者信心受挫可能会加剧对增长的影响。 在局势可能显著恶化的情况下，企业和家庭在做支出决策时表现得谨小慎微，这是完全合理的。",
+          "url": "https://wallstreetcn.com/livenews/3077709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
+          "url": "https://wallstreetcn.com/articles/3768442",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时41分]"
+        },
+        {
+          "title": "美联储理事米兰：缩减资产负债表（缩表）“可能要耗时好几年”。 如果美联储选择减持美债，可能需要缓慢地推进。 如果美联储的确缩表，可能需要降息。 缩表的好处是显而易见的。",
+          "url": "https://wallstreetcn.com/livenews/3077722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "短端美债收益率涨超10个基点",
+          "url": "https://wallstreetcn.com/livenews/3077702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         }
       ]
     },
@@ -558,7 +676,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -572,24 +690,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数收跌2.55%，报6721.22点。 热门中概股里，小马智行初步收跌15%，诺亚控股跌13.3%，万国数据、小鹏跌6.6%，百度跌5%，蔚来跌4.1%，阿里跌3.5%，比亚迪跌3.1%，百胜中国、美团、理想、网易至少跌超2.6%，亚朵涨0.1%，Boss直聘涨1.4%，华住涨1.7%，文远知行涨1.7%。 ETF中，中国科技指数ETF（CQQQ）收跌4.24%，中概互联网指数ETF（KWEB）收3.23%。 德银嘉实沪深300指数ETF（ASHR）收跌2.42%，XtrackersHarvest中证50（ASHS）收跌2.22%。",
-          "url": "https://wallstreetcn.com/livenews/3077670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时40分]"
         }
       ]
     },
@@ -608,24 +708,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
-          "url": "https://wallstreetcn.com/articles/3768442",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时40分]"
         }
       ]
     }
