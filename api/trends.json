@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T21:49:39.047590+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2026-03-26T23:16:36.464842+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时45分 ~ 21时49分]"
+          "appearance_count": 10,
+          "time_info": "[07时45分 ~ 23时16分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -29,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时45分 ~ 21时49分]"
+          "appearance_count": 10,
+          "time_info": "[07时45分 ~ 23时16分]"
         },
         {
           "title": "【早报】深夜，中国资产全线上涨；伊朗：拒绝美国停战提议",
@@ -241,6 +242,18 @@
           "time_info": "[04时51分 ~ 05时50分]"
         },
         {
+          "title": "跌破2万亿大关！A股成交额创年内新低，两大板块热度速降，这些方向也缩量明显",
+          "url": "https://www.cls.cn/detail/2325757",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时16分]"
+        },
+        {
           "title": "美联储理事米兰：认为不会出现工资与物价的螺旋式上涨。",
           "url": "https://flash.jin10.com/detail/20260326041720266800",
           "source": "金十数据",
@@ -304,7 +317,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -329,17 +342,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
-        },
-        {
-          "title": "跌破2万亿大关！A股成交额创年内新低，两大板块热度速降，这些方向也缩量明显",
-          "url": "https://www.cls.cn/detail/2325757",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         },
         {
           "title": "能源价格上涨 德国4月消费者信心指数大跳水",
@@ -384,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "房利美和房地美（两房）股价下跌，“大空头”Michael Burry认为，两房“充其量”最早将在2027年IPO。",
+          "url": "https://wallstreetcn.com/livenews/3077551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "美国环保署:将暂时中止夏季汽油的抗雾霾规定，以缓解油价上涨。",
@@ -474,6 +487,17 @@
           "time_info": "17时09分"
         },
         {
+          "title": "美国总统特朗普：贝森特将就应对能源价格上涨采取的措施发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260326225732355800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "德国DAX30指数3月25日（周三）收盘上涨337.33点，涨幅1.49%，报22977.22点；<br/>英国富时100指数3月25日（周三）收盘上涨146.91点，涨幅1.47%，报10112.07点；<br/>法国CAC40指数3月25日（周三）收盘上涨102.63点，涨幅1.33%，报7846.55点；<br/>欧洲斯托克50指数3月25日（周三）收盘上涨71.81点，涨幅1.29%，报5653.10点；<br/>西班牙IBEX35指数3月25日（周三）收盘上涨276.25点，涨幅1.63%，报17186.45点；<br/>意大利富时MIB指数3月25日（周三）收盘上涨671.97点，涨幅1.55%，报44041.50点。",
           "url": "https://flash.jin10.com/detail/20260326003639067800",
           "source": "金十数据",
@@ -540,6 +564,17 @@
           "time_info": "15时26分"
         },
         {
+          "title": "纳斯达克100指数跌势延续至盘中低位，下跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20260326225549235800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "锂矿股震荡拉升，融捷股份触及涨停，走出3连板，盛新锂能、国城矿业、中矿资源、雅化集团跟涨。",
           "url": "https://wallstreetcn.com/livenews/3077033",
           "source": "华尔街见闻-快讯",
@@ -562,6 +597,17 @@
           "time_info": "17时09分"
         },
         {
+          "title": "美国总统特朗普：油价和股市下跌并没有那么“严重”。",
+          "url": "https://flash.jin10.com/detail/20260326225402436800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "A股三大指数集体翻红，化工、小家电、电池、医药等方向领涨，沪深京三市上涨个股超3500只。",
           "url": "https://wallstreetcn.com/livenews/3077030",
           "source": "华尔街见闻-快讯",
@@ -576,7 +622,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
@@ -624,6 +670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "WTI 5月原油期货收报90.32美元/桶。 NYMEX 4月天然气期货收报2.9520美元/百万英热单位。 NYMEX 4月汽油期货收报3.0124美元/加仑，NYMEX 3月取暖油期货收报4.0063美元/加仑。",
@@ -889,7 +946,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -903,6 +960,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨跌不一。纯苯、合成橡胶、苯乙烯（EB）涨超3%，燃油涨超2%，PX、甲醇、乙二醇（EG）涨近2%；跌幅方面，焦煤跌近2%，焦炭、菜粕、烧碱跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260326230101293800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "日本央行行长植田和男：大规模的日本国债持仓不会令政策调整变得困难；正在通过货币政策来实现物价稳定目标。",
@@ -1048,6 +1116,17 @@
           "time_info": "13时46分"
         },
         {
+          "title": "布伦特原油期货维持3.84%的涨幅，目前报100.99美元。 伊朗革命卫队称，以色列总理内塔尼亚胡只能再战两周。",
+          "url": "https://wallstreetcn.com/livenews/3077535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "A股午后电网设备股持续调整，顺钠股份逼近跌停，金利华电、泽宇智能、派诺科技、亿能电力、积成电子等多股跌超5%。",
           "url": "https://flash.jin10.com/detail/20260326131315089800",
           "source": "金十数据",
@@ -1127,7 +1206,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1138,7 +1217,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1236,6 +1315,19 @@
           "time_info": "[04时51分 ~ 05时50分]"
         },
         {
+          "title": "【数据看盘】一线游资、量化资金涌入西部材料 超12亿元资金砸盘明阳智能",
+          "url": "https://www.cls.cn/detail/2325760",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 23时16分]"
+        },
+        {
           "title": "美联储理事米兰：美联储目前的政策正在错误地抑制经济增长。",
           "url": "https://flash.jin10.com/detail/20260326042432292800",
           "source": "金十数据",
@@ -1248,16 +1340,16 @@
           "time_info": "[04时51分 ~ 05时50分]"
         },
         {
-          "title": "【数据看盘】一线游资、量化资金涌入西部材料 超12亿元资金砸盘明阳智能",
-          "url": "https://www.cls.cn/detail/2325760",
+          "title": "【焦点复盘】市场连续普反后现地量普跌，绿电产业链分歧加剧，商业航天概念逆势拉升",
+          "url": "https://www.cls.cn/detail/2325706",
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时03分 ~ 21时49分]"
+          "time_info": "[21时49分 ~ 23时16分]"
         },
         {
           "title": "美联储理事米兰：对稳定币非常乐观，将会把更多资金投入美元生态系统。",
@@ -1290,7 +1382,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1323,18 +1415,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "【焦点复盘】市场连续普反后现地量普跌，绿电产业链分歧加剧，商业航天概念逆势拉升",
-          "url": "https://www.cls.cn/detail/2325706",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1345,7 +1426,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1507,7 +1588,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
@@ -1552,7 +1633,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1603,6 +1684,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "美股跌幅扩大，布油涨幅扩大，特朗普称“不知道我们是否愿意与伊朗达成协议”",
+          "url": "https://wallstreetcn.com/livenews/3077550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260326040606409800",
           "source": "金十数据",
@@ -1634,6 +1726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及美股）原以为会跌得更厉害。",
+          "url": "https://flash.jin10.com/detail/20260326225354237800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
@@ -1648,7 +1751,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1815,11 +1918,12 @@
           "url": "https://wallstreetcn.com/articles/3768442",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 21时49分]"
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 23时16分]"
         },
         {
           "title": "10/30年期美债收益率至少跌约3.5个基点",
@@ -1868,7 +1972,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         }
