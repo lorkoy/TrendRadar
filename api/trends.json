@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T11:20:19.901112+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-03-26T13:46:15.998184+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 29,
+      "match_count": 38,
       "titles": [
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 13时46分]"
         },
         {
           "title": "【早报】深夜，中国资产全线上涨；伊朗：拒绝美国停战提议",
@@ -27,8 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 13时46分]"
+        },
+        {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 13时46分]"
         },
         {
           "title": "泰国股指SET指数下跌1%。",
@@ -37,9 +49,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "台湾加权指数3月26日（周四）收盘下跌101.49点，跌幅0.3%，报33337.62点。",
+          "url": "https://flash.jin10.com/detail/20260326133515748800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "隔夜SHIBOR报1.3200%，上涨0.10个基点。 7天SHIBOR报1.4380%，上涨0.30个基点。 3个月SHIBOR报1.5135%，下降0.20个基点。",
@@ -48,7 +71,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -59,9 +82,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "日经225指数下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260326133156024800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "澳大利亚S&P/ASX200指数3月26日（周四）开盘上涨8.70点，涨幅0.10%，报8543.00点。",
@@ -81,20 +115,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "日本日经225指数下跌1%，至53,211.64点。",
+          "url": "https://wallstreetcn.com/livenews/3077144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "黑龙江明确高校逐步消除 8 人间宿舍， 取消 8 人宿舍是否值得全国推广？住宿费会因此上涨吗？",
           "url": "https://www.zhihu.com/question/2019774606425239596",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 13时46分]"
         },
         {
           "title": "美元指数25日上涨",
@@ -132,18 +178,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时45分]"
-        },
-        {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 11时20分]"
         },
         {
           "title": "标普500指数的11个板块中，原材料板块收涨1.97%，可选消费板块涨1.18%，信息技术/科技板块涨0.56%，能源板块跌0.53%。",
@@ -235,9 +269,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "A股三大指数均跌超1%，沪指再度失守3900点，光伏、风电、贵金属板块跌幅居前，全市场超4500只个股下跌。",
+          "url": "https://wallstreetcn.com/livenews/3077137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "A股光纤概念震荡走弱，法尔胜触及跌停，永鼎股份、华脉科技、中天科技、特发信息、光迅科技纷纷下挫。",
+          "url": "https://wallstreetcn.com/livenews/3077133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "隔夜shibor报1.3200%，上涨0.10个基点",
@@ -246,7 +302,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -262,15 +318,48 @@
           "time_info": "01时14分"
         },
         {
+          "title": "A股油气板块午后拉升，蓝焰控股封板涨停，潜能恒信、首华燃气、海油工程、中曼石油、新天然气跟涨。",
+          "url": "https://flash.jin10.com/detail/20260326132146180800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "国内航线燃油附加费确定4月5日上涨",
           "url": "https://flash.jin10.com/detail/20260326105916524800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数3月26日（周四）收盘下跌11.00点，跌幅0.13%，报8523.30点。",
+          "url": "https://flash.jin10.com/detail/20260326132118413800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "A股光纤概念板块午后震荡走弱，法尔胜跌触及跌停，永鼎股份、华脉科技、中天科技、特发信息、光迅科技等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260326131841485800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "德国DAX30指数3月25日（周三）收盘上涨337.33点，涨幅1.49%，报22977.22点；<br/>英国富时100指数3月25日（周三）收盘上涨146.91点，涨幅1.47%，报10112.07点；<br/>法国CAC40指数3月25日（周三）收盘上涨102.63点，涨幅1.33%，报7846.55点；<br/>欧洲斯托克50指数3月25日（周三）收盘上涨71.81点，涨幅1.29%，报5653.10点；<br/>西班牙IBEX35指数3月25日（周三）收盘上涨276.25点，涨幅1.63%，报17186.45点；<br/>意大利富时MIB指数3月25日（周三）收盘上涨671.97点，涨幅1.55%，报44041.50点。",
@@ -282,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "A股三大股指午后加速下跌，上证指数跌近1%，深证成指跌超1%，创业板指跌0.78%，电网设备、BC电池、算力租赁等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260326131513870800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月25日（周三）晚盘收盘上涨0.43%报1013.48元/克；<br/>上海黄金交易所白银T+D 3月25日（周三）晚盘收盘下跌0.58%报17912.0元/千克。",
@@ -323,7 +423,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -334,9 +434,295 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
+          "url": "https://www.cls.cn/detail/2324799",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 07时45分]"
+        },
+        {
+          "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时51分]"
+        },
+        {
+          "title": "美伊谈判存疑，美股指涨幅收窄，存储板块走低，现货黄金涨2%，原油跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
+        },
+        {
+          "title": "WTI 5月原油期货收报90.32美元/桶。 NYMEX 4月天然气期货收报2.9520美元/百万英热单位。 NYMEX 4月汽油期货收报3.0124美元/加仑，NYMEX 3月取暖油期货收报4.0063美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3076856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "现货黄金短线走低，日内跌0.5%，报4483.06美元/盎司。 现货白银跌近1%，报70.51美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3077145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.4%，报25268点，低水68点。",
+          "url": "https://flash.jin10.com/detail/20260326030510297800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收涨0.50%，报730.80元人民币/桶。 沪金夜盘收涨1.82%，沪银收涨2.15%。",
+          "url": "https://wallstreetcn.com/livenews/3076855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "周三（3月25日）纽约尾盘，标普500股指期货最终涨0.56%，道指期货涨0.66%，纳斯达克100股指期货涨0.66%。 罗素2000股指期货涨1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3076909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
+        },
+        {
+          "title": "美联储理事米兰：不认为美联储需要大幅加快政策调整的步伐。",
+          "url": "https://flash.jin10.com/detail/20260326042554936800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时50分]"
+        },
+        {
+          "title": "现货白银日内跌超1.00%，现报70.47美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260326070256475800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "MSCI亚太指数日内下跌1%。 标普500指数期货、纳斯达克100指数期货下跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3077064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "金十期货3月26日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨950元/吨，中间价报157350元/吨。",
+          "url": "https://flash.jin10.com/detail/20260326110430972800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "WTI原油期货向上触及92美元/桶，日内涨1.86%。",
+          "url": "https://flash.jin10.com/detail/20260326110216091800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "布伦特原油期货日内涨近2%报104.25美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3077131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "A股午后电网设备股持续调整，顺钠股份逼近跌停，金利华电、泽宇智能、派诺科技、亿能电力、积成电子等多股跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3077129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "周三（3月25日）纽约尾盘，ICE原糖期货跌2.20%，ICE白糖期货跌1.65%。 ICE阿拉比卡咖啡期货跌0.64%，咖啡“C”期货跌1.05%。罗布斯塔咖啡期货跌0.98%。 纽约可可期货跌3.09%，报3135美元/吨。伦敦可可期货跌2.83%。 芝加哥WCE双低油菜籽期货涨0.47%。 ICE棉花期货涨0.92%。",
+          "url": "https://wallstreetcn.com/livenews/3076875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "日本央行行长植田和男：大规模的日本国债持仓不会令政策调整变得困难；正在通过货币政策来实现物价稳定目标。",
+          "url": "https://wallstreetcn.com/livenews/3077050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "纽约ICE原糖期货跌离五个月最高位，石油价格下跌，抑制对生物燃油的激励。",
+          "url": "https://wallstreetcn.com/livenews/3076799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "布伦特原油期货维持2.44%的跌幅，暂报97.78美元。 据华尔街日报，美国和以色列暂时将两名伊朗官员从目标名单中移除。",
+          "url": "https://wallstreetcn.com/livenews/3076871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "芝加哥大豆期货涨约1.6%，大豆油涨约2.1%",
+          "url": "https://wallstreetcn.com/livenews/3076869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "布伦特原油期货目前跌2.33%，暂报97.89美元。 据纽约时报，伊朗的袭击迫使美军远程行动部，分驻中东美军已迁至酒店和办公室。 另据Axios报道，特朗普拒绝了内塔尼亚胡号召伊朗发动起义的提议。",
+          "url": "https://wallstreetcn.com/livenews/3076867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "WTI原油期货跌幅收窄至1.26%，暂报91.19美元。 伊朗外长阿拉格齐称，美国正通过不同的中间人传递信息。通过调解人交换信息“并不意味着与美国进行谈判”。 伊朗高层正在审查各方提出的方案，德黑兰无意与美国举行会谈。",
+          "url": "https://wallstreetcn.com/livenews/3076866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美国持续释放谈判信号，伊朗否认，现货黄金、美国原油多头情绪占优，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260326104815599800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "布伦特原油期货日内上涨2美元，报104.22美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260326131455656800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "A股午后电网设备股持续调整，顺钠股份逼近跌停，金利华电、泽宇智能、派诺科技、亿能电力、积成电子等多股跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260326131315089800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     },
@@ -536,7 +922,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -547,7 +933,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -580,238 +966,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
-          "url": "https://www.cls.cn/detail/2324799",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 07时45分]"
-        },
-        {
-          "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 04时51分]"
-        },
-        {
-          "title": "美伊谈判存疑，美股指涨幅收窄，存储板块走低，现货黄金涨2%，原油跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时49分]"
-        },
-        {
-          "title": "WTI 5月原油期货收报90.32美元/桶。 NYMEX 4月天然气期货收报2.9520美元/百万英热单位。 NYMEX 4月汽油期货收报3.0124美元/加仑，NYMEX 3月取暖油期货收报4.0063美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3076856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.4%，报25268点，低水68点。",
-          "url": "https://flash.jin10.com/detail/20260326030510297800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "上期所原油期货2605合约夜盘收涨0.50%，报730.80元人民币/桶。 沪金夜盘收涨1.82%，沪银收涨2.15%。",
-          "url": "https://wallstreetcn.com/livenews/3076855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "周三（3月25日）纽约尾盘，标普500股指期货最终涨0.56%，道指期货涨0.66%，纳斯达克100股指期货涨0.66%。 罗素2000股指期货涨1.12%。",
-          "url": "https://wallstreetcn.com/livenews/3076909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时49分]"
-        },
-        {
-          "title": "美联储理事米兰：不认为美联储需要大幅加快政策调整的步伐。",
-          "url": "https://flash.jin10.com/detail/20260326042554936800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时50分]"
-        },
-        {
-          "title": "现货白银日内跌超1.00%，现报70.47美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260326070256475800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "MSCI亚太指数日内下跌1%。 标普500指数期货、纳斯达克100指数期货下跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3077064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "金十期货3月26日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨950元/吨，中间价报157350元/吨。",
-          "url": "https://flash.jin10.com/detail/20260326110430972800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "WTI原油期货向上触及92美元/桶，日内涨1.86%。",
-          "url": "https://flash.jin10.com/detail/20260326110216091800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "周三（3月25日）纽约尾盘，ICE原糖期货跌2.20%，ICE白糖期货跌1.65%。 ICE阿拉比卡咖啡期货跌0.64%，咖啡“C”期货跌1.05%。罗布斯塔咖啡期货跌0.98%。 纽约可可期货跌3.09%，报3135美元/吨。伦敦可可期货跌2.83%。 芝加哥WCE双低油菜籽期货涨0.47%。 ICE棉花期货涨0.92%。",
-          "url": "https://wallstreetcn.com/livenews/3076875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "日本央行行长植田和男：大规模的日本国债持仓不会令政策调整变得困难；正在通过货币政策来实现物价稳定目标。",
-          "url": "https://wallstreetcn.com/livenews/3077050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "纽约ICE原糖期货跌离五个月最高位，石油价格下跌，抑制对生物燃油的激励。",
-          "url": "https://wallstreetcn.com/livenews/3076799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "布伦特原油期货维持2.44%的跌幅，暂报97.78美元。 据华尔街日报，美国和以色列暂时将两名伊朗官员从目标名单中移除。",
-          "url": "https://wallstreetcn.com/livenews/3076871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "芝加哥大豆期货涨约1.6%，大豆油涨约2.1%",
-          "url": "https://wallstreetcn.com/livenews/3076869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "布伦特原油期货目前跌2.33%，暂报97.89美元。 据纽约时报，伊朗的袭击迫使美军远程行动部，分驻中东美军已迁至酒店和办公室。 另据Axios报道，特朗普拒绝了内塔尼亚胡号召伊朗发动起义的提议。",
-          "url": "https://wallstreetcn.com/livenews/3076867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "WTI原油期货跌幅收窄至1.26%，暂报91.19美元。 伊朗外长阿拉格齐称，美国正通过不同的中间人传递信息。通过调解人交换信息“并不意味着与美国进行谈判”。 伊朗高层正在审查各方提出的方案，德黑兰无意与美国举行会谈。",
-          "url": "https://wallstreetcn.com/livenews/3076866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "美国持续释放谈判信号，伊朗否认，现货黄金、美国原油多头情绪占优，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260326104815599800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "11时20分"
         }
@@ -821,6 +976,19 @@
       "keyword_group": "美股",
       "match_count": 10,
       "titles": [
+        {
+          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
+          "url": "https://www.cls.cn/detail/2324998",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时49分 ~ 13时46分]"
+        },
         {
           "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
           "url": "https://www.cls.cn/detail/2324750",
@@ -843,19 +1011,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时14分 ~ 06时49分]"
-        },
-        {
-          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
-          "url": "https://www.cls.cn/detail/2324998",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时49分 ~ 11时20分]"
         },
         {
           "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
@@ -940,8 +1095,19 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "港股恒生科技指数午后跌超3%，恒生指数跌近2%，快手跌超13.5%，泡泡玛特(09992.HK)、中国人寿(02628.HK)跌超9%，中芯国际(00981.HK)跌近6%，紫金矿业(02899.HK)跌超5%，阿里巴巴(09988.HK)、美团(03690.HK)均跌超4.5%。",
+          "url": "https://flash.jin10.com/detail/20260326132700060800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
         {
           "title": "据日本放送协会NHK：日本临时预算总额预计约为8.6万亿日元。",
           "url": "https://flash.jin10.com/detail/20260326061328145800",
@@ -970,7 +1136,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周三（3月25日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.9028元，较周二纽约尾盘跌90点，日内整体交投于6.8840-6.9093元区间。",
@@ -994,6 +1160,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "特步国际2025年营收141.5亿元人民币，预估143.8亿元人民币； 全年净利润13.7亿元人民币，预估13.8亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3077103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "10/30年期美债收益率至少跌约3.5个基点",
+          "url": "https://wallstreetcn.com/livenews/3076878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时50分]"
+        },
+        {
+          "title": "摩根士丹利：流动性恶化，美债暴力平仓正在上演",
+          "url": "https://flash.jin10.com/detail/20260326131900216800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     },
@@ -1008,27 +1214,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "10/30年期美债收益率至少跌约3.5个基点",
-          "url": "https://wallstreetcn.com/livenews/3076878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时50分]"
         }
       ]
     },
