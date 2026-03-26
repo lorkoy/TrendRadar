@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T07:45:18.225497+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-03-26T11:20:19.901112+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 19,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -14,20 +14,54 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 11时20分]"
         },
         {
           "title": "【早报】深夜，中国资产全线上涨；伊朗：拒绝美国停战提议",
           "url": "https://www.cls.cn/detail/2325013",
           "source": "财联社热门",
           "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 11时20分]"
+        },
+        {
+          "title": "泰国股指SET指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3077079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3200%，上涨0.10个基点。 7天SHIBOR报1.4380%，上涨0.30个基点。 3个月SHIBOR报1.5135%，下降0.20个基点。",
+          "url": "https://wallstreetcn.com/livenews/3077078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "A股算力租赁板块盘中回调，协鑫能科跌超7%，电光科技、南网数字、铜牛信息、中嘉博创等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260326110759421800",
+          "source": "金十数据",
+          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "11时20分"
         },
         {
           "title": "澳大利亚S&P/ASX200指数3月26日（周四）开盘上涨8.70点，涨幅0.10%，报8543.00点。",
@@ -36,9 +70,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "国内航线燃油附加费确定4月5日上涨",
+          "url": "https://wallstreetcn.com/livenews/3077075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "黑龙江明确高校逐步消除 8 人间宿舍， 取消 8 人宿舍是否值得全国推广？住宿费会因此上涨吗？",
+          "url": "https://www.zhihu.com/question/2019774606425239596",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "美元指数25日上涨",
@@ -76,6 +132,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时45分]"
+        },
+        {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 11时20分]"
         },
         {
           "title": "标普500指数的11个板块中，原材料板块收涨1.97%，可选消费板块涨1.18%，信息技术/科技板块涨0.56%，能源板块跌0.53%。",
@@ -161,15 +229,26 @@
           "time_info": "01时14分"
         },
         {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
+          "title": "受澳大利亚供应中断担忧影响，铁矿石价格上涨",
+          "url": "https://flash.jin10.com/detail/20260326110503566800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "11时20分"
+        },
+        {
+          "title": "隔夜shibor报1.3200%，上涨0.10个基点",
+          "url": "https://flash.jin10.com/detail/20260326110142447800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "美国环保署:将暂时中止夏季汽油的抗雾霾规定，以缓解油价上涨。",
@@ -181,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "国内航线燃油附加费确定4月5日上涨",
+          "url": "https://flash.jin10.com/detail/20260326105916524800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "德国DAX30指数3月25日（周三）收盘上涨337.33点，涨幅1.49%，报22977.22点；<br/>英国富时100指数3月25日（周三）收盘上涨146.91点，涨幅1.47%，报10112.07点；<br/>法国CAC40指数3月25日（周三）收盘上涨102.63点，涨幅1.33%，报7846.55点；<br/>欧洲斯托克50指数3月25日（周三）收盘上涨71.81点，涨幅1.29%，报5653.10点；<br/>西班牙IBEX35指数3月25日（周三）收盘上涨276.25点，涨幅1.63%，报17186.45点；<br/>意大利富时MIB指数3月25日（周三）收盘上涨671.97点，涨幅1.55%，报44041.50点。",
@@ -225,12 +315,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "锂矿股震荡拉升，融捷股份触及涨停，走出3连板，盛新锂能、国城矿业、中矿资源、雅化集团跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3077033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "A股三大指数集体翻红，化工、小家电、电池、医药等方向领涨，沪深京三市上涨个股超3500只。",
+          "url": "https://wallstreetcn.com/livenews/3077030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "我国氢能与核聚变能产业加速突破",
@@ -262,7 +374,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -418,13 +530,35 @@
           "time_info": "04时51分"
         },
         {
+          "title": "广东：锚定量子科技、具身智能等未来产业重点领域 加强前沿与颠覆性技术创新",
+          "url": "https://wallstreetcn.com/livenews/3077046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "2026中国科幻大会明天开幕 多场创新论坛聚焦产业新生态",
+          "url": "https://flash.jin10.com/detail/20260326104936288800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "LED全产业链密集调价",
           "url": "https://wallstreetcn.com/livenews/3076930",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -438,12 +572,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260326104157875800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
@@ -545,9 +690,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "MSCI亚太指数日内下跌1%。 标普500指数期货、纳斯达克100指数期货下跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3077064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "金十期货3月26日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨950元/吨，中间价报157350元/吨。",
+          "url": "https://flash.jin10.com/detail/20260326110430972800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "WTI原油期货向上触及92美元/桶，日内涨1.86%。",
+          "url": "https://flash.jin10.com/detail/20260326110216091800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "周三（3月25日）纽约尾盘，ICE原糖期货跌2.20%，ICE白糖期货跌1.65%。 ICE阿拉比卡咖啡期货跌0.64%，咖啡“C”期货跌1.05%。罗布斯塔咖啡期货跌0.98%。 纽约可可期货跌3.09%，报3135美元/吨。伦敦可可期货跌2.83%。 芝加哥WCE双低油菜籽期货涨0.47%。 ICE棉花期货涨0.92%。",
@@ -559,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "日本央行行长植田和男：大规模的日本国债持仓不会令政策调整变得困难；正在通过货币政策来实现物价稳定目标。",
+          "url": "https://wallstreetcn.com/livenews/3077050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "纽约ICE原糖期货跌离五个月最高位，石油价格下跌，抑制对生物燃油的激励。",
@@ -614,6 +803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美国持续释放谈判信号，伊朗否认，现货黄金、美国原油多头情绪占优，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260326104815599800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
@@ -650,11 +850,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时45分]"
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 11时20分]"
         },
         {
           "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
@@ -793,6 +994,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月26日（周四）上海金早盘价为1009.39元/克，较国际金价(1000.56元/克)，高8.83元/克",
+          "url": "https://flash.jin10.com/detail/20260326110125291800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
