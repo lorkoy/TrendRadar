@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T11:28:17.677555+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-03-29T13:48:12.881485+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,17 @@
           "time_info": "[04时41分 ~ 07时40分]"
         },
         {
+          "title": "高盛对冲基金业务主管：我接触的机构几乎都看跌，了解现货商品的人更担忧，伊朗拖得越久，市场越倾向于短期投资",
+          "url": "https://wallstreetcn.com/articles/3768642",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时48分]"
+        },
+        {
           "title": "市场消息：意大利总理梅洛尼正考虑对国有企业进行人事架构调整。",
           "url": "https://flash.jin10.com/detail/20260329012938023800",
           "source": "金十数据",
@@ -45,17 +56,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时37分]"
-        },
-        {
-          "title": "高盛对冲基金业务主管：我接触的机构几乎都看跌，了解现货商品的人更担忧，伊朗拖得越久，市场越倾向于短期投资",
-          "url": "https://wallstreetcn.com/articles/3768642",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
         },
         {
           "title": "阿联酋环球铝业：冲突爆发时，公司有大量金属库存正在海上运输，并且在海外某些地点也存有现货库存。",
@@ -72,7 +72,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "黄金逼近熊市之际，抄底大军来了！",
@@ -86,8 +86,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 11时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时45分 ~ 13时48分]"
+        },
+        {
+          "title": "柬埔寨汽油价格下降，柴油价格进一步上涨",
+          "url": "https://flash.jin10.com/detail/20260329131434280800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "专家：油价上涨或致美通胀回落预期受挫 美联储面临挑战",
@@ -96,7 +107,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -107,7 +118,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
@@ -115,7 +126,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价急速飙涨",
@@ -149,15 +160,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "为何说土耳其抛黄金恰是黄金价值的反向确认？",
+          "url": "https://flash.jin10.com/detail/20260329120007037800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“首发上海” 4.0版政策出炉，将加大资金支持",
@@ -165,11 +187,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 11时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 13时48分]"
         },
         {
           "title": "美媒：中国成为全球动荡期资金避风港",
@@ -184,6 +207,57 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时39分 ~ 05时39分]"
+        },
+        {
+          "title": "沙特产业界人士在中关村向中国企业释放合作信号",
+          "url": "https://flash.jin10.com/detail/20260329114431247800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时39分]"
+        },
+        {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时45分 ~ 13时48分]"
+        },
+        {
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
         }
       ]
     },
@@ -215,35 +289,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时37分 ~ 11时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 06时39分]"
-        },
-        {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 11时28分]"
         }
       ]
     },
