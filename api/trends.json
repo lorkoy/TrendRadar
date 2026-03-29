@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-03-30T05:42:16.630048+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-03-30T06:41:35.878618+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
+          "url": "https://flash.jin10.com/detail/20260330060152527800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "现货黄金低开后走高，现报4506.22美元/盎司，日内上涨0.3%，稍早一度跌至4466.91美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3078767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "布油高开逾3%，美股期货走低",
+          "url": "https://wallstreetcn.com/livenews/3078766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "现货黄金周一开盘跌破4470美元/盎司，日内跌0.58%。现货白银回落至69美元/盎司下方，日内跌1.16%。",
+          "url": "https://flash.jin10.com/detail/20260330060041734800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        }
+      ]
+    },
     {
       "keyword_group": "资金 政策 产业",
       "match_count": 3,
@@ -12,11 +62,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 06时41分]"
         },
         {
           "title": "中东资金进入香港的真相透视",
@@ -26,8 +77,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 06时41分]"
         },
         {
           "title": "中国银河证券：中长期仍看好科技板块产业驱动与周期板块涨价线索的双主线",
@@ -55,8 +106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 06时41分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -66,8 +117,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 06时41分]"
         }
       ]
     },
@@ -83,8 +134,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 06时41分]"
         }
       ]
     }
