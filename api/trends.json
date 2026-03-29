@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T07:40:06.744225+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-03-29T11:28:17.677555+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -47,6 +47,17 @@
           "time_info": "[02时56分 ~ 03时37分]"
         },
         {
+          "title": "高盛对冲基金业务主管：我接触的机构几乎都看跌，了解现货商品的人更担忧，伊朗拖得越久，市场越倾向于短期投资",
+          "url": "https://wallstreetcn.com/articles/3768642",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "阿联酋环球铝业：冲突爆发时，公司有大量金属库存正在海上运输，并且在海外某些地点也存有现货库存。",
           "url": "https://flash.jin10.com/detail/20260328222139867800",
           "source": "金十数据",
@@ -60,39 +71,51 @@
       ]
     },
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 2,
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 3,
       "titles": [
         {
-          "title": "“首发上海” 4.0版政策出炉，将加大资金支持",
-          "url": "https://wallstreetcn.com/livenews/3078626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时40分]"
-        },
-        {
-          "title": "美媒：中国成为全球动荡期资金避风港",
-          "url": "https://www.toutiao.com/trending/7622205563950727174/",
-          "source": "今日头条",
+          "title": "黄金逼近熊市之际，抄底大军来了！",
+          "url": "https://wallstreetcn.com/articles/3768650",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            25,
-            29,
-            28
+            9,
+            8,
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时39分 ~ 05时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 11时28分]"
+        },
+        {
+          "title": "专家：油价上涨或致美通胀回落预期受挫 美联储面临挑战",
+          "url": "https://flash.jin10.com/detail/20260329101423627800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "澳大利亚两个州将提供免费交通服务，以应对燃油价格上涨",
+          "url": "https://flash.jin10.com/detail/20260329101315174800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价急速飙涨",
@@ -118,6 +141,49 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 03时37分]"
+        },
+        {
+          "title": "通胀预期与实际收益率共振，金价剑指6600美元？",
+          "url": "https://flash.jin10.com/detail/20260329102213974800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“首发上海” 4.0版政策出炉，将加大资金支持",
+          "url": "https://wallstreetcn.com/livenews/3078626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 11时28分]"
+        },
+        {
+          "title": "美媒：中国成为全球动荡期资金避风港",
+          "url": "https://www.toutiao.com/trending/7622205563950727174/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            25,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时39分 ~ 05时39分]"
         }
       ]
     },
@@ -143,11 +209,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时37分 ~ 07时40分]"
+          "appearance_count": 9,
+          "time_info": "[03时37分 ~ 11时28分]"
         }
       ]
     },
@@ -171,31 +238,12 @@
           "url": "https://www.cls.cn/detail/2327695",
           "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 07时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金逼近熊市之际，抄底大军来了！",
-          "url": "https://wallstreetcn.com/articles/3768650",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
+            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 11时28分]"
         }
       ]
     },
