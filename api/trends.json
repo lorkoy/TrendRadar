@@ -1,11 +1,327 @@
 {
-  "generated_at": "2026-03-30T22:02:26.817019+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2026-03-30T23:19:50.459603+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "内存条价格出现断崖式下跌",
+          "url": "https://www.toutiao.com/trending/7621850422521249846/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时42分]"
+        },
+        {
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 14时05分]"
+        },
+        {
+          "title": "内存条价格跳水，内存股集体下跌，内存超级周期见顶了？",
+          "url": "https://wallstreetcn.com/articles/3768696",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 23时19分]"
+        },
+        {
+          "title": "中东局势升级，美股全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
+          "title": "应对能源价格上涨 澳大利亚将实行燃油税减半措施",
+          "url": "https://wallstreetcn.com/livenews/3078943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "油价上涨引发乘数效应，中东战火烧向纺织品饮料",
+          "url": "https://wallstreetcn.com/livenews/3079113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "印度10年期基准国债收益率3月份上涨37个基点，创2017年2月以来最大涨幅。",
+          "url": "https://flash.jin10.com/detail/20260330193333193800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "沪指拉升翻红，此前一度跌超1%，深成指、创业板指跌幅同步收窄，农业、有色铝、创新药、商业航天等方向涨幅居前，沪深京三市上涨个股超2300只。",
+          "url": "https://wallstreetcn.com/livenews/3078940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX 200指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3078794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3180%，上涨0.10个基点。 7天SHIBOR报1.4180%，下降1.00个基点。 3个月SHIBOR报1.5090%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3078935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "美、布两油短线一度下跌后反弹，波幅达2美元，现分别报101.4美元/桶和114.8美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260330193031533800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "沪指率先翻红，粮食概念、CRO概念、乳业等板块涨幅居前，沪深京三市上涨个股近2300只。",
+          "url": "https://flash.jin10.com/detail/20260330111108415800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "A股卫星导航板块震荡上行，广联航空、天力复合、超捷股份均涨超13%，长江通信、神剑股份此前涨停，西部材料涨超8%。",
+          "url": "https://flash.jin10.com/detail/20260330134642994800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "国际货币基金组织：条条大路通向价格上涨和经济增长放缓。",
+          "url": "https://flash.jin10.com/detail/20260330230111320800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "印度股指Sensex指数下跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3078979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数3月30日（周一）开盘下跌79.20点，跌幅0.93%，报8437.10点。",
+          "url": "https://flash.jin10.com/detail/20260330071010087800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "美国国债延续涨势；10年期国债收益率下跌5个基点，至4.37%。",
+          "url": "https://flash.jin10.com/detail/20260330192014529800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报166750元/吨，较上日16:30价格上涨6400元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3078917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "美民主党议员抨击特朗普：为打压油价上涨编造谈判谎言",
+          "url": "https://flash.jin10.com/detail/20260330065703218800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "房利美股价开盘大涨14%，房地美上涨11%。",
+          "url": "https://flash.jin10.com/detail/20260330213209518800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.75%，深成指跌1.49%，电力电网、光伏设备、消费电子等方向跌幅居前，沪深京三市下跌个股超4000只。",
+          "url": "https://wallstreetcn.com/livenews/3078907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "台湾加权指数3月30日（周一）收盘下跌594.43点，跌幅1.8%，报32518.16点。",
+          "url": "https://flash.jin10.com/detail/20260330133518988800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "美债扩大涨幅，10年期收益率下跌5个基点至4.37%。",
+          "url": "https://wallstreetcn.com/livenews/3079290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "道琼斯指数3月30日（周一）开盘上涨408.95点，涨幅0.91%，报45575.59点；<br/>标普500指数3月30日（周一）开盘上涨50.53点，涨幅0.79%，报6419.38点；<br/>纳斯达克综合指数3月30日（周一）开盘上涨165.54点，涨幅0.79%，报21113.90点。",
+          "url": "https://flash.jin10.com/detail/20260330213125393800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "美国2年期至7年期国债收益率日内下跌至少10个基点。",
+          "url": "https://flash.jin10.com/detail/20260330225550668800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "新台币兑美元下跌0.4%至32.008。",
+          "url": "https://wallstreetcn.com/livenews/3078955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "美国国债收益率在美联储主席鲍威尔表示通胀预期稳固后继续下跌；10年期美债收益率跌10.2个基点至4.338%。",
+          "url": "https://flash.jin10.com/detail/20260330225421331800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "调整 期货 现货",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "现货黄金日内跌幅达1.00%，现报4450.49美元/盎司。",
@@ -210,6 +526,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "截至23:00收盘，国内期货主力合约跌多涨少，棕榈油涨超2%，乙二醇涨超1%。跌幅方面，低硫燃料油（LU）、PVC跌超3%，焦煤、塑料跌超2%，液化气、聚丙烯、纯碱、丙烯、焦炭、玻璃、甲醇、菜粕、燃料油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260330230057932800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "新西兰证交所拟推基准指数期货 以重振本土衍生品交易",
           "url": "https://flash.jin10.com/detail/20260330110805734800",
           "source": "金十数据",
@@ -300,280 +627,8 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "内存条价格出现断崖式下跌",
-          "url": "https://www.toutiao.com/trending/7621850422521249846/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
-        },
-        {
-          "title": "伊朗战争的账单，“AI牛市”来买？",
-          "url": "https://wallstreetcn.com/articles/3768662",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 14时05分]"
-        },
-        {
-          "title": "内存条价格跳水，内存股集体下跌，内存超级周期见顶了？",
-          "url": "https://wallstreetcn.com/articles/3768696",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 22时02分]"
-        },
-        {
-          "title": "中东局势升级，美股全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
-          "title": "应对能源价格上涨 澳大利亚将实行燃油税减半措施",
-          "url": "https://wallstreetcn.com/livenews/3078943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "油价上涨引发乘数效应，中东战火烧向纺织品饮料",
-          "url": "https://wallstreetcn.com/livenews/3079113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "印度10年期基准国债收益率3月份上涨37个基点，创2017年2月以来最大涨幅。",
-          "url": "https://flash.jin10.com/detail/20260330193333193800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "沪指拉升翻红，此前一度跌超1%，深成指、创业板指跌幅同步收窄，农业、有色铝、创新药、商业航天等方向涨幅居前，沪深京三市上涨个股超2300只。",
-          "url": "https://wallstreetcn.com/livenews/3078940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "澳大利亚S&P/ASX 200指数下跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3078794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "隔夜SHIBOR报1.3180%，上涨0.10个基点。 7天SHIBOR报1.4180%，下降1.00个基点。 3个月SHIBOR报1.5090%，上涨0.00个基点。",
-          "url": "https://wallstreetcn.com/livenews/3078935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "美、布两油短线一度下跌后反弹，波幅达2美元，现分别报101.4美元/桶和114.8美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260330193031533800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "沪指率先翻红，粮食概念、CRO概念、乳业等板块涨幅居前，沪深京三市上涨个股近2300只。",
-          "url": "https://flash.jin10.com/detail/20260330111108415800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "A股卫星导航板块震荡上行，广联航空、天力复合、超捷股份均涨超13%，长江通信、神剑股份此前涨停，西部材料涨超8%。",
-          "url": "https://flash.jin10.com/detail/20260330134642994800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
-          "title": "印度股指Sensex指数下跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3078979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数3月30日（周一）开盘下跌79.20点，跌幅0.93%，报8437.10点。",
-          "url": "https://flash.jin10.com/detail/20260330071010087800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "美国国债延续涨势；10年期国债收益率下跌5个基点，至4.37%。",
-          "url": "https://flash.jin10.com/detail/20260330192014529800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报166750元/吨，较上日16:30价格上涨6400元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3078917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "美民主党议员抨击特朗普：为打压油价上涨编造谈判谎言",
-          "url": "https://flash.jin10.com/detail/20260330065703218800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "房利美股价开盘大涨14%，房地美上涨11%。",
-          "url": "https://flash.jin10.com/detail/20260330213209518800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.75%，深成指跌1.49%，电力电网、光伏设备、消费电子等方向跌幅居前，沪深京三市下跌个股超4000只。",
-          "url": "https://wallstreetcn.com/livenews/3078907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "台湾加权指数3月30日（周一）收盘下跌594.43点，跌幅1.8%，报32518.16点。",
-          "url": "https://flash.jin10.com/detail/20260330133518988800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
-          "title": "美债扩大涨幅，10年期收益率下跌5个基点至4.37%。",
-          "url": "https://wallstreetcn.com/livenews/3079290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "道琼斯指数3月30日（周一）开盘上涨408.95点，涨幅0.91%，报45575.59点；<br/>标普500指数3月30日（周一）开盘上涨50.53点，涨幅0.79%，报6419.38点；<br/>纳斯达克综合指数3月30日（周一）开盘上涨165.54点，涨幅0.79%，报21113.90点。",
-          "url": "https://flash.jin10.com/detail/20260330213125393800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "新台币兑美元下跌0.4%至32.008。",
-          "url": "https://wallstreetcn.com/livenews/3078955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
@@ -632,9 +687,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "鲍威尔：普遍共识是，美联储要求在货币政策问题上拥有独立性。",
+          "url": "https://wallstreetcn.com/livenews/3079475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "特朗普政策前“神秘押注”引爆内幕疑云，专家：应彻查！",
@@ -646,6 +712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "鲍威尔：在FOMC（货币政策）讨论中，对那个“有想法的”持异议者表示欢迎。 在FOMC会议前三周，我需要对我们将会采取的措施有清晰的想法。",
+          "url": "https://wallstreetcn.com/livenews/3079470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "市场监管总局：平衡好数据保护和数据利用的关系，加大对人工智能等新兴产业的保护力度",
@@ -676,7 +753,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -690,6 +767,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "广东出台十六条金融措施 赋能传统产业优化提升",
+          "url": "https://wallstreetcn.com/livenews/3079455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "美联储主席鲍威尔：理事会的共识是美联储需要货币政策独立性。",
+          "url": "https://flash.jin10.com/detail/20260330225444896800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "2026太空算力产业大会将于4月3日在京启幕",
@@ -731,19 +830,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时31分 ~ 22时02分]"
+          "appearance_count": 9,
+          "time_info": "[11时31分 ~ 23时19分]"
         },
         {
           "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2329476",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时19分]"
         },
         {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览",
@@ -752,7 +852,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -774,7 +874,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -785,7 +885,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -807,7 +907,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         }
@@ -823,11 +923,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 22时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 23时19分]"
         },
         {
           "title": "哈佛教授：人民币将在5年内成储备货币",
@@ -900,7 +1001,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗能源部副部长Mostafa Rajabi Mashhadi表示，德黑兰及邻近阿尔博兹(Alborz)省因夜间袭击造成的停电问题已得到解决。",
@@ -934,12 +1035,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "Shanghai Foursemi Semiconductor将香港IPO股票发行价定在每股40港元。",
+          "url": "https://wallstreetcn.com/livenews/3079462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "避险情绪盖过通胀担忧 美债收益率走低",
@@ -962,6 +1074,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "美国五年期国债收益率跌10个基点，至3.97%。 2-7年期美债收益率跌幅均达到或超过10个基点。",
+          "url": "https://wallstreetcn.com/livenews/3079474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "能源价格高企推升增长风险 摩根士丹利看好美债避险价值",
@@ -987,7 +1110,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         }
