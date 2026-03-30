@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T07:42:44.059747+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-03-30T11:31:53.502266+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "现货黄金日内跌幅达1.00%，现报4450.49美元/盎司。",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "富时中国A50指数期货转涨，此前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3078942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "现货价格",
@@ -25,9 +36,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "现货钯金日内涨幅扩大至3%，报1417.76美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3078941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "现货黄金低开后走高，现报4506.22美元/盎司，日内上涨0.3%，稍早一度跌至4466.91美元/盎司。",
@@ -54,6 +76,39 @@
           "time_info": "[06时41分 ~ 07时42分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260330111343629800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "富时中国A50指数期货转涨，此前跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260330111147402800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
           "url": "https://flash.jin10.com/detail/20260330060152527800",
           "source": "金十数据",
@@ -74,12 +129,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "新西兰证交所拟推基准指数期货 以重振本土衍生品交易",
+          "url": "https://flash.jin10.com/detail/20260330110805734800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "现货白银突破70美元/盎司，日内涨0.41%。",
+          "url": "https://flash.jin10.com/detail/20260330110647378800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
           "title": "内存条价格出现断崖式下跌",
@@ -101,8 +178,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时31分]"
+        },
+        {
+          "title": "应对能源价格上涨 澳大利亚将实行燃油税减半措施",
+          "url": "https://wallstreetcn.com/livenews/3078943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "沪指拉升翻红，此前一度跌超1%，深成指、创业板指跌幅同步收窄，农业、有色铝、创新药、商业航天等方向涨幅居前，沪深京三市上涨个股超2300只。",
+          "url": "https://wallstreetcn.com/livenews/3078940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "澳大利亚S&P/ASX 200指数下跌1%。",
@@ -111,9 +210,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3180%，上涨0.10个基点。 7天SHIBOR报1.4180%，下降1.00个基点。 3个月SHIBOR报1.5090%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3078935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "沪指率先翻红，粮食概念、CRO概念、乳业等板块涨幅居前，沪深京三市上涨个股近2300只。",
+          "url": "https://flash.jin10.com/detail/20260330111108415800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "澳大利亚S&P/ASX200指数3月30日（周一）开盘下跌79.20点，跌幅0.93%，报8437.10点。",
@@ -122,9 +243,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报166750元/吨，较上日16:30价格上涨6400元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3078917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美民主党议员抨击特朗普：为打压油价上涨编造谈判谎言",
@@ -133,9 +265,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.75%，深成指跌1.49%，电力电网、光伏设备、消费电子等方向跌幅居前，沪深京三市下跌个股超4000只。",
+          "url": "https://wallstreetcn.com/livenews/3078907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
@@ -149,22 +292,24 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时31分]"
         },
         {
           "title": "中东资金进入香港的真相透视",
           "url": "https://wallstreetcn.com/articles/3768676",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时31分]"
         },
         {
           "title": "中国银河证券：中长期仍看好科技板块产业驱动与周期板块涨价线索的双主线",
@@ -185,7 +330,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
@@ -193,18 +338,41 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
           "url": "https://wallstreetcn.com/articles/3768658",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "美股未到“威利狼时刻”？三大支柱或筑牢市场防线",
+          "url": "https://flash.jin10.com/detail/20260330105908628800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     }
