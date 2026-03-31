@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T11:22:26.341334+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-03-31T13:49:35.863436+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "猪肉价格为何下跌",
@@ -49,7 +49,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -120,9 +120,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数3月31日（周二）收盘上涨39.50点，涨幅0.47%，报8500.50点。",
+          "url": "https://flash.jin10.com/detail/20260331132030860800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "券商去年四季度新进22只个股前十大流通股股东",
@@ -153,7 +164,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -167,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "30年期日本国债收益率日内下跌10个基点，至3.690%。",
+          "url": "https://flash.jin10.com/detail/20260331131100130800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "道琼斯指数3月30日（周一）收盘上涨49.68点，涨幅0.11%，报45216.32点；<br/>标普500指数3月30日（周一）收盘下跌25.09点，跌幅0.39%，报6343.76点；<br/>纳斯达克综合指数3月30日（周一）收盘下跌153.72点，跌幅0.73%，报20794.64点。",
@@ -208,7 +230,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -252,7 +274,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -263,7 +285,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -271,8 +293,19 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "瑞银：中国市场调整或已过度 优质AI股票迎来布局窗口",
+          "url": "https://flash.jin10.com/detail/20260331133034033800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
         {
           "title": "WTI 5月原油期货收涨3.24美元，涨幅3.25%，报102.88美元/桶，为2022年7月份以来首次收于100美元整数位心理关口上方。 NYMEX 4月天然气期货收报2.8870美元/百万英热单位。 NYMEX 4月汽油期货收报3.3515美元/加仑，NYMEX 3月取暖油期货收报4.3643美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3079542",
@@ -321,6 +354,17 @@
           "time_info": "[05时53分 ~ 06时48分]"
         },
         {
+          "title": "报道称特朗普愿在海峡关闭时停战！油价转跌、纳指期货转涨1%，亚太股市V型拉升",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 13时49分]"
+        },
+        {
           "title": "长线资金最新重仓股曝光，机构认为A股市场调整就是机会",
           "url": "https://wallstreetcn.com/livenews/3079602",
           "source": "华尔街见闻-快讯",
@@ -363,20 +407,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
         {
-          "title": "报道称特朗普愿在海峡关闭时停战！油价转跌、纳指期货转涨1%，亚太股市V型拉升",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
+          "title": "瑞银：中国市场调整或已过度 优质AI股票迎来布局窗口",
+          "url": "https://wallstreetcn.com/livenews/3079855",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "13时49分"
         },
         {
           "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
@@ -526,11 +570,12 @@
           "ranks": [
             10,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时48分 ~ 11时22分]"
+          "appearance_count": 4,
+          "time_info": "[06时48分 ~ 13时49分]"
         },
         {
           "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
@@ -558,6 +603,18 @@
           "time_info": "[04时57分 ~ 05时53分]"
         },
         {
+          "title": "美股后续会怎么走",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 13时49分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周一（3月30日），美国科技股七巨头（Magnificent 7）指数跌0.35%，报176.37点。 “超大”市值科技股指数跌0.49%，报336.14点。",
           "url": "https://wallstreetcn.com/livenews/3079578",
           "source": "华尔街见闻-快讯",
@@ -580,17 +637,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 03时25分]"
-        },
-        {
-          "title": "美股后续会怎么走",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
@@ -640,8 +686,19 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "宁波商业航天产业基地项目将于4月开启招标，预计总投资额86.6亿",
+          "url": "https://wallstreetcn.com/livenews/3079856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
         {
           "title": "涨价周期开启，半导体产业迎量价齐升新阶段",
           "url": "https://wallstreetcn.com/livenews/3079605",
@@ -653,6 +710,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时46分]"
+        },
+        {
+          "title": "北京消费品以旧换新政策持续落地 带动销售额约50亿元",
+          "url": "https://wallstreetcn.com/livenews/3079850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "美联储威廉姆斯：货币政策处于合适位置。",
@@ -708,6 +776,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时46分 ~ 13时49分]"
+        },
+        {
+          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时48分]"
+        },
+        {
+          "title": "短端美债收益率跌超9个基点",
+          "url": "https://wallstreetcn.com/livenews/3079558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时53分]"
+        },
+        {
+          "title": "820亿美元出逃！美伊开战一月多国狂抛美债",
+          "url": "https://flash.jin10.com/detail/20260331131540920800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         }
       ]
     },
@@ -779,8 +898,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 11时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 13时49分]"
         },
         {
           "title": "周一（3月30日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.9163元，较上周五纽约尾盘涨37点，日内整体交投于6.9269-6.9090元区间。",
@@ -804,46 +923,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 11时22分]"
-        },
-        {
-          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时48分]"
-        },
-        {
-          "title": "短端美债收益率跌超9个基点",
-          "url": "https://wallstreetcn.com/livenews/3079558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时53分]"
         }
       ]
     },
