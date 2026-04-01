@@ -1,23 +1,69 @@
 {
-  "generated_at": "2026-04-02T03:16:39.537245+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-04-02T04:56:58.194786+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "标普500指数的11个板块中，电信、工业板块收涨1.65%，原材料板块涨1.16%，信息技术/科技板块涨1.14%，能源板块则收跌3.89%——最近三个交易日累计回撤5.78%。 3月27日，标普能源板块涨至962.270点创收盘历史新高，30日涨至976.539点创盘中历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3081108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "周三（4月1日），彭博电动汽车价格回报指数涨2.90%，报3619.76点，亚太盘初以来持续上涨，北京时间14:00过后持续高位窄幅震荡。 成分股Ola Electric Mobility Ltd.收涨13.55%，蔚来集团H股收涨10.31%，浙江零跑科技H股收涨9%表现第三，日本电产株式会社涨7.48%涨幅第五大，Panasonic株式会社涨7.29%表现靠前。 文远知行则跌2.7%，雅迪集团控股H股收跌2.72%，微宏控股跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3081107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
         {
           "title": "巴菲特称近期市场下跌与历史上真正的买点相比不值一提，股市估值仍未有吸引力，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2022610592674981247",
           "source": "知乎",
           "ranks": [
             10,
-            14
+            14,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时56分]"
+        },
+        {
+          "title": "金价急速上涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E9%80%9F%E4%B8%8A%E6%B6%A8%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时16分]"
+          "time_info": "[03时16分 ~ 04时56分]"
+        },
+        {
+          "title": "道琼斯指数4月1日（周三）收盘上涨224.35点，涨幅0.48%，报46565.86点；<br/>标普500指数4月1日（周三）收盘上涨46.84点，涨幅0.72%，报6575.36点；<br/>纳斯达克综合指数4月1日（周三）收盘上涨250.32点，涨幅1.16%，报21840.95点。",
+          "url": "https://flash.jin10.com/detail/20260402040552200800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "【每日收评】三大指数均涨超1%，医药板块持续爆发，科技股集体回暖",
@@ -48,7 +94,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -59,7 +105,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -81,7 +127,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -95,17 +141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "金价急速上涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E9%80%9F%E4%B8%8A%E6%B6%A8%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
         },
         {
           "title": "厦门航空回应燃油附加费上涨5倍",
@@ -125,90 +160,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "李强：持续扩大绿电供给，着力推进新型电网建设，加快能源结构调整优化",
-          "url": "https://www.cls.cn/detail/2332385",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时16分]"
-        },
-        {
-          "title": "恒指期货夜盘收涨0.01%，报25301点，高水7点。",
-          "url": "https://flash.jin10.com/detail/20260402030247882800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "周三（4月1日）欧市尾盘，TTF基准荷兰天然气期货跌5.84%，报47.325欧元/兆瓦时，北京时间14:00显著下挫。 ICE欧盟碳排放交易许可（期货价格）涨2.97%，报73.59欧元/吨。 英国天然气期货没有交易数据。",
-          "url": "https://wallstreetcn.com/livenews/3081042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "芝加哥小麦期货跌3%，大豆油跌超2.5%",
-          "url": "https://wallstreetcn.com/livenews/3081083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "下周国内成品油价格将调整",
-          "url": "https://www.douyin.com/hot/2451393",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时16分]"
-        },
-        {
-          "title": "WTI 5月原油期货收跌1.26美元，跌幅超过1.24%，报100.12美元/桶。 布伦特6月原油期货收跌2.81美元，跌幅超过2.70%，报101.16美元/桶。 中东Abu Dhabi Murban原油期货跌3.64%，报102.92美元/桶。 NYMEX 5月天然气期货收报2.8190美元/百万英热单位。 NYMEX 5月汽油期货收报3.0914美元/加仑，NYMEX 5月取暖油期货收报4.0568美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3081076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "上期所原油期货2605合约夜盘收跌4.46%，报664.80元人民币/桶。 沪金夜盘收涨2.01%，沪银收涨0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3081075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
@@ -216,7 +168,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -226,8 +178,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时56分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -235,11 +187,23 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时56分]"
+        },
+        {
+          "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股大类资产类ETF，能源业ETF跌超3.7%",
+          "url": "https://wallstreetcn.com/livenews/3081109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "美股三大指数高开 耐克跌超12%",
@@ -252,6 +216,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 03时16分]"
+        },
+        {
+          "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260402040551362800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "金十图示：2026年04月01日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260402040549263800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 内存股走强",
+          "url": "https://flash.jin10.com/detail/20260402040132988800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股盘中）",
@@ -279,7 +276,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "未来产业会解锁哪些新职业",
@@ -289,19 +286,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时16分]"
-        },
-        {
-          "title": "伊朗总统：对美国当前政策是否真正契合“美国优先”的核心利益提出质疑",
-          "url": "https://flash.jin10.com/detail/20260402030024968800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时56分]"
         },
         {
           "title": "美国众议院议长约翰逊和参议院共和党领袖图恩宣布了一项为国土安全部提供资金的前进方案。",
@@ -310,9 +296,65 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "伊朗总统：对美国当前政策是否真正契合“美国优先”的核心利益提出质疑",
+          "url": "https://flash.jin10.com/detail/20260402030024968800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时56分]"
+        },
+        {
+          "title": "【伊朗最高领袖外交政策顾问遇袭重伤】4月1日获悉，据伊朗方面消息，伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐当天遭遇美国和以色列袭击，身受重伤，他的妻子遇难。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3081093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "伊朗最高领袖外交政策顾问遇袭重伤",
+          "url": "https://flash.jin10.com/detail/20260402032937470800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "美国国会共和党领袖表示，他们将通过单独的立法程序推动相关法案的通过，以在今年以及未来三年内为国土安全项目提供充足的资金支持。",
+          "url": "https://flash.jin10.com/detail/20260402031338025800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "据Punchbowl：美国参议院共和党计划在当地时间周四尝试通过国土安全部的资金法案。",
+          "url": "https://flash.jin10.com/detail/20260402030726400800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "印度ETF遭遇创纪录资金流出，亚洲股市反弹前现撤资潮",
@@ -321,9 +363,96 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "李强：持续扩大绿电供给，着力推进新型电网建设，加快能源结构调整优化",
+          "url": "https://www.cls.cn/detail/2332385",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时56分]"
+        },
+        {
+          "title": "周三（4月1日）欧市尾盘，TTF基准荷兰天然气期货跌5.84%，报47.325欧元/兆瓦时，北京时间14:00显著下挫。 ICE欧盟碳排放交易许可（期货价格）涨2.97%，报73.59欧元/吨。 英国天然气期货没有交易数据。",
+          "url": "https://wallstreetcn.com/livenews/3081042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.01%，报25301点，高水7点。",
+          "url": "https://flash.jin10.com/detail/20260402030247882800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时56分]"
+        },
+        {
+          "title": "芝加哥小麦期货跌3%，大豆油跌超2.5%",
+          "url": "https://wallstreetcn.com/livenews/3081083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时56分]"
+        },
+        {
+          "title": "下周国内成品油价格将调整",
+          "url": "https://www.douyin.com/hot/2451393",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时56分]"
+        },
+        {
+          "title": "WTI 5月原油期货收跌1.26美元，跌幅超过1.24%，报100.12美元/桶。 布伦特6月原油期货收跌2.81美元，跌幅超过2.70%，报101.16美元/桶。 中东Abu Dhabi Murban原油期货跌3.64%，报102.92美元/桶。 NYMEX 5月天然气期货收报2.8190美元/百万英热单位。 NYMEX 5月汽油期货收报3.0914美元/加仑，NYMEX 5月取暖油期货收报4.0568美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3081076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时56分]"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收跌4.46%，报664.80元人民币/桶。 沪金夜盘收涨2.01%，沪银收涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3081075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时56分]"
         }
       ]
     },
@@ -339,8 +468,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时56分]"
         },
         {
           "title": "New Hampshire Business Finance Authority计划发行由特币担保的市政债，已经获得穆迪Ba2评级。",
@@ -356,6 +485,34 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周三（4月1日）纽约尾盘，ICE美元指数跌0.33%，报99.634点，日内交投区间为99.883-99.298点。 彭博美元指数跌0.27%，报1212.17点，日内交投区间为1215.61-1209.41点。 美元兑日元涨0.11%，报158.89日元，日内交投区间为158.28-159.01日元。 欧元兑日元涨0.38%，英镑兑日元涨0.65%。",
+          "url": "https://wallstreetcn.com/livenews/3081097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "中东股市收盘播报｜周三（4月1日），沙特证交所全股指数收涨0.23%，沙特阿美（ARAMCO.AB）收涨0.58%，在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.09%。 卡塔尔证交所指数收涨0.81%，科威特证交所超级市场价格回报指数收涨0.84%。 埃及证交所EGX 30指数收涨3.11%，埃及镑兑美元收涨1.71%，报53.6272埃及镑，3月31日曾跌至54.8317埃及镑创历史新低。 迪拜金融市场综合指数收涨2.03%，阿布扎比证券市场综合指数收涨1.35%。",
+          "url": "https://wallstreetcn.com/livenews/3081078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
@@ -364,28 +521,12 @@
           "url": "https://wallstreetcn.com/livenews/3081086",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中东股市收盘播报｜周三（4月1日），沙特证交所全股指数收涨0.23%，沙特阿美（ARAMCO.AB）收涨0.58%，在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.09%。 卡塔尔证交所指数收涨0.81%，科威特证交所超级市场价格回报指数收涨0.84%。 埃及证交所EGX 30指数收涨3.11%，埃及镑兑美元收涨1.71%，报53.6272埃及镑，3月31日曾跌至54.8317埃及镑创历史新低。 迪拜金融市场综合指数收涨2.03%，阿布扎比证券市场综合指数收涨1.35%。",
-          "url": "https://wallstreetcn.com/livenews/3081078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时56分]"
         }
       ]
     }
