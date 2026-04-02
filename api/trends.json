@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T04:46:06.790949+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-04-03T05:49:30.363840+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时49分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时49分]"
         },
         {
           "title": "【每日收评】创业板指低开低走跌超2%，全市场超4300股收绿，油气、医药板块逆势活跃",
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时49分]"
         },
         {
           "title": "雅迪全品类涨价 300 元以上，称原料大幅上涨，铝铜铁涨超 40% 、塑料涨 80%，其他品牌会跟涨吗？",
@@ -50,22 +50,48 @@
           "ranks": [
             12,
             18,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时49分]"
         },
         {
           "title": "道琼斯指数4月2日（周四）收盘下跌61.01点，跌幅0.13%，报46504.73点；<br/>标普500指数4月2日（周四）收盘上涨7.37点，涨幅0.11%，报6582.69点；<br/>纳斯达克综合指数4月2日（周四）收盘上涨38.23点，涨幅0.18%，报21879.18点。",
           "url": "https://flash.jin10.com/detail/20260403040532305800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时49分]"
+        },
+        {
+          "title": "周四（4月2日），彭博电动汽车价格回报指数跌0.91%，报3589.74点，大部分时间低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3081785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时49分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，房地产板块收涨1.48%，信息技术/科技板块涨0.73%，能源板块涨0.46%，保健板块跌0.68%，可选消费板块跌1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3081783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时49分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月2日（周四）晚盘收盘下跌0.04%报1033.0元/克；<br/>上海黄金交易所白银T+D 4月2日（周四）晚盘收盘上涨0.49%报17944.0元/千克。",
@@ -79,26 +105,26 @@
           "time_info": "03时08分"
         },
         {
-          "title": "周四（4月2日），彭博电动汽车价格回报指数跌0.91%，报3589.74点，大部分时间低位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3081785",
-          "source": "华尔街见闻-快讯",
+          "title": "国际油价2日大幅上涨",
+          "url": "https://flash.jin10.com/detail/20260403043822939800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "05时49分"
         },
         {
-          "title": "标普500指数的11个板块中，房地产板块收涨1.48%，信息技术/科技板块涨0.73%，能源板块涨0.46%，保健板块跌0.68%，可选消费板块跌1.49%。",
-          "url": "https://wallstreetcn.com/livenews/3081783",
-          "source": "华尔街见闻-快讯",
+          "title": "美元指数2日上涨",
+          "url": "https://flash.jin10.com/detail/20260403043416469800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "05时49分"
         },
         {
           "title": "据悉城堡全球固定收益基金在三月份下跌了8.2%",
@@ -118,7 +144,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -129,7 +155,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -151,7 +177,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -192,7 +218,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "恒指期货夜盘收涨0.58%，报25233点，高水116点。",
@@ -247,8 +273,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时49分]"
         },
         {
           "title": "直播丨经过多次调整，美国载人绕月飞行任务“阿耳忒弥斯2号”发射升空",
@@ -258,8 +284,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 05时49分]"
+        },
+        {
+          "title": "美国芝加哥商业交易所（CME）集团：将非HRP铝期货保证金从4000美元上调至5000美元。 将非HRP铝欧洲Premium Contract（权利金合约）保证金从800美元提高至1100美元。",
+          "url": "https://wallstreetcn.com/livenews/3081810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "美国商品期货交易委员会表示，因亚利桑那州监管预测市场的举措而对其提起诉讼。",
@@ -317,6 +354,28 @@
           "time_info": "01时05分"
         },
         {
+          "title": "周四（4月2日）纽约尾盘，标普500股指期货最终涨0.12%，道指期货跌0.10%，纳斯达克100股指期货涨0.10%。 罗素2000股指期货涨0.66%。",
+          "url": "https://wallstreetcn.com/livenews/3081804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "周四（4月2日）纽约尾盘，现货黄金跌1.84%，报4670.80美元/盎司，亚太时段出现两波显著的加速下跌行情，北京时间14:11刷新日低至4554.21美元。 COMEX黄金期货跌2.40%，报4697.80美元/盎司，14:11也刷新日低至4580.40美元。",
+          "url": "https://wallstreetcn.com/livenews/3081799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
           "title": "法院文件显示，美国商品期货交易委员会就康涅狄格州监管预测市场的举措对康涅狄格州提起诉讼。",
           "url": "https://flash.jin10.com/detail/20260403002933342800",
           "source": "金十数据",
@@ -334,7 +393,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -367,28 +426,6 @@
           "time_info": "[01时05分 ~ 04时46分]"
         },
         {
-          "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
-          "url": "https://wallstreetcn.com/livenews/3081793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260403040716683800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
           "url": "https://www.cls.cn/detail/2333333",
           "source": "财联社热门",
@@ -397,8 +434,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时49分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -406,33 +443,72 @@
           "source": "百度热搜",
           "ranks": [
             23,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时49分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
+          "url": "https://wallstreetcn.com/livenews/3081793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时49分]"
+        },
+        {
+          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260403040716683800",
+          "source": "金十数据",
+          "ranks": [
+            5,
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时46分]"
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时49分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260403040531633800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时49分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
           "url": "https://flash.jin10.com/detail/20260403040200866800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时49分]"
+        },
+        {
+          "title": "周四（4月2日），美股行业ETF多数收涨，网络股指数ETF收涨1.33%，科技行业ETF涨0.82%，能源业ETF涨0.47%，半导体ETF涨0.09%，可选消费ETF跌1.50%。",
+          "url": "https://wallstreetcn.com/livenews/3081784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时49分]"
         },
         {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
@@ -444,17 +520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
-        },
-        {
-          "title": "周四（4月2日），美股行业ETF多数收涨，网络股指数ETF收涨1.33%，科技行业ETF涨0.82%，能源业ETF涨0.47%，半导体ETF涨0.09%，可选消费ETF跌1.50%。",
-          "url": "https://wallstreetcn.com/livenews/3081784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -504,19 +569,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时49分]"
         },
         {
           "title": "美国投资级债券基金在4月1日当周面临53.5亿美元资金外流，创2025年4月中旬以来最大单周赎回。 宏观经济风险加重，造成这类资产大幅亏损。",
           "url": "https://wallstreetcn.com/livenews/3081792",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时49分]"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：不能允许伊朗向各国收取通行费。",
@@ -565,6 +631,36 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
+          "ranks": [
+            30,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 05时49分]"
+        },
+        {
+          "title": "10年期美债收益率周四冲高回落，本周仍累跌超12个基点",
+          "url": "https://wallstreetcn.com/livenews/3081808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SZ SH HK",
       "match_count": 1,
       "titles": [
@@ -576,26 +672,25 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时49分]"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
         {
-          "title": "多国央行大幅减持美债",
-          "url": "https://www.douyin.com/hot/2452076",
-          "source": "抖音",
+          "title": "周四（4月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8901元，较周三纽约尾盘跌127点，日内整体交投于6.8724-6.9042元区间。",
+          "url": "https://wallstreetcn.com/livenews/3081803",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30,
-            23
+            12
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 04时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         }
       ]
     }
