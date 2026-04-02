@@ -1,11 +1,231 @@
 {
-  "generated_at": "2026-04-03T05:49:30.363840+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-04-03T06:41:57.361001+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指缩量调整考验3900点，硬科技方向整体承压，猪肉概念异军突起",
+          "url": "https://www.cls.cn/detail/2333532",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时41分]"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.58%，报25233点，高水116点。",
+          "url": "https://flash.jin10.com/detail/20260403030141403800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "美国原油期货收涨至110美元上方，为2022年以来首次",
+          "url": "https://wallstreetcn.com/livenews/3081755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "布伦特原油期货收报每桶109.03美元，上涨7.87美元，涨幅7.78%。",
+          "url": "https://flash.jin10.com/detail/20260403025154434800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收涨3.75%，报713.20元人民币/桶。 沪金夜盘收跌0.74%，沪银收跌1.87%。",
+          "url": "https://wallstreetcn.com/livenews/3081754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "中小银行开启新一轮存款挂牌利率调整",
+          "url": "https://wallstreetcn.com/livenews/3081821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "直播丨经过多次调整，美国载人绕月飞行任务“阿耳忒弥斯2号”发射升空",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32870834",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 05时49分]"
+        },
+        {
+          "title": "美国芝加哥商业交易所（CME）集团：将非HRP铝期货保证金从4000美元上调至5000美元。 将非HRP铝欧洲Premium Contract（权利金合约）保证金从800美元提高至1100美元。",
+          "url": "https://wallstreetcn.com/livenews/3081810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时41分]"
+        },
+        {
+          "title": "周四（4月2日）纽约尾盘，标普500股指期货最终涨0.12%，道指期货跌0.10%，纳斯达克100股指期货涨0.10%。 罗素2000股指期货涨0.66%。",
+          "url": "https://wallstreetcn.com/livenews/3081804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时41分]"
+        },
+        {
+          "title": "周四（4月2日）纽约尾盘，现货黄金跌1.84%，报4670.80美元/盎司，亚太时段出现两波显著的加速下跌行情，北京时间14:11刷新日低至4554.21美元。 COMEX黄金期货跌2.40%，报4697.80美元/盎司，14:11也刷新日低至4580.40美元。",
+          "url": "https://wallstreetcn.com/livenews/3081799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时41分]"
+        },
+        {
+          "title": "美国商品期货交易委员会表示，因亚利桑那州监管预测市场的举措而对其提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260403005017584800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）就预测市场（的监管权）起诉亚利桑那（AZ）、康涅狄格（CT）、伊利诺伊（IL）三个州。",
+          "url": "https://wallstreetcn.com/livenews/3081721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "巴基斯坦财政部长：下周起将调整证券市场开盘和收盘时间。",
+          "url": "https://flash.jin10.com/detail/20260403022628759800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "全球主要原油现货价格飙升至 2008 年以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3081719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "巴西财政部官员塞隆：对低价值进口商品征收的关税对于保住就业岗位至关重要，任何此类政策的调整都应谨慎推进。",
+          "url": "https://flash.jin10.com/detail/20260403003919438800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "芝商所（CME）上调部分铝期货合约保证金要求至5000美元，新规将于当地时间4月3日收盘后生效。",
+          "url": "https://flash.jin10.com/detail/20260403053424263800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "法院文件显示，美国商品期货交易委员会就康涅狄格州监管预测市场的举措对康涅狄格州提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260403002933342800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "欧洲柴油期货飙升至1498美元，伊朗冲突致价格近乎翻倍",
+          "url": "https://wallstreetcn.com/livenews/3081769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "伊朗媒体Fars News列出科威特、沙特阿拉伯、阿布扎比和约旦的多座桥梁，称其为伊朗军事行动的潜在目标。 布伦特原油5分钟内下跌0.54美元/桶，报106.9美元/桶。 现货黄金5分钟内上涨10.61美元/盎司，报4674.47美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3081699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
@@ -13,11 +233,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时41分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -28,8 +249,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时41分]"
         },
         {
           "title": "【每日收评】创业板指低开低走跌超2%，全市场超4300股收绿，油气、医药板块逆势活跃",
@@ -37,11 +258,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时41分]"
         },
         {
           "title": "雅迪全品类涨价 300 元以上，称原料大幅上涨，铝铜铁涨超 40% 、塑料涨 80%，其他品牌会跟涨吗？",
@@ -54,8 +276,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时41分]"
         },
         {
           "title": "道琼斯指数4月2日（周四）收盘下跌61.01点，跌幅0.13%，报46504.73点；<br/>标普500指数4月2日（周四）收盘上涨7.37点，涨幅0.11%，报6582.69点；<br/>纳斯达克综合指数4月2日（周四）收盘上涨38.23点，涨幅0.18%，报21879.18点。",
@@ -63,11 +285,24 @@
           "source": "金十数据",
           "ranks": [
             6,
-            18
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时41分]"
+        },
+        {
+          "title": "国际油价2日大幅上涨",
+          "url": "https://flash.jin10.com/detail/20260403043822939800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时49分]"
+          "time_info": "[05时49分 ~ 06时41分]"
         },
         {
           "title": "周四（4月2日），彭博电动汽车价格回报指数跌0.91%，报3589.74点，大部分时间低位震荡。",
@@ -82,6 +317,18 @@
           "time_info": "[04时46分 ~ 05时49分]"
         },
         {
+          "title": "美元指数2日上涨",
+          "url": "https://flash.jin10.com/detail/20260403043416469800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时41分]"
+        },
+        {
           "title": "标普500指数的11个板块中，房地产板块收涨1.48%，信息技术/科技板块涨0.73%，能源板块涨0.46%，保健板块跌0.68%，可选消费板块跌1.49%。",
           "url": "https://wallstreetcn.com/livenews/3081783",
           "source": "华尔街见闻-快讯",
@@ -94,6 +341,17 @@
           "time_info": "[04时46分 ~ 05时49分]"
         },
         {
+          "title": "据CNBC：随着燃油价格持续上涨，美国联合航空(UAL.O)将托运行李费上调10美元。",
+          "url": "https://flash.jin10.com/detail/20260403055807040800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 4月2日（周四）晚盘收盘下跌0.04%报1033.0元/克；<br/>上海黄金交易所白银T+D 4月2日（周四）晚盘收盘上涨0.49%报17944.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260403023044891800",
           "source": "金十数据",
@@ -103,28 +361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
-        },
-        {
-          "title": "国际油价2日大幅上涨",
-          "url": "https://flash.jin10.com/detail/20260403043822939800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "美元指数2日上涨",
-          "url": "https://flash.jin10.com/detail/20260403043416469800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
         },
         {
           "title": "据悉城堡全球固定收益基金在三月份下跌了8.2%",
@@ -217,202 +453,8 @@
       ]
     },
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "恒指期货夜盘收涨0.58%，报25233点，高水116点。",
-          "url": "https://flash.jin10.com/detail/20260403030141403800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国原油期货收涨至110美元上方，为2022年以来首次",
-          "url": "https://wallstreetcn.com/livenews/3081755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "布伦特原油期货收报每桶109.03美元，上涨7.87美元，涨幅7.78%。",
-          "url": "https://flash.jin10.com/detail/20260403025154434800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "上期所原油期货2605合约夜盘收涨3.75%，报713.20元人民币/桶。 沪金夜盘收跌0.74%，沪银收跌1.87%。",
-          "url": "https://wallstreetcn.com/livenews/3081754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量调整考验3900点，硬科技方向整体承压，猪肉概念异军突起",
-          "url": "https://www.cls.cn/detail/2333532",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时49分]"
-        },
-        {
-          "title": "直播丨经过多次调整，美国载人绕月飞行任务“阿耳忒弥斯2号”发射升空",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32870834",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 05时49分]"
-        },
-        {
-          "title": "美国芝加哥商业交易所（CME）集团：将非HRP铝期货保证金从4000美元上调至5000美元。 将非HRP铝欧洲Premium Contract（权利金合约）保证金从800美元提高至1100美元。",
-          "url": "https://wallstreetcn.com/livenews/3081810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "美国商品期货交易委员会表示，因亚利桑那州监管预测市场的举措而对其提起诉讼。",
-          "url": "https://flash.jin10.com/detail/20260403005017584800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）就预测市场（的监管权）起诉亚利桑那（AZ）、康涅狄格（CT）、伊利诺伊（IL）三个州。",
-          "url": "https://wallstreetcn.com/livenews/3081721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "巴基斯坦财政部长：下周起将调整证券市场开盘和收盘时间。",
-          "url": "https://flash.jin10.com/detail/20260403022628759800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "全球主要原油现货价格飙升至 2008 年以来最高水平",
-          "url": "https://wallstreetcn.com/livenews/3081719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "巴西财政部官员塞隆：对低价值进口商品征收的关税对于保住就业岗位至关重要，任何此类政策的调整都应谨慎推进。",
-          "url": "https://flash.jin10.com/detail/20260403003919438800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "周四（4月2日）纽约尾盘，标普500股指期货最终涨0.12%，道指期货跌0.10%，纳斯达克100股指期货涨0.10%。 罗素2000股指期货涨0.66%。",
-          "url": "https://wallstreetcn.com/livenews/3081804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "周四（4月2日）纽约尾盘，现货黄金跌1.84%，报4670.80美元/盎司，亚太时段出现两波显著的加速下跌行情，北京时间14:11刷新日低至4554.21美元。 COMEX黄金期货跌2.40%，报4697.80美元/盎司，14:11也刷新日低至4580.40美元。",
-          "url": "https://wallstreetcn.com/livenews/3081799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "法院文件显示，美国商品期货交易委员会就康涅狄格州监管预测市场的举措对康涅狄格州提起诉讼。",
-          "url": "https://flash.jin10.com/detail/20260403002933342800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "欧洲柴油期货飙升至1498美元，伊朗冲突致价格近乎翻倍",
-          "url": "https://wallstreetcn.com/livenews/3081769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "伊朗媒体Fars News列出科威特、沙特阿拉伯、阿布扎比和约旦的多座桥梁，称其为伊朗军事行动的潜在目标。 布伦特原油5分钟内下跌0.54美元/桶，报106.9美元/桶。 现货黄金5分钟内上涨10.61美元/盎司，报4674.47美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3081699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -431,11 +473,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时41分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -444,11 +487,23 @@
           "ranks": [
             23,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时41分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
@@ -456,11 +511,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时49分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时41分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
@@ -468,11 +524,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时49分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时41分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股收盘）",
@@ -480,11 +537,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时49分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时41分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -569,8 +627,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时41分]"
         },
         {
           "title": "美国投资级债券基金在4月1日当周面临53.5亿美元资金外流，创2025年4月中旬以来最大单周赎回。 宏观经济风险加重，造成这类资产大幅亏损。",
@@ -631,6 +689,34 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国行eshop停运,玩家泪目",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352651&amp;topic_name=%E5%9B%BD%E8%A1%8Ceshop%E5%81%9C%E8%BF%90%2C%E7%8E%A9%E5%AE%B6%E6%B3%AA%E7%9B%AE",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时41分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少6.97吨，当前持仓量为15264.49吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260403054814113800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -641,39 +727,24 @@
           "ranks": [
             30,
             23,
-            21
+            21,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[03时08分 ~ 06时41分]"
         },
         {
           "title": "10年期美债收益率周四冲高回落，本周仍累跌超12个基点",
           "url": "https://wallstreetcn.com/livenews/3081808",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国行eshop停运,玩家泪目",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352651&amp;topic_name=%E5%9B%BD%E8%A1%8Ceshop%E5%81%9C%E8%BF%90%2C%E7%8E%A9%E5%AE%B6%E6%B3%AA%E7%9B%AE",
-          "source": "贴吧",
-          "ranks": [
-            30
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时49分]"
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时41分]"
         }
       ]
     },
@@ -686,11 +757,12 @@
           "url": "https://wallstreetcn.com/livenews/3081803",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时41分]"
         }
       ]
     }
