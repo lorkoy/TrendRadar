@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T13:46:15.921215+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-04-02T15:26:30.109562+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 36,
+      "match_count": 44,
       "titles": [
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时46分 ~ 13时46分]"
+          "appearance_count": 6,
+          "time_info": "[07时46分 ~ 15时26分]"
         },
         {
           "title": "巴菲特称近期市场下跌与历史上真正的买点相比不值一提，股市估值仍未有吸引力，对此你怎么看？",
@@ -157,7 +157,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -173,6 +173,17 @@
           "time_info": "11时18分"
         },
         {
+          "title": "韩国首尔综指下跌之际，散户投资者增持超过1万亿韩元的韩国首尔综指指数股票，外国投资者和韩国本土基金则在抛售。",
+          "url": "https://wallstreetcn.com/livenews/3081404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "道琼斯指数4月1日（周三）收盘上涨224.35点，涨幅0.48%，报46565.86点；<br/>标普500指数4月1日（周三）收盘上涨46.84点，涨幅0.72%，报6575.36点；<br/>纳斯达克综合指数4月1日（周三）收盘上涨250.32点，涨幅1.16%，报21840.95点。",
           "url": "https://flash.jin10.com/detail/20260402040552200800",
           "source": "金十数据",
@@ -182,6 +193,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "欧洲斯托克600指数矿业板块开盘下跌1.4%，房地产板块跌1.5%，金融板块开跌1.4%。",
+          "url": "https://flash.jin10.com/detail/20260402150714697800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "A股收评：创业板指跌2.31% 石油板块持续走高",
+          "url": "https://flash.jin10.com/detail/20260402150709681800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美元指数1日下跌",
@@ -201,7 +234,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -239,13 +272,24 @@
           "time_info": "01时07分"
         },
         {
+          "title": "中国上证综指4月2日（周四）收盘下跌29.27点，跌幅：0.74%，报3919.29点；<br/>中国深证成指4月2日（周四）收盘下跌219.58点，跌幅：1.6%，报13486.94点；<br/>中国沪深300指数4月2日（周四）收盘下跌47.15点，跌幅：1.04%，报4478.91点；<br/>中国创业板指数4月2日（周四）收盘下跌74.87点，跌幅：2.31%，报3172.65点；<br/>中国科创50指数4月2日（周四）收盘下跌36.02点，跌幅：2.77%，报1262.18点。",
+          "url": "https://flash.jin10.com/detail/20260402150310994800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "A股军工板块异动拉升，北方长龙涨超7%，湖南天雁、建设工业、长城军工、捷强装备等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3081326",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -289,9 +333,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "金十图示：2026年04月02日（周四）富时中国A50指数成分股今日收盘行情一览：银行股全天领涨，证券、半导体、通信板块午后延续跌势",
+          "url": "https://flash.jin10.com/detail/20260402150221334800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
@@ -327,6 +382,17 @@
           "time_info": "11时18分"
         },
         {
+          "title": "瑞银：中国电力和资源板块有望步入多年增长周期",
+          "url": "https://wallstreetcn.com/livenews/3081381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "三星领跌韩国科技股，股价下跌5.5%，报179,200韩元。",
           "url": "https://flash.jin10.com/detail/20260402104836523800",
           "source": "金十数据",
@@ -349,13 +415,24 @@
           "time_info": "01时07分"
         },
         {
+          "title": "欧洲天然气价格一度上涨7.2%。",
+          "url": "https://wallstreetcn.com/livenews/3081377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "巴基斯坦KSE-100指数下跌3.2%。",
           "url": "https://wallstreetcn.com/livenews/3081311",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -366,7 +443,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -391,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "德国DAX30指数4月2日（周四）开盘下跌364.17点，跌幅1.56%，报22911.00点；<br/>英国富时100指数4月2日（周四）开盘下跌79.61点，跌幅0.77%，报10285.18点；<br/>法国CAC40指数4月2日（周四）开盘下跌102.19点，跌幅1.28%，报7879.08点；<br/>欧洲斯托克50指数4月2日（周四）开盘下跌108.46点，跌幅1.89%，报5624.25点；<br/>西班牙IBEX35指数4月2日（周四）开盘下跌285.00点，跌幅1.62%，报17295.40点；<br/>意大利富时MIB指数4月2日（周四）开盘下跌683.45点，跌幅1.50%，报45031.50点。",
+          "url": "https://flash.jin10.com/detail/20260402150119494800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "港股大模型概念股下跌，智谱跌超16%，MINIMAX跌近10%。",
@@ -418,7 +506,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 29,
+      "match_count": 37,
       "titles": [
         {
           "title": "李强：持续扩大绿电供给，着力推进新型电网建设，加快能源结构调整优化",
@@ -454,8 +542,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 15时26分]"
         },
         {
           "title": "期货热点追踪",
@@ -497,9 +585,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.11%，10年期主力合约跌0.01%，5年期主力合约与昨日持平，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3081411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "中证500股指期货（IC）主力合约回落至7400点下方，日内跌2.16%。中证1000股指期货（IM）主力合约日内走低2.00%，现报7364.0点。",
@@ -508,7 +607,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -519,7 +618,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -546,6 +645,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时56分]"
+        },
+        {
+          "title": "王者亚瑟增强调整",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E4%BA%9A%E7%91%9F%E5%A2%9E%E5%BC%BA%E8%B0%83%E6%95%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时26分]"
         },
         {
           "title": "现货白银日内跌幅达2.0%，报73.4美元/盎司。",
@@ -619,15 +730,15 @@
           "time_info": "[11时17分 ~ 11时18分]"
         },
         {
-          "title": "王者亚瑟增强调整",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E4%BA%9A%E7%91%9F%E5%A2%9E%E5%BC%BA%E8%B0%83%E6%95%B4",
-          "source": "bilibili 热搜",
+          "title": "商品期货收盘，沪银期货主力合约跌超5%，铂跌超4%，沪锡跌超3%，钯跌超2%。原油、燃料油、瓶片、PTA涨超3%，甲醇、PVC、短纤、LU燃油涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3081399",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "韩国交易所启动KOSDAQ指数熔断机制，程序化交易暂停5分钟，此前KOSDAQ 150指数期货下跌6%。",
@@ -636,7 +747,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -647,7 +758,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -658,7 +769,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -691,7 +802,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -718,15 +829,59 @@
           "time_info": "06时51分"
         },
         {
+          "title": "挂单报告：国际现货黄金跌落4600 镑美上方空单密集",
+          "url": "https://flash.jin10.com/detail/20260402150158787800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "现货黄金失守4600美元",
+          "url": "https://www.toutiao.com/trending/7624036766042820138/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "美国10年期国债收益率上升6个基点至4.38%，12月联邦基金期货下跌6.5个跳动点。",
           "url": "https://flash.jin10.com/detail/20260402132129434800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "现货黄金日内跌幅达4.0%，报4563.85美元/盎司。 纽约金日内跌幅达4.5%，报4588.9美元/盎司。 现货白银日内跌幅达7.0%，报69.79美元/盎司。 纽约银日内跌幅达8.0%，报69.95美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3081376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260402150121385800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "金十期货·能化专题",
@@ -746,15 +901,37 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一，瓶片、燃油、SC原油、PTA涨超3%，甲醇涨近3%，聚氯乙烯（PVC）、短纤、低硫燃料油（LU）涨超2%。跌幅方面，沪银跌超5%，铂跌超4%，沪锡跌超3%，钯跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260402150104237800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "富时中国A50指数期货跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3081365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "未来产业会解锁哪些新职业",
@@ -812,6 +989,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出864.36亿元，占比4.69%；大单资金净流出385.68亿元，占比2.09%；小单资金净流入623.16亿元，占比3.38%。",
+          "url": "https://flash.jin10.com/detail/20260402150618249800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "南向资金净买额达100亿元。",
+          "url": "https://flash.jin10.com/detail/20260402150333652800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "市场消息：美国汽车行业组织呼吁废除美国联邦燃油税，并以车辆使用费取而代之，用于道路维修资金。",
@@ -880,13 +1079,35 @@
           "time_info": "04时56分"
         },
         {
+          "title": "广州：加快粤芯、增芯等重大项目建设 打造国家集成电路产业发展“第三极”核心承载区",
+          "url": "https://wallstreetcn.com/livenews/3081374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "中国电子信息产业发展研究院高婴劢：预计2030年我国智能核心产业规模将达12.6万亿元",
+          "url": "https://flash.jin10.com/detail/20260402150111126800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "中国金融时报：央行连续两日地量操作，不改资金面宽松态势",
           "url": "https://wallstreetcn.com/livenews/3081308",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -927,8 +1148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时50分 ~ 13时46分]"
+          "appearance_count": 8,
+          "time_info": "[06时50分 ~ 15时26分]"
         },
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -1081,6 +1302,58 @@
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国行eshop停运,玩家泪目",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352651&amp;topic_name=%E5%9B%BD%E8%A1%8Ceshop%E5%81%9C%E8%BF%90%2C%E7%8E%A9%E5%AE%B6%E6%B3%AA%E7%9B%AE",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 15时26分]"
+        },
+        {
+          "title": "港股快手(01024.HK)跌超3%，成交额超6亿港元。",
+          "url": "https://flash.jin10.com/detail/20260402110236085800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "New Hampshire Business Finance Authority计划发行由特币担保的市政债，已经获得穆迪Ba2评级。",
+          "url": "https://wallstreetcn.com/livenews/3081020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "阶跃星辰上线Step 3.5 Flash新版本，新增低推理模式",
+          "url": "https://wallstreetcn.com/livenews/3081371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 4,
       "titles": [
@@ -1133,77 +1406,47 @@
       ]
     },
     {
-      "keyword_group": "SZ SH HK",
+      "keyword_group": "金价",
       "match_count": 3,
       "titles": [
         {
-          "title": "国行eshop停运,玩家泪目",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352651&amp;topic_name=%E5%9B%BD%E8%A1%8Ceshop%E5%81%9C%E8%BF%90%2C%E7%8E%A9%E5%AE%B6%E6%B3%AA%E7%9B%AE",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 13时46分]"
-        },
-        {
-          "title": "港股快手(01024.HK)跌超3%，成交额超6亿港元。",
-          "url": "https://flash.jin10.com/detail/20260402110236085800",
+          "title": "黄金被流动性冲击“错杀”？渣打预言：金价将重现升势并再破纪录",
+          "url": "https://flash.jin10.com/detail/20260402133750227800",
           "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "13时46分"
         },
         {
-          "title": "New Hampshire Business Finance Authority计划发行由特币担保的市政债，已经获得穆迪Ba2评级。",
-          "url": "https://wallstreetcn.com/livenews/3081020",
-          "source": "华尔街见闻-快讯",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "金十图示：2026年04月02日（周四）上海金午盘价为1021.3元/克，较国际金价(1018.68元/克)，高2.62元/克",
+          "url": "https://flash.jin10.com/detail/20260402150156527800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "多国央行大幅减持美债",
-          "url": "https://www.douyin.com/hot/2452076",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
-        },
-        {
-          "title": "周三（4月1日）纽约尾盘，美国10年期基准国债收益率涨0.20个基点，报4.3186%，日内交投于4.2574%-4.3324%区间，整体呈现出V形反转。 两年期美债收益率涨0.80个基点，报3.8010%，日内交投于3.7334%-3.8133%区间，北京时间20:00过后出现一波显著的拉升行情。",
-          "url": "https://wallstreetcn.com/livenews/3081131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时46分]"
+          "time_info": "15时26分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周三（4月1日）纽约尾盘，ICE美元指数跌0.33%，报99.634点，日内交投区间为99.883-99.298点。 彭博美元指数跌0.27%，报1212.17点，日内交投区间为1215.61-1209.41点。 美元兑日元涨0.11%，报158.89日元，日内交投区间为158.28-159.01日元。 欧元兑日元涨0.38%，英镑兑日元涨0.65%。",
@@ -1227,23 +1470,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美元指数涨0.55%，报100.11；欧元兑美元跌0.55%，报1.1525；英镑兑美元跌0.74%，报1.3208。",
+          "url": "https://wallstreetcn.com/livenews/3081389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "黄金被流动性冲击“错杀”？渣打预言：金价将重现升势并再破纪录",
-          "url": "https://flash.jin10.com/detail/20260402133750227800",
-          "source": "金十数据",
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
           "ranks": [
-            7
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时26分]"
+        },
+        {
+          "title": "周三（4月1日）纽约尾盘，美国10年期基准国债收益率涨0.20个基点，报4.3186%，日内交投于4.2574%-4.3324%区间，整体呈现出V形反转。 两年期美债收益率涨0.80个基点，报3.8010%，日内交投于3.7334%-3.8133%区间，北京时间20:00过后出现一波显著的拉升行情。",
+          "url": "https://wallstreetcn.com/livenews/3081131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时46分]"
         }
       ]
     }
