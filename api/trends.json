@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T13:46:28.175924+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-04-03T15:23:11.679272+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "【焦点复盘】沪指缩量调整考验3900点，硬科技方向整体承压，猪肉概念异军突起",
@@ -33,15 +33,37 @@
           "time_info": "03时08分"
         },
         {
+          "title": "金十期货4月3日讯，上期所发布关于同意中远海运物流供应链有限公司及下属子公司开展集团交割业务的公告。",
+          "url": "https://flash.jin10.com/detail/20260403151005990800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "富时中国A50指数期货跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3081982",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "大商所：调整黄大豆1号指定交割仓库",
+          "url": "https://flash.jin10.com/detail/20260403150858131800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "美国原油期货收涨至110美元上方，为2022年以来首次",
@@ -77,6 +99,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约涨0.21%，10年期主力合约涨0.05%，5年期主力合约涨0.01%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3082046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "武汉公积金新政：取消户籍限制，调整贷款套数认定",
           "url": "https://wallstreetcn.com/livenews/3081935",
           "source": "华尔街见闻-快讯",
@@ -86,6 +119,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
+          "url": "https://wallstreetcn.com/articles/3769147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 15时23分]"
         },
         {
           "title": "中小银行开启新一轮存款挂牌利率调整",
@@ -109,18 +154,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时08分 ~ 05时49分]"
-        },
-        {
-          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
-          "url": "https://wallstreetcn.com/articles/3769147",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时46分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团：将非HRP铝期货保证金从4000美元上调至5000美元。 将非HRP铝欧洲Premium Contract（权利金合约）保证金从800美元提高至1100美元。",
@@ -197,6 +230,17 @@
           "time_info": "[05时49分 ~ 06时41分]"
         },
         {
+          "title": "小米线下策略调整，手机销量预计下降13%",
+          "url": "https://wallstreetcn.com/livenews/3082040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "美国商品期货交易委员会表示，因亚利桑那州监管预测市场的举措而对其提起诉讼。",
           "url": "https://flash.jin10.com/detail/20260403005017584800",
           "source": "金十数据",
@@ -250,6 +294,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "商品期货收盘，燃料油主力合约涨超7%，甲醇涨超6%，原油、LU燃油涨超5%，苯乙烯、纯苯、对二甲苯、PTA涨超4%。多晶硅跌超4%，生猪、沪银、玻璃跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3082031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260403150130111800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一，燃油涨超7%，甲醇涨超6%，SC原油、低硫燃料油（LU）涨近5%，纯苯、苯乙烯（EB）、PX、PTA、聚丙烯（PP）涨超4%。跌幅方面，多晶硅跌近5%，沪银、生猪跌近3%，玻璃跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260403150117648800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "金十期货·原油专题",
@@ -307,6 +384,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "东航：4月5日起调整国内航线燃油附加费征收标准",
+          "url": "https://wallstreetcn.com/livenews/3082009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "金十期货4月3日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌2150元/吨，中间价报158000元/吨。",
           "url": "https://flash.jin10.com/detail/20260403103305780800",
           "source": "金十数据",
@@ -346,7 +434,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         }
@@ -354,7 +442,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
@@ -428,7 +516,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -439,7 +527,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -450,7 +538,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -529,6 +617,28 @@
           "time_info": "[04时46分 ~ 05时49分]"
         },
         {
+          "title": "全市场超4700只个股下挫",
+          "url": "https://www.toutiao.com/trending/7624342795663097882/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
+          "title": "A股收评：三大指数集体收跌 CPO概念逆市上涨",
+          "url": "https://flash.jin10.com/detail/20260403150434690800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "存储板块短期承压，分析称价格上行趋势有望延续",
           "url": "https://wallstreetcn.com/livenews/3081836",
           "source": "华尔街见闻-快讯",
@@ -549,6 +659,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "金十图示：2026年04月03日（周五）富时中国A50指数成分股今日收盘行情一览：银行股全面回调，通信设备板块午后延续涨势",
+          "url": "https://flash.jin10.com/detail/20260403150301225800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "中国上证综指4月3日（周五）收盘下跌39.19点，跌幅：1%，报3880.1点；<br/>中国深证成指4月3日（周五）收盘下跌134.03点，跌幅：0.99%，报13352.9点；<br/>中国沪深300指数4月3日（周五）收盘下跌38.13点，跌幅：0.85%，报4440.79点；<br/>中国创业板指数4月3日（周五）收盘下跌23.05点，跌幅：0.73%，报3149.6点；<br/>中国科创50指数4月3日（周五）收盘下跌5.97点，跌幅：0.47%，报1256.21点。",
+          "url": "https://flash.jin10.com/detail/20260403150215723800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "上证指数收报3880.10点，跌1.00%。 深证成指收报13352.90点，跌0.99%。 创业板指收报3149.60点，跌0.73%。 沪深300收报4440.79点，跌0.85%。 科创50收报1256.21点，跌0.47%。 中证500收报7534.94点，跌0.93%。 中证1000收报7536.60点，跌1.14%。",
+          "url": "https://wallstreetcn.com/livenews/3082033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "土耳其3月消费者价格同比上涨30.87%，市场预期上涨31.40%。",
+          "url": "https://flash.jin10.com/detail/20260403150209466800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "美元指数维持日内小幅上涨态势，现报100.05。特朗普针对伊朗发帖：下一步将摧毁桥梁，然后是发电厂；伊朗新政权领导层知道必须做什么，而且必须尽快做。",
@@ -612,7 +766,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -678,7 +832,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -707,6 +861,168 @@
       ]
     },
     {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "【数据看盘】三家顶级游资联手抢筹新能泰山 近5亿元资金买入中超控股",
+          "url": "https://www.cls.cn/detail/2333571",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时44分]"
+        },
+        {
+          "title": "教育部发布通知，义务教育学校严禁设立或变相设立重点班、实验班、快慢班，这一政策有何影响？",
+          "url": "https://www.zhihu.com/question/2023334141517657226",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
+          "title": "【2026太空算力产业大会发布十大重点攻关项目】4月3日，在2026太空算力产业大会上，算力产业发展方阵“太空算力专业委员会”成立。大会当天发布十大重点攻关项目，包括卫星平台级、芯片级、载荷板卡级、组网运行级、硬件系统级、系统软件级、产业应用级、交叉-结构级、交叉-运载火箭级、交叉-散热级等关键技术，将联合产业界开展攻关合作。",
+          "url": "https://wallstreetcn.com/livenews/3082048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出461.83亿元，占比2.79%；大单资金净流出283.22亿元，占比1.71%；小单资金净流入514.21亿元，占比3.1%。",
+          "url": "https://flash.jin10.com/detail/20260403150627859800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "美国投资级债券基金在4月1日当周面临53.5亿美元资金外流，创2025年4月中旬以来最大单周赎回。 宏观经济风险加重，造成这类资产大幅亏损。",
+          "url": "https://wallstreetcn.com/livenews/3081792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时49分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)已告知其独立监督委员会的成员，该公司可能会在2028年之后停止为其提供资金。",
+          "url": "https://flash.jin10.com/detail/20260403063738933800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "中证报：政策完善、技术迭代、市场驱动，储能产业将迎结构性跃升",
+          "url": "https://wallstreetcn.com/livenews/3081837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "工信部：引导各类创新资源向企业集聚 带动产业向前沿和高端领域迈进",
+          "url": "https://wallstreetcn.com/livenews/3081970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：不能允许伊朗向各国收取通行费。",
+          "url": "https://flash.jin10.com/detail/20260403021259336800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：我们支持联合国在霍尔木兹海峡建立人道主义走廊的工作，以运送粮食和化肥。",
+          "url": "https://flash.jin10.com/detail/20260403020536963800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：必须扩大欧盟阿斯皮德斯海军行动，我们承受不起再失去一条关键贸易航线的后果。",
+          "url": "https://flash.jin10.com/detail/20260403020439677800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "以军称打击伊朗伊斯兰革命卫队资金管理总部",
+          "url": "https://wallstreetcn.com/livenews/3081706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260403104016201800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "2026年全国工业和信息化科技创新和产业创新融合发展工作座谈会在苏州召开",
+          "url": "https://flash.jin10.com/detail/20260403122112494800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
@@ -720,8 +1036,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时41分 ~ 13时46分]"
+          "appearance_count": 8,
+          "time_info": "[06时41分 ~ 15时23分]"
         },
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -871,135 +1187,6 @@
       ]
     },
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "【数据看盘】三家顶级游资联手抢筹新能泰山 近5亿元资金买入中超控股",
-          "url": "https://www.cls.cn/detail/2333571",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 07时44分]"
-        },
-        {
-          "title": "美国投资级债券基金在4月1日当周面临53.5亿美元资金外流，创2025年4月中旬以来最大单周赎回。 宏观经济风险加重，造成这类资产大幅亏损。",
-          "url": "https://wallstreetcn.com/livenews/3081792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时49分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)已告知其独立监督委员会的成员，该公司可能会在2028年之后停止为其提供资金。",
-          "url": "https://flash.jin10.com/detail/20260403063738933800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
-          "title": "中证报：政策完善、技术迭代、市场驱动，储能产业将迎结构性跃升",
-          "url": "https://wallstreetcn.com/livenews/3081837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
-          "title": "工信部：引导各类创新资源向企业集聚 带动产业向前沿和高端领域迈进",
-          "url": "https://wallstreetcn.com/livenews/3081970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：不能允许伊朗向各国收取通行费。",
-          "url": "https://flash.jin10.com/detail/20260403021259336800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：我们支持联合国在霍尔木兹海峡建立人道主义走廊的工作，以运送粮食和化肥。",
-          "url": "https://flash.jin10.com/detail/20260403020536963800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：必须扩大欧盟阿斯皮德斯海军行动，我们承受不起再失去一条关键贸易航线的后果。",
-          "url": "https://flash.jin10.com/detail/20260403020439677800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "以军称打击伊朗伊斯兰革命卫队资金管理总部",
-          "url": "https://wallstreetcn.com/livenews/3081706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20260403104016201800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "2026年全国工业和信息化科技创新和产业创新融合发展工作座谈会在苏州召开",
-          "url": "https://flash.jin10.com/detail/20260403122112494800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "SZ SH HK",
       "match_count": 3,
       "titles": [
@@ -1062,7 +1249,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         }
