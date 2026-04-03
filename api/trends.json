@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T11:20:14.207846+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-04-03T13:46:28.175924+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "【焦点复盘】沪指缩量调整考验3900点，硬科技方向整体承压，猪肉概念异军突起",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "富时中国A50指数期货跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3081982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "美国原油期货收涨至110美元上方，为2022年以来首次",
@@ -72,7 +83,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -100,6 +111,18 @@
           "time_info": "[03时08分 ~ 05时49分]"
         },
         {
+          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
+          "url": "https://wallstreetcn.com/articles/3769147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时46分]"
+        },
+        {
           "title": "美国芝加哥商业交易所（CME）集团：将非HRP铝期货保证金从4000美元上调至5000美元。 将非HRP铝欧洲Premium Contract（权利金合约）保证金从800美元提高至1100美元。",
           "url": "https://wallstreetcn.com/livenews/3081810",
           "source": "华尔街见闻-快讯",
@@ -113,15 +136,17 @@
           "time_info": "[05时49分 ~ 07时44分]"
         },
         {
-          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
-          "url": "https://wallstreetcn.com/articles/3769147",
-          "source": "华尔街见闻",
+          "title": "医保政策调整",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            21,
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时46分]"
         },
         {
           "title": "芝商所（CME）上调部分铝期货合约保证金要求至5000美元，新规将于当地时间4月3日收盘后生效。",
@@ -148,6 +173,18 @@
           "time_info": "[05时49分 ~ 06时41分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260403105134000800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 13时46分]"
+        },
+        {
           "title": "周四（4月2日）纽约尾盘，现货黄金跌1.84%，报4670.80美元/盎司，亚太时段出现两波显著的加速下跌行情，北京时间14:11刷新日低至4554.21美元。 COMEX黄金期货跌2.40%，报4697.80美元/盎司，14:11也刷新日低至4580.40美元。",
           "url": "https://wallstreetcn.com/livenews/3081799",
           "source": "华尔街见闻-快讯",
@@ -158,18 +195,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 06时41分]"
-        },
-        {
-          "title": "医保政策调整",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
         },
         {
           "title": "美国商品期货交易委员会表示，因亚利桑那州监管预测市场的举措而对其提起诉讼。",
@@ -233,7 +258,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -244,7 +269,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -255,7 +280,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -269,17 +294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260403105134000800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
         },
         {
           "title": "欧洲柴油期货飙升至1498美元，伊朗冲突致价格近乎翻倍",
@@ -299,7 +313,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -321,15 +335,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.20%，10年期主力合约涨0.03%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3081948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
@@ -395,6 +420,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "A股商业航天板块午后下挫，中衡设计跌停，飞沃科技跌超10%，中超控股跌超9%，神剑股份、广联航空、巨力索具、航天宏图跟跌。此前天龙三号运载火箭发射失利。",
+          "url": "https://wallstreetcn.com/livenews/3081979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "沪指午后跌超1%。煤炭、油气、养殖业、电力、农业等方向跌幅居前，沪深京三市下跌个股近4700只。",
+          "url": "https://wallstreetcn.com/livenews/3081978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "A股商业航天板块午后下挫，中衡设计跌停，飞沃科技跌超10%，中超控股跌超9%，神剑股份、广联航空、巨力索具、航天宏图跟跌。",
+          "url": "https://flash.jin10.com/detail/20260403130651802800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "道琼斯指数4月2日（周四）收盘下跌61.01点，跌幅0.13%，报46504.73点；<br/>标普500指数4月2日（周四）收盘上涨7.37点，涨幅0.11%，报6582.69点；<br/>纳斯达克综合指数4月2日（周四）收盘上涨38.23点，涨幅0.18%，报21879.18点。",
@@ -499,7 +557,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -548,6 +606,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "巴基斯坦KSE-100指数下跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3081964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "周四（4月2日）纽约尾盘，ICE美元指数涨0.35%，报99.998点，日内交投区间为99.447-100.263点，亚太早盘，美国总统特朗普讲话之际陡峭地走高，日内大部分时间高位震荡、北京时间19:16刷新日高。 彭博美元指数涨0.26%，报1215.67点。 美元兑日元涨0.50%，报159.60日元，日内交投区间为158.55-159.74日元。",
           "url": "https://wallstreetcn.com/livenews/3081774",
           "source": "华尔街见闻-快讯",
@@ -576,7 +645,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -587,7 +656,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -598,9 +667,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "上证指数早盘收报3882.69点，跌0.93%。 深证成指早盘收报13387.92点，跌0.73%。 创业板指早盘收报3166.06点，跌0.21%。 沪深300早盘收报4450.32点，跌0.64%。 科创50早盘收报1258.89点，跌0.26%。 中证500早盘收报7541.65点，跌0.84%。 中证1000早盘收报7551.56点，跌0.94%。",
+          "url": "https://wallstreetcn.com/livenews/3081951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "意大利银行板块收跌1.9%，本周仍然涨超2.7%，德国股市累涨将近3.9%",
@@ -640,8 +720,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时41分 ~ 11时20分]"
+          "appearance_count": 6,
+          "time_info": "[06时41分 ~ 13时46分]"
         },
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -792,7 +872,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "【数据看盘】三家顶级游资联手抢筹新能泰山 近5亿元资金买入中超控股",
@@ -839,6 +919,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "工信部：引导各类创新资源向企业集聚 带动产业向前沿和高端领域迈进",
+          "url": "https://wallstreetcn.com/livenews/3081970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：不能允许伊朗向各国收取通行费。",
@@ -891,9 +982,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "2026年全国工业和信息化科技创新和产业创新融合发展工作座谈会在苏州召开",
+          "url": "https://flash.jin10.com/detail/20260403122112494800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     },
@@ -931,9 +1033,38 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周四（4月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8901元，较周三纽约尾盘跌127点，日内整体交投于6.8724-6.9042元区间。",
+          "url": "https://wallstreetcn.com/livenews/3081803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时41分]"
+        },
+        {
+          "title": "优必选科技招募首席科学家 年薪最高可达1.24亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3081954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     },
@@ -963,24 +1094,6 @@
           "ranks": [
             8,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周四（4月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8901元，较周三纽约尾盘跌127点，日内整体交投于6.8724-6.9042元区间。",
-          "url": "https://wallstreetcn.com/livenews/3081803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
