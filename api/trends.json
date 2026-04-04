@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T10:52:53.354461+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-04-04T12:59:54.484621+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
@@ -155,17 +155,18 @@
           "url": "https://wallstreetcn.com/articles/3769166",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 12时59分]"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "巴基斯坦总理谢里夫：汽油价格的下调将由政府征收的石油税来提供资金。",
@@ -180,6 +181,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时01分 ~ 06时44分]"
+        },
+        {
+          "title": "我国成立太空算力产业协同平台",
+          "url": "https://www.douyin.com/hot/2454693",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "【数据看盘】机构活跃度连续两日下降 量化资金激烈博弈神剑股份",
@@ -205,6 +217,18 @@
           "time_info": "[06时44分 ~ 07时43分]"
         },
         {
+          "title": "总投资50亿元，苏州光通信产业基地将落户苏州工业园区",
+          "url": "https://wallstreetcn.com/livenews/3082367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 12时59分]"
+        },
+        {
           "title": "巴基斯坦财政部：持续监测和管理外部资金流动，以确保外汇储备稳定。巴基斯坦政府仍致力于履行其所有对外债务义务。",
           "url": "https://flash.jin10.com/detail/20260404020833564800",
           "source": "金十数据",
@@ -217,26 +241,27 @@
           "time_info": "[03时01分 ~ 03时50分]"
         },
         {
-          "title": "总投资50亿元，苏州光通信产业基地将落户苏州工业园区",
-          "url": "https://wallstreetcn.com/livenews/3082367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
           "title": "张雪机车夺冠背后的中国摩托车产业蜕变：从规模导向到价值导向，出海红利显现",
           "url": "https://m.thepaper.cn/newsDetail_forward_32894743",
           "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 12时59分]"
+        },
+        {
+          "title": "华泰证券：3月非农超预期回升显示美国就业市场韧性 通胀目前是联储货币政策的核心变量",
+          "url": "https://flash.jin10.com/detail/20260404104944218800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "12时59分"
         },
         {
           "title": "总投资50亿元，苏州光通信产业基地签约",
@@ -256,7 +281,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -275,7 +300,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "还是这个热门赛道！又一10倍股出炉，CPO板块高热持续，融资客近日加仓这些",
@@ -288,8 +313,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 10时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 12时59分]"
         },
         {
           "title": "中东冲突推高能源成本，全球食品价格3月上涨",
@@ -342,13 +367,24 @@
           "time_info": "[00时53分 ~ 01时43分]"
         },
         {
+          "title": "华泰证券：近期二级市场持续回调，各板块内估值稳健、分派率较高的项目，或有短期交易机会",
+          "url": "https://flash.jin10.com/detail/20260404110900692800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "中指研究院：3月50城住宅租金止跌回升 一线城市集体上涨",
           "url": "https://wallstreetcn.com/livenews/3082353",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -359,7 +395,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }
@@ -374,11 +410,12 @@
           "url": "https://wallstreetcn.com/livenews/3082359",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 12时59分]"
         },
         {
           "title": "中金：黄金投资需求和价格或均存向上修复空间",
@@ -387,7 +424,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }
