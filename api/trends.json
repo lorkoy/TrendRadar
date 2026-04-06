@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T07:44:00.680357+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-04-06T11:33:23.285591+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "日经指数期货开盘下跌175点，报52955点。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -103,21 +103,65 @@
           "time_info": "[06时42分 ~ 07时44分]"
         },
         {
+          "title": "油价回吐涨幅，布伦特原油期货现报109.77美元/桶，WTI原油期货报111.58美元/桶。消息面上，美媒报道称美伊调解方为达成45天停火协议做最后努力。",
+          "url": "https://flash.jin10.com/detail/20260406104644367800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "美股期货转涨，纳斯达克100指数期货日内涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3082716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
           "title": "现货黄金失守4610美元/盎司，日内跌幅1.45%。",
           "url": "https://flash.jin10.com/detail/20260406064745876800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.28%，上一个交易日夜盘收涨0.31%。",
+          "url": "https://wallstreetcn.com/livenews/3082703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260406095306846800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英国关键基础设施和产业的战备计划将推迟至明年以后。最初承诺于今年初推出的《国防准备法案》，至少要到2027年中期才会出现在政府的立法计划中。",
@@ -126,15 +170,26 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "商务部等六部门：支持符合条件的电商企业发行债券融资 优化融资等政策流程",
+          "url": "https://flash.jin10.com/detail/20260406100755786800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特朗普又发“最后通牒”，油价上涨",
@@ -143,9 +198,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "金银再下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%93%B6%E5%86%8D%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     },
