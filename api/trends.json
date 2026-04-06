@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T22:59:15.561976+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-04-06T23:58:45.781703+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "日韩股震荡上涨",
@@ -19,8 +19,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时04分 ~ 22时59分]"
+          "appearance_count": 11,
+          "time_info": "[14时04分 ~ 23时58分]"
         },
         {
           "title": "曝三星DRAM价格将上涨30%",
@@ -46,8 +46,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时26分 ~ 22时59分]"
+          "appearance_count": 9,
+          "time_info": "[16时26分 ~ 23时58分]"
+        },
+        {
+          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "希腊能源部长：希腊将向受能源价格上涨影响的制造业提供援助。",
@@ -120,6 +131,18 @@
           "time_info": "[16时26分 ~ 18时18分]"
         },
         {
+          "title": "美国3月ISM非制造业指数降至54，受到就业情况恶化和业务活动增长放缓的拖累。 美国3月份ISM服务业支付价格指数70.7，创下2022年10月以来最高水平，与上个月相比，该指数上涨了7.7个点，涨幅创近十四年来最大。",
+          "url": "https://wallstreetcn.com/livenews/3082858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时58分]"
+        },
+        {
           "title": "希捷科技(STX.O)股价盘前上涨4.6%，此前摩根士丹利将其列入首选股票名单。",
           "url": "https://flash.jin10.com/detail/20260406205256441800",
           "source": "金十数据",
@@ -131,17 +154,6 @@
           "time_info": "21时40分"
         },
         {
-          "title": "美国3月ISM非制造业指数降至54，受到就业情况恶化和业务活动增长放缓的拖累。 美国3月份ISM服务业支付价格指数70.7，创下2022年10月以来最高水平，与上个月相比，该指数上涨了7.7个点，涨幅创近十四年来最大。",
-          "url": "https://wallstreetcn.com/livenews/3082858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
           "title": "特朗普又发“最后通牒”，油价上涨",
           "url": "https://flash.jin10.com/detail/20260406065306685800",
           "source": "金十数据",
@@ -151,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "美国白宫经济顾问哈塞特：各州应该采取行动来解决汽油价格（上涨）问题。 美联储应该能够降低利率。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3082879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "日本央行：多地表示企业继续转嫁不断上涨的劳动力和分销成本。",
@@ -214,7 +237,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -236,7 +259,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -258,7 +281,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -481,7 +504,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -670,7 +693,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         }
@@ -785,11 +808,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时26分 ~ 22时59分]"
+          "appearance_count": 9,
+          "time_info": "[16时26分 ~ 23时58分]"
         }
       ]
     }
