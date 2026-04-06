@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T03:14:05.903056+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-04-07T04:50:18.972581+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时50分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时50分]"
         },
         {
           "title": "日韩股震荡上涨",
@@ -48,8 +48,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时50分]"
+        },
+        {
+          "title": "道琼斯指数4月6日（周一）收盘上涨165.21点，涨幅0.36%，报46669.88点；<br/>标普500指数4月6日（周一）收盘上涨29.33点，涨幅0.45%，报6612.02点；<br/>纳斯达克综合指数4月6日（周一）收盘上涨117.16点，涨幅0.54%，报21996.34点。",
+          "url": "https://flash.jin10.com/detail/20260407040513820800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "WTI原油5分钟内下跌0.6美元/桶，报112.9美元/桶。 美国总统特朗普声称，明晚（美东时间）8点的最后期限一过，伊朗将失去桥梁。 如果没有协议，伊朗将失去桥梁和发电站。 与伊朗谈判的最大问题是，他们无法沟通。 美国已经有计划在明晚前摧毁伊朗的桥梁。 美国可以帮助伊朗重建。 美国最不想做的，局势重建发电厂。 “我不想摧毁”伊朗的基础设施。 伊朗重建的唯一途径就是通过美国。",
@@ -58,9 +69,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "标普500指数的11个板块中，可选消费板块收涨0.8%，能源板块涨0.77%，电信板块涨0.59%，信息技术/科技板块涨0.49%，公用事业板块跌0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3082962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "WTI原油5分钟内下跌0.5美元/桶，报112.89美元/桶。",
@@ -69,7 +91,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -83,40 +105,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "WTI 5月原油期货收涨涨0.87美元，涨幅将近0.78%，报112.41美元/桶。 布伦特6月原油期货收涨0.74美元，涨幅将近0.68%，报109.77美元/桶。 中东Abu Dhabi Murban原油期货涨2.69%，报117.93美元/桶。 NYMEX 5月天然气期货收报2.8110美元/百万英热单位。 NYMEX 5月汽油期货收报3.3082美元/加仑，NYMEX 5月取暖油期货收报4.3284美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3082934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
         },
         {
-          "title": "现货黄金5分钟内上涨6.53美元/盎司，报4659.19美元/盎司。 WTI原油期货目前涨2.38%，报114.20美元，亚太盘初曾涨穿115美元。 伊朗媒体Mizan报道称，首都德黑兰听到爆炸声。 美国“战争部”部长海格塞斯宣称，“今天将对伊朗发动规模最大的袭击，明天的打击力度将比今天更大”。",
-          "url": "https://wallstreetcn.com/livenews/3082918",
-          "source": "华尔街见闻-快讯",
+          "title": "联合包裹(UPS.N)股价下跌1.3%，此前有消息称亚马逊与美国邮政总局达成配送协议。",
+          "url": "https://flash.jin10.com/detail/20260407032827687800",
+          "source": "金十数据",
           "ranks": [
-            20
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "04时50分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯因油价上涨所获得的所有收益都将用于这场战争。正因如此，任何限制俄罗斯石油出口能力的举措都是正确的。",
+          "url": "https://flash.jin10.com/detail/20260407031053979800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -139,6 +155,172 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "联合健康美股盘后中行那个11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
+          "url": "https://wallstreetcn.com/livenews/3082970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "布油基金收涨1%，和新兴市场ETF领涨美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3082967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260407040534288800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "银行业ETF收涨1%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3082965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260407040513015800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
+          "url": "https://flash.jin10.com/detail/20260407040042993800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美国芝加哥期权交易所（CBOE）3月期货日均成交量增长18.4%。 3月期权日均成交量增长30.5%。",
+          "url": "https://wallstreetcn.com/livenews/3082973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "WTI 5月原油期货收涨涨0.87美元，涨幅将近0.78%，报112.41美元/桶。 布伦特6月原油期货收涨0.74美元，涨幅将近0.68%，报109.77美元/桶。 中东Abu Dhabi Murban原油期货涨2.69%，报117.93美元/桶。 NYMEX 5月天然气期货收报2.8110美元/百万英热单位。 NYMEX 5月汽油期货收报3.3082美元/加仑，NYMEX 5月取暖油期货收报4.3284美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3082934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "现货黄金5分钟内上涨6.53美元/盎司，报4659.19美元/盎司。 WTI原油期货目前涨2.38%，报114.20美元，亚太盘初曾涨穿115美元。 伊朗媒体Mizan报道称，首都德黑兰听到爆炸声。 美国“战争部”部长海格塞斯宣称，“今天将对伊朗发动规模最大的袭击，明天的打击力度将比今天更大”。",
+          "url": "https://wallstreetcn.com/livenews/3082918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "现货黄金5分钟内上涨5.43美元/盎司，报4653.52美元/盎司。 据法尔斯通讯社报道，迄今的袭击已造成伊朗60名教师和250名学生丧生。",
+          "url": "https://wallstreetcn.com/livenews/3082949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "周一（4月6日）纽约尾盘，ICE原糖期货跌0.13%。 ICE阿拉比卡咖啡期货涨0.93%，咖啡“C”期货涨0.93%。 纽约可可期货跌0.68%，报3223美元/吨。 芝加哥WCE双低油菜籽期货跌0.12%。 ICE棉花期货涨0.96%。",
+          "url": "https://wallstreetcn.com/livenews/3082943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "芝加哥大豆油期货涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3082942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Tian提前Q闪预判Shanks闪现",
+          "url": "https://search.bilibili.com/all?keyword=Tian%E6%8F%90%E5%89%8DQ%E9%97%AA%E9%A2%84%E5%88%A4Shanks%E9%97%AA%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 04时50分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.21%，报6737.02点。 热门中概股里，小马智行初步收跌3%，文远知行跌2.2%，小鹏、百胜中国、小米跌超1%，阿里巴巴涨0.2%，美团涨0.5%。 ETF中，中国科技指数ETF（CQQQ）收涨0.02%，中概互联网指数ETF（KWEB）收涨0.18%。 XtrackersHarvest中证50（ASHS）收跌1.09%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%。",
+          "url": "https://wallstreetcn.com/livenews/3082958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         }
       ]
     },
@@ -151,28 +333,12 @@
           "url": "https://www.zhihu.com/question/2024406743845794724",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Tian提前Q闪预判Shanks闪现",
-          "url": "https://search.bilibili.com/all?keyword=Tian%E6%8F%90%E5%89%8DQ%E9%97%AA%E9%A2%84%E5%88%A4Shanks%E9%97%AA%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时50分]"
         }
       ]
     },
@@ -186,11 +352,46 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（4月6日）纽约尾盘，美国10年期国债收益率跌0.99个基点，报4.3307%。 两年期美债收益率涨0.41个基点，报3.8436%；30年期美债收益率跌1.83个基点，报4.8866%。 2/10年期美债收益率利差跌1.000个基点，报+48.487个基点。 10年期通胀保值国债（TIPS）收益率跌0.53个基点，至1.9613%；两年期TIPS收益率涨2.04个基点，至0.5360%；30年期TIPS收益率跌1.51个基点，至2.6606%。",
+          "url": "https://wallstreetcn.com/livenews/3082947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（4月6日）纽约尾盘，ICE美元指数跌0.03%，报99.997点，日内交投区间为100.273-99.757点，北京时间15:28-15:56出现一波显著的下挫行情，22:35刷新日低之后曾迅速反弹。 彭博美元指数跌0.11%，报1214.54点，日内交投区间为1217.98-1212.37点。 美元兑日元涨0.03%，报159.72日元，日内交投区间为159.31-159.83日元。 欧元兑日元涨0.25%，英镑兑日元涨0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3082951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         }
       ]
     }
