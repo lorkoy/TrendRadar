@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T21:40:26.010943+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-04-06T22:59:15.561976+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "日韩股震荡上涨",
@@ -15,11 +15,12 @@
             4,
             15,
             16,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时04分 ~ 21时40分]"
+          "appearance_count": 10,
+          "time_info": "[14时04分 ~ 22时59分]"
         },
         {
           "title": "曝三星DRAM价格将上涨30%",
@@ -28,11 +29,12 @@
           "ranks": [
             8,
             1,
-            13
+            13,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 21时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 22时59分]"
         },
         {
           "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
@@ -40,11 +42,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 21时40分]"
+          "appearance_count": 8,
+          "time_info": "[16时26分 ~ 22时59分]"
         },
         {
           "title": "希腊能源部长：希腊将向受能源价格上涨影响的制造业提供援助。",
@@ -75,9 +78,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "卫生巾价格或上涨3%至8%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E7%94%9F%E5%B7%BE%E4%BB%B7%E6%A0%BC%E6%88%96%E4%B8%8A%E6%B6%A83%25%E8%87%B38%25%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时54分 ~ 22时59分]"
         },
         {
           "title": "比特币一度上涨逾3.5%，站上7万美元/枚。",
@@ -104,27 +120,26 @@
           "time_info": "[16时26分 ~ 18时18分]"
         },
         {
-          "title": "卫生巾价格或上涨3%至8%",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E7%94%9F%E5%B7%BE%E4%BB%B7%E6%A0%BC%E6%88%96%E4%B8%8A%E6%B6%A83%25%E8%87%B38%25%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 21时40分]"
-        },
-        {
           "title": "希捷科技(STX.O)股价盘前上涨4.6%，此前摩根士丹利将其列入首选股票名单。",
           "url": "https://flash.jin10.com/detail/20260406205256441800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "美国3月ISM非制造业指数降至54，受到就业情况恶化和业务活动增长放缓的拖累。 美国3月份ISM服务业支付价格指数70.7，创下2022年10月以来最高水平，与上个月相比，该指数上涨了7.7个点，涨幅创近十四年来最大。",
+          "url": "https://wallstreetcn.com/livenews/3082858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "特朗普又发“最后通牒”，油价上涨",
@@ -193,15 +208,37 @@
           "time_info": "18时18分"
         },
         {
+          "title": "美国服务业数据公布后，美国国债收益率走低；10年期国债收益率最新下跌0.9个基点，报4.337%。",
+          "url": "https://flash.jin10.com/detail/20260406220256214800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "DeepTalk：拒绝悲观！金银二季度将迎来“陡峭式”上涨？",
           "url": "https://flash.jin10.com/detail/20260406203032910800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨约0.6%，报80.88美元，随后转而下跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3082846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "金银再下跌",
@@ -213,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.3%，存储板块涨幅居前",
+          "url": "https://wallstreetcn.com/livenews/3082845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "印度NIFTY金融服务指数延续涨势，最新上涨2.4%。",
@@ -240,7 +288,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "日经指数期货开盘下跌175点，报52955点。",
@@ -271,7 +319,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -427,6 +475,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "成品油价格即将迎来调整",
+          "url": "https://wallstreetcn.com/livenews/3082853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "富时中国A50指数期货盘初涨0.28%，上一个交易日夜盘收涨0.31%。",
           "url": "https://wallstreetcn.com/livenews/3082703",
           "source": "华尔街见闻-快讯",
@@ -558,7 +617,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "维珍银河(SPCE.N)美股盘前大涨12.6%。",
@@ -589,7 +648,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -600,9 +659,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球科技股指数ETF、半导体ETF涨近1%，医疗业ETF跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3082847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     },
@@ -718,8 +788,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 21时40分]"
+          "appearance_count": 8,
+          "time_info": "[16时26分 ~ 22时59分]"
         }
       ]
     }
