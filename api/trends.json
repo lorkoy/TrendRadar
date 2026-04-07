@@ -1,33 +1,47 @@
 {
-  "generated_at": "2026-04-08T01:12:40.467672+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-08T03:17:48.297607+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "国际石油价格还会继续上涨吗？",
           "url": "https://www.zhihu.com/question/2017599039630247665",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时17分]"
         },
         {
           "title": "“4.7行情”满一周年！创业板指累计涨75%，两大板块涨幅翻倍，10倍股共涌现5只",
           "url": "https://www.cls.cn/detail/2336731",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时17分]"
+        },
+        {
+          "title": "美对伊设最后期限 国际油价应声上涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AF%B9%E4%BC%8A%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90+%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%BA%94%E5%A3%B0%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时17分]"
         },
         {
           "title": "EIA短期能源展望报告：预计随着霍尔木兹海峡的石油运输恢复，布伦特原油与WTI原油价差将逐步缩小，油价也将下跌。",
@@ -35,17 +49,6 @@
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "美对伊设最后期限 国际油价应声上涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AF%B9%E4%BC%8A%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90+%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%BA%94%E5%A3%B0%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,6 +66,39 @@
           "time_info": "01时12分"
         },
         {
+          "title": "甲骨文(ORCL.N)股价下跌1.8%。",
+          "url": "https://flash.jin10.com/detail/20260408024118946800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国交通部长表示，航空燃油价格上涨只是短期问题。",
+          "url": "https://flash.jin10.com/detail/20260408023807580800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月7日（周二）晚盘收盘上涨0.41%报1034.01元/克；<br/>上海黄金交易所白银T+D 4月7日（周二）晚盘收盘下跌0.98%报17741.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260408023324744800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.6%，报366.26点。 在十个板块中，北欧工业板块跌幅最大。 高科技工业部件和系统供应商AddTech AB跌5.2%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3083607",
           "source": "华尔街见闻-快讯",
@@ -76,8 +112,58 @@
       ]
     },
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国家继续出手调控油价，国内成品油价格适当调整",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32916529",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时17分]"
+        },
+        {
+          "title": "WTI 5月原油期货收涨0.54美元，涨幅0.48%，报112.95美元/桶。 中东Abu Dhabi Murban原油期货跌0.37%，报118.64美元/桶。 NYMEX 5月天然气期货收报2.87美元/百万英热单位。 NYMEX 5月汽油期货收报3.3052美元/加仑，NYMEX 5月取暖油期货收报4.4774美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3083672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收跌1.83%，报702元人民币/桶。 沪金夜盘收涨0.57%，沪银收跌1.21%。",
+          "url": "https://wallstreetcn.com/livenews/3083671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "周二（4月7日）欧市尾盘，ICE英国天然气期货涨4.87%，报133.08便士/千卡。 TTF基准荷兰天然气期货涨4.72%，报52.400欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌0.08%，报70.61欧元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3083618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "李强签署国务院令 公布《国务院关于产业链供应链安全的规定》",
@@ -87,8 +173,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时17分]"
+        },
+        {
+          "title": "五一劳动节高速免费通行政策公布",
+          "url": "https://www.toutiao.com/trending/7625327912442642468/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时17分"
         },
         {
           "title": "伊朗战争升级，贝莱德印度ETF遭遇数十亿美元资金外流",
@@ -115,34 +212,6 @@
       ]
     },
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国家继续出手调控油价，国内成品油价格适当调整",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32916529",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "周二（4月7日）欧市尾盘，ICE英国天然气期货涨4.87%，报133.08便士/千卡。 TTF基准荷兰天然气期货涨4.72%，报52.400欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌0.08%，报70.61欧元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3083618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -154,8 +223,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时17分]"
         },
         {
           "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
@@ -165,8 +234,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时17分]"
         }
       ]
     },
