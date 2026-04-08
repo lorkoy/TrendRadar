@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-09T06:53:34.304303+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-04-09T07:50:20.241047+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
           "url": "https://wallstreetcn.com/articles/3769370",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 07时50分]"
         },
         {
           "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
@@ -30,15 +31,15 @@
           "time_info": "[01时16分 ~ 04时56分]"
         },
         {
-          "title": "现货黄金日内转跌，此前一度涨超3%，现报4700美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260409030549428800",
-          "source": "金十数据",
+          "title": "日经225指数期货在早盘交易中上涨0.43%。",
+          "url": "https://wallstreetcn.com/livenews/3084640",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时37分"
+          "time_info": "07时50分"
         },
         {
           "title": "油价再调整,新能源车主赢麻",
@@ -48,8 +49,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 07时50分]"
+        },
+        {
+          "title": "现货黄金日内转跌，此前一度涨超3%，现报4700美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260409030549428800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "美国白宫：特朗普总统发布公告，根据修订后的《平衡预算和紧急赤字控制法》，调整2027财年的自动减支机制。",
@@ -114,7 +126,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -147,7 +159,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -199,8 +211,22 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
+          "url": "https://www.cls.cn/detail/2338302",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 07时50分]"
+        },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
@@ -213,17 +239,15 @@
           "time_info": "[06时05分 ~ 06时53分]"
         },
         {
-          "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
-          "url": "https://www.cls.cn/detail/2338302",
-          "source": "财联社热门",
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 06时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
@@ -233,8 +257,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 07时50分]"
+        },
+        {
+          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
+          "url": "https://www.cls.cn/detail/2338535",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时50分]"
         },
         {
           "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
@@ -247,17 +283,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 06时05分]"
-        },
-        {
-          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
-          "url": "https://www.cls.cn/detail/2338535",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
         },
         {
           "title": "周三（4月8日），存储芯片与硬件供应链指数涨8.08%，报125.83点，跳空高开、迅速刷新日高至127.77点，美股开盘后90分钟内呈现出冲高回落走势。 信息科技指数涨4.61%，人工智能（AI）赢家指数涨4.96%；AI软件先驱指数跌1.04%。",
@@ -332,7 +357,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -357,12 +382,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "美股三大指数收涨超2%",
+          "url": "https://www.toutiao.com/trending/7626528667786579498/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "新兴市场ETF收涨约5.5%，领跑美股大类资产类ETF，布油基金跌约10.3%",
+          "url": "https://wallstreetcn.com/livenews/3084629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "两年期德债收益率重挫约23个基点，投资者关注油价大幅下跌",
@@ -376,15 +423,39 @@
           "time_info": "01时16分"
         },
         {
+          "title": "中信建投：若美股出现又一波下跌 建议积极增持",
+          "url": "https://wallstreetcn.com/livenews/3084639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
           "title": "澳大利亚国债价格下跌，10年期澳债收益率悉尼盘初涨7个基点。",
           "url": "https://wallstreetcn.com/livenews/3084620",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时50分]"
+        },
+        {
+          "title": "全球油价上涨 我国有4张牌为百姓兜底",
+          "url": "https://www.toutiao.com/trending/7626358752744050239/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 07时50分]"
         },
         {
           "title": "标普500指数的11个板块中，工业板块收涨3.75%，电信、原材料板块涨约3.4%，可选消费、信息技术/科技板块涨约2.8%，能源板块则收跌3.66%。",
@@ -393,17 +464,6 @@
           "ranks": [
             12,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 06时05分]"
-        },
-        {
-          "title": "全球油价上涨 我国有4张牌为百姓兜底",
-          "url": "https://www.toutiao.com/trending/7626358752744050239/",
-          "source": "今日头条",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -490,18 +550,30 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "破解地面算力“能耗焦虑”，太空算力产业生态提速构建",
           "url": "https://www.cls.cn/detail/2338372",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 07时50分]"
+        },
+        {
+          "title": "河南三地曝出巨额数据造假，舞阳 77 亿省外资金全靠编，暴露了哪些问题？怎么才能根治这种乱象？",
+          "url": "https://www.zhihu.com/question/2025331901515259928",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "【数据看盘】近14亿元资金买入蓝色光标 多家机构联手外资抢筹香农芯创",
@@ -592,6 +664,18 @@
           "time_info": "01时16分"
         },
         {
+          "title": "日本考虑就确保石油供应问题支持亚洲“本土”企业。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3084605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时50分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨3.05%，报6876.97点。 热门中概股里，小马智行初步收涨10.7%，美团涨超9%，金山云、老虎证券涨超7%，亚朵、万国数据、B站涨超5%，阿里巴巴涨4.6%，文远知行、蔚来、小米、拼多多涨超4%，腾讯涨3.7%。 ETF中，中国科技指数ETF（CQQQ）收涨5.94%，中概互联网指数ETF（KWEB）收涨3.71%。 沪深300 2X做多涨8.15%，MSCI新兴市场ex中国ETF涨6.09%，XtrackersHarvest中证50（ASHS）收涨5.57%，德银嘉实沪深300指数ETF（ASHR）收涨4.07%。",
           "url": "https://wallstreetcn.com/livenews/3084558",
           "source": "华尔街见闻-快讯",
@@ -603,24 +687,13 @@
           "time_info": "04时56分"
         },
         {
-          "title": "日本考虑就确保石油供应问题支持亚洲“本土”企业。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3084605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加67.58吨，当前持仓量为15332.07吨。欢迎点击查看数据中心...",
           "url": "https://flash.jin10.com/detail/20260409054818249800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         }
@@ -637,11 +710,24 @@
           "ranks": [
             5,
             1,
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时50分]"
+        },
+        {
+          "title": "CIPS单日交易量破万亿元，人民币国际支付角色加速强化",
+          "url": "https://wallstreetcn.com/livenews/3084606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时50分]"
         },
         {
           "title": "离岸人民币一度涨至6.82元",
@@ -653,17 +739,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
-        },
-        {
-          "title": "CIPS单日交易量破万亿元，人民币国际支付角色加速强化",
-          "url": "https://wallstreetcn.com/livenews/3084606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
         }
       ]
     },
