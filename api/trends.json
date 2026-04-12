@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T06:45:52.863575+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-04-13T07:46:30.043653+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "周末要闻汇总：中央台办受权发布十项促进两岸交流合作的政策措施；主板ST股涨跌幅拟调整为10%",
@@ -15,113 +15,155 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时46分]"
+        },
+        {
+          "title": "美国10年期国债期货下跌10个点。",
+          "url": "https://flash.jin10.com/detail/20260413070411569800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "现货黄金向下触及4650美元/盎司，日内跌2.12%。",
           "url": "https://flash.jin10.com/detail/20260413062830084800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时46分]"
         },
         {
           "title": "现货白银日内大跌4.00%，现报72.72美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260413062344213800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时46分]"
         },
         {
           "title": "现货钯金跌破1500美元/盎司，日内跌1.77%。",
           "url": "https://flash.jin10.com/detail/20260413061029884800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时46分]"
         },
         {
           "title": "布伦特原油期货触及102.60美元/桶的高位。",
           "url": "https://flash.jin10.com/detail/20260413060415896800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时46分]"
         },
         {
           "title": "布伦特原油触及每桶102.60美元高位，美国原油期货触及105.25美元的日内高点。",
           "url": "https://wallstreetcn.com/livenews/3086499",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时46分]"
         },
         {
           "title": "国际油价开盘跳涨，美股期货跌超1%",
           "url": "https://wallstreetcn.com/livenews/3086498",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时46分]"
         },
         {
           "title": "美股三大股指期货周一低开超1%。",
           "url": "https://flash.jin10.com/detail/20260413060153001800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时46分]"
         },
         {
           "title": "现货金银低开 黄金跌破4700",
           "url": "https://flash.jin10.com/detail/20260413060138544800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时46分]"
         },
         {
           "title": "欧洲天然气期货价格在美伊谈判未达成协议后上涨17%。",
           "url": "https://flash.jin10.com/detail/20260413055350101800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时46分]"
+        },
+        {
+          "title": "欧洲天然气期货一度飙升18% 供需恐慌再起",
+          "url": "https://flash.jin10.com/detail/20260413065728573800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "07时46分"
+        },
+        {
+          "title": "A股交易将迎重要调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BA%A4%E6%98%93%E5%B0%86%E8%BF%8E%E9%87%8D%E8%A6%81%E8%B0%83%E6%95%B4%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "央视曝光AI“造黄”产业链",
@@ -131,8 +173,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时46分]"
         },
         {
           "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
@@ -142,8 +184,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时46分]"
         },
         {
           "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
@@ -153,8 +195,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时46分]"
         },
         {
           "title": "美伊谈判破裂的三大症结：霍尔木兹、浓缩铀和百亿冻结资金",
@@ -165,8 +207,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时46分]"
         },
         {
           "title": "四川省昭觉县、湖北省文化和旅游厅及湖北艺术职业学院政绩观存在偏差、不顾实际使用财政资金问题被公开通报。（新华社）",
@@ -217,23 +259,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时44分]"
+        },
+        {
+          "title": "需求攀升叠加成本上涨 PCB上游覆铜板再现涨价潮 产业链抢滩高端CCL",
+          "url": "https://www.cls.cn/detail/2341583",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "圆桌｜供应链波动致使新款车型浪费数亿元，成本持续上涨将传导至终端",
           "url": "https://m.thepaper.cn/newsDetail_forward_32952034",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时46分]"
+        },
+        {
+          "title": "美元指数走高之际，非美货币普跌，欧元兑美元下跌0.49%，报1.1666；英镑兑美元下跌0.47%，报1.3396；澳元兑美元下跌0.76%，报0.7016；纽元兑美元下跌0.7%，报0.5799。",
+          "url": "https://wallstreetcn.com/livenews/3086520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。 原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。 坦率来说，汽油价格涨势并没有我（原来）想象的那么多。 （美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常大。",
@@ -253,11 +318,12 @@
           "url": "https://www.cls.cn/detail/2341569",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时46分]"
         }
       ]
     },
@@ -274,8 +340,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时46分]"
         }
       ]
     }
