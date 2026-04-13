@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T05:56:44.056689+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-04-14T06:55:33.554578+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "用“成绩”说话！A股“优等生交卷”，一批个股净利增超10倍",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时55分]"
         },
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时55分]"
         },
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -43,15 +43,19 @@
           "time_info": "[00时20分 ~ 04时11分]"
         },
         {
-          "title": "美元指数13日下跌",
-          "url": "https://flash.jin10.com/detail/20260414054917692800",
-          "source": "金十数据",
+          "title": "佛山莫氏鸡煲改用温氏土鸡，刺激公司市值上涨超 9 亿元，对此怎么看？温氏该如何接住这「泼天富贵」？",
+          "url": "https://www.zhihu.com/question/2025170750387103065",
+          "source": "知乎",
           "ranks": [
-            1
+            16,
+            15,
+            14,
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时55分]"
         },
         {
           "title": "智利国家铜业公司董事长：公司在价格上涨前已为2026年运营锁定硫酸采购。",
@@ -65,18 +69,16 @@
           "time_info": "02时10分"
         },
         {
-          "title": "佛山莫氏鸡煲改用温氏土鸡，刺激公司市值上涨超 9 亿元，对此怎么看？温氏该如何接住这「泼天富贵」？",
-          "url": "https://www.zhihu.com/question/2025170750387103065",
-          "source": "知乎",
+          "title": "美元指数13日下跌",
+          "url": "https://flash.jin10.com/detail/20260414054917692800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            15,
-            14,
-            9
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时56分]"
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时55分]"
         },
         {
           "title": "标普500指数的11个板块普遍收涨，金融板块收涨1.73%，信息技术/科技板块涨1.72%，可选消费、电信板块涨约0.8%，能源板块涨0.33%，日用消费品、公用事业板块则收跌超1%。",
@@ -125,6 +127,17 @@
           "time_info": "04时11分"
         },
         {
+          "title": "国际油价13日上涨",
+          "url": "https://flash.jin10.com/detail/20260414061551694800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
           "title": "德国DAX30指数4月13日（周一）收盘下跌124.97点，跌幅0.52%，报23730.22点；<br/>英国富时100指数4月13日（周一）收盘下跌21.66点，跌幅0.20%，报10578.87点；<br/>法国CAC40指数4月13日（周一）收盘下跌23.62点，跌幅0.29%，报8235.98点；<br/>欧洲斯托克50指数4月13日（周一）收盘下跌20.11点，跌幅0.34%，报5906.00点；<br/>西班牙IBEX35指数4月13日（周一）收盘下跌180.14点，跌幅0.99%，报18024.16点；<br/>意大利富时MIB指数4月13日（周一）收盘下跌64.86点，跌幅0.14%，报47544.50点。",
           "url": "https://flash.jin10.com/detail/20260413233758381800",
           "source": "金十数据",
@@ -136,13 +149,24 @@
           "time_info": "00时20分"
         },
         {
+          "title": "澳洲联储副主席Hauser：对澳大利亚而言，能源价格上涨是一个重大的收入冲击。 央行的噩梦就是通胀上扬、经济活动下滑。 对于某些国家而言，财政主导型可能会成为一个问题。 不希望中期通胀预期上扬。 能源价格对经济活动的影响是一个重大问题。",
+          "url": "https://wallstreetcn.com/livenews/3087196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
           "title": "美国能源部长Wright：美国能源价格可能会上涨，直至霍尔木兹海峡的船只通行量“实质性地”恢复。 预计“未来几周”将发生这样的事。 委内瑞拉石油产量超过120万桶/日，三个月增长了25%。 1月3日以来，销售了1.5亿桶委内瑞拉石油。",
           "url": "https://wallstreetcn.com/livenews/3087158",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -153,7 +177,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -194,8 +218,19 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "【伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实】据伊朗塔斯尼姆通讯社14日报道，美国总统特朗普关于霍尔木兹海峡通航情况的说法与实际情况不符。 报道称，根据部分现场信息及非官方分析显示，该海域通航仍受到明显限制。受地区安全形势影响，船只通行量下降，一些航运企业由于风险上升已考虑调整航线。分析认为，特朗普相关说法更应被视为服务于舆论和政治需要的表述，未能准确反映实际情况。 特朗普13日在社交媒体上发文称，前一天，有34艘船只通过了霍尔木兹海峡，这是近段时间以来单日最高通行船只数量。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3087202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
         {
           "title": "NYMEX天然气期货跌幅扩大至0.5%，报2.615美元/百万英热单位，创2024年11月份以来盘中新低，受到北美天气偏暖、需求低迷的影响。",
           "url": "https://wallstreetcn.com/livenews/3087103",
@@ -214,7 +249,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -225,7 +260,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -236,7 +271,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -261,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "WTI原油周二开盘持稳，美股股指期货微涨，现货黄金小幅高开。",
+          "url": "https://flash.jin10.com/detail/20260414060118981800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "现货黄金一度突破4750美元/盎司，日内涨0.02%。",
@@ -332,8 +378,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时55分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -344,8 +390,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时55分]"
         },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -353,11 +399,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时55分]"
         },
         {
           "title": "【每日收评】创业板指4连阳续创阶段新高，算力硬件、锂电产业链反复活跃",
@@ -365,11 +412,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时09分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 06时55分]"
         },
         {
           "title": "为什么美国汽车产业和航空产业持续强大，但是造船业简直一烂百年？",
@@ -377,11 +425,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 06时55分]"
         },
         {
           "title": "土耳其央行发布行长Karahan的报告：经济活动正在放缓。 外汇储备“比以往那些资金外流时期都更强大”。",
@@ -398,7 +447,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "贝莱德恢复超配美股观点 认为伊朗战争冲击可控",
@@ -410,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "美国航空公司（AAL）美股盘后涨10%。",
+          "url": "https://wallstreetcn.com/livenews/3087205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "戴尔科技美股盘后跌3%，惠普（HPQ）跌3%，英伟达否认媒体的收购传闻。",
@@ -424,15 +484,65 @@
           "time_info": "[04时11分 ~ 05时56分]"
         },
         {
+          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
+          "url": "https://www.cls.cn/detail/2342867",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
           "title": "周一（4月13日），美股行业ETF普遍收涨，网络股指数ETF收涨2.38%，科技行业ETF涨2.10%，全球科技股指数ETF涨1.90%，金融业ETF涨1.71%，半导体ETF涨1.48%，银行业ETF涨0.83%，区域银行ETF涨0.65%，日常消费品ETF、公用事业ETF至多跌1.21%。",
           "url": "https://wallstreetcn.com/livenews/3087154",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少19.71吨，当前持仓量为15271.53吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260414062740663800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.72%，报6855.75点。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，中国科技指数ETF（CQQQ）收涨1.13%，中概互联网指数ETF（KWEB）收涨0.07%。 德银嘉实沪深300指数ETF（ASHR）收涨1.01%，XtrackersHarvest中证50（ASHS）收涨0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3087145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "阿克曼为Pershing Square USA的IPO启动路演，预计将于4月28日定价",
+          "url": "https://wallstreetcn.com/livenews/3087083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时10分"
         }
       ]
     },
@@ -458,7 +568,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -476,34 +586,6 @@
       ]
     },
     {
-      "keyword_group": "SZ SH HK",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数收涨0.72%，报6855.75点。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，中国科技指数ETF（CQQQ）收涨1.13%，中概互联网指数ETF（KWEB）收涨0.07%。 德银嘉实沪深300指数ETF（ASHR）收涨1.01%，XtrackersHarvest中证50（ASHS）收涨0.70%。",
-          "url": "https://wallstreetcn.com/livenews/3087145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "阿克曼为Pershing Square USA的IPO启动路演，预计将于4月28日定价",
-          "url": "https://wallstreetcn.com/livenews/3087083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 2,
       "titles": [
@@ -514,7 +596,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
