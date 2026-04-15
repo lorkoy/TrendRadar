@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T18:56:03.782901+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2026-04-15T20:02:24.208642+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -75,6 +75,18 @@
           "time_info": "04时12分"
         },
         {
+          "title": "通胀全面低于预期！美国3月PPI同比上涨4%，创三年最高纪录，环比涨幅收窄至0.5%",
+          "url": "https://wallstreetcn.com/articles/3769945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 20时02分]"
+        },
+        {
           "title": "交易员嗅到伊朗战争“基调变化”，为美国国债上涨布局",
           "url": "https://wallstreetcn.com/livenews/3088020",
           "source": "华尔街见闻-快讯",
@@ -99,17 +111,6 @@
           "time_info": "[06时58分 ~ 07时55分]"
         },
         {
-          "title": "通胀全面低于预期！美国3月PPI同比上涨4%，创三年最高纪录，环比涨幅收窄至0.5%",
-          "url": "https://wallstreetcn.com/articles/3769945",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时55分 ~ 18时56分]"
-        },
-        {
           "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
           "url": "https://www.cls.cn/detail/2344176",
           "source": "财联社热门",
@@ -126,11 +127,12 @@
           "url": "https://www.cls.cn/detail/2344899",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 20时02分]"
         },
         {
           "title": "隔夜SHIBOR报1.2210%，下降0.20个基点。 7天SHIBOR报1.3670%，上涨0.70个基点。 3个月SHIBOR报1.4615%，下降0.20个基点。",
@@ -342,6 +344,17 @@
           "time_info": "14时07分"
         },
         {
+          "title": "摩根士丹利(MS.N)盘前股价扩大涨幅，一度上涨2.5%，触及日内高点。",
+          "url": "https://flash.jin10.com/detail/20260415193823460800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "台湾加权指数4月15日（周三）收盘上涨426.02点，涨幅1.17%，报36722.14点。",
           "url": "https://flash.jin10.com/detail/20260415133546754800",
           "source": "金十数据",
@@ -378,7 +391,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "【数据看盘】北向资金联手游资抢筹PCB人气股 机构狂买长源东谷",
@@ -438,11 +451,12 @@
           "url": "https://www.cls.cn/detail/2344890",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 20时02分]"
         },
         {
           "title": "G-24主席：至关重要的是要避免重返普遍性补贴，并防止重蹈未能证明行之有效的政策覆辙。",
@@ -524,15 +538,40 @@
           "time_info": "[06时58分 ~ 07时55分]"
         },
         {
+          "title": "【焦点复盘】创指创10年新高后跳水翻绿，算力产业链现高低切，商业航天概念活跃依旧",
+          "url": "https://www.cls.cn/detail/2344971",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 20时02分]"
+        },
+        {
           "title": "“大胆推进机制创新”！国家能源局加快培育氢能未来产业",
           "url": "https://www.cls.cn/detail/2344596",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 20时02分]"
+        },
+        {
+          "title": "【数据看盘】多路资金联手抢筹汉缆股份 顶级游资出逃锂电股",
+          "url": "https://www.cls.cn/detail/2345004",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 20时02分]"
         },
         {
           "title": "南非1型口蹄疫扰动畜牧业产业链",
@@ -559,17 +598,6 @@
           "time_info": "[06时58分 ~ 07时55分]"
         },
         {
-          "title": "【焦点复盘】创指创10年新高后跳水翻绿，算力产业链现高低切，商业航天概念活跃依旧",
-          "url": "https://www.cls.cn/detail/2344971",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
-        },
-        {
           "title": "一季度A股IPO市场“量质齐升”，未来产业踊跃“报考”",
           "url": "https://wallstreetcn.com/livenews/3088010",
           "source": "华尔街见闻-快讯",
@@ -580,17 +608,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时55分]"
-        },
-        {
-          "title": "【数据看盘】多路资金联手抢筹汉缆股份 顶级游资出逃锂电股",
-          "url": "https://www.cls.cn/detail/2345004",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
         },
         {
           "title": "英伟达推出面向量子计算的AI模型 全球量子科技产业加速发展",
@@ -692,13 +709,24 @@
           "time_info": "02时13分"
         },
         {
+          "title": "今日沪市A股主力资金增仓前十",
+          "url": "https://www.toutiao.com/trending/7628052574885789746/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "广州推出优化营商环境三十条 将设400亿基金支持关键产业",
           "url": "https://wallstreetcn.com/livenews/3088393",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
@@ -706,7 +734,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "国际油价短线走低，WTI原油期货一度跌至87美元下方，此前特朗普称他认为战争非常接近结束。",
@@ -737,7 +765,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -795,7 +823,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -809,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20260415194330164800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "芝加哥小麦期货涨超1.8%",
@@ -877,6 +916,17 @@
           "time_info": "02时13分"
         },
         {
+          "title": "沙特公共投资基金总裁：毫无疑问，地区战争加大了重新调整某些优先事项的压力。",
+          "url": "https://flash.jin10.com/detail/20260415194016597800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "油气股震荡调整，美能能源触及跌停，潜能恒信、蓝焰控股、首华燃气、洲际油气、中曼石油跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3088115",
           "source": "华尔街见闻-快讯",
@@ -894,7 +944,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -905,9 +955,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "外资机构席位·期货品种持仓一览（4月15日）",
+          "url": "https://flash.jin10.com/detail/20260415193541643800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "WTI 5月原油期货收跌7.80美元，跌幅7.87%，报91.28美元/桶。 布伦特6月原油期货收跌4.57美元，跌幅4.60%，报94.79美元/桶。 中东Abu Dhabi Murban原油期货跌2.45%，报100.80美元/桶。 NYMEX 5月天然气期货收报2.599美元/百万英热单位。 NYMEX 5月汽油期货收报3.0395美元/加仑，NYMEX 5月取暖油期货收报3.6243美元/加仑。",
@@ -935,7 +996,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美伊交涉现进展，标普收复冲突以来跌幅，人民币三年新高，油价冲高回落",
@@ -969,8 +1030,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时55分 ~ 18时56分]"
+          "appearance_count": 8,
+          "time_info": "[07时55分 ~ 20时02分]"
         },
         {
           "title": "人民币汇率为何持续升值",
@@ -978,11 +1039,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 18时56分]"
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 20时02分]"
+        },
+        {
+          "title": "宁德时代：每10股派发现金分红人民币69.57元",
+          "url": "https://flash.jin10.com/detail/20260415195032628800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "国家外汇管理局：3月银行结汇18889亿元人民币，售汇17786亿元人民币",
@@ -1013,9 +1086,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "中远海能：公司及下属全资子公司海南海能（作为买方）拟分别与启东海工（作为卖方）签订两艘巴拿马型原油轮的建造合同，合同船价（含税）总额为人民币10.18亿元。",
+          "url": "https://wallstreetcn.com/livenews/3088465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8156元，较周一夜盘收盘涨144点。成交量446.54亿美元。",
@@ -1043,7 +1127,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -1054,8 +1138,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时32分 ~ 18时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时32分 ~ 20时02分]"
         },
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -1115,6 +1199,17 @@
           "time_info": "07时55分"
         },
         {
+          "title": "美军大举增兵中东，美股期指跌幅扩大，黄金失守4790美元，布油涨超2%",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "阿斯麦美股夜盘一度跌超2%，美光科技夜盘跌1.7%，台积电夜盘涨幅收窄至0.4%，阿斯麦上调全年销售指引，但Q2展望略逊于预期。",
           "url": "https://wallstreetcn.com/livenews/3088207",
           "source": "华尔街见闻-快讯",
@@ -1124,6 +1219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "摩根士丹利第一季度净利息收入27.0亿美元，预估26.7亿美元。 第一季度净营收205.8亿美元，预估197.1亿美元。 第一财季股票交易收入51.5亿美元，预期47.8亿美元。 第一财季固定收益、外汇和大宗商品业务销售和交易营收33.6亿美元，预估28.9亿美元。 摩根士丹利美股盘前涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3088477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "博通美股盘前涨2.9%，公司与Meta延长定制芯片合作协议。",
