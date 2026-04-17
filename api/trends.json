@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T14:10:41.181650+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-04-17T16:50:41.883035+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "3月70城房价：一线城市房价环比上涨，二三线城市环比降幅收窄或相同，上海新房同比涨3.7%",
@@ -50,7 +50,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -61,7 +61,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -142,7 +142,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -186,7 +186,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -208,9 +208,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "在岸人民币兑美元4月17日16:30收盘报6.8263，较上一交易日下跌66点。",
+          "url": "https://flash.jin10.com/detail/20260417163155915800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "A股工业母机板块午后拉升，欧科亿盘中创新高，博杰股份涨停，创世纪、凯格精机涨超10%，嵘泰股份、纽威数控、沃尔德、亚威股份跟涨。",
@@ -219,7 +230,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -230,7 +241,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -241,7 +252,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -277,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "港股收盘，恒生指数收跌0.89%，恒生科技指数收跌0.97%。群核科技上市首日涨144%，长光辰芯涨超75%。光通信板块走强，剑桥科技涨近35%，汇聚科技涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3089904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "欧洲央行管委Dolenc：能源价格下跌可能让加息变得没必要。 欧洲现在更加接近央行基准假设，而不是接近假设的糟糕场景。（彭博）",
@@ -318,7 +340,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -359,7 +381,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "WTI原油5分钟内上涨0.53美元/桶，报94.44美元/桶；布伦特原油期货日内涨超4美元。报道称，美国需要大约半年时间才能与伊朗达成协议。",
@@ -407,6 +429,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时54分]"
+        },
+        {
+          "title": "多地调整中考计分方式，降低考试难度，这是否更有利于培养学生的创新精神和实践能力？会造成初高中脱节吗？",
+          "url": "https://www.zhihu.com/question/2028049419249939698",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 16时50分]"
         },
         {
           "title": "恒指期货夜盘收跌0.46%，报26229点，低水165点。",
@@ -481,7 +514,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -492,18 +525,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "多地调整中考计分方式，降低考试难度，这是否更有利于培养学生的创新精神和实践能力？会造成初高中脱节吗？",
-          "url": "https://www.zhihu.com/question/2028049419249939698",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -517,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "中金所：增加5年期国债期货合约可交割国债",
+          "url": "https://flash.jin10.com/detail/20260417162237031800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "芝加哥小麦期货涨约1.1%，大豆油张约2.5%",
@@ -555,7 +588,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "乌克兰濒临破产，目前可用资金仅够维持数月，为什么会这样？国家破产将会对乌克兰造成怎样的打击？",
@@ -567,11 +600,12 @@
             4,
             3,
             2,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时25分 ~ 14时10分]"
+          "appearance_count": 10,
+          "time_info": "[01时25分 ~ 16时50分]"
         },
         {
           "title": "欧洲央行管委Nagel：在4月会议前应保持政策选项开放",
@@ -731,13 +765,24 @@
           "time_info": "01时25分"
         },
         {
+          "title": "金十图示：2026年04月17日（周五）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20260417161527917800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "南向资金净买额达60亿元。",
           "url": "https://flash.jin10.com/detail/20260417131730204800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -756,8 +801,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
+          "url": "https://www.cls.cn/detail/2346842",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 16时50分]"
+        },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
           "url": "https://wallstreetcn.com/articles/3770123",
@@ -772,19 +830,6 @@
           "time_info": "[01时25分 ~ 14时10分]"
         },
         {
-          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
-          "url": "https://www.cls.cn/detail/2346842",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 14时10分]"
-        },
-        {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
@@ -792,8 +837,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 16时50分]"
         },
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -885,9 +930,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "瑞银：投资者将把关注点从中东问题转移到经济和盈利基本面 美股仍具吸引力",
+          "url": "https://flash.jin10.com/detail/20260417162447835800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -943,6 +999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "奈飞美股盘前跌近10%，Q1业绩超预期增长但指引逊色，公司董事长将离任。",
+          "url": "https://wallstreetcn.com/livenews/3089899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     },
@@ -1053,9 +1120,49 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周四（4月16日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8229元，较周三纽约尾盘跌48点，日内整体交投于6.8130-6.8270元区间。",
+          "url": "https://wallstreetcn.com/livenews/3089584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8230元，较周三夜盘收盘跌42点。成交量332.96亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3089542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时40分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8263，较上一交易日官方收盘价跌66点，较上日夜盘收盘跌33点。",
+          "url": "https://wallstreetcn.com/livenews/3089926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     },
@@ -1095,35 +1202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周四（4月16日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8229元，较周三纽约尾盘跌48点，日内整体交投于6.8130-6.8270元区间。",
-          "url": "https://wallstreetcn.com/livenews/3089584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时54分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8230元，较周三夜盘收盘跌42点。成交量332.96亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3089542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时40分"
         }
       ]
     }
