@@ -1,50 +1,11 @@
 {
-  "generated_at": "2026-04-21T00:18:28.360833+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-21T02:04:32.808905+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.3%，报389.97点。 在十个板块中，北欧工业板块跌幅最大。 Metso Oyj跌3.6%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3091247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "德国DAX30指数4月20日（周一）收盘下跌285.94点，跌幅1.16%，报24413.00点；<br/>英国富时100指数4月20日（周一）收盘下跌64.88点，跌幅0.61%，报10602.75点；<br/>法国CAC40指数4月20日（周一）收盘下跌94.08点，跌幅1.12%，报8331.05点；<br/>欧洲斯托克50指数4月20日（周一）收盘下跌79.21点，跌幅1.31%，报5978.50点；<br/>西班牙IBEX35指数4月20日（周一）收盘下跌240.72点，跌幅1.30%，报18243.78点；<br/>意大利富时MIB指数4月20日（周一）收盘下跌666.93点，跌幅1.36%，报48202.50点。",
-          "url": "https://flash.jin10.com/detail/20260420233824483800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "阿联酋Fertiglobe：处于高位的氮肥价格可能进一步上涨",
-          "url": "https://wallstreetcn.com/livenews/3091235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "据Politico：沃什表示，政府评论不会威胁到美联储政策。",
@@ -67,6 +28,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "究竟｜冲锋衣含有PFAS到底是指什么？有哪些风险？户外产业现状如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33010620",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "美联储主席提名人沃什将在听证会开场白时向参议员们承诺，FOMC将在利率方面保持严格的央行独立性，但美联储必须“各司其职（不越位）”。 沃什将称，央行应当聆听不同的意见。 沃什将表示，在价格稳定性这个职责方面没有借口（不容推诿）。 美国政府的论调不会威胁到美联储的政策。（Politico，CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3091249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.3%，报389.97点。 在十个板块中，北欧工业板块跌幅最大。 Metso Oyj跌3.6%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3091247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "德国DAX30指数4月20日（周一）收盘下跌285.94点，跌幅1.16%，报24413.00点；<br/>英国富时100指数4月20日（周一）收盘下跌64.88点，跌幅0.61%，报10602.75点；<br/>法国CAC40指数4月20日（周一）收盘下跌94.08点，跌幅1.12%，报8331.05点；<br/>欧洲斯托克50指数4月20日（周一）收盘下跌79.21点，跌幅1.31%，报5978.50点；<br/>西班牙IBEX35指数4月20日（周一）收盘下跌240.72点，跌幅1.30%，报18243.78点；<br/>意大利富时MIB指数4月20日（周一）收盘下跌666.93点，跌幅1.36%，报48202.50点。",
+          "url": "https://flash.jin10.com/detail/20260420233824483800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
+          "url": "https://wallstreetcn.com/livenews/3091262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "阿联酋Fertiglobe：处于高位的氮肥价格可能进一步上涨",
+          "url": "https://wallstreetcn.com/livenews/3091235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     },
@@ -82,8 +116,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -93,8 +127,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
         }
       ]
     },
@@ -112,6 +146,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.04%，暂报2593点，延续上周六以来持续走低的表现。 MarketVectorTM数字资产100中盘指数涨0.23%，报2831.63点，最近三天累跌6.36%。 MarketVector数字资产100指数跌0.12%，报14974.80点。 目前，Solana涨0.03%，狗狗币持平，XRP持平。 比特币涨0.49%，暂报75365美元；以太坊涨0.07%，暂报2301.41美元。",
+          "url": "https://wallstreetcn.com/livenews/3091266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         }
       ]
     }
