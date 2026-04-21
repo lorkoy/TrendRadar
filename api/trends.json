@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-21T07:54:47.893697+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-04-21T11:36:53.922150+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "4月21日午间收评：创业板指半日跌近1%，算力产业链集体调整",
+          "url": "https://wallstreetcn.com/livenews/3091507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
         {
           "title": "金十数据整理：每日期货市场要闻速递（2026-04-21）",
           "url": "https://flash.jin10.com/detail/20260421074211301800",
@@ -14,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -61,9 +72,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260421112244083800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "芝加哥小麦期货涨超0.9%，大豆油涨约2.1%，豆粕跌超1.8%",
@@ -88,6 +110,28 @@
           "time_info": "04时04分"
         },
         {
+          "title": "现货白银日内跌1美元，现报78.72美元/盎司，跌幅1.26%。",
+          "url": "https://flash.jin10.com/detail/20260421112203883800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "现货黄金跌破4800美元/盎司，日内跌0.43%。",
+          "url": "https://flash.jin10.com/detail/20260421111934342800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "WTI 5月原油期货收涨5.76美元，涨幅6.87%，报89.61美元/桶。 布伦特6月原油期货收涨5.10美元，涨幅5.64%，报95.48美元/桶。 中东Abu Dhabi Murban原油期货跌0.13%，报91.58美元/桶，北京时间16:28曾达到94.41美元。 NYMEX 5月天然气期货收报2.6890美元/百万英热单位。 NYMEX 5月汽油期货收报3.1168美元/加仑，NYMEX 5月取暖油期货收报3.5409美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3091290",
           "source": "华尔街见闻-快讯",
@@ -97,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "现货白银向下触及79美元/盎司，日内跌0.92%。",
+          "url": "https://flash.jin10.com/detail/20260421111112421800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "上期所原油期货2606合约夜盘收涨1.78%，报616.50元人民币/桶。 沪金夜盘收跌0.43%，沪银收跌1.41%。",
@@ -138,9 +193,295 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "四大一线城市房价全线上涨，这代表楼市回暖吗？这是入场的信号，还是短暂的市场反弹？",
+          "url": "https://www.zhihu.com/question/2028419848833708708",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时04分 ~ 07时54分]"
+        },
+        {
+          "title": "上证报：可转债“破面”频现，信用风险须警惕",
+          "url": "https://wallstreetcn.com/livenews/3091363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时54分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.3%，报389.97点。 在十个板块中，北欧工业板块跌幅最大。 Metso Oyj跌3.6%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3091247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "隔夜SHIBOR报1.2200%，下降0.10个基点。 7天SHIBOR报1.3310%，上涨0.30个基点。 3个月SHIBOR报1.4420%，下降0.70个基点。",
+          "url": "https://wallstreetcn.com/livenews/3091496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数上涨1.3%，东证指数上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3091485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报174750元/吨，较上日16:30价格下跌350元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3091484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "德国DAX30指数4月20日（周一）收盘下跌285.94点，跌幅1.16%，报24413.00点；<br/>英国富时100指数4月20日（周一）收盘下跌64.88点，跌幅0.61%，报10602.75点；<br/>法国CAC40指数4月20日（周一）收盘下跌94.08点，跌幅1.12%，报8331.05点；<br/>欧洲斯托克50指数4月20日（周一）收盘下跌79.21点，跌幅1.31%，报5978.50点；<br/>西班牙IBEX35指数4月20日（周一）收盘下跌240.72点，跌幅1.30%，报18243.78点；<br/>意大利富时MIB指数4月20日（周一）收盘下跌666.93点，跌幅1.36%，报48202.50点。",
+          "url": "https://flash.jin10.com/detail/20260420233824483800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "新西兰NZIER：净43%的受访企业预计价格将在二季度上涨。",
+          "url": "https://wallstreetcn.com/livenews/3091351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
+          "url": "https://wallstreetcn.com/livenews/3091262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月20日（周一）晚盘收盘下跌0.0%报1055.95元/克；<br/>上海黄金交易所白银T+D 4月20日（周一）晚盘收盘下跌0.33%报19907.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260421023116950800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "阿联酋Fertiglobe：处于高位的氮肥价格可能进一步上涨",
+          "url": "https://wallstreetcn.com/livenews/3091235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "标普500指数的11个板块中，涨跌各异，电信板块收跌1.41%，保健板块跌超0.9%，可选消费板块跌超0.6%，信息技术/科技板块大致收平，能源、房地产、金融板块至多涨超0.3%，原材料板块涨超0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3091318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "隔夜shibor报1.2200%，下跌0.1个基点；7天shibor报1.3310%，上涨0.3个基点；3个月shibor报1.4420%，下跌0.7个基点。点击查看>>",
+          "url": "https://flash.jin10.com/detail/20260421110138195800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "究竟｜冲锋衣含有PFAS到底是指什么？有哪些风险？户外产业现状如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33010620",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时04分 ~ 11时36分]"
+        },
+        {
+          "title": "据Politico：沃什表示，政府评论不会威胁到美联储政策。",
+          "url": "https://flash.jin10.com/detail/20260420235002880800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "从“政策松绑”到“主动提升”，险资积极增配权益资产",
+          "url": "https://wallstreetcn.com/livenews/3091359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时54分]"
+        },
+        {
+          "title": "毛焦尔称将尽快推动解冻匈牙利的欧盟资金",
+          "url": "https://flash.jin10.com/detail/20260421062204009800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时54分]"
+        },
+        {
+          "title": "美联储主席提名人沃什将在听证会开场白时向参议员们承诺，FOMC将在利率方面保持严格的央行独立性。 沃什将称，央行应当聆听不同的意见。 沃什将表示，在价格稳定性这个职责方面没有借口（不容推诿）。 美国政府的论调不会威胁到美联储的政策。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3091249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "沃什提名听证会讲稿曝光，承诺货币政策严格独立，称美联储独立性主要取决于自身（附全文）",
+          "url": "https://wallstreetcn.com/articles/3770430",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "工信部回应存储器价格上涨情况：将多措并举保障产业链供应链稳定",
+          "url": "https://wallstreetcn.com/livenews/3091487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "苹果(AAPL.O)：作为执行董事长，库克将协助公司处理某些事务，包括与全球政策制定者的互动。",
+          "url": "https://flash.jin10.com/detail/20260421043856233800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "工信部：正在开展算电协同政策研究和标准制定",
+          "url": "https://wallstreetcn.com/livenews/3091470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "特朗普在美国中期选举前已囤积5.5亿美元竞选资金",
+          "url": "https://wallstreetcn.com/livenews/3091468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "美联储主席提名人沃什将在听证会开场白时向参议员们承诺，FOMC将在利率方面保持严格的央行独立性，但美联储必须“各司其职（不越位）”。 沃什将称，央行应当聆听不同的意见。 沃什将表示，在价格稳定性这个职责方面没有借口（不容推诿）。 美国政府的论调不会威胁到美联储的政策。（Politico，CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3091249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         }
       ]
     },
@@ -157,8 +498,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时56分 ~ 07时54分]"
+          "appearance_count": 5,
+          "time_info": "[05时56分 ~ 11时36分]"
         },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -170,6 +511,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 04时04分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
+          "url": "https://www.cls.cn/detail/2350040",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时55分 ~ 11时36分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -184,18 +538,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 07时54分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
-          "url": "https://www.cls.cn/detail/2350040",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 07时54分]"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
@@ -281,203 +623,6 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "四大一线城市房价全线上涨，这代表楼市回暖吗？这是入场的信号，还是短暂的市场反弹？",
-          "url": "https://www.zhihu.com/question/2028419848833708708",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时04分 ~ 07时54分]"
-        },
-        {
-          "title": "上证报：可转债“破面”频现，信用风险须警惕",
-          "url": "https://wallstreetcn.com/livenews/3091363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时54分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.3%，报389.97点。 在十个板块中，北欧工业板块跌幅最大。 Metso Oyj跌3.6%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3091247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
-        },
-        {
-          "title": "德国DAX30指数4月20日（周一）收盘下跌285.94点，跌幅1.16%，报24413.00点；<br/>英国富时100指数4月20日（周一）收盘下跌64.88点，跌幅0.61%，报10602.75点；<br/>法国CAC40指数4月20日（周一）收盘下跌94.08点，跌幅1.12%，报8331.05点；<br/>欧洲斯托克50指数4月20日（周一）收盘下跌79.21点，跌幅1.31%，报5978.50点；<br/>西班牙IBEX35指数4月20日（周一）收盘下跌240.72点，跌幅1.30%，报18243.78点；<br/>意大利富时MIB指数4月20日（周一）收盘下跌666.93点，跌幅1.36%，报48202.50点。",
-          "url": "https://flash.jin10.com/detail/20260420233824483800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "新西兰NZIER：净43%的受访企业预计价格将在二季度上涨。",
-          "url": "https://wallstreetcn.com/livenews/3091351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
-          "url": "https://wallstreetcn.com/livenews/3091262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 4月20日（周一）晚盘收盘下跌0.0%报1055.95元/克；<br/>上海黄金交易所白银T+D 4月20日（周一）晚盘收盘下跌0.33%报19907.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260421023116950800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "阿联酋Fertiglobe：处于高位的氮肥价格可能进一步上涨",
-          "url": "https://wallstreetcn.com/livenews/3091235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "标普500指数的11个板块中，涨跌各异，电信板块收跌1.41%，保健板块跌超0.9%，可选消费板块跌超0.6%，信息技术/科技板块大致收平，能源、房地产、金融板块至多涨超0.3%，原材料板块涨超0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3091318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "究竟｜冲锋衣含有PFAS到底是指什么？有哪些风险？户外产业现状如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33010620",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时04分 ~ 07时54分]"
-        },
-        {
-          "title": "据Politico：沃什表示，政府评论不会威胁到美联储政策。",
-          "url": "https://flash.jin10.com/detail/20260420235002880800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "从“政策松绑”到“主动提升”，险资积极增配权益资产",
-          "url": "https://wallstreetcn.com/livenews/3091359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时54分]"
-        },
-        {
-          "title": "毛焦尔称将尽快推动解冻匈牙利的欧盟资金",
-          "url": "https://flash.jin10.com/detail/20260421062204009800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时54分]"
-        },
-        {
-          "title": "美联储主席提名人沃什将在听证会开场白时向参议员们承诺，FOMC将在利率方面保持严格的央行独立性。 沃什将称，央行应当聆听不同的意见。 沃什将表示，在价格稳定性这个职责方面没有借口（不容推诿）。 美国政府的论调不会威胁到美联储的政策。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3091249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "苹果(AAPL.O)：作为执行董事长，库克将协助公司处理某些事务，包括与全球政策制定者的互动。",
-          "url": "https://flash.jin10.com/detail/20260421043856233800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "美联储主席提名人沃什将在听证会开场白时向参议员们承诺，FOMC将在利率方面保持严格的央行独立性，但美联储必须“各司其职（不越位）”。 沃什将称，央行应当聆听不同的意见。 沃什将表示，在价格稳定性这个职责方面没有借口（不容推诿）。 美国政府的论调不会威胁到美联储的政策。（Politico，CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3091249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "SZ SH HK",
       "match_count": 3,
       "titles": [
@@ -518,6 +663,46 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周一（4月20日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8158元，较上周五纽约尾盘涨2点，日内整体交投于6.8283-6.8139元区间。",
+          "url": "https://wallstreetcn.com/livenews/3091335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时56分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8172元，较上周五夜盘收盘涨12点。成交量295.75亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3091296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "ESR联合两家国内险资设立16亿元专项人民币收益基金",
+          "url": "https://flash.jin10.com/detail/20260421111057338800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -553,35 +738,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周一（4月20日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8158元，较上周五纽约尾盘涨2点，日内整体交投于6.8283-6.8139元区间。",
-          "url": "https://wallstreetcn.com/livenews/3091335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时56分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8172元，较上周五夜盘收盘涨12点。成交量295.75亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3091296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
         }
       ]
     }
