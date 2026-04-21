@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-21T16:58:36.604285+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-04-21T18:26:50.560386+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "摩根大通上调标普500指数目标值，因人工智能板块涨势再度增强",
+          "url": "https://flash.jin10.com/detail/20260421180101344800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
         {
           "title": "英镑兑美元GBP/USD在英国数据公布后短暂上涨至1.355。",
           "url": "https://flash.jin10.com/detail/20260421140337001800",
@@ -45,6 +56,19 @@
           "time_info": "[06时56分 ~ 07时54分]"
         },
         {
+          "title": "石油价格上涨或导致维生素变贵",
+          "url": "https://www.douyin.com/hot/2473529",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 18时26分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.3%，报389.97点。 在十个板块中，北欧工业板块跌幅最大。 Metso Oyj跌3.6%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3091247",
           "source": "华尔街见闻-快讯",
@@ -55,18 +79,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 02时04分]"
-        },
-        {
-          "title": "石油价格上涨或导致维生素变贵",
-          "url": "https://www.douyin.com/hot/2473529",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 16时58分]"
         },
         {
           "title": "隔夜SHIBOR报1.2200%，下降0.10个基点。 7天SHIBOR报1.3310%，上涨0.30个基点。 3个月SHIBOR报1.4420%，下降0.70个基点。",
@@ -80,13 +92,24 @@
           "time_info": "11时36分"
         },
         {
+          "title": "伊朗谈判曙光提振全球股市，美股期指上涨，半导体股普涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
           "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -100,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "又见“大象”起舞！建行股价创历史新高，板块持续破净状态，这些标的股息率较高",
+          "url": "https://www.cls.cn/detail/2350766",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报174750元/吨，较上日16:30价格下跌350元/吨。",
@@ -141,7 +175,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -174,7 +208,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -237,7 +271,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "4月21日午间收评：创业板指半日跌近1%，算力产业链集体调整",
@@ -249,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "联合健康第一季度调整后每股收益为7.23美元，去年同期为7.20美元，市场预期为6.57美元。 预计全年调整后每股收益将超过18.25美元，此前预期为超过17.75美元，市场预期为17.83美元。 预计全年每股收益将超过17.35美元，此前预期为超过17.10美元。 联合健康美股盘前涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3091726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "金十数据整理：每日期货市场要闻速递（2026-04-21）",
@@ -375,6 +420,17 @@
           "time_info": "11时36分"
         },
         {
+          "title": "联合健康(UNH.N)第一季度营收1117亿美元，市场预期1095.7亿美元。第一季度调整后每股收益7.23美元，市场预期6.57美元。预计全年调整后每股收益将高于18.25美元，市场预期为17.86美元。",
+          "url": "https://flash.jin10.com/detail/20260421175605076800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "WTI 5月原油期货收涨5.76美元，涨幅6.87%，报89.61美元/桶。 布伦特6月原油期货收涨5.10美元，涨幅5.64%，报95.48美元/桶。 中东Abu Dhabi Murban原油期货跌0.13%，报91.58美元/桶，北京时间16:28曾达到94.41美元。 NYMEX 5月天然气期货收报2.6890美元/百万英热单位。 NYMEX 5月汽油期货收报3.1168美元/加仑，NYMEX 5月取暖油期货收报3.5409美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3091290",
           "source": "华尔街见闻-快讯",
@@ -468,8 +524,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时04分 ~ 16时58分]"
+          "appearance_count": 10,
+          "time_info": "[02时04分 ~ 18时26分]"
         },
         {
           "title": "上海：强化场景开放、按需服务和政策匹配，培育50家数字经济标杆企业",
@@ -494,16 +550,29 @@
           "time_info": "00时18分"
         },
         {
+          "title": "算电协同迎来政策密集期 源网荷储、绿电直连有望加速落地",
+          "url": "https://www.cls.cn/detail/2350527",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 18时26分]"
+        },
+        {
           "title": "沃什提名听证会讲稿曝光，承诺货币政策严格独立，称美联储独立性主要取决于自身（附全文）",
           "url": "https://wallstreetcn.com/articles/3770430",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 16时58分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 18时26分]"
         },
         {
           "title": "从“政策松绑”到“主动提升”，险资积极增配权益资产",
@@ -528,17 +597,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时54分]"
-        },
-        {
-          "title": "算电协同迎来政策密集期 源网荷储、绿电直连有望加速落地",
-          "url": "https://www.cls.cn/detail/2350527",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
         },
         {
           "title": "日本央行金融系统报告：日本银行拥有充足的资本基础和稳定的资金基础，能够应对各种压力情况。",
@@ -580,7 +638,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -646,7 +704,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -676,7 +734,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -688,8 +746,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时56分 ~ 16时58分]"
+          "appearance_count": 8,
+          "time_info": "[05时56分 ~ 18时26分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
@@ -765,6 +823,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时56分]"
+        },
+        {
+          "title": "联合健康(UNH.N)美股盘前直线拉升涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260421175624706800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月20日），美国科技股七巨头（Magnificent 7）指数跌0.54%，报209.52点。 “超大”市值科技股指数跌0.88%，报405.82点。",
