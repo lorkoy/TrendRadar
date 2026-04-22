@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T07:45:18.891219+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-04-22T11:34:30.537486+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "F1规则调整后有何影响",
@@ -42,6 +42,17 @@
           "time_info": "04时11分"
         },
         {
+          "title": "现货白银向上触及78美元/盎司，日内涨1.77%。纽约期银日内涨幅达2.00%，现报78.03美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260422110544647800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "布伦特原油期货突破100美元心理关口，为4月13日以来盘中首次，涨幅扩大至5%。 WTI原油日内涨幅达5.0%，报91.94美元/桶。 据美联社报道，美国副总统万斯取消了前往巴基斯坦的行程。 据伊朗塔斯尼姆通讯社援引消息人士称，伊朗将不参加周三在巴基斯坦举行的会谈。",
           "url": "https://wallstreetcn.com/livenews/3092065",
           "source": "华尔街见闻-快讯",
@@ -51,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.33%，10年期主力合约涨0.06%，5年期主力合约涨0.03%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3092271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美股三大股指期货周三高开，纳指期货涨0.4%；现货金银同样走高，黄金上涨0.1%，白银上涨0.5%。",
@@ -98,6 +120,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "肯德基调整酱料供应规则，超过基础搭配后需付费购买，你愿意付费购买吗？酱料供应对餐厅经营成本影响很大吗？",
+          "url": "https://www.zhihu.com/question/2030002737799061742",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260422105843120800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "现货黄金向下触及4700美元/盎司，日内跌2.50%。",
@@ -197,12 +241,258 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "金十期货4月22日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌1350元/吨，中间价报171000元/吨。",
+          "url": "https://flash.jin10.com/detail/20260422103347907800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "又见“大象”起舞！建行股价创历史新高，板块持续破净状态，这些标的股息率较高",
+          "url": "https://www.cls.cn/detail/2350766",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2351163",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 07时45分]"
+        },
+        {
+          "title": "石油价格上涨或导致维生素变贵",
+          "url": "https://www.douyin.com/hot/2473529",
+          "source": "抖音",
+          "ranks": [
+            16,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 07时45分]"
+        },
+        {
+          "title": "上证指数早盘收报4095.07点，涨0.24%。 深证成指早盘收报15076.15点，涨0.63%。 创业板指早盘收报3712.28点，涨0.63%。 沪深300早盘收报4782.18点，涨0.30%。 科创50早盘收报1435.23点，涨0.60%。 中证500早盘收报8332.29点，涨0.75%。 中证1000早盘收报8432.23点，涨0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3092275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "隔夜shibor报1.2190%，下跌0.1个基点；7天shibor报1.3270%，下跌0.4个基点；3个月shibor报1.4375%，下跌0.45个基点。点击查看>>",
+          "url": "https://flash.jin10.com/detail/20260422110525301800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美股迷幻药物板块隔夜暴走 特朗普放宽监管行业迎来命运反转",
+          "url": "https://www.cls.cn/detail/2350782",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 05时54分]"
+        },
+        {
+          "title": "WTI原油5分钟内上涨0.65美元/桶，报90.49美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3092128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时45分]"
+        },
+        {
+          "title": "A股小金属板块震荡走高，云南锗业逼近涨停，翔鹭钨业、锡业股份、章源钨业、厦门钨业、金钼股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260422110046874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "一季度公募基金重点增配信息技术等板块",
+          "url": "https://wallstreetcn.com/livenews/3092150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX 200指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3092268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "全球股市为何普遍下跌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E6%99%AE%E9%81%8D%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "受美元和中东局势导致铜价下跌影响，智利比索兑美元日内下跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260422013029500800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "A股OLED概念震荡反弹，诚志股份、沃格光电、天通股份涨停，路维光电涨超11%，东山精密、彩虹股份、精测电子、清溢光电、有研新材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260422105756837800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.7%，创4月7日以来最大单日跌幅，报387.23点。 在十个板块中，北欧医疗保健板块跌幅最大。 诺和诺德收跌4.2%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3091971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "美联储：货币对冲助推美元大幅下跌",
+          "url": "https://wallstreetcn.com/livenews/3091967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.80%，暂报2611.33点，整体保持上涨状态，北京时间19:37涨至2646.76点刷新日高。 MarketVectorTM数字资产100中盘指数涨1.84%，报2881.90点。 MarketVector数字资产100指数涨0.75%，报15082.87点。 目前，Solana跌0.07%，狗狗币跌0.69%，XRP持平。 比特币跌0.46%，暂报75942.84美元；以太坊跌0.80%，暂报2312.33美元。",
+          "url": "https://wallstreetcn.com/livenews/3092010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "恐怖数据强化高利率预期，黄金宽幅震荡临近方向抉择",
+          "url": "https://flash.jin10.com/detail/20260422104011560800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "德国两年期国债收益率涨约7个基点，投资者关注油价上涨",
+          "url": "https://wallstreetcn.com/livenews/3092005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "美联储主席提名人沃什：此前在美联储的工作经验使我能够上任后迅速进入状态。 我们只有很短的时间窗口来让通胀回落。 美联储需要在框架和沟通方式上进行改革。 需要进行强有力的改革。 美联储必须恪守本分。 美联储2020年的框架原本只希望通胀稍微高一点，结果却高了很多，我们至今仍在为此买单。 美国民众正因汽油价格上涨而遭受损失。",
+          "url": "https://wallstreetcn.com/livenews/3091958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报171000元/吨，较上日16:30价格下跌1350元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3092237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "【数据看盘】机构活跃度明显下降 北向资金联手量化抢筹商业航天人气股",
@@ -262,6 +552,17 @@
           "time_info": "[00时18分 ~ 02时06分]"
         },
         {
+          "title": "2000字证词对货币政策避而不谈，沃什听证会焦点：降息态度为何大转弯？",
+          "url": "https://wallstreetcn.com/articles/3770487",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "美联储主席提名人沃什：价格累积上涨是过去政策失误的遗留问题。",
           "url": "https://wallstreetcn.com/livenews/3091977",
           "source": "华尔街见闻-快讯",
@@ -271,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美联储主席提名人沃什：货币政策将独立于政治 不会当总统的提线木偶",
+          "url": "https://www.cls.cn/detail/2351341",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美联储主席提名人沃什：如果维持了更小规模的资产负债表，利率就可以更低。 如果美联储实施一系列政策改革，通胀可以更低，经济可以更强。 对于有资产者和无资产者之间的分化，美联储并非没有责任。 规模更小的资产负债表将意味着利率可以更低，通胀控制得更好，经济更强。 在货币政策之外，美联储应与政府合作。 这在未来很可能会发生。 经济仍有进一步改善的空间。 需要利用这个窗口期审视改革，以便美联储做好准备应对新的冲击。",
@@ -350,6 +662,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260422104053215800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "伊拉克官员谈及美国，称：美国暂停向伊拉克安全服务提供资金。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3092041",
           "source": "华尔街见闻-快讯",
@@ -374,153 +697,6 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "又见“大象”起舞！建行股价创历史新高，板块持续破净状态，这些标的股息率较高",
-          "url": "https://www.cls.cn/detail/2350766",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 07时45分]"
-        },
-        {
-          "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2351163",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 07时45分]"
-        },
-        {
-          "title": "石油价格上涨或导致维生素变贵",
-          "url": "https://www.douyin.com/hot/2473529",
-          "source": "抖音",
-          "ranks": [
-            16,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 07时45分]"
-        },
-        {
-          "title": "美股迷幻药物板块隔夜暴走 特朗普放宽监管行业迎来命运反转",
-          "url": "https://www.cls.cn/detail/2350782",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 05时54分]"
-        },
-        {
-          "title": "WTI原油5分钟内上涨0.65美元/桶，报90.49美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3092128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时45分]"
-        },
-        {
-          "title": "一季度公募基金重点增配信息技术等板块",
-          "url": "https://wallstreetcn.com/livenews/3092150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "受美元和中东局势导致铜价下跌影响，智利比索兑美元日内下跌1.5%。",
-          "url": "https://flash.jin10.com/detail/20260422013029500800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.7%，创4月7日以来最大单日跌幅，报387.23点。 在十个板块中，北欧医疗保健板块跌幅最大。 诺和诺德收跌4.2%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3091971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美联储：货币对冲助推美元大幅下跌",
-          "url": "https://wallstreetcn.com/livenews/3091967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.80%，暂报2611.33点，整体保持上涨状态，北京时间19:37涨至2646.76点刷新日高。 MarketVectorTM数字资产100中盘指数涨1.84%，报2881.90点。 MarketVector数字资产100指数涨0.75%，报15082.87点。 目前，Solana跌0.07%，狗狗币跌0.69%，XRP持平。 比特币跌0.46%，暂报75942.84美元；以太坊跌0.80%，暂报2312.33美元。",
-          "url": "https://wallstreetcn.com/livenews/3092010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "德国两年期国债收益率涨约7个基点，投资者关注油价上涨",
-          "url": "https://wallstreetcn.com/livenews/3092005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "美联储主席提名人沃什：此前在美联储的工作经验使我能够上任后迅速进入状态。 我们只有很短的时间窗口来让通胀回落。 美联储需要在框架和沟通方式上进行改革。 需要进行强有力的改革。 美联储必须恪守本分。 美联储2020年的框架原本只希望通胀稍微高一点，结果却高了很多，我们至今仍在为此买单。 美国民众正因汽油价格上涨而遭受损失。",
-          "url": "https://wallstreetcn.com/livenews/3091958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 6,
       "titles": [
@@ -536,6 +712,19 @@
           "time_info": "[00时18分 ~ 07时45分]"
         },
         {
+          "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
+          "url": "https://www.cls.cn/detail/2351396",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时54分 ~ 11时34分]"
+        },
+        {
           "title": "伊朗停火谈判生变，美股收跌，油价飙升，金银下挫",
           "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
@@ -547,28 +736,15 @@
           "time_info": "[05时54分 ~ 06时50分]"
         },
         {
-          "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
-          "url": "https://www.cls.cn/detail/2351396",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时54分 ~ 07时45分]"
-        },
-        {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 11时34分]"
         },
         {
           "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
@@ -578,11 +754,12 @@
             11,
             10,
             12,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时06分 ~ 07时45分]"
+          "appearance_count": 7,
+          "time_info": "[02时06分 ~ 11时34分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超2.8%，布油基金涨超5.5%",
@@ -638,7 +815,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国总统特朗普：（那些）维持运营的煤炭工厂是宾夕法尼亚州的大赢家。 （宾州）州长Shapiro同意让两家煤炭厂继续运作。",
@@ -647,16 +824,38 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.2190%，下降0.10个基点。 7天SHIBOR报1.3270%，下降0.40个基点。 3个月SHIBOR报1.4375%，下降0.45个基点。",
+          "url": "https://wallstreetcn.com/livenews/3092257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "财政部在香港成功发行2026年第二期155亿元人民币国债",
+          "url": "https://wallstreetcn.com/livenews/3092272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8316元，较周一夜盘收盘跌144点。成交量296.04亿美元。",
           "url": "https://wallstreetcn.com/livenews/3092050",
