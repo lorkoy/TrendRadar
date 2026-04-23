@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T17:00:00.561109+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-04-23T18:43:25.009892+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
@@ -86,7 +86,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         },
@@ -130,7 +130,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         },
@@ -275,7 +275,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         },
@@ -407,7 +407,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         },
@@ -429,7 +429,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         }
@@ -437,7 +437,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 23,
+      "match_count": 33,
       "titles": [
         {
           "title": "现货白银日内跌2美元，现报75.69美元/盎司，跌幅2.57%。",
@@ -462,6 +462,17 @@
           "time_info": "11时38分"
         },
         {
+          "title": "现货白银日内跌幅达4.0%，报74.55美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3093246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "WTI原油期货日内扩大至4%，现报93.26美元/桶。",
           "url": "https://flash.jin10.com/detail/20260422235101349800",
           "source": "金十数据",
@@ -477,11 +488,12 @@
           "url": "https://www.toutiao.com/trending/7631211238252544038/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时00分]"
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 18时43分]"
         },
         {
           "title": "现货黄金",
@@ -506,6 +518,39 @@
           "time_info": "11时38分"
         },
         {
+          "title": "霍尼韦尔预计二季度销售额为94亿至96亿美元，市场预估97.3亿美元。 霍尼韦尔预计二季度调整后每股收益为2.35至2.45美元，市场预估2.56美元。",
+          "url": "https://wallstreetcn.com/livenews/3093242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "【每日收评】三大指数放量收跌，绿电、煤炭等防御性板块走强，算力硬件股遭遇调整",
+          "url": "https://www.cls.cn/detail/2353536",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "现货黄金日内跌幅达1.0%，报4692.25美元/盎司。 现货白银日内跌幅达3.5%，报74.95美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3093239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "巴基斯坦企业招标购买现货LNG 为2年多以来首次",
           "url": "https://flash.jin10.com/detail/20260423135043629800",
           "source": "金十数据",
@@ -515,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "【焦点复盘】沪指高开低走失守4100点，CPO概念现深幅调整，资金逆势抱团红利板块",
+          "url": "https://www.cls.cn/detail/2353607",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "WTI原油期货站上93美元/桶，日内涨3.71%。",
@@ -550,6 +606,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "纽约期银日内跌幅达4%，现报74.83美元/盎司。现货白银日内跌近4%，现报74.67美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260423182147751800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "CPO概念股持续调整，赛微电子跌超16%，东田微、光库科技、腾景科技均跌超10%，德科立、联特科技、杰普特、华盛昌、富信科技、铭普光磁、天孚通信跌逾8%。",
           "url": "https://wallstreetcn.com/livenews/3093008",
           "source": "华尔街见闻-快讯",
@@ -572,15 +639,37 @@
           "time_info": "05时58分"
         },
         {
+          "title": "广期所：自2026年4月27日交易时起，铂期货PT2606、钯期货PD2606合约的交易手续费标准调整为成交金额的万分之一，日内平今仓交易手续费标准调整为成交金额的万分之一。",
+          "url": "https://wallstreetcn.com/livenews/3093220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "荷兰国际：油价市场不得不因美伊谈判的僵局而调整预期",
           "url": "https://flash.jin10.com/detail/20260423162145257800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
+        },
+        {
+          "title": "挪威主权财富基金副首席执行官：伊朗战争绝对不是进行逆周期操作的机会。不会因伊朗战争对投资组合进行重大调整，包括其主动管理部分。",
+          "url": "https://flash.jin10.com/detail/20260423181955489800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "诺基亚第一季度调整后营业利润2.81亿欧元，市场预估2.444亿欧元。 第一季度调整后每股收益0.05欧元，市场预估0.04欧元。 第一季度销售净额45.0亿欧元，市场预估45.6亿欧元。 仍预测全年调整后营业利润20亿欧元至25亿欧元，市场预估23亿欧元。",
@@ -603,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "市场“假消息”乱飘，国际现货黄金短线走势将取决于三方面变量！| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260423181754789800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "特斯拉(TSLA.O)第一季度调整后每股收益0.41美元。",
@@ -680,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "现货黄金回落至4690美元/盎司下方，日内跌超1%。现货白银失守75美元/盎司，日内跌幅3.49%。",
+          "url": "https://flash.jin10.com/detail/20260423181234176800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "内盘期货夜市普遍收涨，20号胶涨超2.4%，橡胶涨超1.8%，燃油涨1.2%",
@@ -876,7 +987,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         },
@@ -917,7 +1028,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "【数据看盘】超14亿元资金出逃东山精密 游资联手机构抢筹九安医疗",
@@ -966,6 +1077,28 @@
           "time_info": "11时38分"
         },
         {
+          "title": "中美人形机器人产业暗斗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%A7%E4%B8%9A%E6%9A%97%E6%96%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "【数据看盘】大族激光龙虎榜现机构与北向资金博弈 多路资金抢筹汇绿生态",
+          "url": "https://www.cls.cn/detail/2353638",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "Zacks Investment Research分析师Andrew Rocco在一份报告中指出：特斯拉业绩报告证实，虽然传统的电动汽车业务不再快速增长，但它已足够稳定，可以为特斯拉在机器人和自动驾驶技术上的巨额投资提供资金。",
           "url": "https://wallstreetcn.com/livenews/3092850",
           "source": "华尔街见闻-快讯",
@@ -977,13 +1110,35 @@
           "time_info": "05时58分"
         },
         {
+          "title": "杭州市商务局电商处回应“19岁女孩挪用父亲公司1700万”：已了解相关情况，曾走访涉事MCN公司宣讲政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33029109",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "晶合集成：拟使用不超过80亿元闲置自有资金进行现金管理",
+          "url": "https://wallstreetcn.com/livenews/3093207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "金十图示：2026年04月23日（周四）沪深港通南向资金流向",
           "url": "https://flash.jin10.com/detail/20260423161603322800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         }
@@ -1094,7 +1249,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         },
