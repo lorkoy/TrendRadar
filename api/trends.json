@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T14:18:16.110888+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-04-24T17:06:44.408669+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "倒计时一周！年报行情进入最后冲刺，七成个股实现盈利，这些标的获10倍增速",
@@ -60,6 +60,18 @@
           "time_info": "[01时40分 ~ 05时02分]"
         },
         {
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 17时06分]"
+        },
+        {
           "title": "伊朗局势搅动市场，美股震荡收跌，软件股重挫，芯片逆市连涨17日，原油三连涨",
           "url": "https://wallstreetcn.com/articles/3770666",
           "source": "华尔街见闻",
@@ -69,17 +81,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时58分 ~ 07时00分]"
-        },
-        {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 14时18分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英伟达盘后飙升20%，原油四连涨",
@@ -99,9 +100,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "公共充电桩价格悄悄上涨近 20%，夜间充电反而不再便宜了，涨价的原因是什么？你有哪些新的省钱策略推荐？",
+          "url": "https://www.zhihu.com/question/2030338599837589984",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 17时06分]"
         },
         {
           "title": "巴西政府将宣布降低燃料税，以减轻国际燃料价格上涨的影响。",
@@ -124,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗战争导致化肥价格飙升，雅苒公司利润上涨",
+          "url": "https://flash.jin10.com/detail/20260424164451475800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "周四（4月23日），美股存储芯片与硬件供应链指数跌0.20%，报144.48点，在震荡上行行情中，北京时间23:42刷新日高至148.53点，随后震荡下行，01:46刷新日低至142.59点。 信息科技指数跌1.24%，报329.36点。 人工智能（AI）赢家指数跌0.92%，报348.16点。 AI软件先驱指数跌6.81%，报95.68点，跳空低开后持续低位窄幅震荡，形成长尾L形走势。",
@@ -160,17 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 07时00分]"
-        },
-        {
-          "title": "公共充电桩价格悄悄上涨近 20%，夜间充电反而不再便宜了，涨价的原因是什么？你有哪些新的省钱策略推荐？",
-          "url": "https://www.zhihu.com/question/2030338599837589984",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 14时18分]"
         },
         {
           "title": "纽蒙特矿业承诺：黄金价格出现史无前例的上涨行情，公司打算回购60亿美元股票。",
@@ -274,13 +287,35 @@
           "time_info": "11时42分"
         },
         {
+          "title": "国际金价银价下跌",
+          "url": "https://www.douyin.com/hot/2477037",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "英国央行：企业预计未来一年工资将上涨3.4%。3月份预计为上涨3.5%。",
+          "url": "https://flash.jin10.com/detail/20260424163218451800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "台湾加权指数4月24日（周五）收盘上涨1218.25点，涨幅3.23%，报38932.4点。",
           "url": "https://flash.jin10.com/detail/20260424133533895800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -307,6 +342,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "在岸人民币兑美元4月24日16:30收盘报6.8342，较上一交易日下跌6点。",
+          "url": "https://flash.jin10.com/detail/20260424163121384800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "布伦特原油日内涨幅达4.5%，报106.52美元/桶。 WTI原油5分钟内上涨0.86美元/桶，报97.49美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3093457",
           "source": "华尔街见闻-快讯",
@@ -327,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "水发燃气：公司主要业务围绕天然气行业形成四大业务板块，各业务板块生产经营正常",
+          "url": "https://flash.jin10.com/detail/20260424163108063800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "台湾证交所加权股价指数上涨3.1%至38,874.02点。",
@@ -354,7 +411,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "【焦点复盘】沪指高开低走失守4100点，CPO概念现深幅调整，资金逆势抱团红利板块",
@@ -432,9 +489,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "阿里云：2026年4月30日10:00（北京时间）起，Qoder Teams版新购每席位月额度升至3,000Credits，价格调整为300RMB/席位月。",
+          "url": "https://flash.jin10.com/detail/20260424164743351800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "现货黄金跌1%，纽约中午曾逼近4600美元关口",
@@ -518,6 +586,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "中国证监会公告允许合格境外投资者参与国债期货交易",
+          "url": "https://flash.jin10.com/detail/20260424164009691800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "上期所原油期货2606合约夜盘收涨1.84%，报647.80元人民币/桶。 沪金夜盘收跌0.20%，沪银收跌1.58%。",
           "url": "https://wallstreetcn.com/livenews/3093472",
           "source": "华尔街见闻-快讯",
@@ -540,13 +619,35 @@
           "time_info": "05时58分"
         },
         {
+          "title": "阿里云：2026年4月30日10:00（北京时间）起，Qoder Teams版新购每席位月额度升至3,000Credits，价格调整为300RMB/席位月。",
+          "url": "https://wallstreetcn.com/livenews/3093880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "证监会：允许合格境外投资者参与国债期货交易",
+          "url": "https://wallstreetcn.com/livenews/3093877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "意大利埃尼集团（Eni）第一季度调整后净利润为13亿欧元，预期为15.1亿欧元。 第一季度天然气与电力调整后营业利润为3.18亿欧元，预期为4.284亿欧元。 第一季度经营活动净现金流为14.3亿欧元，预期为23.7亿欧元。 埃尼集团将2026年股票回购计划提升至28亿欧元。",
           "url": "https://wallstreetcn.com/livenews/3093728",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -568,7 +669,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -620,7 +721,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【数据看盘】大族激光龙虎榜现机构与北向资金博弈 多路资金抢筹汇绿生态",
@@ -659,17 +760,6 @@
           "time_info": "[01时40分 ~ 07时00分]"
         },
         {
-          "title": "一个百万亿级产业要诞生了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E7%99%BE%E4%B8%87%E4%BA%BF%E7%BA%A7%E4%BA%A7%E4%B8%9A%E8%A6%81%E8%AF%9E%E7%94%9F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
           "title": "特朗普拟延长船舶豁免政策 保障油气运输缓解供应紧张",
           "url": "https://flash.jin10.com/detail/20260424024940271800",
           "source": "金十数据",
@@ -679,6 +769,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "一个百万亿级产业要诞生了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E7%99%BE%E4%B8%87%E4%BA%BF%E7%BA%A7%E4%BA%A7%E4%B8%9A%E8%A6%81%E8%AF%9E%E7%94%9F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 17时06分]"
+        },
+        {
+          "title": "马厂老火锅招 985/211 毕业生当管培生，从端盘子做起，升店长需掏 40% 资金，这是选人才还是变相招商？",
+          "url": "https://www.zhihu.com/question/2030583905837897593",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 17时06分]"
         },
         {
           "title": "报道：特朗普拟延长船舶豁免政策，保障油气运输缓解供应紧张",
@@ -692,15 +805,15 @@
           "time_info": "03时26分"
         },
         {
-          "title": "马厂老火锅招 985/211 毕业生当管培生，从端盘子做起，升店长需掏 40% 资金，这是选人才还是变相招商？",
-          "url": "https://www.zhihu.com/question/2030583905837897593",
-          "source": "知乎",
+          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
+          "url": "https://www.cls.cn/detail/2354727",
+          "source": "财联社热门",
           "ranks": [
-            14
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "17时06分"
         },
         {
           "title": "美国总统特朗普：伊朗将削减对黎巴嫩真主党的资金支持。",
@@ -720,7 +833,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -825,6 +938,78 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "离岸人民币1个月期Hibor周五跌至1.4397%，创下2013年有记录以来的最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3093697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "商务部：2026年1-3月全国吸收外资2496亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3093899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "美团去年收入3648.54746亿元人民币，之前一年3375.91576亿元。 去年毛利1110.08626亿元人民币，之前一年1297.84594亿元。",
+          "url": "https://wallstreetcn.com/livenews/3093567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "周四（4月23日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8356元，较周三纽约尾盘跌36点，日内整体交投于6.8263-6.8395元区间。 日线图上，离岸人民币逐步撤离4月14日顶部6.8059元。",
+          "url": "https://wallstreetcn.com/livenews/3093529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8342，较上一交易日官方收盘价跌6点，较上日夜盘收盘跌16点。",
+          "url": "https://wallstreetcn.com/livenews/3093870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "外汇局：1-3月，中国外汇市场累计成交75.78万亿元人民币",
+          "url": "https://flash.jin10.com/detail/20260424163147024800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SZ SH HK",
       "match_count": 4,
       "titles": [
@@ -871,45 +1056,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "离岸人民币1个月期Hibor周五跌至1.4397%，创下2013年有记录以来的最低水平。",
-          "url": "https://wallstreetcn.com/livenews/3093697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "美团去年收入3648.54746亿元人民币，之前一年3375.91576亿元。 去年毛利1110.08626亿元人民币，之前一年1297.84594亿元。",
-          "url": "https://wallstreetcn.com/livenews/3093567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "周四（4月23日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8356元，较周三纽约尾盘跌36点，日内整体交投于6.8263-6.8395元区间。 日线图上，离岸人民币逐步撤离4月14日顶部6.8059元。",
-          "url": "https://wallstreetcn.com/livenews/3093529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         }
       ]
     },
