@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T17:06:44.408669+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-04-24T19:15:17.297952+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 17时06分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 19时15分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，软件股重挫，芯片逆市连涨17日，原油三连涨",
@@ -110,11 +111,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 17时06分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 19时15分]"
         },
         {
           "title": "巴西政府将宣布降低燃料税，以减轻国际燃料价格上涨的影响。",
@@ -145,7 +147,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -208,6 +210,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 07时00分]"
+        },
+        {
+          "title": "国际金价银价下跌",
+          "url": "https://www.douyin.com/hot/2477037",
+          "source": "抖音",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 19时15分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月23日（周四）晚盘收盘下跌0.18%报1037.83元/克；<br/>上海黄金交易所白银T+D 4月23日（周四）晚盘收盘下跌0.95%报18907.0元/千克。",
@@ -287,24 +301,13 @@
           "time_info": "11时42分"
         },
         {
-          "title": "国际金价银价下跌",
-          "url": "https://www.douyin.com/hot/2477037",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
           "title": "英国央行：企业预计未来一年工资将上涨3.4%。3月份预计为上涨3.5%。",
           "url": "https://flash.jin10.com/detail/20260424163218451800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -348,7 +351,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -381,7 +384,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -411,7 +414,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "【焦点复盘】沪指高开低走失守4100点，CPO概念现深幅调整，资金逆势抱团红利板块",
@@ -500,7 +503,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -553,6 +556,17 @@
           "time_info": "[05时02分 ~ 05时58分]"
         },
         {
+          "title": "斯伦贝谢第一季度营收87.2亿美元，预估86.6亿美元。 第一季度调整后每股收益52美分，预估52美分。 第一季度调整后EBITDA为17.7亿美元，预估18.3亿美元。 第一季度资本支出3.43亿美元，预估4.674亿美元。 斯伦贝谢仍预计全年资本投资约25亿美元。 斯伦贝谢美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3093996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "美元指数DXY15分钟内拉升近20点，最新报98.82；美、布两油短线走高1.8美元，现货黄金下挫近30美元。",
           "url": "https://flash.jin10.com/detail/20260424011316449800",
           "source": "金十数据",
@@ -592,7 +606,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -606,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
+          "url": "https://www.cls.cn/detail/2354937",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "周四（4月23日）纽约尾盘，标普500股指期货最终跌0.55%，道指期货跌0.57%，纳斯达克100股指期货跌0.54%。 罗素2000股指期货跌0.66%。",
@@ -625,7 +650,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -636,7 +661,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -705,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "“一个调整 让笑声从2次变成50次”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E4%B8%AA%E8%B0%83%E6%95%B4+%E8%AE%A9%E7%AC%91%E5%A3%B0%E4%BB%8E2%E6%AC%A1%E5%8F%98%E6%88%9050%E6%AC%A1%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "现货金银短线走低",
@@ -787,11 +823,24 @@
           "url": "https://www.zhihu.com/question/2030583905837897593",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 19时15分]"
+        },
+        {
+          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
+          "url": "https://www.cls.cn/detail/2354727",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时18分 ~ 17时06分]"
+          "time_info": "[17时06分 ~ 19时15分]"
         },
         {
           "title": "报道：特朗普拟延长船舶豁免政策，保障油气运输缓解供应紧张",
@@ -803,17 +852,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        },
-        {
-          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
-          "url": "https://www.cls.cn/detail/2354727",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
         },
         {
           "title": "美国总统特朗普：伊朗将削减对黎巴嫩真主党的资金支持。",
@@ -851,8 +889,102 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "离岸人民币1个月期Hibor周五跌至1.4397%，创下2013年有记录以来的最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3093697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "商务部：2026年1-3月全国吸收外资2496亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3093899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "赛力斯：首次回购0.03%公司股份，已支付的总金额为人民币4997.48万元",
+          "url": "https://flash.jin10.com/detail/20260424184931417800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "美团去年收入3648.54746亿元人民币，之前一年3375.91576亿元。 去年毛利1110.08626亿元人民币，之前一年1297.84594亿元。",
+          "url": "https://wallstreetcn.com/livenews/3093567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "周四（4月23日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8356元，较周三纽约尾盘跌36点，日内整体交投于6.8263-6.8395元区间。 日线图上，离岸人民币逐步撤离4月14日顶部6.8059元。",
+          "url": "https://wallstreetcn.com/livenews/3093529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "赛力斯：首次回购0.03%公司股份，已支付的总金额为人民币4997.48万元",
+          "url": "https://wallstreetcn.com/livenews/3093987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8342，较上一交易日官方收盘价跌6点，较上日夜盘收盘跌16点。",
+          "url": "https://wallstreetcn.com/livenews/3093870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "外汇局：1-3月，中国外汇市场累计成交75.78万亿元人民币",
+          "url": "https://flash.jin10.com/detail/20260424163147024800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
@@ -914,6 +1046,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "英特尔美股盘前大涨超30%",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E7%89%B9%E5%B0%94%E7%BE%8E%E8%82%A1%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A8%E8%B6%8530%25",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "英特尔(INTC.O)美股盘后大涨13%。",
           "url": "https://flash.jin10.com/detail/20260424041652714800",
           "source": "金十数据",
@@ -934,78 +1077,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "离岸人民币1个月期Hibor周五跌至1.4397%，创下2013年有记录以来的最低水平。",
-          "url": "https://wallstreetcn.com/livenews/3093697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "商务部：2026年1-3月全国吸收外资2496亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3093899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "美团去年收入3648.54746亿元人民币，之前一年3375.91576亿元。 去年毛利1110.08626亿元人民币，之前一年1297.84594亿元。",
-          "url": "https://wallstreetcn.com/livenews/3093567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "周四（4月23日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8356元，较周三纽约尾盘跌36点，日内整体交投于6.8263-6.8395元区间。 日线图上，离岸人民币逐步撤离4月14日顶部6.8059元。",
-          "url": "https://wallstreetcn.com/livenews/3093529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.8342，较上一交易日官方收盘价跌6点，较上日夜盘收盘跌16点。",
-          "url": "https://wallstreetcn.com/livenews/3093870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "外汇局：1-3月，中国外汇市场累计成交75.78万亿元人民币",
-          "url": "https://flash.jin10.com/detail/20260424163147024800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
         }
       ]
     },
@@ -1084,6 +1155,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价何时迎来阶段性反弹",
+          "url": "https://www.toutiao.com/trending/7631763306449518635/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
