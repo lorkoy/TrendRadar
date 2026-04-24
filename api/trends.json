@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T07:58:30.249930+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-04-24T11:42:37.721082+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 18,
+      "match_count": 28,
       "titles": [
         {
           "title": "倒计时一周！年报行情进入最后冲刺，七成个股实现盈利，这些标的获10倍增速",
@@ -47,6 +47,19 @@
           "time_info": "[01时40分 ~ 05时02分]"
         },
         {
+          "title": "美股收盘：中东局势不确定性升温叠加财报分化 三大指数震荡收跌",
+          "url": "https://www.cls.cn/detail/2354164",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时59分 ~ 11时42分]"
+        },
+        {
           "title": "伊朗局势搅动市场，美股震荡收跌，软件股重挫，芯片逆市连涨17日，原油三连涨",
           "url": "https://wallstreetcn.com/articles/3770666",
           "source": "华尔街见闻",
@@ -58,19 +71,18 @@
           "time_info": "[05时58分 ~ 07时00分]"
         },
         {
-          "title": "美股收盘：中东局势不确定性升温叠加财报分化 三大指数震荡收跌",
-          "url": "https://www.cls.cn/detail/2354164",
-          "source": "财联社热门",
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英伟达盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时59分 ~ 07时58分]"
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英伟达盘后飙升20%，原油四连涨",
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
           "url": "https://wallstreetcn.com/articles/3770666",
           "source": "华尔街见闻",
           "ranks": [
@@ -78,7 +90,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "11时42分"
         },
         {
           "title": "巴西政府将宣布降低燃料税，以减轻国际燃料价格上涨的影响。",
@@ -163,6 +175,17 @@
           "time_info": "[05时58分 ~ 07时00分]"
         },
         {
+          "title": "公共充电桩价格悄悄上涨近 20%，夜间充电反而不再便宜了，涨价的原因是什么？你有哪些新的省钱策略推荐？",
+          "url": "https://www.zhihu.com/question/2030338599837589984",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 4月23日（周四）晚盘收盘下跌0.18%报1037.83元/克；<br/>上海黄金交易所白银T+D 4月23日（周四）晚盘收盘下跌0.95%报18907.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260424023104176800",
           "source": "金十数据",
@@ -174,6 +197,50 @@
           "time_info": "03时26分"
         },
         {
+          "title": "隔夜SHIBOR报1.2190%，上涨0.00个基点。 7天SHIBOR报1.3240%，下降0.50个基点。 3个月SHIBOR报1.4275%，下降0.70个基点。",
+          "url": "https://wallstreetcn.com/livenews/3093680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "隔夜shibor报1.2190%，与上日持平；7天shibor报1.3240%，下跌0.5个基点；3个月shibor报1.4275%，下跌0.7个基点。点击查看>>",
+          "url": "https://flash.jin10.com/detail/20260424110108731800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "国际油价23日显著上涨",
+          "url": "https://www.toutiao.com/trending/7631152489502818350/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报172250元/吨，较上日16:30价格上涨350元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3093664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "WTI原油5分钟内下跌0.68美元/桶，报97.62美元/桶；纽约金5分钟内上涨19.2美元/盎司，报4699.8美元/盎司。 据以色列第13频道援引军方消息人士称，以色列未在伊朗领空开展活动。",
           "url": "https://wallstreetcn.com/livenews/3093463",
           "source": "华尔街见闻-快讯",
@@ -183,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "A股锂矿股震荡走强，金圆股份封涨停，天华新能、江特电机涨超8%，西藏珠峰、融捷股份、西藏城投等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3093663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "新兴市场货币指数刷新日低，受累于油价上涨。 WTI原油5分钟内上涨0.5美元/桶，报97.95美元/桶。布伦特原油5分钟内上涨0.51美元/桶，报106.95美元/桶。 据迈赫尔通讯社：德黑兰已启动防空系统，针对“敌对”目标。 据新华社，据伊朗媒体报道，当地时间23日晚，伊朗首都德黑兰上空传出爆炸声，防空系统启动，朝“敌对目标”射击。",
@@ -216,12 +294,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.69%，深成指跌1.31%，AI应用、算力租赁、算力硬件等方向跌幅居前，沪深京三市下跌个股近4000只。",
+          "url": "https://wallstreetcn.com/livenews/3093657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨3.1%至38,874.02点。",
+          "url": "https://wallstreetcn.com/livenews/3093649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "以媒爆料伊朗议会议长卡利巴夫从谈判小组辞职，伊朗领导层否认分裂；特朗普宣称不想仓促行事，但仍保留军事选项，中东局势扰动下，油价一度震荡上行，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260424104257671800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "【焦点复盘】沪指高开低走失守4100点，CPO概念现深幅调整，资金逆势抱团红利板块",
@@ -266,9 +377,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "A股商业航天概念持续调整，西部材料封跌停，久之洋、雷电微力跌超10%，顺灏股份、中衡设计、广联航空、通宇通讯、上海港湾等多股跌幅靠前。",
+          "url": "https://flash.jin10.com/detail/20260424111843378800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "4月24日午间收评：创业板指半日跌超2%，算力硬件、商业航天概念集体调整",
+          "url": "https://wallstreetcn.com/livenews/3093693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "现货黄金跌1%，纽约中午曾逼近4600美元关口",
@@ -341,6 +474,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "欧洲斯托克50指数期货下跌0.92%；英国富时100指数期货跌超1%；德国DAX30指数期货下跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260424110441026800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "上期所原油期货2606合约夜盘收涨1.84%，报647.80元人民币/桶。 沪金夜盘收跌0.20%，沪银收跌1.58%。",
           "url": "https://wallstreetcn.com/livenews/3093472",
           "source": "华尔街见闻-快讯",
@@ -361,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260424105650555800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "英特尔一季度营收135.8亿美元，分析师预期123.6亿美元。 一季度数据中心、AI营收50.5亿美元，分析师预期44.1亿美元。 一季度客户计算营收77.3亿美元，分析师预期 一季度英特尔代工（Intel Foundry）营收54.2亿美元，分析师预期48.1亿美元。 一季度调整后每股收益（EPS）为0.29美元，分析师预期0.01美元。 预计二季度营收138亿-148亿美元，分析师预期130.4亿美元。 预计二季度调整后EPS为0.20美元，分析师预期0.086美元。 英特尔美股盘后狂飙17%。",
@@ -394,12 +549,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "现货金银短线走低",
+          "url": "https://flash.jin10.com/detail/20260424104847789800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【数据看盘】大族激光龙虎榜现机构与北向资金博弈 多路资金抢筹汇绿生态",
@@ -469,12 +635,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260424104058667800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
@@ -514,13 +691,24 @@
           "time_info": "[05时02分 ~ 05时58分]"
         },
         {
+          "title": "美股周四走低，分析师：投资者借战争之机减仓",
+          "url": "https://flash.jin10.com/detail/20260424110903189800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "MaxLinear美股盘后涨幅扩大至33%。",
           "url": "https://wallstreetcn.com/livenews/3093569",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -550,7 +738,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "以色列国防军：初步报告显示Shtula地区响起警报。",
@@ -570,7 +758,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -584,13 +772,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "港股芯片股快速拉升，纳芯微(02676.HK)涨超13%。华虹半导体(01347.HK)涨超7%，中芯国际(00981.HK)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260424104651950800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "离岸人民币1个月期Hibor周五跌至1.4397%，创下2013年有记录以来的最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3093697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
         {
           "title": "美团去年收入3648.54746亿元人民币，之前一年3375.91576亿元。 去年毛利1110.08626亿元人民币，之前一年1297.84594亿元。",
           "url": "https://wallstreetcn.com/livenews/3093567",
@@ -598,7 +808,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
