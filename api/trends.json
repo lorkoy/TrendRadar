@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T19:15:17.297952+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-04-24T21:59:14.046534+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "倒计时一周！年报行情进入最后冲刺，七成个股实现盈利，这些标的获10倍增速",
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时40分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 21时59分]"
         },
         {
           "title": "光模块龙头中际旭创总市值站上万亿，最近 1 年股价飙升超 10 倍，估值合理吗？对 A 股科技板块意味着什么？",
@@ -58,19 +71,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时40分 ~ 05时02分]"
-        },
-        {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 19时15分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，软件股重挫，芯片逆市连涨17日，原油三连涨",
@@ -188,6 +188,19 @@
           "time_info": "[05时58分 ~ 07时00分]"
         },
         {
+          "title": "国际金价银价下跌",
+          "url": "https://www.douyin.com/hot/2477037",
+          "source": "抖音",
+          "ranks": [
+            21,
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 21时59分]"
+        },
+        {
           "title": "纽蒙特矿业承诺：黄金价格出现史无前例的上涨行情，公司打算回购60亿美元股票。",
           "url": "https://wallstreetcn.com/livenews/3093522",
           "source": "华尔街见闻-快讯",
@@ -210,18 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 07时00分]"
-        },
-        {
-          "title": "国际金价银价下跌",
-          "url": "https://www.douyin.com/hot/2477037",
-          "source": "抖音",
-          "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 19时15分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月23日（周四）晚盘收盘下跌0.18%报1037.83元/克；<br/>上海黄金交易所白银T+D 4月23日（周四）晚盘收盘下跌0.95%报18907.0元/千克。",
@@ -266,6 +267,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "道琼斯指数4月24日（周五）开盘下跌23.43点，跌幅0.05%，报49286.89点；<br/>标普500指数4月24日（周五）开盘上涨19.75点，涨幅0.28%，报7128.15点；<br/>纳斯达克综合指数4月24日（周五）开盘上涨148.92点，涨幅0.61%，报24587.42点。",
+          "url": "https://flash.jin10.com/detail/20260424213147366800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "高通(QCOM.O)开盘上涨10%。",
+          "url": "https://flash.jin10.com/detail/20260424213123644800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美股三大股指开盘上涨 英特尔涨24%创新高",
+          "url": "https://flash.jin10.com/detail/20260424213053770800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报172250元/吨，较上日16:30价格上涨350元/吨。",
@@ -414,7 +448,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "【焦点复盘】沪指高开低走失守4100点，CPO概念现深幅调整，资金逆势抱团红利板块",
@@ -532,6 +566,18 @@
           "time_info": "[01时41分 ~ 03时26分]"
         },
         {
+          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
+          "url": "https://www.cls.cn/detail/2354937",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时59分]"
+        },
+        {
           "title": "CME下调金银期货合约保证金比例要求",
           "url": "https://wallstreetcn.com/livenews/3093521",
           "source": "华尔街见闻-快讯",
@@ -542,6 +588,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 05时58分]"
+        },
+        {
+          "title": "美伊谈判叠加强劲财报，美股期指走高，纳指100期货涨超1.5%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3770804",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 21时59分]"
         },
         {
           "title": "通信片上系统（SOC）供应商MaxLinear美股盘后涨29%，该公司二季度营收指引超过市场预期。 该公司一季度净营收1.372亿美元，分析师预期1.345亿美元。 一季度调整后EPS为0.22美元，分析师预期0.18美元。 一季度调整后毛利润率59.5%，分析师预期59.5%。 预计二季度营收1.60亿-1.70亿美元，分析师预期1.371亿美元。 预计二季度调整后毛利率58%-61%，分析师预期59.6%。",
@@ -562,7 +619,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -620,17 +677,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        },
-        {
-          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
-          "url": "https://www.cls.cn/detail/2354937",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
         },
         {
           "title": "周四（4月23日）纽约尾盘，标普500股指期货最终跌0.55%，道指期货跌0.57%，纳斯达克100股指期货跌0.54%。 罗素2000股指期货跌0.66%。",
@@ -710,6 +756,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "夜盘期货开盘，烧碱、豆一、沪银跌逾1%，PVC、PTA、纯碱等下跌；氧化铝、燃油涨逾1%，纯苯、沪锌等上涨。",
+          "url": "https://wallstreetcn.com/livenews/3094104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "美元和国际油价有所回落，美元指数DXY涨幅收窄至0.1%，美、布两油涨幅均收窄至3%以内，现货黄金收复部分跌幅。",
           "url": "https://flash.jin10.com/detail/20260424021553965800",
           "source": "金十数据",
@@ -738,7 +795,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -757,7 +814,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "【数据看盘】大族激光龙虎榜现机构与北向资金博弈 多路资金抢筹汇绿生态",
@@ -796,6 +853,19 @@
           "time_info": "[01时40分 ~ 07时00分]"
         },
         {
+          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
+          "url": "https://www.cls.cn/detail/2354727",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 21时59分]"
+        },
+        {
           "title": "特朗普拟延长船舶豁免政策 保障油气运输缓解供应紧张",
           "url": "https://flash.jin10.com/detail/20260424024940271800",
           "source": "金十数据",
@@ -805,6 +875,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "马厂老火锅招 985/211 毕业生当管培生，从端盘子做起，升店长需掏 40% 资金，这是选人才还是变相招商？",
+          "url": "https://www.zhihu.com/question/2030583905837897593",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 21时59分]"
         },
         {
           "title": "一个百万亿级产业要诞生了",
@@ -819,28 +902,26 @@
           "time_info": "[14时18分 ~ 17时06分]"
         },
         {
-          "title": "马厂老火锅招 985/211 毕业生当管培生，从端盘子做起，升店长需掏 40% 资金，这是选人才还是变相招商？",
-          "url": "https://www.zhihu.com/question/2030583905837897593",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 19时15分]"
-        },
-        {
-          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
-          "url": "https://www.cls.cn/detail/2354727",
+          "title": "国常会：要紧盯全球科技前沿动向，围绕国家战略需求与产业发展需要，加强原创性引领性科技攻关",
+          "url": "https://www.cls.cn/detail/2355220",
           "source": "财联社热门",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时06分 ~ 19时15分]"
+          "time_info": "[21时58分 ~ 21时59分]"
+        },
+        {
+          "title": "【数据看盘】机构、北向资金狂买锂电股 游资联手量化资金抢筹富瀚微",
+          "url": "https://www.cls.cn/detail/2354982",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 21时59分]"
         },
         {
           "title": "报道：特朗普拟延长船舶豁免政策，保障油气运输缓解供应紧张",
@@ -852,6 +933,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "强瑞技术：拟投资18亿元购买土地使用权并建设人工智能产业研发智造总部",
+          "url": "https://flash.jin10.com/detail/20260424213626251800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "美国总统特朗普：伊朗将削减对黎巴嫩真主党的资金支持。",
@@ -889,102 +981,8 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "离岸人民币1个月期Hibor周五跌至1.4397%，创下2013年有记录以来的最低水平。",
-          "url": "https://wallstreetcn.com/livenews/3093697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "商务部：2026年1-3月全国吸收外资2496亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3093899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "赛力斯：首次回购0.03%公司股份，已支付的总金额为人民币4997.48万元",
-          "url": "https://flash.jin10.com/detail/20260424184931417800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "美团去年收入3648.54746亿元人民币，之前一年3375.91576亿元。 去年毛利1110.08626亿元人民币，之前一年1297.84594亿元。",
-          "url": "https://wallstreetcn.com/livenews/3093567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "周四（4月23日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8356元，较周三纽约尾盘跌36点，日内整体交投于6.8263-6.8395元区间。 日线图上，离岸人民币逐步撤离4月14日顶部6.8059元。",
-          "url": "https://wallstreetcn.com/livenews/3093529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "赛力斯：首次回购0.03%公司股份，已支付的总金额为人民币4997.48万元",
-          "url": "https://wallstreetcn.com/livenews/3093987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.8342，较上一交易日官方收盘价跌6点，较上日夜盘收盘跌16点。",
-          "url": "https://wallstreetcn.com/livenews/3093870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "外汇局：1-3月，中国外汇市场累计成交75.78万亿元人民币",
-          "url": "https://flash.jin10.com/detail/20260424163147024800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
@@ -998,6 +996,39 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时40分 ~ 07时58分]"
+        },
+        {
+          "title": "美股盘初：主要行业ETF涨跌不一，半导体ETF涨近4%，全球科技股指数ETF涨超2%，医疗业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3094126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260424214337991800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美股盘初：英特尔涨约26%，股价创历史新高，MaxLinea涨约67%",
+          "url": "https://wallstreetcn.com/livenews/3094121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "美股七巨头收盘播报｜周四（4月23日），美国科技股七巨头（Magnificent 7）指数跌1.32%，报208.83点，北京时间23:24-01:46持续扩大跌幅。 “超大”市值科技股指数跌1.63%，报409点。",
@@ -1052,7 +1083,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1077,6 +1108,122 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3094098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-24）",
+          "url": "https://flash.jin10.com/detail/20260424212455353800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "离岸人民币1个月期Hibor周五跌至1.4397%，创下2013年有记录以来的最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3093697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "商务部：2026年1-3月全国吸收外资2496亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3093899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "赛力斯：首次回购0.03%公司股份，已支付的总金额为人民币4997.48万元",
+          "url": "https://flash.jin10.com/detail/20260424184931417800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "美团去年收入3648.54746亿元人民币，之前一年3375.91576亿元。 去年毛利1110.08626亿元人民币，之前一年1297.84594亿元。",
+          "url": "https://wallstreetcn.com/livenews/3093567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "周四（4月23日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8356元，较周三纽约尾盘跌36点，日内整体交投于6.8263-6.8395元区间。 日线图上，离岸人民币逐步撤离4月14日顶部6.8059元。",
+          "url": "https://wallstreetcn.com/livenews/3093529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "赛力斯：首次回购0.03%公司股份，已支付的总金额为人民币4997.48万元",
+          "url": "https://wallstreetcn.com/livenews/3093987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8342，较上一交易日官方收盘价跌6点，较上日夜盘收盘跌16点。",
+          "url": "https://wallstreetcn.com/livenews/3093870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "外汇局：1-3月，中国外汇市场累计成交75.78万亿元人民币",
+          "url": "https://flash.jin10.com/detail/20260424163147024800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
@@ -1169,7 +1316,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
