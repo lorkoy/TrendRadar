@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T14:16:40.301035+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-04-26T16:20:59.295212+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 14时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 16时20分]"
         },
         {
           "title": "公募基金首批业绩比较基准调整或于4月底拉开大幕，监管划定三条红线",
@@ -31,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 14时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 16时20分]"
         },
         {
           "title": "美伊有望重回谈判，标普、纳指齐新高，半导体连涨18日，英特尔暴涨24%，原油调整",
@@ -90,6 +91,57 @@
       ]
     },
     {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "「7 家欧盟涉军实体」被商务部列入出口管制管控名单，这会对相关实体和产业产生多大影响？",
+          "url": "https://www.zhihu.com/question/2031048597303768850",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时06分 ~ 07时51分]"
+        },
+        {
+          "title": "9折解锁VIP资金火力图！",
+          "url": "https://flash.jin10.com/detail/20260426150317651800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "据半岛电视台：美国财长贝森特称，伊斯兰革命卫队正试图将越来越多的资金转移到其海外账户中。",
+          "url": "https://flash.jin10.com/detail/20260426005604479800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "9折解锁VIP资金火力升级！",
+          "url": "https://flash.jin10.com/detail/20260425210011708800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
       "match_count": 4,
       "titles": [
@@ -113,11 +165,12 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 14时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 16时20分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -138,51 +191,12 @@
           "url": "https://wallstreetcn.com/articles/3770909",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "「7 家欧盟涉军实体」被商务部列入出口管制管控名单，这会对相关实体和产业产生多大影响？",
-          "url": "https://www.zhihu.com/question/2031048597303768850",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时06分 ~ 07时51分]"
-        },
-        {
-          "title": "据半岛电视台：美国财长贝森特称，伊斯兰革命卫队正试图将越来越多的资金转移到其海外账户中。",
-          "url": "https://flash.jin10.com/detail/20260426005604479800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "9折解锁VIP资金火力升级！",
-          "url": "https://flash.jin10.com/detail/20260425210011708800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 16时20分]"
         }
       ]
     },
@@ -210,11 +224,12 @@
           "url": "https://flash.jin10.com/detail/20260426120715740800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 16时20分]"
         }
       ]
     },
@@ -249,8 +264,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 14时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 16时20分]"
         }
       ]
     }
