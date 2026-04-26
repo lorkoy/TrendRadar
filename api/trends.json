@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T11:49:01.721928+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-04-26T14:16:40.301035+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 11时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 14时16分]"
         },
         {
           "title": "公募基金首批业绩比较基准调整或于4月底拉开大幕，监管划定三条红线",
@@ -26,11 +27,12 @@
           "ranks": [
             6,
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 11时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 14时16分]"
         },
         {
           "title": "美伊有望重回谈判，标普、纳指齐新高，半导体连涨18日，英特尔暴涨24%，原油调整",
@@ -52,11 +54,12 @@
             16,
             15,
             22,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 11时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 14时16分]"
         },
         {
           "title": "5月8日24时国内成品油价格将迎调整",
@@ -83,6 +86,63 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 07时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "3 月一线城市房价环比全线上涨，摩根大通称中国楼市逼近拐点，该观点基于什么逻辑？普通人又该如何应对？",
+          "url": "https://www.zhihu.com/question/2031293637409993812",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 11时49分]"
+        },
+        {
+          "title": "科创板4月行情火热：47只个股创新高 光通信板块表现抢眼",
+          "url": "https://www.cls.cn/detail/2354762",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 14时16分]"
+        },
+        {
+          "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
+          "url": "https://www.zhihu.com/question/2031283079852110233",
+          "source": "知乎",
+          "ranks": [
+            5,
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 06时49分]"
+        },
+        {
+          "title": "战争没打完，欧美“军工股牛市”已经完了",
+          "url": "https://wallstreetcn.com/articles/3770909",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         }
       ]
     },
@@ -127,53 +187,8 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "3 月一线城市房价环比全线上涨，摩根大通称中国楼市逼近拐点，该观点基于什么逻辑？普通人又该如何应对？",
-          "url": "https://www.zhihu.com/question/2031293637409993812",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 11时49分]"
-        },
-        {
-          "title": "科创板4月行情火热：47只个股创新高 光通信板块表现抢眼",
-          "url": "https://www.cls.cn/detail/2354762",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 11时49分]"
-        },
-        {
-          "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
-          "url": "https://www.zhihu.com/question/2031283079852110233",
-          "source": "知乎",
-          "ranks": [
-            5,
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时49分 ~ 06时49分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "SZ SH HK",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "老外学习“Chinglish”为哪般",
@@ -189,6 +204,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时49分 ~ 07时51分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260426120715740800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         }
       ]
     },
@@ -219,11 +245,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 11时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 14时16分]"
         }
       ]
     }
