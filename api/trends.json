@@ -1,11 +1,210 @@
 {
-  "generated_at": "2026-04-28T06:02:01.622611+08:00",
-  "total_titles_processed": 537,
-  "failed_sources": [],
+  "generated_at": "2026-04-28T08:01:44.174899+08:00",
+  "total_titles_processed": 661,
+  "failed_sources": [
+    "baidu"
+  ],
   "trends": [
     {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "锂电产业链上市公司业绩大爆发！4家公司一季度净利增超10倍",
+          "url": "https://www.cls.cn/detail/2357055",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 08时01分]"
+        },
+        {
+          "title": "【数据看盘】机构与量化资金激烈博弈深圳华强 多路资金联手抢筹江海股份",
+          "url": "https://www.cls.cn/detail/2356859",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 06时02分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：将出席今天的日本央行政策会议。",
+          "url": "https://flash.jin10.com/detail/20260428074326568800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "Bobby Jain的对冲基金将返还外部资金，独家为前雇主Millennium管理",
+          "url": "https://wallstreetcn.com/livenews/3095251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：将出席今天的日本央行政策会议。",
+          "url": "https://wallstreetcn.com/livenews/3095290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "桥水基金创始人达利欧当地时间4月27日称，通胀压力持续叠加经济增长放缓，政策制定者必须保持谨慎。达利欧周一表示，“我们无疑正处于滞胀时期”，警告称美国经济已陷入滞胀环境，并指出，倘若即将接任美联储主席的凯文·沃什选择降息，将酿成决策失误。",
+          "url": "https://flash.jin10.com/detail/20260428073412910800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
+          "url": "https://www.zhihu.com/question/2030297015276549260",
+          "source": "知乎",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时13分]"
+        },
+        {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：美联储领导者的潜在转变伴随着风险。 特朗普挑选的新一届美联储主席凯文·沃什强调，衡量通胀的指标应排除最极端的价格波动。 这种做法可能会使政策制定者对通胀动态的变化反应迟缓，因为转折点通常出现在“分布的尾部”——而这正是所谓的截尾均值指标剔除的成分。 沃什选择的通胀衡量指标对他有利，这与他对美联储应对疫情通胀反应迟缓的批评直接矛盾。",
+          "url": "https://wallstreetcn.com/livenews/3095143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 02时13分]"
+        },
+        {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：对于中央银行而言，地缘政治压力的缓解意味着欧洲和英国的政策制定者在加息方面可能会不及市场预期的幅度。 其中一个风险是，宽松的金融环境可能会加剧通胀，尤其是在美国，人工智能支出、财政刺激和劳动力供应紧张已经为物价提供了支撑。",
+          "url": "https://wallstreetcn.com/livenews/3095142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 02时13分]"
+        },
+        {
+          "title": "美国内政部：Bluepoint Wind和Golden State Wind已同意终止海上风电租赁。 作为取消海上风电租赁协议的一部分，贝莱德旗下子公司将向美国液化天然气（LNG）设施投资7.65亿美元。 Golden State Wind将在向美国化石燃料项目投入等额资金后，收回1.2亿美元的海上风电租赁费。",
+          "url": "https://wallstreetcn.com/livenews/3095200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
+          "url": "https://wallstreetcn.com/livenews/3095230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "气候融资在“要么盛宴，要么饥荒”之年吸引创纪录资金流入",
+          "url": "https://wallstreetcn.com/livenews/3095128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "美国总统特朗普：我们需要所有共和党人团结一致，支持这一预算蓝图，为我们移民和海关执法局（ICE）和边境巡逻人员获得全面资金。",
+          "url": "https://flash.jin10.com/detail/20260428025757261800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "中证报头版文章：宏观调控将持续加大逆周期调节力度，储备增量政策",
+          "url": "https://wallstreetcn.com/livenews/3095265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "百亿级私募一季度调仓动作曝光：积极加码科技，认准AI产业链",
+          "url": "https://wallstreetcn.com/livenews/3095263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "桥水基金创始人瑞·达利欧：持续的通胀压力加上经济增长放缓，使得政策制定者需要保持谨慎。",
+          "url": "https://flash.jin10.com/detail/20260428011648639800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "美国财长贝森特谈及伊朗石油行业，宣称：美军实施（霍尔木兹海峡军事）封锁以来，伊朗石油产业开始关闭。",
+          "url": "https://wallstreetcn.com/livenews/3095260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "调整 期货 现货",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "网购、外卖、出行频繁捆绑信贷分期，八部门出台新规全面整治，白条、月付面临调整，释放了哪些监管信号？",
@@ -15,11 +214,34 @@
             17,
             18,
             10,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 08时01分]"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260428073848668800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "现货黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
         },
         {
           "title": "南方电网回应区域现货电价波动",
@@ -39,7 +261,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -61,7 +283,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -72,7 +294,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -116,7 +338,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -138,7 +360,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -149,15 +371,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "周二亚太盘初，美国三大股指期货、罗素2000股指期货涨约0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3095258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -175,11 +408,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33059765",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 08时01分]"
         },
         {
           "title": "迪士尼股价短线下挫，从涨约0.5%转而下跌约0.4%。 美国总统特朗普声称，ABC与迪士尼应当立即解雇Jimmy Kimmel，Kimmel一点都不风趣。",
@@ -247,7 +481,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -285,152 +519,66 @@
           "time_info": "00时49分"
         },
         {
+          "title": "专家称二季度债市震荡运行特征将持续凸显",
+          "url": "https://wallstreetcn.com/livenews/3095268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
           "title": "标普500指数的11个板块多数收跌，日用消费品板块跌1.18%，房地产板块跌0.84%，信息技术/科技板块则收涨0.46%，金融板块涨0.65%，电信板块涨0.94%。",
           "url": "https://wallstreetcn.com/livenews/3095223",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "锂电产业链上市公司业绩大爆发！4家公司一季度净利增超10倍",
-          "url": "https://www.cls.cn/detail/2357055",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 06时02分]"
-        },
-        {
-          "title": "【数据看盘】机构与量化资金激烈博弈深圳华强 多路资金联手抢筹江海股份",
-          "url": "https://www.cls.cn/detail/2356859",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 06时02分]"
-        },
-        {
-          "title": "Bobby Jain的对冲基金将返还外部资金，独家为前雇主Millennium管理",
-          "url": "https://wallstreetcn.com/livenews/3095251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
         {
-          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
-          "url": "https://www.zhihu.com/question/2030297015276549260",
-          "source": "知乎",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时13分]"
-        },
-        {
-          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：美联储领导者的潜在转变伴随着风险。 特朗普挑选的新一届美联储主席凯文·沃什强调，衡量通胀的指标应排除最极端的价格波动。 这种做法可能会使政策制定者对通胀动态的变化反应迟缓，因为转折点通常出现在“分布的尾部”——而这正是所谓的截尾均值指标剔除的成分。 沃什选择的通胀衡量指标对他有利，这与他对美联储应对疫情通胀反应迟缓的批评直接矛盾。",
-          "url": "https://wallstreetcn.com/livenews/3095143",
+          "title": "上证报：“市退”首超“面退”，A股多元化出清格局加速成形",
+          "url": "https://wallstreetcn.com/livenews/3095259",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 02时13分]"
-        },
-        {
-          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：对于中央银行而言，地缘政治压力的缓解意味着欧洲和英国的政策制定者在加息方面可能会不及市场预期的幅度。 其中一个风险是，宽松的金融环境可能会加剧通胀，尤其是在美国，人工智能支出、财政刺激和劳动力供应紧张已经为物价提供了支撑。",
-          "url": "https://wallstreetcn.com/livenews/3095142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 02时13分]"
-        },
-        {
-          "title": "美国内政部：Bluepoint Wind和Golden State Wind已同意终止海上风电租赁。 作为取消海上风电租赁协议的一部分，贝莱德旗下子公司将向美国液化天然气（LNG）设施投资7.65亿美元。 Golden State Wind将在向美国化石燃料项目投入等额资金后，收回1.2亿美元的海上风电租赁费。",
-          "url": "https://wallstreetcn.com/livenews/3095200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
-          "url": "https://wallstreetcn.com/livenews/3095230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "气候融资在“要么盛宴，要么饥荒”之年吸引创纪录资金流入",
-          "url": "https://wallstreetcn.com/livenews/3095128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美国总统特朗普：我们需要所有共和党人团结一致，支持这一预算蓝图，为我们移民和海关执法局（ICE）和边境巡逻人员获得全面资金。",
-          "url": "https://flash.jin10.com/detail/20260428025757261800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "桥水基金创始人瑞·达利欧：持续的通胀压力加上经济增长放缓，使得政策制定者需要保持谨慎。",
-          "url": "https://flash.jin10.com/detail/20260428011648639800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "08时01分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
+          "url": "https://www.cls.cn/detail/2357431",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
+          "url": "https://www.cls.cn/detail/2357399",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
+        },
         {
           "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260428003152536800",
@@ -483,9 +631,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "分析师：警惕美股财报与乐观预期出现裂痕",
+          "url": "https://flash.jin10.com/detail/20260428063804351800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -494,7 +653,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -505,7 +664,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -522,7 +681,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -628,7 +787,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
