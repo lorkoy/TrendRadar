@@ -1,396 +1,11 @@
 {
-  "generated_at": "2026-04-28T08:01:44.174899+08:00",
-  "total_titles_processed": 661,
-  "failed_sources": [
-    "baidu"
-  ],
+  "generated_at": "2026-04-28T12:02:24.216100+08:00",
+  "total_titles_processed": 889,
+  "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "锂电产业链上市公司业绩大爆发！4家公司一季度净利增超10倍",
-          "url": "https://www.cls.cn/detail/2357055",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 08时01分]"
-        },
-        {
-          "title": "【数据看盘】机构与量化资金激烈博弈深圳华强 多路资金联手抢筹江海股份",
-          "url": "https://www.cls.cn/detail/2356859",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 06时02分]"
-        },
-        {
-          "title": "日本经济财政大臣城内实：将出席今天的日本央行政策会议。",
-          "url": "https://flash.jin10.com/detail/20260428074326568800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "Bobby Jain的对冲基金将返还外部资金，独家为前雇主Millennium管理",
-          "url": "https://wallstreetcn.com/livenews/3095251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：将出席今天的日本央行政策会议。",
-          "url": "https://wallstreetcn.com/livenews/3095290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "桥水基金创始人达利欧当地时间4月27日称，通胀压力持续叠加经济增长放缓，政策制定者必须保持谨慎。达利欧周一表示，“我们无疑正处于滞胀时期”，警告称美国经济已陷入滞胀环境，并指出，倘若即将接任美联储主席的凯文·沃什选择降息，将酿成决策失误。",
-          "url": "https://flash.jin10.com/detail/20260428073412910800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
-          "url": "https://www.zhihu.com/question/2030297015276549260",
-          "source": "知乎",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时13分]"
-        },
-        {
-          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：美联储领导者的潜在转变伴随着风险。 特朗普挑选的新一届美联储主席凯文·沃什强调，衡量通胀的指标应排除最极端的价格波动。 这种做法可能会使政策制定者对通胀动态的变化反应迟缓，因为转折点通常出现在“分布的尾部”——而这正是所谓的截尾均值指标剔除的成分。 沃什选择的通胀衡量指标对他有利，这与他对美联储应对疫情通胀反应迟缓的批评直接矛盾。",
-          "url": "https://wallstreetcn.com/livenews/3095143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 02时13分]"
-        },
-        {
-          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：对于中央银行而言，地缘政治压力的缓解意味着欧洲和英国的政策制定者在加息方面可能会不及市场预期的幅度。 其中一个风险是，宽松的金融环境可能会加剧通胀，尤其是在美国，人工智能支出、财政刺激和劳动力供应紧张已经为物价提供了支撑。",
-          "url": "https://wallstreetcn.com/livenews/3095142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 02时13分]"
-        },
-        {
-          "title": "美国内政部：Bluepoint Wind和Golden State Wind已同意终止海上风电租赁。 作为取消海上风电租赁协议的一部分，贝莱德旗下子公司将向美国液化天然气（LNG）设施投资7.65亿美元。 Golden State Wind将在向美国化石燃料项目投入等额资金后，收回1.2亿美元的海上风电租赁费。",
-          "url": "https://wallstreetcn.com/livenews/3095200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
-          "url": "https://wallstreetcn.com/livenews/3095230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "气候融资在“要么盛宴，要么饥荒”之年吸引创纪录资金流入",
-          "url": "https://wallstreetcn.com/livenews/3095128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美国总统特朗普：我们需要所有共和党人团结一致，支持这一预算蓝图，为我们移民和海关执法局（ICE）和边境巡逻人员获得全面资金。",
-          "url": "https://flash.jin10.com/detail/20260428025757261800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "中证报头版文章：宏观调控将持续加大逆周期调节力度，储备增量政策",
-          "url": "https://wallstreetcn.com/livenews/3095265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "百亿级私募一季度调仓动作曝光：积极加码科技，认准AI产业链",
-          "url": "https://wallstreetcn.com/livenews/3095263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "桥水基金创始人瑞·达利欧：持续的通胀压力加上经济增长放缓，使得政策制定者需要保持谨慎。",
-          "url": "https://flash.jin10.com/detail/20260428011648639800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "美国财长贝森特谈及伊朗石油行业，宣称：美军实施（霍尔木兹海峡军事）封锁以来，伊朗石油产业开始关闭。",
-          "url": "https://wallstreetcn.com/livenews/3095260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "网购、外卖、出行频繁捆绑信贷分期，八部门出台新规全面整治，白条、月付面临调整，释放了哪些监管信号？",
-          "url": "https://www.zhihu.com/question/2031819380355502254",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18,
-            10,
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 08时01分]"
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260428073848668800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "现货黄金",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
-        },
-        {
-          "title": "南方电网回应区域现货电价波动",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E7%94%B5%E7%BD%91%E5%9B%9E%E5%BA%94%E5%8C%BA%E5%9F%9F%E7%8E%B0%E8%B4%A7%E7%94%B5%E4%BB%B7%E6%B3%A2%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 06时02分]"
-        },
-        {
-          "title": "CBO：美关税调整可能会在十年内使赤字增加1.1万亿美元",
-          "url": "https://flash.jin10.com/detail/20260428043717053800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：如需调整以保护总统，将会进行调整。",
-          "url": "https://flash.jin10.com/detail/20260428012808742800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "周一（4月27日）纽约尾盘，标普500股指期货最终涨0.12%，道指期货跌0.10%，纳斯达克100股指期货跌0.08%。 罗素2000股指期货涨0.18%。",
-          "url": "https://wallstreetcn.com/livenews/3095239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "周一（4月27日）纽约尾盘，现货黄金跌0.62%，报4680.23美元/盎司，全天呈现出冲高回落走势，北京时间12:34曾微涨至4730美元刷新日高。 COMEX黄金期货8月合约跌0.99%，报4729.20美元/盎司。 现货白银跌0.33%，报75.4783美元/盎司。 COMEX白银期货跌1.36%，报75.895美元/盎司。 COMEX铜期货跌0.09%，报6.0830美元/磅。 现货铂金跌1.47%，现货钯金跌1.45%。",
-          "url": "https://wallstreetcn.com/livenews/3095233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "马里军方：调整部署应对国内安全形势",
-          "url": "https://wallstreetcn.com/livenews/3095131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "芝加哥小麦期货涨约2.3%，大豆涨约1.1%，豆粕涨约2.9%",
-          "url": "https://wallstreetcn.com/livenews/3095190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.21%，报25875点，低水51点。",
-          "url": "https://flash.jin10.com/detail/20260428030412690800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "美国国会预算办公室主任：关税政策调整或使赤字增加1.1万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3095226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "上期所原油期货2606合约夜盘收涨1.10%，报654.50元人民币/桶。 沪金夜盘收跌0.66%，沪银收跌0.70%。",
-          "url": "https://wallstreetcn.com/livenews/3095182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "Rambus一季度调整后每股收益（EPS）为0.55美元，运营利润率34%。 预计二季度产品营收0.95亿-1.01亿美元，合同与其他收入0.19亿-0.25亿美元，许可订单0.76亿-0.82亿美元。 Rambus美股盘后涨4%。",
-          "url": "https://wallstreetcn.com/livenews/3095220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "铿腾电子一季度营收14.7亿美元，分析师预期14.6亿美元。 一季度调整后每股收益（EPS）为1.96美元，分析师预期1.89美元。 预计全年营收61.3亿-62.3亿美元，公司原本预计59亿-60亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3095218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "周二亚太盘初，美国三大股指期货、罗素2000股指期货涨约0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3095258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 14,
+      "match_count": 26,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -475,6 +90,61 @@
           "time_info": "[00时49分 ~ 02时13分]"
         },
         {
+          "title": "隔夜shibor报1.2420%，上涨0.2个基点；7天shibor报1.3640%，上涨0.6个基点；3个月shibor报1.4240%，下跌0.5个基点。点击查看>>",
+          "url": "https://flash.jin10.com/detail/20260428113445913800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "A股午评：沪指震荡走弱，氦气概念连日走强",
+          "url": "https://flash.jin10.com/detail/20260428113400821800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "上证指数早盘收报4083.47点，跌0.07%。 深证成指早盘收报14934.83点，跌0.41%。 创业板指早盘收报3629.17点，跌0.54%。 沪深300早盘收报4773.98点，涨0.06%。 科创50早盘收报1505.11点，跌0.22%。 中证500早盘收报8264.25点，跌0.42%。 中证1000早盘收报8280.64点，跌0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3095415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "金十图示：2026年04月28日（周二）富时中国A50指数成分股午盘收盘行情一览：证券、煤炭、航运股走高，半导体、消费电子板块涨跌互现。",
+          "url": "https://flash.jin10.com/detail/20260428113339384800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "化工股震荡上扬，华谊集团拉升封板，赤天化此前涨停，瑞丰高材涨超10%，华昌化工、中泰化学、卫星化学涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3095408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "道琼斯指数4月27日（周一）收盘下跌62.67点，跌幅0.13%，报49168.04点；<br/>标普500指数4月27日（周一）收盘上涨8.85点，涨幅0.12%，报7173.93点；<br/>纳斯达克综合指数4月27日（周一）收盘上涨50.50点，涨幅0.20%，报24887.10点。",
           "url": "https://flash.jin10.com/detail/20260428040452153800",
           "source": "金十数据",
@@ -484,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "日本央行：经济前景风险偏向下行，通胀风险偏向上行。 日本经济增速可能在2026财年放缓；预计经济将继续温和增长，尽管增速有所放缓。 由于预计高油价的不利影响将减弱，日本经济增速可能从2027财年起温和回升。 原油价格上涨预计将压低企业利润和家庭实际收入。 受原油价格上涨影响，2026财年CPI预测同比涨幅显著提高。 需特别关注中东局势未来走向对金融及外汇市场的影响。 必须妥善关注，防止通胀大幅向上偏离目标的风险成为现实。 若原油价格维持高位的时间长于预期，由于企业利润和家庭实际收入大幅下降，经济可能进一步放缓。 原油价格上涨可能比以往更容易转嫁至各类商品和服务价格中。 还需关注原材料市场价格上涨导致食品价格涨幅超预期的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3095405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "墨西哥主要股票指数下跌超过1%。",
@@ -508,6 +189,17 @@
           "time_info": "00时49分"
         },
         {
+          "title": "日本央行：中川、高田及田村提议将短期利率目标从0.75%上调至1.0%，提议被多数票否决。 中川指出，尽管中东局势仍不明朗，但鉴于经济发展状况，在宽松的金融环境下，物价风险偏向上行。 高田指出，物价稳定目标已基本实现，受海外形势引发的价格上涨二轮效应影响，日本物价风险已经偏向上行。",
+          "url": "https://wallstreetcn.com/livenews/3095401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，连续六个交易日走低，报382.36点，创4月10日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 Verisure Plc.跌5.9%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3095127",
           "source": "华尔街见闻-快讯",
@@ -525,7 +217,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -541,13 +233,550 @@
           "time_info": "06时02分"
         },
         {
+          "title": "A股煤炭板块震荡走高，昊华能源涨超6%，潞安环能、晋控煤业、中煤能源、山煤国际、淮北矿业等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260428112211710800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "日本央行：原油价格上涨可能比以往更容易传导至各类商品和服务价格。",
+          "url": "https://flash.jin10.com/detail/20260428112027215800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.2420%，上涨0.20个基点。 7天SHIBOR报1.3640%，上涨0.60个基点。 3个月SHIBOR报1.4240%，下降0.50个基点。",
+          "url": "https://wallstreetcn.com/livenews/3095391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "日本央行：还需关注食品价格可能因原材料市场价格上涨而超出预期的风险。",
+          "url": "https://flash.jin10.com/detail/20260428111959348800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "上证报：“市退”首超“面退”，A股多元化出清格局加速成形",
           "url": "https://wallstreetcn.com/livenews/3095259",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "越南股指VN指数上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3095385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "网购、外卖、出行频繁捆绑信贷分期，八部门出台新规全面整治，白条、月付面临调整，释放了哪些监管信号？",
+          "url": "https://www.zhihu.com/question/2031819380355502254",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18,
+            10,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 08时01分]"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260428073848668800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "现货黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "南方电网回应区域现货电价波动",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E7%94%B5%E7%BD%91%E5%9B%9E%E5%BA%94%E5%8C%BA%E5%9F%9F%E7%8E%B0%E8%B4%A7%E7%94%B5%E4%BB%B7%E6%B3%A2%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时02分]"
+        },
+        {
+          "title": "CBO：美关税调整可能会在十年内使赤字增加1.1万亿美元",
+          "url": "https://flash.jin10.com/detail/20260428043717053800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "日本10年期国债期货日内下跌0.17点至129.53，此前日本央行公布利率决议。",
+          "url": "https://wallstreetcn.com/livenews/3095418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：如需调整以保护总统，将会进行调整。",
+          "url": "https://flash.jin10.com/detail/20260428012808742800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "周一（4月27日）纽约尾盘，标普500股指期货最终涨0.12%，道指期货跌0.10%，纳斯达克100股指期货跌0.08%。 罗素2000股指期货涨0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3095239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.35%，10年期主力合约涨0.08%，5年期主力合约涨0.08%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3095411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "周一（4月27日）纽约尾盘，现货黄金跌0.62%，报4680.23美元/盎司，全天呈现出冲高回落走势，北京时间12:34曾微涨至4730美元刷新日高。 COMEX黄金期货8月合约跌0.99%，报4729.20美元/盎司。 现货白银跌0.33%，报75.4783美元/盎司。 COMEX白银期货跌1.36%，报75.895美元/盎司。 COMEX铜期货跌0.09%，报6.0830美元/磅。 现货铂金跌1.47%，现货钯金跌1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3095233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260428113110647800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "马里军方：调整部署应对国内安全形势",
+          "url": "https://wallstreetcn.com/livenews/3095131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "芝加哥小麦期货涨约2.3%，大豆涨约1.1%，豆粕涨约2.9%",
+          "url": "https://wallstreetcn.com/livenews/3095190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260428113106502800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.21%，报25875点，低水51点。",
+          "url": "https://flash.jin10.com/detail/20260428030412690800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌不一，瓶片涨超5%，液化石油气（LPG）涨超4%，燃油、沥青涨超3%，丙烯、聚丙烯（PP）、PTA、甲醇涨超2%。跌幅方面，多晶硅跌超4%，烧碱、玻璃跌超3%，沪锌、焦炭、纯碱跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260428113042468800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "日本央行：将根据经济、物价及金融市场的发展情况，继续提高利率。 将密切关注中东局势对经济和物价的影响，审慎研判政策调整的时机与节奏。 核心消费者通胀可能逐渐加速，并从2026财年下半年至2027财年期间，向与物价目标一致的水平收敛。 必须仔细审视核心通胀是否会稳固在2%左右。 薪资与物价面临的上行压力可能超过产出缺口所显示的水平。 中长期通胀预期正在逐步抬升。 通胀预期可能会继续适度增长。",
+          "url": "https://wallstreetcn.com/livenews/3095402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "美国国会预算办公室主任：关税政策调整或使赤字增加1.1万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3095226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "上期所原油期货2606合约夜盘收涨1.10%，报654.50元人民币/桶。 沪金夜盘收跌0.66%，沪银收跌0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3095182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "Rambus一季度调整后每股收益（EPS）为0.55美元，运营利润率34%。 预计二季度产品营收0.95亿-1.01亿美元，合同与其他收入0.19亿-0.25亿美元，许可订单0.76亿-0.82亿美元。 Rambus美股盘后涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3095220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "铿腾电子一季度营收14.7亿美元，分析师预期14.6亿美元。 一季度调整后每股收益（EPS）为1.96美元，分析师预期1.89美元。 预计全年营收61.3亿-62.3亿美元，公司原本预计59亿-60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3095218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "周二亚太盘初，美国三大股指期货、罗素2000股指期货涨约0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3095258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "锂电产业链上市公司业绩大爆发！4家公司一季度净利增超10倍",
+          "url": "https://www.cls.cn/detail/2357055",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 08时01分]"
+        },
+        {
+          "title": "【数据看盘】机构与量化资金激烈博弈深圳华强 多路资金联手抢筹江海股份",
+          "url": "https://www.cls.cn/detail/2356859",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 06时02分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：将出席今天的日本央行政策会议。",
+          "url": "https://flash.jin10.com/detail/20260428074326568800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "Bobby Jain的对冲基金将返还外部资金，独家为前雇主Millennium管理",
+          "url": "https://wallstreetcn.com/livenews/3095251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：将出席今天的日本央行政策会议。",
+          "url": "https://wallstreetcn.com/livenews/3095290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "桥水基金创始人达利欧当地时间4月27日称，通胀压力持续叠加经济增长放缓，政策制定者必须保持谨慎。达利欧周一表示，“我们无疑正处于滞胀时期”，警告称美国经济已陷入滞胀环境，并指出，倘若即将接任美联储主席的凯文·沃什选择降息，将酿成决策失误。",
+          "url": "https://flash.jin10.com/detail/20260428073412910800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
+          "url": "https://www.zhihu.com/question/2030297015276549260",
+          "source": "知乎",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时13分]"
+        },
+        {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：美联储领导者的潜在转变伴随着风险。 特朗普挑选的新一届美联储主席凯文·沃什强调，衡量通胀的指标应排除最极端的价格波动。 这种做法可能会使政策制定者对通胀动态的变化反应迟缓，因为转折点通常出现在“分布的尾部”——而这正是所谓的截尾均值指标剔除的成分。 沃什选择的通胀衡量指标对他有利，这与他对美联储应对疫情通胀反应迟缓的批评直接矛盾。",
+          "url": "https://wallstreetcn.com/livenews/3095143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 02时13分]"
+        },
+        {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：对于中央银行而言，地缘政治压力的缓解意味着欧洲和英国的政策制定者在加息方面可能会不及市场预期的幅度。 其中一个风险是，宽松的金融环境可能会加剧通胀，尤其是在美国，人工智能支出、财政刺激和劳动力供应紧张已经为物价提供了支撑。",
+          "url": "https://wallstreetcn.com/livenews/3095142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 02时13分]"
+        },
+        {
+          "title": "美国内政部：Bluepoint Wind和Golden State Wind已同意终止海上风电租赁。 作为取消海上风电租赁协议的一部分，贝莱德旗下子公司将向美国液化天然气（LNG）设施投资7.65亿美元。 Golden State Wind将在向美国化石燃料项目投入等额资金后，收回1.2亿美元的海上风电租赁费。",
+          "url": "https://wallstreetcn.com/livenews/3095200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "继“AI付”后，支付宝再推“AI收”：为AI产业提供按次收款服务",
+          "url": "https://wallstreetcn.com/livenews/3095409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
+          "url": "https://wallstreetcn.com/livenews/3095230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "气候融资在“要么盛宴，要么饥荒”之年吸引创纪录资金流入",
+          "url": "https://wallstreetcn.com/livenews/3095128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "美国总统特朗普：我们需要所有共和党人团结一致，支持这一预算蓝图，为我们移民和海关执法局（ICE）和边境巡逻人员获得全面资金。",
+          "url": "https://flash.jin10.com/detail/20260428025757261800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "日本央行：实际利率正处于极低水平。 将从可持续、稳定实现2%通胀目标的角度出发，适当实施货币政策。 日本经济增速在2026财年可能有所放缓。",
+          "url": "https://wallstreetcn.com/livenews/3095400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "中证报头版文章：宏观调控将持续加大逆周期调节力度，储备增量政策",
+          "url": "https://wallstreetcn.com/livenews/3095265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "日本央行：迄今已宣布的贸易政策已在一定程度上改变了全球化的趋势。",
+          "url": "https://flash.jin10.com/detail/20260428112215095800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "百亿级私募一季度调仓动作曝光：积极加码科技，认准AI产业链",
+          "url": "https://wallstreetcn.com/livenews/3095263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "桥水基金创始人瑞·达利欧：持续的通胀压力加上经济增长放缓，使得政策制定者需要保持谨慎。",
+          "url": "https://flash.jin10.com/detail/20260428011648639800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "美国财长贝森特谈及伊朗石油行业，宣称：美军实施（霍尔木兹海峡军事）封锁以来，伊朗石油产业开始关闭。",
+          "url": "https://wallstreetcn.com/livenews/3095260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         }
@@ -555,29 +784,31 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
           "url": "https://www.cls.cn/detail/2357431",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时00分 ~ 12时02分]"
         },
         {
           "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
           "url": "https://www.cls.cn/detail/2357399",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时00分 ~ 12时02分]"
         },
         {
           "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -613,6 +844,17 @@
           "time_info": "00时49分"
         },
         {
+          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
+          "url": "https://www.cls.cn/detail/2357471",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "美股三大指数集体低开 高通涨逾6%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E9%AB%98%E9%80%9A%E6%B6%A8%E9%80%BE6%25",
           "source": "百度热搜",
@@ -642,7 +884,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -672,7 +914,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周一（4月27日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8262元，较上周五纽约尾盘涨84点，日内整体交投于6.8386-6.8193元区间。",
@@ -684,6 +926,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "离岸人民币同业拆息利率多数下行，一年期拆息创历史新低",
+          "url": "https://flash.jin10.com/detail/20260428113155156800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8275元，较上周五夜盘收盘涨35点。成交量410.43亿美元。",
