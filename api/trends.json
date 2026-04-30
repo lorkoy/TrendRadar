@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T07:04:49.090959+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-04-30T11:55:21.588375+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 18,
+      "match_count": 31,
       "titles": [
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "港股科网股震荡走弱，小米集团(01810.HK)、腾讯控股(00700.HK)、阿里巴巴(09988.HK)等多股跌超3%，哔哩哔哩(09626.HK)、阿里健康(00241.HK)、快手(01024.HK)、百度(09888.HK)、京东(09618.HK)等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260430114143006800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "美联储主席鲍威尔：人们仍在消费。尚未看到汽油价格上涨带来的明显放缓。",
@@ -111,15 +122,37 @@
           "time_info": "[05时15分 ~ 07时04分]"
         },
         {
+          "title": "金十图示：2026年04月30日（周四）富时中国A50指数成分股午盘收盘行情一览：多数板块飘绿，半导体股强势走高。",
+          "url": "https://flash.jin10.com/detail/20260430113233760800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "特朗普：英特尔股价继续上涨。",
           "url": "https://wallstreetcn.com/livenews/3096980",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "特朗普称赞英特尔(INTC.O)股价上涨。",
@@ -128,9 +161,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "离岸人民币同业拆息利率全线下跌",
+          "url": "https://flash.jin10.com/detail/20260430113204253800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "上证指数早盘收报4111.02点，涨0.09%。 深证成指早盘收报15111.33点，跌0.06%。 创业板指早盘收报3682.49点，跌0.13%。 沪深300早盘收报4809.76点，跌0.01%。 科创50早盘收报1563.86点，涨4.71%。 中证500早盘收报8338.57点，跌0.05%。 中证1000早盘收报8377.91点，涨0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3097148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "已公布财报的“美股七巨头”中，仅Alphabet在盘后上涨",
@@ -144,13 +199,24 @@
           "time_info": "05时15分"
         },
         {
+          "title": "隔夜SHIBOR报1.3270%，上涨8.40个基点。 7天SHIBOR报1.3910%，上涨1.80个基点。 3个月SHIBOR报1.4160%，下降0.35个基点。",
+          "url": "https://wallstreetcn.com/livenews/3097135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（4月29日），美国科技股七巨头（Magnificent 7）指数收跌0.55%，报213.57点，美股早盘冲高回落——北京时间22:37前后短暂地微幅上涨，后半段交易时间低位持稳。 “超大”市值科技股指数涨0.34%，报417.57点，呈现出两波V形反转行情。",
           "url": "https://wallstreetcn.com/livenews/3096968",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -188,6 +254,39 @@
           "time_info": "01时46分"
         },
         {
+          "title": "科创50指数涨超5%，半导体板块涨幅居前，芯原股份20cm涨停，寒武纪涨超19%逼近涨停。",
+          "url": "https://flash.jin10.com/detail/20260430111217104800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "港股芯片股探底回升，天数智芯(09903.HK)涨超14%，壁仞科技(06082.HK)涨超8%，中芯国际(00981.HK)涨超6%，华虹半导体(01347.HK)、澜起科技(06809.HK)、中兴通讯(00763.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260430111052035800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报177650元/吨，较上日16:30价格上涨1100元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3097116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，连续第八个交易日下跌，报375.87点，创4月7日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 DSV A/S跌3.9%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3096806",
           "source": "华尔街见闻-快讯",
@@ -199,6 +298,39 @@
           "time_info": "01时46分"
         },
         {
+          "title": "隔夜shibor报1.3270%，上涨8.4个基点；7天shibor报1.3910%，上涨1.8个基点；3个月shibor报1.4160%，下跌0.35个基点。点击查看>>",
+          "url": "https://flash.jin10.com/detail/20260430110632145800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "A股电力股震荡走低，金开新能逼近跌停，豫能控股、晶科科技、川能动力、粤电力A、节能风电等多股跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3097113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "软银股价逆转稍早跌势，转为上涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3097111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "WTI原油日内涨幅达8.0%，报107.93美元/桶。 布伦特原油5分钟内上涨0.5美元/桶，报111.47美元/桶。 伊朗表示，为遇害领袖复仇仍在议事日程上。 据伊朗电视台，伊朗军事顾问称新领袖（穆杰塔巴·哈梅内伊）身体健康。",
           "url": "https://wallstreetcn.com/livenews/3096913",
           "source": "华尔街见闻-快讯",
@@ -208,12 +340,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "印尼基准股指下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3097109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 10,
+      "match_count": 19,
       "titles": [
         {
           "title": "布伦特原油期货涨穿119.50美元，创2022年6月以来新高。WTI原油日内涨幅达7.5%，报107.46美元/桶。",
@@ -238,6 +381,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "深圳楼市政策调整，深户家庭可在核心区购买 3 套，非深户（一年社保）可买 2 套，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032898043591312151",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "布伦特原油期货突破119.50美元，创2022年6月以来新高。",
           "url": "https://flash.jin10.com/detail/20260430010811200800",
           "source": "金十数据",
@@ -247,6 +401,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260430113119120800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "布伦特原油期货涨至122美元上方，创下伊朗战争以来新高；MSCI亚太指数下跌1%。有报道称美国考虑对伊采取军事行动。",
+          "url": "https://wallstreetcn.com/livenews/3097152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260430113116075800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "老板听从顾客建议连夜调整布局",
+          "url": "https://www.toutiao.com/trending/7634104696201920522/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "Phillips 66：全球油轮船队紧俏，现货市场受限。",
@@ -277,9 +475,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，低硫燃料油（LU）涨超5%，燃油涨超4%，SC原油涨超3%，碳酸锂涨超2%，液化石油气（LPG）、红枣涨近2%。跌幅方面，烧碱跌超1%，多晶硅、铂跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260430113110600800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "NYMEX汽油期货涨5%，创2022年以来盘中新高。",
@@ -299,9 +508,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "WTI原油期货日内涨幅扩大至2%，布油期货涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3097129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "生猪期货2701合约大幅走高，日内涨超3%，现报13805元/吨。",
+          "url": "https://flash.jin10.com/detail/20260430111649459800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "鲍威尔：无法围绕大幅调整点阵图（dot plot）寻找到大范围的支持。 放眼全球，我从来都不是点阵图的死忠。 我认为，我们的沟通（效果）是不错的。 考虑改善沟通是自然的。 如果我们需要加息，肯定就会发出那样的信号。 如果适合降息，我们也会给出相应的信号。",
@@ -324,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260430110501520800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
@@ -331,6 +573,18 @@
       "keyword_group": "美股",
       "match_count": 9,
       "titles": [
+        {
+          "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
+          "url": "https://www.cls.cn/detail/2360291",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 11时55分]"
+        },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2032593268840600541",
@@ -354,17 +608,6 @@
           "time_info": "05时15分"
         },
         {
-          "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
-          "url": "https://www.cls.cn/detail/2360291",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
           "title": "金十图示：2026年04月29日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260430005447060800",
           "source": "金十数据",
@@ -382,7 +625,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -415,7 +658,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -426,7 +669,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         }
@@ -434,7 +677,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "鲍威尔：政策可能维持在中性区间",
@@ -505,6 +748,17 @@
           "time_info": "03时48分"
         },
         {
+          "title": "国家发改委：2026年第二批915亿元超长期特别国债支持设备更新资金已经下达",
+          "url": "https://wallstreetcn.com/livenews/3097122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "鲍威尔：我们认为，政策立场非常适合等待。 保持略微的限制性可能是合理的状态。",
           "url": "https://wallstreetcn.com/livenews/3096890",
           "source": "华尔街见闻-快讯",
@@ -539,7 +793,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -561,7 +815,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         }
@@ -569,7 +823,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价",
@@ -594,6 +848,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 03时48分]"
+        },
+        {
+          "title": "影响金价的关键因素是什么",
+          "url": "https://www.douyin.com/hot/2482875",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
@@ -617,11 +882,12 @@
           "url": "https://wallstreetcn.com/articles/3771214",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 11时55分]"
         }
       ]
     },
