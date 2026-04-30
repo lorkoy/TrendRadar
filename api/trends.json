@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T11:55:21.588375+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-04-30T14:35:34.759429+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时46分 ~ 05时15分]"
+        },
+        {
+          "title": "港股芯片股持续冲高，天数智芯(09903.HK)涨超20%，壁仞科技(06082.HK)涨近8%，华虹半导体(01347.HK)、中芯国际(00981.HK)双双涨超7%，宏光半导体(06908.HK)、晶门半导体(02878.HK)、澜起科技(06809.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260430141309578800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "WTI原油日内涨幅达8.0%，报107.93美元/桶。 布伦特原油5分钟内上涨0.5美元/桶，报111.47美元/桶。伊朗表示，为遇害领袖复仇仍在议事日程上。",
@@ -37,7 +48,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -111,6 +122,17 @@
           "time_info": "[01时46分 ~ 07时04分]"
         },
         {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 14时35分]"
+        },
+        {
           "title": "中金称 A 股「公募机构的券商持仓」比例已近历史低点，对此你怎么看，今年的牛市预期是否还在？",
           "url": "https://www.zhihu.com/question/2031862308759188674",
           "source": "知乎",
@@ -128,7 +150,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -142,17 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
-        },
-        {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
         },
         {
           "title": "特朗普称赞英特尔(INTC.O)股价上涨。",
@@ -172,7 +183,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -183,9 +194,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "嘉能可：预计由于商品价格上涨，成本影响将得到更大程度的抵消。",
+          "url": "https://flash.jin10.com/detail/20260430140446455800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "已公布财报的“美股七巨头”中，仅Alphabet在盘后上涨",
@@ -205,7 +227,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -243,6 +265,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "金饰价格断崖下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E6%96%AD%E5%B4%96%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "纳斯达克100指数转为下跌。",
           "url": "https://flash.jin10.com/detail/20260430003520802800",
           "source": "金十数据",
@@ -260,7 +293,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -271,7 +304,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -282,7 +315,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -304,7 +337,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -315,7 +348,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -326,7 +359,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -348,7 +381,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         }
@@ -356,7 +389,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "布伦特原油期货涨穿119.50美元，创2022年6月以来新高。WTI原油日内涨幅达7.5%，报107.46美元/桶。",
@@ -381,13 +414,24 @@
           "time_info": "05时15分"
         },
         {
+          "title": "“未听闻DDR5断崖式下跌” 存储现货价格微跌系渠道商获利出货",
+          "url": "https://www.cls.cn/detail/2360748",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "深圳楼市政策调整，深户家庭可在核心区购买 3 套，非深户（一年社保）可买 2 套，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2032898043591312151",
           "source": "知乎",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -403,13 +447,24 @@
           "time_info": "01时46分"
         },
         {
+          "title": "Stellantis第一季度净利润3.77亿欧元，上年同期亏损3.87亿欧元 第一季度调整后运营收益9.60亿欧元，上年同期3.27亿欧元。 第一季度调整后运营利润率2.5％，上年同期0.9％。 第一季度净营收381.3亿欧元，同比增长6.5%，预估384.9亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3097243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20260430113119120800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -420,9 +475,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "王小青接棒王良，“零售之王”招商银行迎来关键人事调整",
+          "url": "https://www.cls.cn/detail/2360583",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "股指期货早盘收盘",
@@ -431,7 +497,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -442,7 +508,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -486,7 +552,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -519,7 +585,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -530,7 +596,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -563,7 +629,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         }
@@ -571,7 +637,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
@@ -597,6 +663,17 @@
           "time_info": "[01时46分 ~ 07时04分]"
         },
         {
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "高通美股盘后涨幅扩大至10%。",
           "url": "https://wallstreetcn.com/livenews/3096946",
           "source": "华尔街见闻-快讯",
@@ -606,6 +683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "美股燃料电池龙头暴涨超27% SOFC或成AI数据中心供电首选",
+          "url": "https://www.cls.cn/detail/2360333",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "金十图示：2026年04月29日（周三）热门中概股行情一览（美股盘中）",
@@ -677,7 +765,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "鲍威尔：政策可能维持在中性区间",
@@ -713,6 +801,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时46分 ~ 07时04分]"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260430141056524800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "鲍威尔：美联储希望下辖12个地方联储都是强大的，独立的。 在（制定货币）政策方面撤销（地方）联储主席将是（美联储）终结的开端。",
@@ -754,7 +853,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -773,8 +872,19 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "以色列国防军：在以色列北部社区响起警报后，已在Shomera地区监测到无人机的影响。具体情况正在审查中。由于担心拦截器的残骸坠落，导弹和火箭弹警报已被启动。",
+          "url": "https://flash.jin10.com/detail/20260430141301936800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
         {
           "title": "Kalshi押注者：预测鲍威尔在主席任期结束后将留任美联储理事",
           "url": "https://wallstreetcn.com/livenews/3096828",
@@ -838,6 +948,17 @@
           "time_info": "[01时46分 ~ 07时04分]"
         },
         {
+          "title": "影响金价的关键因素是什么",
+          "url": "https://www.douyin.com/hot/2482875",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 14时35分]"
+        },
+        {
           "title": "国际金价继续回撤至4500美元附近",
           "url": "https://www.toutiao.com/trending/7634171899290848787/",
           "source": "今日头条",
@@ -848,17 +969,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 03时48分]"
-        },
-        {
-          "title": "影响金价的关键因素是什么",
-          "url": "https://www.douyin.com/hot/2482875",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
         }
       ]
     },
@@ -886,8 +996,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 11时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时04分 ~ 14时35分]"
         }
       ]
     },
