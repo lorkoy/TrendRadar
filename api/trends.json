@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T00:27:33.051897+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-01T02:17:50.423550+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "一图看懂 | 谁说站在光里的才算英雄？这些板块业绩同样高增",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时17分]"
+        },
+        {
+          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时17分]"
         },
         {
           "title": "阿根廷石油生产商达成协议，以减轻原油价格上涨的影响。",
@@ -30,15 +41,15 @@
           "time_info": "00时27分"
         },
         {
-          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
+          "title": "墨西哥石油公司PEMEX：油价上涨将体现在二季度业绩报告之中。",
+          "url": "https://wallstreetcn.com/livenews/3097665",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时17分"
         },
         {
           "title": "【焦点复盘】沪指周线4连阳迎4月收官，国产算力链大放异彩，锂电池板块表现分化",
@@ -48,19 +59,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时17分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
           "url": "https://wallstreetcn.com/articles/3771311",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时17分]"
+        },
+        {
+          "title": "WTI原油5分钟内下跌1.33美元/桶，报103.46美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3097658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时17分"
         },
         {
           "title": "铜与白银矿商Lumina Metals Corp.加拿大IPO首日盘中下跌2%。",
@@ -109,9 +132,105 @@
       ]
     },
     {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
+          "url": "https://www.cls.cn/detail/2361202",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时17分]"
+        },
+        {
+          "title": "【每日收评】科创50指数涨超5%，芯片产业链集体爆发，寒武纪20CM涨停重夺“股王”宝座",
+          "url": "https://www.cls.cn/detail/2361107",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时17分]"
+        },
+        {
+          "title": "南向资金追踪｜4月净流入超565亿港元 加仓金融及电讯等防御板块",
+          "url": "https://www.cls.cn/detail/2361353",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时17分]"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普预计将在周四签署国土安全部资金法案。",
+          "url": "https://flash.jin10.com/detail/20260501014342741800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国众议院通过资金法案 国土安全部76天停摆势将结束",
+          "url": "https://flash.jin10.com/detail/20260501012123983800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "市场消息：美国众议院通过法案，为美国国土安全部大部分部门提供资金，该法案将提交给特朗普。",
+          "url": "https://flash.jin10.com/detail/20260501010911115800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
+        {
+          "title": "金价“跳水”背后藏着什么博弈",
+          "url": "https://www.toutiao.com/trending/7634525215950638633/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时17分]"
+        },
+        {
+          "title": "金价突涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E6%B6%A8%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时17分]"
+        },
         {
           "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
           "url": "https://wallstreetcn.com/livenews/3097626",
@@ -133,84 +252,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "金价“跳水”背后藏着什么博弈",
-          "url": "https://www.toutiao.com/trending/7634525215950638633/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "金价突涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E6%B6%A8%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
-          "url": "https://www.cls.cn/detail/2361202",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "【每日收评】科创50指数涨超5%，芯片产业链集体爆发，寒武纪20CM涨停重夺“股王”宝座",
-          "url": "https://www.cls.cn/detail/2361107",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "南向资金追踪｜4月净流入超565亿港元 加仓金融及电讯等防御板块",
-          "url": "https://www.cls.cn/detail/2361353",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "五粮液2026年Q1营收同比增长34%，净利飙升83%至81亿元，追溯调整2025年收入口径｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3771397",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时17分]"
+        },
+        {
+          "title": "英国天然气期货4月份跌超10%",
+          "url": "https://wallstreetcn.com/livenews/3097656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时17分"
         }
       ]
     },
@@ -243,8 +313,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时17分]"
         }
       ]
     },
@@ -260,8 +330,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时17分]"
         }
       ]
     }
