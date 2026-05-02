@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T19:54:25.033860+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-05-02T21:40:41.431669+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
@@ -55,6 +55,19 @@
           "time_info": "[08时34分 ~ 14时17分]"
         },
         {
+          "title": "苏州：提高公积金贷款最高限额，个人公积金最高贷款额度调整为150万元",
+          "url": "https://wallstreetcn.com/livenews/3098136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 21时40分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，NYMEX、ICE市场的天然气期货净空头持仓减少11617手至11117手。",
           "url": "https://flash.jin10.com/detail/20260502033942711800",
           "source": "金十数据",
@@ -101,18 +114,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时04分 ~ 08时34分]"
-        },
-        {
-          "title": "苏州：提高公积金贷款最高限额，个人公积金最高贷款额度调整为150万元",
-          "url": "https://wallstreetcn.com/livenews/3098136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时54分]"
         },
         {
           "title": "北约发言人艾莉森·哈特：美国的驻德部队调整强调了欧洲需要继续增加国防投资，并承担更多共同安全的责任。",
@@ -242,7 +243,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国总统特朗普兜售股市上涨。",
@@ -340,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 08时34分]"
+        },
+        {
+          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
+          "url": "https://wallstreetcn.com/articles/3771483",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "美国总统特朗普被问及可能对伊朗发动袭击时，声称：“我为什么要告诉你？” WTI原油5分钟内上涨0.61美元/桶，报102.53美元/桶。",
@@ -554,11 +566,12 @@
           "url": "https://www.cls.cn/detail/2362019",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 21时40分]"
         },
         {
           "title": "美股行业ETF涨跌各异，能源业ETF跌超1.3%",
@@ -665,6 +678,48 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
+          "url": "https://wallstreetcn.com/articles/3771452",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 11时45分]"
+        },
+        {
+          "title": "短端美债收益率本周累涨约10个基点",
+          "url": "https://wallstreetcn.com/livenews/3098066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时34分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N)2026年一季度末持有的固定收益证券投资公允价值达176.69亿美元（上年同期为178.16亿美元），其中，对美债、外国债券、企业债券的投资公允价值分别为38.8亿美元，123.91亿美元，11.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260502200842876800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SZ SH HK",
       "match_count": 2,
       "titles": [
@@ -718,37 +773,6 @@
           "ranks": [
             11,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 11时45分]"
-        },
-        {
-          "title": "短端美债收益率本周累涨约10个基点",
-          "url": "https://wallstreetcn.com/livenews/3098066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
