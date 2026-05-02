@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T11:45:04.915836+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-05-02T14:17:40.332012+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时34分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[08时34分 ~ 14时17分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，NYMEX、ICE市场的天然气期货净空头持仓减少11617手至11117手。",
@@ -233,6 +234,19 @@
           "time_info": "[06时58分 ~ 11时45分]"
         },
         {
+          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3098081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时34分 ~ 14时17分]"
+        },
+        {
           "title": "道琼斯指数5月1日（周五）收盘下跌152.87点，跌幅0.31%，报49499.27点；<br/>标普500指数5月1日（周五）收盘上涨21.11点，涨幅0.29%，报7230.12点；<br/>纳斯达克综合指数5月1日（周五）收盘上涨222.13点，涨幅0.89%，报25114.44点。",
           "url": "https://flash.jin10.com/detail/20260502040352597800",
           "source": "金十数据",
@@ -267,18 +281,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时04分 ~ 08时34分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3098081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时34分 ~ 11时45分]"
         },
         {
           "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
@@ -385,7 +387,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -397,8 +399,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 11时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 14时17分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -476,6 +478,19 @@
           "time_info": "[06时58分 ~ 11时45分]"
         },
         {
+          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
+          "url": "https://wallstreetcn.com/livenews/3098084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时34分 ~ 14时17分]"
+        },
+        {
           "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
           "url": "https://flash.jin10.com/detail/20260502040111732800",
           "source": "金十数据",
@@ -488,16 +503,15 @@
           "time_info": "[05时04分 ~ 08时34分]"
         },
         {
-          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
-          "url": "https://wallstreetcn.com/livenews/3098084",
-          "source": "华尔街见闻-快讯",
+          "title": "美股创新高之际，对冲基金资产规模创新高",
+          "url": "https://flash.jin10.com/detail/20260502121701582800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            21
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时34分 ~ 11时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "美股行业ETF涨跌各异，能源业ETF跌超1.3%",
@@ -539,6 +553,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3098090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时34分 ~ 14时17分]"
+        },
+        {
           "title": "伊朗：外长与欧盟外交政策负责任通电话。",
           "url": "https://wallstreetcn.com/livenews/3098053",
           "source": "华尔街见闻-快讯",
@@ -552,27 +579,45 @@
           "time_info": "[05时04分 ~ 08时34分]"
         },
         {
-          "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3098090",
-          "source": "华尔街见闻-快讯",
+          "title": "据华尔街日报：消息人士称，美国民主党人正在私下寻求华尔街资金，以备2028年总统竞选。",
+          "url": "https://flash.jin10.com/detail/20260502090041694800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            16
+            12,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时34分 ~ 11时45分]"
+          "time_info": "[11时45分 ~ 14时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少22.52吨，当前持仓量为15042.08吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260502082257768800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 14时17分]"
         },
         {
-          "title": "据华尔街日报：消息人士称，美国民主党人正在私下寻求华尔街资金，以备2028年总统竞选。",
-          "url": "https://flash.jin10.com/detail/20260502090041694800",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/Uq6lC4VFntqNQMXXh1scy.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260502120053425800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "14时17分"
         }
       ]
     },
@@ -635,23 +680,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 08时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少22.52吨，当前持仓量为15042.08吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20260502082257768800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         }
       ]
     },
