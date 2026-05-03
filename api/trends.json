@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T15:23:19.119879+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-05-03T17:28:20.162243+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -71,19 +71,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 17时28分]"
         },
         {
           "title": "余额宝收益率跌破1%，资金依旧看好",
           "url": "https://wallstreetcn.com/livenews/3098243",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 17时28分]"
         },
         {
           "title": "德国经济界：美加征关税或对德产业造成实质性冲击",
@@ -103,7 +104,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         }
@@ -143,22 +144,24 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 17时28分]"
         },
         {
           "title": "底特律汽车制造商警告称，由于中东战争导致局势紧张，今年因大宗商品价格上涨而造成的经济损失将高达50亿美元。",
           "url": "https://flash.jin10.com/detail/20260503123150516800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 17时28分]"
         },
         {
           "title": "QFII一季度重仓银行、电子板块",
@@ -182,11 +185,29 @@
           "url": "https://flash.jin10.com/detail/20260503120602300800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 17时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10元人民币背面图案原来是这里",
+          "url": "https://www.baidu.com/s?wd=10%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81%E8%83%8C%E9%9D%A2%E5%9B%BE%E6%A1%88%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E9%87%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时23分"
+          "time_info": "17时28分"
         }
       ]
     },
@@ -204,8 +225,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 15时23分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 17时28分]"
         }
       ]
     }
