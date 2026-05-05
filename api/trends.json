@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T01:48:03.618692+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-06T03:48:39.621472+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时48分]"
         },
         {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时48分]"
         },
         {
           "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
@@ -36,7 +36,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -47,9 +47,65 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "WTI 6月原油期货收跌4.15美元，跌幅3.90%，报102.27美元/桶。 布伦特7月原油期货收跌4.57美元，跌幅3.99%，报109.87美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.18%，报25860点，低水39点。",
+          "url": "https://flash.jin10.com/detail/20260506030324716800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧元集团主席：我们需要的是欧洲冠军，而不是国家冠军。 当然，我们所有人都有保护本国市场的倾向。 欧盟需要更大银行的一个关键原因是，在新数字金融工具和市场快速增长的时代，它们需要投入大量资金进行技术发展以保持竞争力。 让我们试着展望未来五年或十年。如果他们错过了我刚才提到的技术投资，他们将无法在竞争格局中占据一席之地。 我们的资本市场需要集中监管……因为……我们不应该重复做27次同样的事情，如果你重复做27次，我们实际上就不是一个完整的资本市场。",
+          "url": "https://wallstreetcn.com/livenews/3098859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "伊朗媒体援引佩泽希齐扬的话报道称：美国奉行极限施压政策，想让伊朗坐到谈判桌前，并接受其单方面的要求，这绝不可能。 尽管对话途径正在进行中，但伊朗再次看到了美国的军事集结和威胁。",
+          "url": "https://wallstreetcn.com/livenews/3098887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
         }
       ]
     },
@@ -65,8 +121,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时48分]"
         },
         {
           "title": "美国总统特朗普：燃油价格上涨是（美国和以色列发动战争）需要付出的一点小小的代价。",
@@ -75,26 +131,37 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         }
       ]
     },
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "欧元集团主席：我们需要的是欧洲冠军，而不是国家冠军。 当然，我们所有人都有保护本国市场的倾向。 欧盟需要更大银行的一个关键原因是，在新数字金融工具和市场快速增长的时代，它们需要投入大量资金进行技术发展以保持竞争力。 让我们试着展望未来五年或十年。如果他们错过了我刚才提到的技术投资，他们将无法在竞争格局中占据一席之地。 我们的资本市场需要集中监管……因为……我们不应该重复做27次同样的事情，如果你重复做27次，我们实际上就不是一个完整的资本市场。",
-          "url": "https://wallstreetcn.com/livenews/3098859",
-          "source": "华尔街见闻-快讯",
+          "title": "油价助推，30年美债收益率突破5%，美财政部上调季度发债预期，周三将迎“美债重磅”",
+          "url": "https://wallstreetcn.com/articles/3771562",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时48分]"
+        },
+        {
+          "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
+          "url": "https://www.cls.cn/detail/2363061",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时48分"
         }
       ]
     },
@@ -107,28 +174,12 @@
           "url": "https://www.toutiao.com/trending/7636354274716290614/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "油价助推，30年美债收益率突破5%，美财政部上调季度发债预期，周三将迎“美债重磅”",
-          "url": "https://wallstreetcn.com/articles/3771562",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时48分]"
         }
       ]
     }
