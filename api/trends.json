@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T04:41:38.834067+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-05-07T06:04:51.425497+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -20,13 +20,24 @@
           "time_info": "[00时50分 ~ 04时41分]"
         },
         {
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
           "url": "https://wallstreetcn.com/livenews/3099560",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -50,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 06时04分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -72,7 +83,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -83,9 +94,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3099572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股盘中）",
@@ -116,7 +138,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -135,7 +157,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "欧洲奢侈品概念股普遍上涨，开云集团收涨6.74%，瑞士历峰集团涨6.17%，爱马仕涨5.26%，LVMH集团涨5.11%。",
@@ -155,7 +177,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -166,9 +188,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：预计新西兰房价将保持平稳，随着时间推移略有上涨。",
+          "url": "https://flash.jin10.com/detail/20260507052819731800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "法国财政部：数据显示，法国精炼油销售毛利润已经恢复至（与伊朗战争相关的）危机爆发之前的水平。 由于需求减少，法国4月份车用燃料消费量下降11%。 政府将继续密切关注利润率，以确保其不会过度上涨。",
@@ -182,15 +215,59 @@
           "time_info": "00时50分"
         },
         {
+          "title": "美元指数6日下跌",
+          "url": "https://flash.jin10.com/detail/20260507051248108800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "新西兰联储主席Breman：预计住房价格将持平，随着时间的推移会“略微”上涨。 预计短期通胀将在一定程度上偏高。 预计金鸡谷增速将在一定程度上走弱，但预计今年仍将实现增长。",
+          "url": "https://wallstreetcn.com/livenews/3099584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "国际油价6日大幅下跌",
+          "url": "https://flash.jin10.com/detail/20260507051235263800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
           "title": "道琼斯指数5月6日（周三）收盘上涨612.34点，涨幅1.24%，报49910.59点；<br/>标普500指数5月6日（周三）收盘上涨105.86点，涨幅1.46%，报7365.08点；<br/>纳斯达克综合指数5月6日（周三）收盘上涨512.82点，涨幅2.02%，报25838.94点。",
           "url": "https://flash.jin10.com/detail/20260507040520144800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "受美伊和平预期提振市场情绪影响，拉美资产悉数上涨",
+          "url": "https://wallstreetcn.com/livenews/3099576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "因各船型运价上涨，波罗的海指数升至两年多来新高",
@@ -210,7 +287,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }
@@ -218,7 +295,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "高意公司（相干公司Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。",
@@ -227,20 +304,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "周四亚太盘初，标普股指期货、纳指期货跌超0.1%。 WTI原油期货跌超0.4%，延续周三收跌超7%的表现。",
+          "url": "https://wallstreetcn.com/livenews/3099593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "Arm控股第四财季营收14.9亿美元，IBES预期14.7亿美元。 第四财季调整后每股收益（EPS）为0.60美元，IBES预期0.58美元。 Arm AGI CPU需求强劲，预计2027-28年规模将超过20亿美元。 预计第一财季营收12.6亿美元，IBES预期12.5亿美元。 预计第一财季调整后EPS为0.40美元，IBES预期0.36美元。",
           "url": "https://wallstreetcn.com/livenews/3099561",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 06时04分]"
+        },
+        {
+          "title": "周三（5月6日）纽约尾盘，标普500股指期货最终涨1.39%，道指期货涨1.22%，纳斯达克100股指期货涨2.07%。 罗素2000股指期货涨1.31%。",
+          "url": "https://wallstreetcn.com/livenews/3099579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "06时04分"
         },
         {
           "title": "特朗普假设，美国与伊朗可能会在5月14日之前签订一份协议。WTI原油期货重新跌超7.4%。",
@@ -274,12 +374,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "报道：欧盟委员会起草调整甲烷排放法规执行计划",
+          "url": "https://wallstreetcn.com/livenews/3099564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "高意公司/相干公司（Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。 相干公司（COHR）美股盘后跌6.68%。",
+          "url": "https://wallstreetcn.com/livenews/3099562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "【数据看盘】科创50ETF连续三周份额大减 超20亿元资金抢筹江波龙",
@@ -290,8 +412,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 06时04分]"
         },
         {
           "title": "美联储古尔斯比：所有政策选项始终都在考虑之中，大家应该知道这一点。",
@@ -300,9 +422,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "加拿大央行行长：（在参议院作证时表示）一旦将政府的财政更新措施纳入考量，7月货币政策报告中的通胀预测将不会有太大变化。",
+          "url": "https://flash.jin10.com/detail/20260507045842077800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "加拿大央行行长在参议院证词中表示：即便将政府财政更新报告中的措施纳入考虑，7月《货币政策报告》中的通胀预测也不会发生太大变化。",
+          "url": "https://wallstreetcn.com/livenews/3099571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "美联储古尔斯比：任何表明美国通胀问题正持续走向错误方向的迹象，都将要求我们重新审视正确的货币政策路径。",
@@ -311,7 +455,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }
@@ -328,7 +472,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -339,15 +483,43 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元北京时间03:00收报6.8133，较上一交易日夜盘收盘涨177点。",
+          "url": "https://wallstreetcn.com/livenews/3099534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "周三（5月6日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8132元，较周二纽约尾盘涨138点，日内整体交投于6.8283-6.8049元区间。",
+          "url": "https://wallstreetcn.com/livenews/3099577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
@@ -357,8 +529,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 06时04分]"
+        },
+        {
+          "title": "金价涨2.8%，逼近4700美元",
+          "url": "https://wallstreetcn.com/livenews/3099570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         }
       ]
     },
@@ -373,7 +556,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }
