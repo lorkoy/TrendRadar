@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T02:55:45.825356+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-05-08T04:21:58.355015+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "售楼处深夜仍在开单！上海五一假期新房二手房成交量同比均两位数上涨",
@@ -16,8 +16,32 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时21分]"
+        },
+        {
+          "title": "周四，大多数拉丁美洲股市出现回落，投资者正在评估美伊冲突走向解决的进展，这一进展已导致油价暴跌。 MSCI拉丁美洲货币追踪指数在本周早些时候创下历史新高后持平，而股市指数在连续两个交易日上涨后下跌1.54%。",
+          "url": "https://wallstreetcn.com/livenews/3100188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "全球芯片巨头集体上涨，三星电子股价涨超 14%，SK 海力士股价涨近 11%，这次半导体景气周期能持续多久？",
+          "url": "https://www.zhihu.com/question/2035641160987664939",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "time_info": "[00时59分 ~ 04时21分]"
         },
         {
           "title": "博通(AVGO.O)股价小幅走低，下跌3.6%，报410美元。有报道称博通与OpenAI的交易因融资问题受阻。",
@@ -26,32 +50,43 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "道琼斯指数5月7日（周四）收盘下跌313.62点，跌幅0.63%，报49596.97点；<br/>标普500指数5月7日（周四）收盘下跌28.01点，跌幅0.38%，报7337.11点；<br/>纳斯达克综合指数5月7日（周四）收盘下跌32.75点，跌幅0.13%，报25806.20点。",
+          "url": "https://flash.jin10.com/detail/20260508040548918800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收跌，原材料板块收跌1.83%，能源板块跌1.78%，电信板块、信息技术/科技收涨0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3100183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "传奇投资者：AI牛市“还能再持续一两年”",
           "url": "https://wallstreetcn.com/livenews/3100154",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "全球芯片巨头集体上涨，三星电子股价涨超 14%，SK 海力士股价涨近 11%，这次半导体景气周期能持续多久？",
-          "url": "https://www.zhihu.com/question/2035641160987664939",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5
+            4,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "time_info": "[02时55分 ~ 04时21分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 5月7日（周四）晚盘收盘下跌0.14%报1032.84元/克；<br/>上海黄金交易所白银T+D 5月7日（周四）晚盘收盘上涨1.96%报19656.0元/千克。",
@@ -60,7 +95,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         },
@@ -71,7 +106,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         },
@@ -87,13 +122,24 @@
           "time_info": "01时01分"
         },
         {
+          "title": "标普500指数初步收跌0.4%，能源、原材料板块跌1.8%，科技板块持平，电信板块微涨不到0.1%。 纳斯达克100指数初步收跌0.1%，成分股中，Insmed初步收跌23%，Arm跌10%，迈威尔科技、闪迪、贝克休斯、MPWR等至多跌7.2%，派拓网络涨7.1%，CrowdStrike涨8.2%，Zscaler涨9.9%，Axon涨10.8%，Fortinet涨20.4%，Datadog涨31.2%。 卡特彼勒初步收跌3.4%，摩根大通跌2.6%，3M跌1.8%，雪佛龙跌1.5%，亚马逊跌1.4%，领跌道指成分股，英伟达涨1.7%，Salesforce涨2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3100177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
           "title": "欧洲央行执委施纳贝尔：如果等到工资真正上涨，对欧洲央行来说就为时已晚。",
           "url": "https://flash.jin10.com/detail/20260508021245804800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         },
@@ -111,91 +157,8 @@
       ]
     },
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "欧盟禁止对使用中国逆变器项目提供资金支持，商务部回应",
-          "url": "https://www.cls.cn/detail/2365091",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
-        },
-        {
-          "title": "美联储哈玛克：鉴于当前的不确定性，我需要对下一项政策举措保持开放态度。",
-          "url": "https://flash.jin10.com/detail/20260508023222404800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "【数据看盘】机构、游资合力买入巨力索具 多路资金联手抢筹中国长城",
-          "url": "https://www.cls.cn/detail/2365084",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量收涨录得日线六连阳，英伟达联手康宁引爆光通信产业链",
-          "url": "https://www.cls.cn/detail/2365047",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：如果能源成本上涨被转嫁到物价上，或者工资随之上涨，那就是货币政策必须采取行动的信号。",
-          "url": "https://flash.jin10.com/detail/20260508021235436800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：将在压低美国通胀至2%方面恪守承诺。 货币政策“略微具有限制性”，解决美伊战争将有助于压低通胀。 还没有迹象表明能源价格飙涨推高中期、或长期通胀预期。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3100137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "欧洲央行执委会成员Isabel Schnabel：呼吁（欧元区）各国政府和立法者在遏制通胀方面发挥作用，敦促他们将公共债务置于可持续轨道，并保留金融危机后建立的审慎规则。 另一种选择是，在职责模糊的情况下，听任财政和金融主导权悄然侵蚀货币政策空间——这将逐渐削弱独立性，并最终导致更高的通胀和更低的增长。",
-          "url": "https://wallstreetcn.com/livenews/3100129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "调整 期货 现货",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "WTI 6月原油期货收跌0.27美元，跌幅0.28%，报94.81美元/桶。",
@@ -204,20 +167,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "CoreWeave一季度营收20.78亿美元，IBES预期19.65亿美元。 一季度调整后息税折旧摊销前利润 EBITDA)为11.57亿美元，市场预期11.50亿美元。 一季度调整后营业利润2100万美元，市场预期2460万美元。 一季度每股亏损1.40美元。 一季度调整后息税折旧摊销前利润率56%。 一季度调整后净亏损5.89亿美元，市场预期亏损4.46亿美元。 截至3月31日，公司收入积压订单（revenue backlog）高达994亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "上期所原油期货2606合约夜盘收跌0.88%，报629.10元人民币/桶。 沪金夜盘收涨0.12%，沪银收涨2.49%。",
           "url": "https://wallstreetcn.com/livenews/3100156",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 04时21分]"
         },
         {
           "title": "浪姐第三次公演播出调整",
@@ -225,11 +200,12 @@
           "source": "微博",
           "ranks": [
             12,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时21分]"
         },
         {
           "title": "美国天然气期货日内涨超3.00%，现报2.812美元/百万英热。",
@@ -249,7 +225,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         },
@@ -260,7 +236,101 @@
           "ranks": [
             27
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "WTI 6月原油期货收跌0.27美元，跌幅0.28%，报94.81美元/桶。 布伦特7月原油期货收跌1.21美元，跌幅1.19%，报100.06美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3100158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "欧盟禁止对使用中国逆变器项目提供资金支持，商务部回应",
+          "url": "https://www.cls.cn/detail/2365091",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时21分]"
+        },
+        {
+          "title": "美联储哈玛克：鉴于当前的不确定性，我需要对下一项政策举措保持开放态度。",
+          "url": "https://flash.jin10.com/detail/20260508023222404800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "【数据看盘】机构、游资合力买入巨力索具 多路资金联手抢筹中国长城",
+          "url": "https://www.cls.cn/detail/2365084",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时21分]"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量收涨录得日线六连阳，英伟达联手康宁引爆光通信产业链",
+          "url": "https://www.cls.cn/detail/2365047",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时21分]"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：如果能源成本上涨被转嫁到物价上，或者工资随之上涨，那就是货币政策必须采取行动的信号。",
+          "url": "https://flash.jin10.com/detail/20260508021235436800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：将在压低美国通胀至2%方面恪守承诺。 货币政策“略微具有限制性”，解决美伊战争将有助于压低通胀。 还没有迹象表明能源价格飙涨推高中期、或长期通胀预期。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3100137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "欧洲央行执委会成员Isabel Schnabel：呼吁（欧元区）各国政府和立法者在遏制通胀方面发挥作用，敦促他们将公共债务置于可持续轨道，并保留金融危机后建立的审慎规则。 另一种选择是，在职责模糊的情况下，听任财政和金融主导权悄然侵蚀货币政策空间——这将逐渐削弱独立性，并最终导致更高的通胀和更低的增长。",
+          "url": "https://wallstreetcn.com/livenews/3100129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         }
@@ -268,7 +338,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -278,8 +348,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时21分]"
         },
         {
           "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
@@ -289,19 +359,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时21分]"
+        },
+        {
+          "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260508040600558800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "金十图示：2026年05月07日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260508040548175800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
           "url": "https://wallstreetcn.com/articles/3771706",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时21分]"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
@@ -312,14 +405,25 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时21分]"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 Arm跌10%",
+          "url": "https://flash.jin10.com/detail/20260508040237362800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "《生活大爆炸》为什么谢尔顿（Sheldon）很少嘲讽拉吉（Raj）的学术水平和智商？",
@@ -345,13 +449,24 @@
           "time_info": "[00时59分 ~ 01时01分]"
         },
         {
+          "title": "伊朗官方媒体米赞通讯社援引消息人士称：格什姆岛（Qeshm）传出的爆炸声是由防空系统拦截数架小型无人机引起的。",
+          "url": "https://wallstreetcn.com/livenews/3100173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
           "title": "预测平台Kalshi的交易员们认为：美国要到2027年才能与伊朗达成核协议的概率上升。",
           "url": "https://wallstreetcn.com/livenews/3100138",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         }
@@ -359,18 +474,30 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
           "url": "https://wallstreetcn.com/articles/3771709",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时21分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8068元，较周三夜盘收盘涨65点。成交量565.98亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     },
@@ -388,6 +515,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 01时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
+          "url": "https://wallstreetcn.com/livenews/3100167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（5月7日）纽约尾盘，ICE美元指数涨0.08%，报98.10点，日内交投区间为97.82-98.17点，北京时间22:30以来持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3100168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     }
