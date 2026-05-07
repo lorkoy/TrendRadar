@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T14:52:32.696200+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-05-07T17:43:28.598241+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -57,11 +57,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 17时43分]"
         },
         {
           "title": "美联储古尔斯比：持续的核心服务价格上涨、富裕家庭的财富驱动消费以及与人工智能投资相关职业的工资上涨，可能表明通胀更加持久。",
@@ -92,7 +93,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -124,11 +125,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 17时43分]"
         },
         {
           "title": "售楼处深夜仍在开单！上海五一假期新房二手房成交量同比均两位数上涨",
@@ -302,7 +304,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -324,7 +326,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -343,7 +345,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "高意公司（相干公司Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。",
@@ -379,13 +381,24 @@
           "time_info": "07时58分"
         },
         {
+          "title": "现货白银站上80美元/盎司，日内涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3099912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "明晚24点国内油价将迎调整",
           "url": "https://www.douyin.com/hot/2490971",
           "source": "抖音",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -441,7 +454,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -463,9 +476,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "独家|部分银行继续收紧零售信贷风控，包括上收个贷审批权限、调整模型参数等方式",
+          "url": "https://www.cls.cn/detail/2364608",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "周三（5月6日）纽约尾盘，标普500股指期货最终涨1.39%，道指期货涨1.22%，纳斯达克100股指期货涨2.07%。 罗素2000股指期货涨1.31%。",
@@ -485,9 +509,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "酒鬼酒：副总经理胡晓熹因工作调整辞职",
+          "url": "https://flash.jin10.com/detail/20260507170501719800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "特朗普假设，美国与伊朗可能会在5月14日之前签订一份协议。WTI原油期货重新跌超7.4%。",
@@ -507,7 +542,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -573,7 +608,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -625,7 +660,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -635,8 +670,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时04分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[06时04分 ~ 17时43分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -708,6 +743,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 02时25分]"
+        },
+        {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
@@ -785,12 +831,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "美股盘前，ARM跌超4%，公司Q4财季营收同比增长20.2%。",
+          "url": "https://wallstreetcn.com/livenews/3099863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "南向资金净卖额达20亿元。",
@@ -815,6 +872,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 07时58分]"
+        },
+        {
+          "title": "中国人民银行：4月通过公开市场国债买卖净投放资金400亿元。",
+          "url": "https://wallstreetcn.com/livenews/3099892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "【中办、国办印发《美丽中国建设成效考核办法》】中共中央办公厅、国务院办公厅近日印发《美丽中国建设成效考核办法》。考核办法适用于对各省（自治区、直辖市）党委和政府美丽中国建设成效的考核。 考核办法精准设置五个方面考核内容。一是美丽中国建设责任落实情况。二是美丽中国建设年度主要目标完成情况。三是美丽中国建设年度重点任务完成情况。四是资金使用绩效情况。五是群众满意程度。 在强化考核结果运用上，文件明确提出，考核结果作为省（自治区、直辖市）党委和政府领导班子和有关领导干部综合考核评价、奖惩任免的重要参考，作为生态环境保护相关财政资金分配的参考依据。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3099890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "韩国产业通商资源部长官称，将在6月份过后宣布有关美国投资计划的信息。（NewSis）",
@@ -850,6 +929,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "中国人民银行：4月通过公开市场国债买卖净投放资金400亿元",
+          "url": "https://flash.jin10.com/detail/20260507170237003800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "加拿大央行行长在参议院证词中表示：即便将政府财政更新报告中的措施纳入考虑，7月《货币政策报告》中的通胀预测也不会发生太大变化。",
           "url": "https://wallstreetcn.com/livenews/3099571",
           "source": "华尔街见闻-快讯",
@@ -872,6 +962,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "日本央行数据显示，货币市场状况预计将出现4.51万亿日元的资金缺口，而此前的预测为0至5000亿日元的资金盈余。",
+          "url": "https://flash.jin10.com/detail/20260507170115371800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "收银台“断链”倒计时：理财资金寻新巢，银行“宝宝”迎风口",
           "url": "https://wallstreetcn.com/livenews/3099603",
           "source": "华尔街见闻-快讯",
@@ -889,7 +990,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -922,6 +1023,18 @@
           "time_info": "07时58分"
         },
         {
+          "title": "《生活大爆炸》为什么谢尔顿（Sheldon）很少嘲讽拉吉（Raj）的学术水平和智商？",
+          "url": "https://www.zhihu.com/question/452782047",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时43分]"
+        },
+        {
           "title": "美联储Goolsbee：如果低消费者信心转化为消费支出下降，他将警惕需求“过冷”。 对思考通胀的新方式持开放态度。 美联储应尽可能纳入所有数据，但他认为解决通胀问题没有万灵药。 美联储主席提名人凯文·沃什（Kevin Warsh）有一些值得思考的新颖观点。 改革央行的通胀框架“并非易事”。",
           "url": "https://wallstreetcn.com/livenews/3099556",
           "source": "华尔街见闻-快讯",
@@ -944,24 +1057,13 @@
           "time_info": "04时41分"
         },
         {
-          "title": "《生活大爆炸》为什么谢尔顿（Sheldon）很少嘲讽拉吉（Raj）的学术水平和智商？",
-          "url": "https://www.zhihu.com/question/452782047",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
           "title": "港股石油股午后持续下挫，中国石油股份(00857.HK)跌超8%，山东墨龙(00568.HK)跌超7%，中国海洋石油(00883.HK)跌超5%，中国石油化工股份(00386.HK)、中石化油服(01033.HK)跟跌。",
           "url": "https://flash.jin10.com/detail/20260507142400448800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -1005,7 +1107,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         }
@@ -1013,7 +1115,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "在岸人民币兑美元北京时间03:00收报6.8133，较上一交易日夜盘收盘涨177点。",
@@ -1038,6 +1140,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8015，较上一交易日官方收盘价涨134点，较上日夜盘收盘涨118点。",
+          "url": "https://wallstreetcn.com/livenews/3099879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "在岸人民币兑美元涨116点至6.8033元，创2023年2月14日以来新高。 离岸人民币兑美元涨107点至6.8024元，创2023年2月10日以来新高。",
           "url": "https://wallstreetcn.com/livenews/3099682",
           "source": "华尔街见闻-快讯",
@@ -1052,7 +1165,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际金价持续走高",
@@ -1061,7 +1174,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -1075,6 +1188,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 07时58分]"
+        },
+        {
+          "title": "金价今年或涨至5200美元",
+          "url": "https://www.douyin.com/hot/2491112",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "金价涨2.8%，逼近4700美元",
@@ -1112,8 +1236,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 17时43分]"
         }
       ]
     },
