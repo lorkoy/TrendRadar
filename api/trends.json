@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T11:58:40.609328+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-05-12T14:45:44.292263+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，报382.93点。 在十个板块中，北欧医疗保健板块涨幅最大。 Fastighets AB Balder涨5.8%，在一众北欧个股里领跑。",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -70,11 +70,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[07时04分 ~ 14时45分]"
         },
         {
           "title": "金十图示：2026年05月12日（周二）富时中国A50指数成分股午盘收盘行情一览：通信设备板块走强，证券板块偏软",
@@ -83,7 +84,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -105,7 +106,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -121,13 +122,24 @@
           "time_info": "00时10分"
         },
         {
+          "title": "台币兑美元下跌0.4%至31.541。",
+          "url": "https://wallstreetcn.com/livenews/3102068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "隔夜SHIBOR报1.2550%，上涨3.40个基点。 7天SHIBOR报1.3080%，下降3.20个基点。 3个月SHIBOR报1.4120%，下降0.20个基点。",
           "url": "https://wallstreetcn.com/livenews/3101994",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -141,6 +153,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "日经225指数5月12日（周二）收盘上涨324.69点，涨幅0.52%，报62742.57点。",
+          "url": "https://flash.jin10.com/detail/20260512143104983800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "意大利10年期国债收益率上涨超过7个基点，达到3.855%。德国2年期国债收益率上升5个基点，至2.697%。",
+          "url": "https://flash.jin10.com/detail/20260512142902543800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "据路透社/益普索调查：63%的美国人表示，油价上涨对家庭财务造成了影响，较3月份的55%有所上升。",
@@ -160,7 +194,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -171,7 +205,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -182,7 +216,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -193,7 +227,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -215,9 +249,42 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "A股军工板块异动拉升，成飞集成冲击涨停，北方长龙、捷强装备、湖南天雁、内蒙一机等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3102050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股光刻机板块震荡走高，广立微涨超10%，新莱应材涨超9%，中润光学、美迪凯涨超6%，富创精密、泰晶科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260512142112483800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数5月12日（周二）收盘下跌26.60点，跌幅0.31%，报8675.20点。",
+          "url": "https://flash.jin10.com/detail/20260512142104396800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "MSCI亚太指数下跌1%，至269.54点。",
@@ -226,7 +293,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -237,7 +304,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -248,7 +315,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         }
@@ -256,7 +323,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "央行：继续实施好适度宽松的货币政策",
@@ -288,11 +355,12 @@
           "ranks": [
             9,
             10,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 11时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 14时45分]"
         },
         {
           "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
@@ -304,8 +372,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 11时58分]"
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 14时45分]"
+        },
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 14时45分]"
         },
         {
           "title": "特朗普拟暂停美国汽油税 政策仍需国会立法批准",
@@ -319,26 +398,26 @@
           "time_info": "00时10分"
         },
         {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
           "title": "日本财长：日美“非常良好地协调”汇率政策，贝森特被指默许干预",
           "url": "https://flash.jin10.com/detail/20260512113628039800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "财联社C50风向指数调查：5月资金面或小幅收敛但不收紧，物价回升削弱市场降息预期",
+          "url": "https://www.cls.cn/detail/2368750",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "部分私募：管得了百亿元资金，却在打新上“翻车”",
@@ -350,6 +429,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "科创板最大并购过会意味着什么？半导体产业整合大幕拉开",
+          "url": "https://www.cls.cn/detail/2368636",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 14时45分]"
         },
         {
           "title": "市场消息：ServiceNow正寻求通过一笔潜在的美国高等级债券发行筹集约40亿美元资金，以支持公司近期的收购交易。",
@@ -364,26 +455,27 @@
           "time_info": "[05时24分 ~ 07时04分]"
         },
         {
-          "title": "科创板最大并购过会意味着什么？半导体产业整合大幕拉开",
-          "url": "https://www.cls.cn/detail/2368636",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
           "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
           "url": "https://wallstreetcn.com/articles/3772017",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 14时45分]"
+        },
+        {
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时58分"
+          "time_info": "14时45分"
         },
         {
           "title": "日本经济产业大臣赤泽亮正周二和美国财长贝森特讨论了能源和关键矿产问题。",
@@ -392,9 +484,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "宗馥莉被曝罢免销售负责人，直管营销，非生产业务将外包，或裁员 30%，如何看待这种管理模式？",
+          "url": "https://www.zhihu.com/question/2037442485165582106",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "央视曝光三无手搓汽车，从新能源车拆下翻新锂电池自行组装，这种汽车有何风险？暴露出监管与产业链哪些问题？",
+          "url": "https://www.zhihu.com/question/2037091318204032140",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "韩国总统府政策室长金容范称，人工智能公民红利并不意味着暴利税。",
@@ -403,7 +528,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -425,9 +550,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "市场分析：日本央行4月会议纪要为政策选项预留空间",
+          "url": "https://flash.jin10.com/detail/20260512142208366800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "中部第一城冲刺首个万亿级产业",
@@ -436,7 +572,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -447,15 +583,231 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         }
       ]
     },
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时24分]"
+        },
+        {
+          "title": "美国天然气期货日内大涨6.00%，现报2.923美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260512024040267800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "WTI 6月原油期货收涨2.65美元，涨幅2.78%，报98.07美元/桶。 NYMEX 6月天然气期货收报2.91美元/百万英热单位。 NYMEX 6月汽油期货收报3.5998美元/加仑，NYMEX 6月取暖油期货收报3.9686美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3101818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "上期所原油期货2606合约夜盘收涨0.11%，报633.30元人民币/桶。 沪金夜盘收涨0.45%，沪银收涨6.41%。",
+          "url": "https://wallstreetcn.com/livenews/3101817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.28%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3102005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "周一（5月11日）纽约尾盘，标普500股指期货最终涨0.15%，道指期货涨0.22%，纳斯达克100股指期货涨0.18%。 罗素2000股指期货涨0.39%。",
+          "url": "https://wallstreetcn.com/livenews/3101868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 07时04分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260511233837630800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20260512113432427800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260512113107919800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260512113105117800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。沪银涨超6%，液化石油气（LPG）涨超5%，铂、沪铜、国际铜、燃料油、低硫燃料油（LU）涨超2%；跌幅方面，多晶硅跌超4%，工业硅、焦煤、烧碱跌超2%，生猪、氧化铝、棕榈油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260512113033440800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "现货黄金失守4700美元/盎司，日内跌0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3102067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "英国利率期货定价显示，到12月英国央行政策利率将收紧约68个基点，而周一预测为约56个基点。",
+          "url": "https://flash.jin10.com/detail/20260512143237050800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "现货铂金涨3%，报2120.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3101747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "沃达丰集团第四季度内生性服务业务收入增长5.1％，预估增长4.94％。 全年负债净额254.1亿欧元，预估251.2亿欧元。 全年营收404.6亿欧元。 预计2027年调整后自由现金流26亿欧元至29亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3102059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "内盘期货夜市涨跌各异，LPG收涨3.2%",
+          "url": "https://wallstreetcn.com/livenews/3101743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "现货黄金跌破4700美元/盎司，日内跌0.74%。",
+          "url": "https://flash.jin10.com/detail/20260512142243812800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "拜耳第一季度调整后EBITDA 45亿欧元，预估39.4亿欧元。 第一季度销售额134.1亿欧元，预估134.9亿欧元。 第一季度调整后EBITDA利润率为33.2%，去年同期为29.7%，预期为28.9%。 第一季度核心每股收益2.71欧元，预估2.22欧元。",
+          "url": "https://wallstreetcn.com/livenews/3102041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "布伦特原油期货涨超4美元。",
+          "url": "https://wallstreetcn.com/livenews/3101789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -477,8 +829,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[07时04分 ~ 14时45分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -489,8 +841,31 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时04分 ~ 14时45分]"
+        },
+        {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
+          "url": "https://www.cls.cn/detail/2368550",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时04分 ~ 11时58分]"
+          "time_info": "[11时58分 ~ 14时45分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -503,17 +878,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 07时04分]"
-        },
-        {
-          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
-          "url": "https://www.cls.cn/detail/2368550",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
         },
         {
           "title": "美股光通信概念股集体大涨，Applied Optoelectronics大涨逾24%，poet technologies大涨逾23%，Lumentum大涨逾17%，credo technology涨逾9%，Ciena涨逾5%。",
@@ -639,167 +1003,6 @@
       ]
     },
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 05时24分]"
-        },
-        {
-          "title": "美国天然气期货日内大涨6.00%，现报2.923美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260512024040267800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "WTI 6月原油期货收涨2.65美元，涨幅2.78%，报98.07美元/桶。 NYMEX 6月天然气期货收报2.91美元/百万英热单位。 NYMEX 6月汽油期货收报3.5998美元/加仑，NYMEX 6月取暖油期货收报3.9686美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3101818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "上期所原油期货2606合约夜盘收涨0.11%，报633.30元人民币/桶。 沪金夜盘收涨0.45%，沪银收涨6.41%。",
-          "url": "https://wallstreetcn.com/livenews/3101817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.28%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3102005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "周一（5月11日）纽约尾盘，标普500股指期货最终涨0.15%，道指期货涨0.22%，纳斯达克100股指期货涨0.18%。 罗素2000股指期货涨0.39%。",
-          "url": "https://wallstreetcn.com/livenews/3101868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 07时04分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260511233837630800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "金十期货热图",
-          "url": "https://flash.jin10.com/detail/20260512113432427800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260512113107919800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260512113105117800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。沪银涨超6%，液化石油气（LPG）涨超5%，铂、沪铜、国际铜、燃料油、低硫燃料油（LU）涨超2%；跌幅方面，多晶硅跌超4%，工业硅、焦煤、烧碱跌超2%，生猪、氧化铝、棕榈油跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260512113033440800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "现货铂金涨3%，报2120.20美元。",
-          "url": "https://wallstreetcn.com/livenews/3101747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "内盘期货夜市涨跌各异，LPG收涨3.2%",
-          "url": "https://wallstreetcn.com/livenews/3101743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "布伦特原油期货涨超4美元。",
-          "url": "https://wallstreetcn.com/livenews/3101789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "SZ SH HK",
       "match_count": 3,
       "titles": [
@@ -821,7 +1024,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -853,6 +1056,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 07时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价下滑，市场评估中东局势并等待美国通胀数据",
+          "url": "https://flash.jin10.com/detail/20260512142702269800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     },
