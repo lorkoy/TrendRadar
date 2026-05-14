@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T04:41:16.931125+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-05-15T06:17:49.372825+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "【每日收评】沪指跌超1%失守4200点 ，全市场超4300股收绿，猪肉、白酒板块逆势活跃",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 06时17分]"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨1.85%，能源板块涨0.77%，原材料板块跌0.8%。",
@@ -25,9 +25,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：开始看到供应链压力问题。 我们应该看到稳定性，看到商品价格下跌。",
+          "url": "https://wallstreetcn.com/livenews/3103921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "道琼斯指数5月14日（周四）收盘上涨370.26点，涨幅0.75%，报50063.46点；<br/>标普500指数5月14日（周四）收盘上涨57.00点，涨幅0.77%，报7501.25点；<br/>纳斯达克综合指数5月14日（周四）收盘上涨232.88点，涨幅0.88%，报26635.22点。",
+          "url": "https://flash.jin10.com/detail/20260515040516726800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 06时17分]"
         },
         {
           "title": "白酒板块久违“吸金”！成交额创3个月新高，市场近期热点频现，目前板块估值扫描",
@@ -41,24 +64,24 @@
           "time_info": "[02时04分 ~ 04时41分]"
         },
         {
+          "title": "科技软件公司Figma美股盘后上涨8.5%，公司上调年度营收预期，前预计2026年营收将在14.2亿美元至14.3亿美元之间，此前预测为13.6亿美元至13.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260515052821816800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "英伟达收涨4.4%，连续七个交易日上涨。",
           "url": "https://wallstreetcn.com/livenews/3103878",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "道琼斯指数5月14日（周四）收盘上涨370.26点，涨幅0.75%，报50063.46点；<br/>标普500指数5月14日（周四）收盘上涨57.00点，涨幅0.77%，报7501.25点；<br/>纳斯达克综合指数5月14日（周四）收盘上涨232.88点，涨幅0.88%，报26635.22点。",
-          "url": "https://flash.jin10.com/detail/20260515040516726800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -69,9 +92,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "周四（5月14日），美股信息科技指数涨0.89%，报394.40点。 成分股Onda Inc.收涨26.52%，思科系统涨13.41%，AppLovin涨6.97%，Nebius涨6.70%，惠与（HPE）涨6.42%，Lumentum则收跌2.77%，美光跌3.44%，英特尔跌3.62%，闪迪跌4.46%，高通跌6.14%。 在标普500指数科技板块，成分股思科、AppLovin、惠与领跑，美光、英特尔、闪迪、高通领跌。",
+          "url": "https://wallstreetcn.com/livenews/3103911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "道指涨幅扩大至1%，伊朗战争爆发以来首次创盘中历史新高，标普涨0.96%、科技板块涨1.9%，纳指涨1.1%，半导体指数涨超0.5%，银行指数涨1.3%，罗素2000指数涨0.7%。",
@@ -91,9 +125,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "韩国4月出口价格环比上涨7.1%，同比上涨40.8%。 4月进口价格环比下滑2.3%，同比上涨20.2%。",
+          "url": "https://wallstreetcn.com/livenews/3103900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "上海黄金交易所黄金T+D 5月14日（周四）晚盘收盘下跌0.36%报1022.56元/克；<br/>上海黄金交易所白银T+D 5月14日（周四）晚盘收盘下跌2.87%报20824.0元/千克。",
@@ -102,7 +147,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }
@@ -110,7 +155,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "周四（5月14日），美股行业ETF普遍收涨，科技行业涨1.50%，全球科技股指数ETF涨1.41%，网络股指数ETF涨1.37%，半导体ETF涨1.03%，银行业ETF、区域银行ETF至少涨0.89%，能源业ETF涨0.76%，生物科技指数ETF跌0.76%。",
@@ -119,7 +164,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -143,8 +188,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 06时17分]"
         },
         {
           "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
@@ -159,24 +204,37 @@
           "time_info": "[02时04分 ~ 04时41分]"
         },
         {
+          "title": "金十图示：2026年05月14日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260515040524186800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 06时17分]"
+        },
+        {
+          "title": "金十图示：2026年05月14日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260515040515848800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 06时17分]"
+        },
+        {
           "title": "应用材料第二财季净销售79.1亿美元，分析师预期76.7亿美元。 第二财季半导体系统净销售59.7亿美元，符合分析师预期。 预计第三财季净销售84.5亿-94.5亿美元，分析师预期81.5亿美元。 应用材料（AMAT）美股盘后涨4%。",
           "url": "https://wallstreetcn.com/livenews/3103880",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "金十图示：2026年05月14日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260515040524186800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -187,20 +245,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
         {
-          "title": "金十图示：2026年05月14日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260515040515848800",
-          "source": "金十数据",
+          "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
+          "url": "https://www.cls.cn/detail/2371819",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "06时17分"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨超4%创新高",
@@ -209,15 +267,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "周四（5月14日），美股存储芯片与硬件供应链指数跌1.95%，报185.75点。 成分股闪迪跌4.46%，美光、Rambus至多跌3.44%，泰瑞达、希捷科技、西部数据至多跌1.88%，应用材料则收涨0.90%，拉姆研究涨1.26%。",
+          "url": "https://wallstreetcn.com/livenews/3103912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "芝加哥大豆期货跌约2.9%，玉米跌2.7%，小麦跌超2.5%",
@@ -226,7 +295,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -237,9 +306,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "现货白银日内大跌5.00%，现报83.11美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260515043423848800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "周四（5月14日）纽约尾盘，标普500股指期货最终涨0.74%，道指期货涨0.75%，纳斯达克100股指期货涨0.74%。 罗素2000股指期货涨0.56%。",
+          "url": "https://wallstreetcn.com/livenews/3103905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "WTI 6月原油期货收涨0.15美元，涨幅0.15%，报101.17美元/桶。 布伦特7月原油期货收涨0.09美元，涨幅0.09%，报105.72美元/桶。 中东Abu Dhabi Murban原油期货涨0.42%，报104.59美元/桶。 NYMEX 6月天然气期货收报2.894美元/百万英热单位。 NYMEX 6月汽油期货收报3.6057美元/加仑，NYMEX 6月取暖油期货收报3.9056美元/加仑。",
@@ -248,7 +339,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -259,7 +350,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -270,7 +361,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }
@@ -278,18 +369,30 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "平稳告别政策过渡期，逾九成险企偿付能力达标",
+          "url": "https://wallstreetcn.com/livenews/3103922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
         {
           "title": "【数据看盘】超4亿元资金买入光伏人气股 游资、量化资金逆势涌入中国长城",
           "url": "https://www.cls.cn/detail/2371404",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 06时17分]"
         },
         {
           "title": "美联储哈玛克：独立性对有效的中央银行政策制定至关重要。",
@@ -309,7 +412,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -320,7 +423,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }
@@ -328,7 +431,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英镑/美元日内跌幅达0.5%，报1.3454。英国议员Josh Simons将辞职，意味着Andy Burnham将寻求复出。",
@@ -340,12 +443,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "库什纳旗下Thrive Capital对Shopify投资1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3103891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7878元，较周三夜盘收盘涨25点。成交量411.66亿美元。",
@@ -354,15 +468,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "周四（5月14日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7867元，较周三纽约尾盘涨7点，日内整体交投于6.7882-6.7816元区间。",
+          "url": "https://wallstreetcn.com/livenews/3103904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "长债抛售警报响：30年期美债标售得标利率自07年金融危机以来首次升破5.0%",
@@ -375,6 +500,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 04时41分]"
+        },
+        {
+          "title": "两年期美债收益率涨4个基点",
+          "url": "https://wallstreetcn.com/livenews/3103906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
@@ -389,7 +525,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }
