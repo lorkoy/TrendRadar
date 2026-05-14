@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T02:04:17.287504+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-15T04:41:16.931125+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
         {
           "title": "【每日收评】沪指跌超1%失守4200点 ，全市场超4300股收绿，猪肉、白酒板块逆势活跃",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时41分]"
+        },
+        {
+          "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨1.85%，能源板块涨0.77%，原材料板块跌0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3103884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "04时41分"
         },
         {
           "title": "白酒板块久违“吸金”！成交额创3个月新高，市场近期热点频现，目前板块估值扫描",
@@ -26,8 +37,41 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时41分]"
+        },
+        {
+          "title": "英伟达收涨4.4%，连续七个交易日上涨。",
+          "url": "https://wallstreetcn.com/livenews/3103878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "04时41分"
+        },
+        {
+          "title": "道琼斯指数5月14日（周四）收盘上涨370.26点，涨幅0.75%，报50063.46点；<br/>标普500指数5月14日（周四）收盘上涨57.00点，涨幅0.77%，报7501.25点；<br/>纳斯达克综合指数5月14日（周四）收盘上涨232.88点，涨幅0.88%，报26635.22点。",
+          "url": "https://flash.jin10.com/detail/20260515040516726800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "标普500指数初步收涨0.7%，科技板块涨1.8%，能源板块涨0.7%，金融板块涨0.5%，原材料板块跌0.8%。 纳斯达克100指数初步收涨0.7%，成分股中，思科系统初步收涨13.3%，AppLovin涨7.1%，TTWO涨6.9%，博通涨5.7%，美光科技跌2.9%，英特尔跌3.4%，汤森路透跌3.6%，拼多多跌4.1%，闪迪跌4.9%，高通跌6.1%。 英伟达初步收涨4.4%，与思科领跑道指成分股，亚马逊、3M跌1.3%，波音跌超4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3103875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "道指涨幅扩大至1%，伊朗战争爆发以来首次创盘中历史新高，标普涨0.96%、科技板块涨1.9%，纳指涨1.1%，半导体指数涨超0.5%，银行指数涨1.3%，罗素2000指数涨0.7%。",
@@ -39,23 +83,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "美元指数14日上涨",
+          "url": "https://flash.jin10.com/detail/20260515032005287800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月14日（周四）晚盘收盘下跌0.36%报1022.56元/克；<br/>上海黄金交易所白银T+D 5月14日（周四）晚盘收盘下跌2.87%报20824.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260515023029031800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "周四（5月14日），美股行业ETF普遍收涨，科技行业涨1.50%，全球科技股指数ETF涨1.41%，网络股指数ETF涨1.37%，半导体ETF涨1.03%，银行业ETF、区域银行ETF至少涨0.89%，能源业ETF涨0.76%，生物科技指数ETF跌0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3103886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
         {
           "title": "美股费城半导体指数转跌，标普500指数涨幅收窄至0.6%，道指涨323点涨幅收窄至0.65%，纳指涨0.63%。",
           "url": "https://wallstreetcn.com/livenews/3103852",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时41分]"
         },
         {
           "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
@@ -65,25 +143,142 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时41分]"
         },
         {
           "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
           "url": "https://wallstreetcn.com/articles/3772269",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时41分]"
+        },
+        {
+          "title": "应用材料第二财季净销售79.1亿美元，分析师预期76.7亿美元。 第二财季半导体系统净销售59.7亿美元，符合分析师预期。 预计第三财季净销售84.5亿-94.5亿美元，分析师预期81.5亿美元。 应用材料（AMAT）美股盘后涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3103880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "04时41分"
+        },
+        {
+          "title": "金十图示：2026年05月14日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260515040524186800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收收跌3.37%，报7036.37点，美股盘初迅速扩大跌幅，整体走出长尾L形走势。 热门中概股里，美团初步收跌7.6%，百度跌4.9%，蔚来、拼多多跌4%，理想、腾讯、小鹏、阿里巴巴、网易至少跌约3%。",
+          "url": "https://wallstreetcn.com/livenews/3103877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "金十图示：2026年05月14日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260515040515848800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 英伟达涨超4%创新高",
+          "url": "https://flash.jin10.com/detail/20260515040122071800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "芝加哥大豆期货跌约2.9%，玉米跌2.7%，小麦跌超2.5%",
+          "url": "https://wallstreetcn.com/livenews/3103869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "现货白银日内大跌4美元，现报83.50美元/盎司，跌幅4.58%。",
+          "url": "https://flash.jin10.com/detail/20260515034429875800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "WTI 6月原油期货收涨0.15美元，涨幅0.15%，报101.17美元/桶。 布伦特7月原油期货收涨0.09美元，涨幅0.09%，报105.72美元/桶。 中东Abu Dhabi Murban原油期货涨0.42%，报104.59美元/桶。 NYMEX 6月天然气期货收报2.894美元/百万英热单位。 NYMEX 6月汽油期货收报3.6057美元/加仑，NYMEX 6月取暖油期货收报3.9056美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3103861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "上期所原油期货2606合约夜盘收跌0.68%，报626.20元人民币/桶。 沪金夜盘收跌0.32%，沪银收跌3.52%。",
+          "url": "https://wallstreetcn.com/livenews/3103860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.02%，报26341点，低水48点。",
+          "url": "https://flash.jin10.com/detail/20260515030014846800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "【数据看盘】超4亿元资金买入光伏人气股 游资、量化资金逆势涌入中国长城",
@@ -93,8 +288,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时41分]"
         },
         {
           "title": "美联储哈玛克：独立性对有效的中央银行政策制定至关重要。",
@@ -106,6 +301,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "伊朗议会国家安全与外交政策委员会主席：我们警告敌人，如果他们犯下错误，破坏我们的安全，我们将在世界任何地方剥夺他们的安全。",
+          "url": "https://flash.jin10.com/detail/20260515032535829800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "伊朗议会国家安全与外交政策委员会主席：我们已准备好在霍尔木兹海峡及其他战场再次击败敌人。",
+          "url": "https://flash.jin10.com/detail/20260515031448900800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         }
       ]
     },
@@ -127,6 +344,23 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7878元，较周三夜盘收盘涨25点。成交量411.66亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3103863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -135,11 +369,29 @@
           "url": "https://wallstreetcn.com/articles/3772216",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数涨0.3%",
+          "url": "https://wallstreetcn.com/livenews/3103866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "04时41分"
         }
       ]
     }
