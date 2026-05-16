@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T03:18:46.457374+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-05-17T05:01:09.126855+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 05时01分]"
+        },
+        {
+          "title": "日股一线观察：与1999年高度相似，投资者被迫参与可能是“一代人一遇”的牛市",
+          "url": "https://wallstreetcn.com/articles/3772428",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 05时01分]"
         },
         {
           "title": "北约大幅增加开支之际 欧洲军用装备价格或将上涨50%",
@@ -30,17 +41,6 @@
           "time_info": "01时09分"
         },
         {
-          "title": "日股一线观察：与1999年高度相似，投资者被迫参与可能是“一代人一遇”的牛市",
-          "url": "https://wallstreetcn.com/articles/3772428",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
-        },
-        {
           "title": "茅台再调价！多款非标产品提价 终端市场价应声上涨",
           "url": "https://www.cls.cn/detail/2373141",
           "source": "财联社热门",
@@ -48,19 +48,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 05时01分]"
         },
         {
           "title": "波音被曝拿下中国 200 架飞机订单，但股价反而下跌，波音近十年来最大中国订单为何被市场看衰？",
           "url": "https://www.zhihu.com/question/2038719980087107986",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 05时01分]"
+        },
+        {
+          "title": "价格下跌40% 新榴莲美食丰富夏日消费新业态",
+          "url": "https://flash.jin10.com/detail/20260517041546754800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
@@ -76,8 +88,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 05时01分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -85,11 +97,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 05时01分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -99,8 +112,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 05时01分]"
         }
       ]
     },
@@ -113,11 +126,13 @@
           "url": "https://www.zhihu.com/question/2038416173193245583",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时01分]"
         }
       ]
     },
@@ -150,7 +165,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         }
@@ -185,8 +200,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 05时01分]"
         }
       ]
     }
