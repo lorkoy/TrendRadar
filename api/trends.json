@@ -1,62 +1,35 @@
 {
-  "generated_at": "2026-05-18T05:04:28.314514+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-05-18T07:01:57.422311+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 3,
+      "keyword_group": "调整 期货 现货",
+      "match_count": 7,
       "titles": [
         {
-          "title": "“新债王”、DoubleLine Capital的CEOJeffrey Gundlach：在美国通胀率高于美联储政策利率之际，美联储（候任）主席凯文·沃什处境艰难。 美联储下一次行动可能会加息。 预计美国下一次披露的CPI通胀率将高于4.0%（但不到5.0%）。 看好大宗商品，对黄金持中性看法。 我肯定担心私人信用市场（的现状）。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3104901",
+          "title": "周一亚市早盘，布伦特原油期货高开0.6%。 标普500指数期货、纳斯达克100指数期货低开0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3104913",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "07时01分"
         },
-        {
-          "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
-          "url": "https://www.zhihu.com/question/2038636185115779503",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "博主：中国AI算力产业链正在全面腾飞",
-          "url": "https://www.toutiao.com/trending/7640853095961857599/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 2,
-      "titles": [
         {
           "title": "调整即是机会？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2373427",
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时01分]"
         },
         {
           "title": "2026年医保目录调整新增预申报，允许商保创新药申报医保目录",
@@ -70,12 +43,97 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 05时04分]"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报76.67美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260518063201642800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "现货黄金站上4550美元/盎司，日内涨0.26%。",
+          "url": "https://flash.jin10.com/detail/20260518060522768800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "现货黄金开跌0.2%，现货白银开盘快速跌1%。",
+          "url": "https://flash.jin10.com/detail/20260518060131657800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260518060027813800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“新债王”、DoubleLine Capital的CEOJeffrey Gundlach：在美国通胀率高于美联储政策利率之际，美联储（候任）主席凯文·沃什处境艰难。 美联储下一次行动可能会加息。 预计美国下一次披露的CPI通胀率将高于4.0%（但不到5.0%）。 看好大宗商品，对黄金持中性看法。 我肯定担心私人信用市场（的现状）。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3104901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
+          "url": "https://www.zhihu.com/question/2038636185115779503",
+          "source": "知乎",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 07时01分]"
+        },
+        {
+          "title": "博主：中国AI算力产业链正在全面腾飞",
+          "url": "https://www.toutiao.com/trending/7640853095961857599/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -85,14 +143,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时01分]"
+        },
+        {
+          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
+          "url": "https://wallstreetcn.com/articles/3772455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -103,8 +172,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时01分]"
+        },
+        {
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     }
