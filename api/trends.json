@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T18:26:24.941116+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-05-25T22:15:37.379209+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "董秘监管规则正式施行 近千家上市公司启动董秘专职化调整",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "夜盘期货开盘，焦煤涨停，焦炭涨近9%，氧化铝、沪银、纯碱涨逾1%；低硫燃油跌逾3%，燃油、原油跌逾2%，沥青、甲醇、液化石油气、苯乙烯等跌逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3108914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "现货钯金日内涨幅扩大至2.00%，现报1376.31美元/盎司。",
@@ -179,9 +190,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨跌不一，焦煤触及涨停，焦炭涨超8%，氧化铝、沪银、纯碱涨超1%。跌幅方面，低硫燃料油（LU）跌超3%，燃料油、原油跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260525210004101800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "现货白银站上78美元/盎司，日内涨3.41%。",
@@ -201,7 +223,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -219,8 +241,203 @@
       ]
     },
     {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "日经225指数5月25日（周一）开盘上涨369.46点，涨幅0.58%，报63708.53点。",
+          "url": "https://flash.jin10.com/detail/20260525080108130800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数上涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3108674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "半导体扩产预期升温 设备板块集体井喷 机构看好国产化进程",
+          "url": "https://www.cls.cn/detail/2380429",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 22时15分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美伊若达成潜在协议可能导致能源价格大幅下跌，并为美联储降息创造空间。他还指出，近期的通胀压力主要是由高能源成本推动的。",
+          "url": "https://flash.jin10.com/detail/20260525031603713800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 06时03分]"
+        },
+        {
+          "title": "白宫顾问哈塞特：当能源价格下跌时，可以看见“负通胀”。",
+          "url": "https://wallstreetcn.com/livenews/3108519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时05分]"
+        },
+        {
+          "title": "A股有110只个股至少连跌5天",
+          "url": "https://www.toutiao.com/trending/7643432895135416329/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "板块成交额突破万亿！电子股持续“吸金”，涨停股中占比两成，哪些标的为“常客”？",
+          "url": "https://www.cls.cn/detail/2380804",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
+          "url": "https://wallstreetcn.com/articles/3773034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "受卢布走强及农户惜售影响，俄罗斯小麦出口价格再次上涨",
+          "url": "https://flash.jin10.com/detail/20260525212603236800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "年内跌幅超过20%，市场人士称保险板块凸显低估值配置价值",
+          "url": "https://wallstreetcn.com/livenews/3108559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "上证指数早盘收报4136.25点，涨0.57%。 深证成指早盘收报15732.86点，涨0.87%。 创业板指早盘收报3983.30点，涨1.14%。 沪深300早盘收报4889.40点，涨0.91%。 科创50早盘收报1854.56点，涨3.56%。 中证500早盘收报8629.02点，涨0.61%。 中证1000早盘收报8758.65点，涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3108661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "5月25日午间收评：科创50指数半日涨超3%，半导体板块延续强势",
+          "url": "https://wallstreetcn.com/livenews/3108660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "印度政府官员：尽管价格上涨，各州燃料零售商每日仍损失近60亿卢比。",
+          "url": "https://flash.jin10.com/detail/20260525175930700800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3270%，上涨0.30个基点。 7天SHIBOR报1.4010%，上涨3.60个基点。 3个月SHIBOR报1.4065%，上涨0.15个基点。",
+          "url": "https://wallstreetcn.com/livenews/3108650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "深成指、创业板指均涨超1%，沪指涨0.62%，培育钻石、白酒、煤炭、半导体等方向涨幅居前，沪深京三市上涨个股超2000只。",
+          "url": "https://wallstreetcn.com/livenews/3108648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报179250元/吨，较上日16:30价格上涨1000元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3108640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "黄金继续震荡，多空博弈鹿死谁手？美易谈判再生变数？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260525205037914800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美官员：解冻伊朗资金取决于开放霍尔木兹及履行核承诺",
@@ -240,7 +457,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -256,6 +473,18 @@
           "time_info": "08时09分"
         },
         {
+          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
+          "url": "https://wallstreetcn.com/articles/3773014",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 22时15分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我与美国总统特朗普都认为，与伊朗达成的任何协议必须包含消除核威胁。 这意味着必须拆除伊朗的核浓缩设施，并将其领土内的所有已浓缩核材料全部运出。 特朗普重申，以色列拥有在所有战线（包括在黎巴嫩）捍卫自身安全、抵御威胁的合法权利。 我的政策与特朗普总统的政策一样，保持坚定不移，伊朗绝不能拥有核武器。",
           "url": "https://wallstreetcn.com/livenews/3108523",
           "source": "华尔街见闻-快讯",
@@ -269,15 +498,16 @@
           "time_info": "[00时09分 ~ 06时03分]"
         },
         {
-          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
-          "url": "https://wallstreetcn.com/articles/3773014",
-          "source": "华尔街见闻",
+          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2380739",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 22时15分]"
         },
         {
           "title": "券商晨会精华：看好AI产业链与算力网建设",
@@ -302,6 +532,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "【李强同巴基斯坦总理夏巴兹会谈】5月25日上午，国务院总理李强在北京人民大会堂同来华进行正式访问的巴基斯坦总理夏巴兹举行会谈。李强指出，中方愿同巴方深入推进中巴经济走廊建设，继续抓好两国重大联通项目，加强产业、矿业、农业、民生、金融等领域合作。中方愿进口巴方更多优质产品，同巴方积极打造双边自贸协定升级版，促进两国贸易不断扩容提质。双方还可以探讨开展人工智能、数字经济、绿色能源等领域合作，共同培育发展新动能。中方也愿同巴方深化人力资源开发合作，欢迎更多巴基斯坦青年学生来华学习深造。希望巴方继续采取必要措施，保护在巴中国人员、项目和机构安全，营造安全稳定的合作环境。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3108917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "伊朗塔斯尼姆通讯社：伊朗方面表示，冻结资金的释放与浓缩铀行动无关。",
           "url": "https://flash.jin10.com/detail/20260525044051363800",
           "source": "金十数据",
@@ -311,17 +552,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
-        },
-        {
-          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
-          "url": "https://www.cls.cn/detail/2380739",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "资金涌入成长风格ETF，韩国投资者积极买入中国标的",
@@ -374,155 +604,27 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "日经225指数5月25日（周一）开盘上涨369.46点，涨幅0.58%，报63708.53点。",
-          "url": "https://flash.jin10.com/detail/20260525080108130800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数上涨1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3108674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "半导体扩产预期升温 设备板块集体井喷 机构看好国产化进程",
-          "url": "https://www.cls.cn/detail/2380429",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美伊若达成潜在协议可能导致能源价格大幅下跌，并为美联储降息创造空间。他还指出，近期的通胀压力主要是由高能源成本推动的。",
-          "url": "https://flash.jin10.com/detail/20260525031603713800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 06时03分]"
-        },
-        {
-          "title": "白宫顾问哈塞特：当能源价格下跌时，可以看见“负通胀”。",
-          "url": "https://wallstreetcn.com/livenews/3108519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时05分]"
-        },
-        {
-          "title": "年内跌幅超过20%，市场人士称保险板块凸显低估值配置价值",
-          "url": "https://wallstreetcn.com/livenews/3108559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
-          "title": "上证指数早盘收报4136.25点，涨0.57%。 深证成指早盘收报15732.86点，涨0.87%。 创业板指早盘收报3983.30点，涨1.14%。 沪深300早盘收报4889.40点，涨0.91%。 科创50早盘收报1854.56点，涨3.56%。 中证500早盘收报8629.02点，涨0.61%。 中证1000早盘收报8758.65点，涨0.76%。",
-          "url": "https://wallstreetcn.com/livenews/3108661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "5月25日午间收评：科创50指数半日涨超3%，半导体板块延续强势",
-          "url": "https://wallstreetcn.com/livenews/3108660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "印度政府官员：尽管价格上涨，各州燃料零售商每日仍损失近60亿卢比。",
-          "url": "https://flash.jin10.com/detail/20260525175930700800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "隔夜SHIBOR报1.3270%，上涨0.30个基点。 7天SHIBOR报1.4010%，上涨3.60个基点。 3个月SHIBOR报1.4065%，上涨0.15个基点。",
-          "url": "https://wallstreetcn.com/livenews/3108650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "深成指、创业板指均涨超1%，沪指涨0.62%，培育钻石、白酒、煤炭、半导体等方向涨幅居前，沪深京三市上涨个股超2000只。",
-          "url": "https://wallstreetcn.com/livenews/3108648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报179250元/吨，较上日16:30价格上涨1000元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3108640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金价跳空高开",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
         {
           "title": "美伊协议前景缓和通胀担忧，金价反弹超1%",
           "url": "https://flash.jin10.com/detail/20260525070547710800",
@@ -548,25 +650,8 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.7837，较上一交易日官方收盘价涨110点，较上日夜盘收盘涨141点。",
-          "url": "https://wallstreetcn.com/livenews/3108783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -578,6 +663,62 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时08分 ~ 06时03分]"
+        },
+        {
+          "title": "提醒：美股因节假日休市一日。",
+          "url": "https://wallstreetcn.com/livenews/3108922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "中国500万美股账户被冻结 后续怎么办",
+          "url": "https://www.toutiao.com/trending/7643690261362196489/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据伊朗媒体报道：近几个小时内，伊朗启用了新型“Arash Archers（阿拉什弓箭手）”系统，在波斯湾这一战略水域上空成功击落了一架敌方无人机。",
+          "url": "https://flash.jin10.com/detail/20260525210657614800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7837，较上一交易日官方收盘价涨110点，较上日夜盘收盘涨141点。",
+          "url": "https://wallstreetcn.com/livenews/3108783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     }
