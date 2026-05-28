@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T08:07:03.451526+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-05-28T13:16:18.916202+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 17,
+      "match_count": 25,
       "titles": [
         {
           "title": "金十数据整理：每日期货市场要闻速递（2026-05-28）",
@@ -14,9 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "A股白酒股午后持续调整，金种子酒跌近8%，皇台酒业、金徽酒跌逾5%，迎驾贡酒、老白干酒、舍得酒业跟跌。",
+          "url": "https://flash.jin10.com/detail/20260528130600446800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "恒指期货夜盘收涨0.09%，报25176点，低水152点。",
@@ -36,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -74,13 +85,24 @@
           "time_info": "06时04分"
         },
         {
+          "title": "WTI原油期货日内涨超4%，布油期货涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3110457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "现货黄金短线小幅走低，向下触及4450美元/盎司，日内跌0.14%。消息面上，美军对伊朗军事基地实施新打击。",
           "url": "https://flash.jin10.com/detail/20260528072210186800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -129,13 +151,24 @@
           "time_info": "03时31分"
         },
         {
+          "title": "欧洲Stoxx 50指数期货日内跌1.2%，英国富时指数期货、德国DAX指数期货跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3110447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "亚太盘初，美国四大股指期货涨0.2%。",
           "url": "https://wallstreetcn.com/livenews/3110282",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -146,9 +179,42 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "现货钯金日内走低2.00%，现报1357.64美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260528122809738800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "现货黄金扩大跌幅，日内跌近2%；现货白银跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3110437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "现货白银向下触及72美元/盎司，日内跌3.54%。",
+          "url": "https://flash.jin10.com/detail/20260528122759837800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "内盘期货夜市涨跌各异，PTA涨约2.5%，PVC、焦煤、焦炭至少涨约1.9%，燃油跌约1.7%",
@@ -160,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "纳斯达克100指数期货日内跌幅扩大至0.7%，标普500指数期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3110435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "王者马超少司缘调整",
@@ -190,16 +267,38 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.21%，10年期主力合约涨0.06%，5年期主力合约涨0.06%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3110429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 13时16分]"
+        },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -213,37 +312,50 @@
           "time_info": "[00时43分 ~ 06时04分]"
         },
         {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
+          "title": "曝红果短剧收益断崖式下跌，万播收益从百元级骤降至 5-10 元，背后原因有哪些？透露了行业哪些问题？",
+          "url": "https://www.zhihu.com/question/2041447752677200286",
+          "source": "知乎",
           "ranks": [
-            1
+            20,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 08时07分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 13时16分]"
         },
         {
           "title": "美债遭遇“百年最惨熊市”，“末日博士”彼得·希夫：真正的危机才刚开始",
           "url": "https://wallstreetcn.com/articles/3773219",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 08时07分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 13时16分]"
         },
         {
-          "title": "曝红果短剧收益断崖式下跌，万播收益从百元级骤降至 5-10 元，背后原因有哪些？透露了行业哪些问题？",
-          "url": "https://www.zhihu.com/question/2041447752677200286",
-          "source": "知乎",
+          "title": "存储牛市太疯狂！Valve宣布上市两年半的掌上电脑定价暴涨40%",
+          "url": "https://www.cls.cn/detail/2383488",
+          "source": "财联社热门",
           "ranks": [
-            20
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 08时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "台湾加权指数下跌2%。",
+          "url": "https://flash.jin10.com/detail/20260528125538079800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报396.89点。 在十个板块中，北欧信息技术板块跌幅最大。 维斯塔斯风力技术集团（Vestas Wind Systems A/S）跌7.4%，在一众北欧个股里表现最差。",
@@ -268,13 +380,24 @@
           "time_info": "03时31分"
         },
         {
+          "title": "MSCI亚太指数下跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3110449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "上证报：伯恩斯坦“折叠”中国消费，别过度解读为风向标",
           "url": "https://wallstreetcn.com/livenews/3110287",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -310,6 +433,123 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "韩国首尔综指下跌3.1％，至7975.62点。",
+          "url": "https://wallstreetcn.com/livenews/3110436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "上证指数早盘收报4087.86点，跌0.14%。 深证成指早盘收报15695.48点，跌0.26%。 创业板指早盘收报4054.21点，涨0.21%。 沪深300早盘收报4881.17点，跌0.55%。 科创50早盘收报1838.84点，涨1.29%。 中证500早盘收报8523.34点，跌0.09%。 中证1000早盘收报8568.59点，涨0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3110432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "香港金管局就内地投资账户新增监管措施，开户倒查至 2023 年、新增投资资金不得来自内地，如何解读？",
+          "url": "https://www.zhihu.com/question/2043072357921546874",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 13时16分]"
+        },
+        {
+          "title": "香港金管局就内地投资账户新增监管措施：开户倒查至 2023 年、新增投资资金不得来自内地，如何解读？",
+          "url": "https://www.zhihu.com/question/2043072357921546874",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 06时04分]"
+        },
+        {
+          "title": "具身智能首次独立成馆 2026世界智能产业博览会今日开幕",
+          "url": "https://wallstreetcn.com/livenews/3110466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "资金疯狂涌入 这只存储ETF刷新最快破百亿美元规模纪录",
+          "url": "https://www.cls.cn/detail/2383340",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 08时07分]"
+        },
+        {
+          "title": "社媒帖子点燃欧洲半导体妖股 晶圆厂股票突遭资金疯抢",
+          "url": "https://www.cls.cn/detail/2383476",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟不应落入俄罗斯所设的陷阱，即在有关应由谁参与谈判的讨论中被误导。这应当是关于实质内容的。",
+          "url": "https://flash.jin10.com/detail/20260528125626827800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "【数据看盘】多路资金激烈博弈华天科技，量化资金联手游资抢筹光伏人气股",
+          "url": "https://www.cls.cn/detail/2383044",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "特朗普称伊朗“表现得当”后才能拿回资金",
+          "url": "https://wallstreetcn.com/livenews/3110209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     },
@@ -322,11 +562,12 @@
           "url": "https://www.cls.cn/detail/2383514",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 08时07分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 13时16分]"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -392,7 +633,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -410,68 +651,6 @@
       ]
     },
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "香港金管局就内地投资账户新增监管措施，开户倒查至 2023 年、新增投资资金不得来自内地，如何解读？",
-          "url": "https://www.zhihu.com/question/2043072357921546874",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 08时07分]"
-        },
-        {
-          "title": "香港金管局就内地投资账户新增监管措施：开户倒查至 2023 年、新增投资资金不得来自内地，如何解读？",
-          "url": "https://www.zhihu.com/question/2043072357921546874",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 06时04分]"
-        },
-        {
-          "title": "资金疯狂涌入 这只存储ETF刷新最快破百亿美元规模纪录",
-          "url": "https://www.cls.cn/detail/2383340",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 08时07分]"
-        },
-        {
-          "title": "【数据看盘】多路资金激烈博弈华天科技，量化资金联手游资抢筹光伏人气股",
-          "url": "https://www.cls.cn/detail/2383044",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "特朗普称伊朗“表现得当”后才能拿回资金",
-          "url": "https://wallstreetcn.com/livenews/3110209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "SZ SH HK",
       "match_count": 4,
       "titles": [
@@ -480,11 +659,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354637&amp;topic_name=TheShy%E5%9B%9E%E4%B8%AD%E5%9B%BD%2CLPL%E6%9C%89%E6%95%91%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 08时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 13时16分]"
         },
         {
           "title": "三角洲新版本ASH12改法教学",
@@ -592,7 +772,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         }
