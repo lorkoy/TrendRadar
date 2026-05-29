@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T07:25:34.397123+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-05-29T12:24:38.605084+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 05时13分]"
+        },
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
@@ -72,7 +94,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -83,7 +105,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -94,9 +116,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "上证指数早盘收报4083.62点，跌0.37%。 深证成指早盘收报15704.04点，跌1.00%。 创业板指早盘收报4077.94点，跌1.14%。 沪深300早盘收报4917.02点，涨0.06%。 科创50早盘收报1777.24点，跌3.63%。 中证500早盘收报8425.69点，跌1.61%。 中证1000早盘收报8477.09点，跌1.86%。",
+          "url": "https://wallstreetcn.com/livenews/3111111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，保健板块收涨1.41%，信息技术/科技板块涨1.34%，能源板块跌0.14%，公用事业板块跌1.13%。",
@@ -116,7 +149,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -132,6 +165,28 @@
           "time_info": "02时18分"
         },
         {
+          "title": "离岸人民币同业拆息利率多数下跌，一年期拆息续创纪录新低",
+          "url": "https://flash.jin10.com/detail/20260529114433934800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "A股午评：创业板指跌1.14% 大消费、房地产板块走强",
+          "url": "https://flash.jin10.com/detail/20260529113812155800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.48%，报6586.59点，跳空低开之后、早盘形成V形走势，大部分时间高位震荡。 热门中概股里，逸仙电商初步收涨18.2%，微易芯涨8.2%，爱奇艺涨8%，阿特斯太阳能涨6.8%，万国数据涨4.1%，日月光半导体涨3.7%，百度涨1.7%，小米涨0.9%，阿里跌1.3%，腾讯跌1.7%，蔚来跌3.2%，拼多多跌4.1%，美团跌4.8%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.11%，MSCI新兴市场ex中国ETF（EMXC）收涨0.61%，XtrackersHarvest中证50（ASHS）收涨1.14%，中概互联网指数ETF（KWEB）收跌1.41%，中国科技指数ETF（CQQQ）收涨0.39%。",
           "url": "https://wallstreetcn.com/livenews/3110919",
           "source": "华尔街见闻-快讯",
@@ -143,13 +198,35 @@
           "time_info": "05时13分"
         },
         {
+          "title": "隔夜SHIBOR报1.3240%，上涨0.70个基点。 7天SHIBOR报1.3870%，上涨2.50个基点。 3个月SHIBOR报1.4075%，上涨0.20个基点。",
+          "url": "https://wallstreetcn.com/livenews/3111092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险、证券、白酒、消费电子等多股上涨，半导体、工业金属、光伏股飘绿。",
+          "url": "https://flash.jin10.com/detail/20260529113236074800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "开市客：受油价上涨推动，第三财季汽油销量创历史新高",
           "url": "https://wallstreetcn.com/livenews/3110956",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -157,8 +234,19 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "官方通报亚丁景区封堵省道收费，将提级整治并调整摆渡车收费标准，对游客有哪些利好？景区要承担哪些责任？",
+          "url": "https://www.zhihu.com/question/2043626521533703978",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
         {
           "title": "5 月 28 日现货黄金跳水，盘中跌破 4400 美元 / 盎司，受到哪些因素影响？还会持续下跌吗？",
           "url": "https://www.zhihu.com/question/2043314967013581849",
@@ -190,9 +278,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.09%，10年期主力合约涨0.08%，5年期主力合约涨0.07%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3111108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "戴尔科技一季度总体净营收438.4亿美元，分析师预期355.2亿美元。 一季度调整后运营利润42.4亿美元，分析师预期27.7亿美元。 一季度基础设施解决方案集团净营收290.1亿美元。 上调2027财年AI服务器营收预期至大约600亿美元，之前预计大约500亿美元。 预计全年营收1650亿-1690亿美元，公司原本预计1380亿-1420亿美元。 预计全年调整后EPS中位数为17.90美元，分析师预期13.14美元，公司原本预计12.90美元。 预计二季度营收440亿-450亿美元，分析师预期350.6亿美元。 戴尔盘后涨7%。",
@@ -212,7 +311,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -245,7 +344,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -259,107 +358,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
         },
         {
-          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2384590",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 07时25分]"
-        },
-        {
-          "title": "周四（5月28日），美股行业ETF涨跌各异，网络股指数ETF收涨1.63%，全球科技股指数ETF涨1.44%，医疗业ETF涨1.40%，能源业ETF、银行业ETF、金融业ETF至多跌0.29%，公用事业ETF跌1.13%。",
-          "url": "https://wallstreetcn.com/livenews/3110934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
-          "url": "https://www.cls.cn/detail/2384768",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "MongoDB Inc.（MDB）美股盘后V形反转，目前涨14.09%。 业绩报告显示，该公司预计全年营收29.2亿-29.6亿美元，原本预计28.6亿-29亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3110933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”",
-          "url": "https://wallstreetcn.com/livenews/3110974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "金十图示：2026年05月28日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260529040719746800",
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260529113124627800",
           "source": "金十数据",
           "ranks": [
-            25
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "金十图示：2026年05月28日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260529040717720800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "12时24分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
@@ -370,8 +385,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 07时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 12时24分]"
         },
         {
           "title": "欧盟计划重启《芯片法案》，需投入1200亿欧元重振本土芯片产业",
@@ -395,6 +410,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 07时25分]"
+        },
+        {
+          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
+          "url": "https://www.cls.cn/detail/2384732",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "美联储Musalem：FOMC货币政策似乎处于、或略微低于长期中性利率。 美国国债收益率上涨，有75%是由于预计中性利率上升。 我曾在4月份（FOMC货币政策会议上）认为，决议声明中的宽松基调不再与形势吻合。 无论美联储加息、降息、或按兵不动，都有必要取决于美国的经济形势。（彭博）",
@@ -428,23 +454,142 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "停火预期带来修复，但金价仍遭资金冷眼？",
+          "url": "https://flash.jin10.com/detail/20260529115042414800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "经济学家：市场仍低估美联储潜在的紧缩政策",
+          "url": "https://flash.jin10.com/detail/20260529114544170800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 12时24分]"
+        },
+        {
+          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2384590",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 07时25分]"
+        },
+        {
+          "title": "周四（5月28日），美股行业ETF涨跌各异，网络股指数ETF收涨1.63%，全球科技股指数ETF涨1.44%，医疗业ETF涨1.40%，能源业ETF、银行业ETF、金融业ETF至多跌0.29%，公用事业ETF跌1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3110934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "MongoDB Inc.（MDB）美股盘后V形反转，目前涨14.09%。 业绩报告显示，该公司预计全年营收29.2亿-29.6亿美元，原本预计28.6亿-29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3110933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”",
+          "url": "https://wallstreetcn.com/livenews/3110974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "金十图示：2026年05月28日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260529040719746800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "金十图示：2026年05月28日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260529040717720800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谜语人?TheShy能打但不打",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354662&amp;topic_name=%E8%B0%9C%E8%AF%AD%E4%BA%BA%3FTheShy%E8%83%BD%E6%89%93%E4%BD%86%E4%B8%8D%E6%89%93",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 07时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 12时24分]"
         },
         {
           "title": "TheShy回中国,LPL有救了？",
@@ -469,21 +614,82 @@
           "time_info": "05时13分"
         },
         {
+          "title": "港股科网股回暖，百度(09888.HK)涨近7%，哔哩哔哩(09626.HK)涨4%，美团(03690.HK)、腾讯控股(00700.HK)涨超3%，快手(01024.HK)涨超2%，阿里巴巴(09988.HK)涨1.3%。",
+          "url": "https://flash.jin10.com/detail/20260529114235933800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "美国官员：并没有美国飞机在伊朗Bushehr周边被击落。",
           "url": "https://wallstreetcn.com/livenews/3110963",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "香港：拟批准双柜台证券人民币柜台交易的印花税以人民币计算和缴付",
+          "url": "https://flash.jin10.com/detail/20260529115741601800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "财政部在香港成功发行人民币绿色主权债券",
+          "url": "https://wallstreetcn.com/livenews/3111120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "加拿大总理：人民币要增加全球权重，我们能帮忙",
+          "url": "https://news.ifeng.com/c/8tW2Imh0ad4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "财政部在香港成功发行人民币绿色主权债券",
+          "url": "https://flash.jin10.com/detail/20260529113641222800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
@@ -495,6 +701,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 05时13分]"
+        },
+        {
+          "title": "金价又跌麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
