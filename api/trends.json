@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T12:10:09.696913+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-05-30T15:46:29.933394+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "上证50、科创50等指数调整样本，华虹公司、源杰科技等热门股被纳入多条指数",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 15时46分]"
         },
         {
           "title": "海底捞宣布小料台牛肉粒回归，全国门店恢复供应，此前牛肉粒需通过 iPad 下单，如何看待这一调整？",
@@ -39,11 +39,24 @@
           "ranks": [
             6,
             5,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 15时46分]"
+        },
+        {
+          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
+          "url": "https://www.cls.cn/detail/2385959",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 15时46分]"
         },
         {
           "title": "三星电子、SK海力士触发意外抛售 多只基金因持仓上限规则调整组合",
@@ -56,17 +69,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 05时59分]"
-        },
-        {
-          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
-          "url": "https://www.cls.cn/detail/2385959",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
         },
         {
           "title": "恒指期货夜盘收涨0.44%，报25098点，低水84点。",
@@ -266,9 +268,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "中方敦促安理会及时调整或解除南苏丹制裁",
+          "url": "https://wallstreetcn.com/livenews/3111734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "湖北省委主要负责同志职务调整",
@@ -277,7 +290,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
@@ -288,6 +301,20 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 15时46分]"
+        },
+        {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
@@ -297,19 +324,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 05时59分]"
-        },
-        {
-          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2385789",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 12时10分]"
         },
         {
           "title": "道琼斯指数5月29日（周五）收盘上涨363.49点，涨幅0.72%，报51032.46点；<br/>标普500指数5月29日（周五）收盘上涨16.45点，涨幅0.22%，报7580.08点；<br/>纳斯达克综合指数5月29日（周五）收盘上涨55.15点，涨幅0.20%，报26972.62点。",
@@ -438,9 +452,162 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 11,
+      "keyword_group": "资金 政策 产业",
+      "match_count": 12,
       "titles": [
+        {
+          "title": "【焦点复盘】科创50指数放量跌超5%，半导体产业链遭深幅回调，地产产业链逆势大涨",
+          "url": "https://www.cls.cn/detail/2385496",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 07时26分]"
+        },
+        {
+          "title": "段永平向江西安福捐赠1万股贵州茅台股票：股票作为本金长期锁定，以分红、股息等作为可支出资金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262679",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时37分 ~ 07时26分]"
+        },
+        {
+          "title": "美国贸易办公室（USTR）宣布：对越南知识产权政策展开301调查。 将研究该国针对知识产权保护的政策问题。",
+          "url": "https://wallstreetcn.com/livenews/3111643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时26分]"
+        },
+        {
+          "title": "美媒：卡塔尔代管资金是美伊和平协议的最终症结之一",
+          "url": "https://flash.jin10.com/detail/20260530035830016800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时26分]"
+        },
+        {
+          "title": "工信部装备工业发展中心主任瞿国春：我国高端装备产业国际竞争力显著提升",
+          "url": "https://flash.jin10.com/detail/20260530110114810800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "工信部装备工业发展中心主任瞿国春：我国高端装备产业国际竞争力显著提升",
+          "url": "https://wallstreetcn.com/livenews/3111714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "【数据看盘】多路资金联手抢筹晋控电力，北向资金和机构逆势买入京东方A",
+          "url": "https://www.cls.cn/detail/2385505",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "中央企业科技成果产业化联合体在京成立",
+          "url": "https://flash.jin10.com/detail/20260530130507461800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "欧盟将解冻匈牙利164亿欧元欧盟资金",
+          "url": "https://wallstreetcn.com/livenews/3111543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "中央企业科技成果产业化联合体在京成立",
+          "url": "https://wallstreetcn.com/livenews/3111731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "报道：卡塔尔持有的资金是美伊和平协议的最终症结之一",
+          "url": "https://wallstreetcn.com/livenews/3111627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "据消息人士透露，德文能源（Devon Energy）收到来自资产管理公司斯通里奇（Stone Ridge）的收购要约，拟以约80亿美元的价格收购其马塞勒斯（Marcellus）地区的资产。 斯通里奇对德文能源马塞勒斯资产的收购要约，将使用美国石油和天然气行业有史以来规模最大的资产证券化（ABS）融资来提供资金。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3111618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 15时46分]"
+        },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260530040526961800",
@@ -462,18 +629,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时26分]"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 12时10分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股盘中）",
@@ -559,130 +714,22 @@
           "time_info": "[05时59分 ~ 07时26分]"
         },
         {
+          "title": "美股商业航天股全线重挫",
+          "url": "https://www.douyin.com/hot/2517641",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "科技行业ETF收涨超2.2%，领跑美股行业ETF，5月半导体ETF累涨超66%",
           "url": "https://wallstreetcn.com/livenews/3111624",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "【焦点复盘】科创50指数放量跌超5%，半导体产业链遭深幅回调，地产产业链逆势大涨",
-          "url": "https://www.cls.cn/detail/2385496",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 07时26分]"
-        },
-        {
-          "title": "段永平向江西安福捐赠1万股贵州茅台股票：股票作为本金长期锁定，以分红、股息等作为可支出资金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33262679",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时37分 ~ 07时26分]"
-        },
-        {
-          "title": "美国贸易办公室（USTR）宣布：对越南知识产权政策展开301调查。 将研究该国针对知识产权保护的政策问题。",
-          "url": "https://wallstreetcn.com/livenews/3111643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时26分]"
-        },
-        {
-          "title": "美媒：卡塔尔代管资金是美伊和平协议的最终症结之一",
-          "url": "https://flash.jin10.com/detail/20260530035830016800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时26分]"
-        },
-        {
-          "title": "工信部装备工业发展中心主任瞿国春：我国高端装备产业国际竞争力显著提升",
-          "url": "https://flash.jin10.com/detail/20260530110114810800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "工信部装备工业发展中心主任瞿国春：我国高端装备产业国际竞争力显著提升",
-          "url": "https://wallstreetcn.com/livenews/3111714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "【数据看盘】多路资金联手抢筹晋控电力，北向资金和机构逆势买入京东方A",
-          "url": "https://www.cls.cn/detail/2385505",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "欧盟将解冻匈牙利164亿欧元欧盟资金",
-          "url": "https://wallstreetcn.com/livenews/3111543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "报道：卡塔尔持有的资金是美伊和平协议的最终症结之一",
-          "url": "https://wallstreetcn.com/livenews/3111627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "据消息人士透露，德文能源（Devon Energy）收到来自资产管理公司斯通里奇（Stone Ridge）的收购要约，拟以约80亿美元的价格收购其马塞勒斯（Marcellus）地区的资产。 斯通里奇对德文能源马塞勒斯资产的收购要约，将使用美国石油和天然气行业有史以来规模最大的资产证券化（ABS）融资来提供资金。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3111618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -784,11 +831,12 @@
           "url": "https://flash.jin10.com/detail/20260530113517975800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时46分]"
         }
       ]
     }
