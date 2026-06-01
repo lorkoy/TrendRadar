@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T08:13:48.912292+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-06-01T14:11:35.907961+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "习近平：前瞻布局和发展未来产业",
@@ -37,11 +37,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 08时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 14时11分]"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260601141045607800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -50,7 +62,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -88,15 +100,59 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
+          "title": "李乐成：加快前瞻布局和发展未来产业",
+          "url": "https://www.cls.cn/detail/2386545",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "上海“未来产业”再加码 “资本+产业”双轮驱动 可控核聚变提速",
+          "url": "https://www.cls.cn/detail/2386560",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
           "title": "南向资金密集扫货港股科技股 对多只标的持仓倍增",
           "url": "https://wallstreetcn.com/livenews/3112003",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "浙江：拟实施“星火计划”培育未来产业行动 加速量子技术产品规模化应用",
+          "url": "https://wallstreetcn.com/livenews/3112200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "花旗：上调铜价预测，短期目标价为14,500美元/吨，未来6至12个月目标价为15,000美元/吨。 美国铜关税担忧预计将在6月持续推升价格，直到关税政策明朗为止。",
+          "url": "https://wallstreetcn.com/livenews/3112191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "国泰海通：维持海外AI算力及应用产业链“增持”评级",
@@ -113,7 +169,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "澳大利亚S&P/ASX200指数早盘下跌0.3%，报8707.20点。",
@@ -122,9 +178,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "A股银行板块午后上扬，厦门银行涨超4%，南京银行涨超3%，农业银行、紫金银行、齐鲁银行、江阴银行等多股涨逾2%。",
+          "url": "https://flash.jin10.com/detail/20260601141030963800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "韩国KOSPI指数盘初上涨0.5%，三星电子涨2.5%、LG电子涨28%。",
@@ -133,9 +200,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "A股存储芯片板块走低，东芯股份跌超10%，拓荆科技、江波龙、香农芯创、德明利、佰维存储等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260601140753687800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
@@ -149,13 +227,24 @@
           "time_info": "[00时20分 ~ 06时08分]"
         },
         {
+          "title": "【图解牛熊股】电力板块涨幅居前，超级电容概念股表现活跃",
+          "url": "https://www.cls.cn/detail/2386334",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
           "title": "日经225指数6月1日（周一）开盘上涨23.67点，涨幅0.04%，报66353.17点。",
           "url": "https://flash.jin10.com/detail/20260601080108677800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -166,9 +255,53 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "A股存储芯片板块走低，东芯股份跌超10%，拓荆科技跌近6%，江波龙、香浓新创、德明利、佰维存储跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3112208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "A股存储芯片板块走低，东芯股份跌超10%，拓荆科技跌近6%，江波龙、香浓新创、德明利、佰维存储跟跌。",
+          "url": "https://flash.jin10.com/detail/20260601135502579800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "A股PCB概念板块短线拉升，圣泉集团涨停，合锻智能、龙旗科技、中京电子此前封板，宏昌电子、澳弘电子、芯碁微装、鹏鼎控股、德福科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3112194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "澳门5月博彩收入为226.11亿澳门元，同比上涨6.7%；1-5月博彩收入为1,083.79亿澳门元，同比上涨10.9%。",
+          "url": "https://wallstreetcn.com/livenews/3112193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "券商：A股6月将延续高位震荡，科技主线或内部聚焦",
@@ -177,16 +310,49 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "英伟达美股夜盘股价上涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3112174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "首批公募基准调整今日落地 关键词：是调基准，并非调仓",
+          "url": "https://flash.jin10.com/detail/20260601140800611800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "首批公募基准调整今日落地，关键词：是调基准，并非调仓，这些误解应解开",
+          "url": "https://www.cls.cn/detail/2386883",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
         {
           "title": "现货价格",
           "url": "https://flash.jin10.com/detail/20260601073440944800",
@@ -194,7 +360,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -205,9 +371,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "印度商品交易所MCX推出“白银100”期货合约。",
+          "url": "https://wallstreetcn.com/livenews/3112178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "零跑汽车(09863.HK)：2026年5月交付量达81569台，同比增长81%。",
+          "url": "https://flash.jin10.com/detail/20260601134311323800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         }
       ]
     },
