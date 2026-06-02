@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T18:52:11.360081+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-06-02T23:02:36.503117+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "上海：做好算力期货研发准备，推动科创50、深证100、创业板股指期货和期权上市",
@@ -81,7 +81,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -92,9 +92,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "美团一季度营收超 910 亿元，调整后净亏损 49.7 亿元，如何看待此业绩？何时能够重回稳定盈利？",
+          "url": "https://www.zhihu.com/question/2044820813635907827",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "金十数据整理：每日期货市场要闻速递（2026-06-02）",
@@ -147,7 +158,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -232,7 +243,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
@@ -301,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "周一（6月1日），美股超大规模云服务商（Hyperscalers）跌0.02%，报105.79点，尾盘刷新盘中历史最高位至106.56点。 成分股亚马逊跌3.47%，谷歌A跌1.04%，微软涨2.28%，Meta跌5.07%，甲骨文涨9.91%。",
@@ -404,8 +426,172 @@
       ]
     },
     {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "韩国首尔综指转为下跌3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3112703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时21分"
+        },
+        {
+          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2388757",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2388416",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 23时02分]"
+        },
+        {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 08时21分]"
+        },
+        {
+          "title": "马光远：黄金牛市结束了",
+          "url": "https://www.toutiao.com/trending/7646218613866630697/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 08时21分]"
+        },
+        {
+          "title": "创业板指午后涨超3%，沪指涨0.58%，深证成指涨1.78%，CPO、光纤概念板块领涨。",
+          "url": "https://wallstreetcn.com/livenews/3112842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "A股券商板块异动，中信建投涨超6%，国泰海通涨超2%，中金公司、国金证券、兴业证券等拉升。",
+          "url": "https://wallstreetcn.com/livenews/3112840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "“大宗牛市”未完待续？瑞银：原油、黄金和铜铝都有“基本面支撑”！",
+          "url": "https://www.cls.cn/detail/2388313",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "A股有色板块涨势扩大，小金属方向领涨，锡业股份封涨停，此前福达合金2连板，华锡有色、贵研铂业涨停，江西铜业、北方铜业、金钼股份、洛阳钼业、西部矿业等均涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3112832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "特朗普：不在乎美伊谈判是否终结，油价将“像石头一样下跌”",
+          "url": "https://flash.jin10.com/detail/20260602074011283800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时21分"
+        },
+        {
+          "title": "又一美联储票委放鹰：若通胀持续上涨，或很快启动加息",
+          "url": "https://flash.jin10.com/detail/20260602224721218800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "台湾加权指数6月2日（周二）收盘上涨219.4点，涨幅0.48%，报45557.31点。",
+          "url": "https://flash.jin10.com/detail/20260602133506543800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨3.11%，暂报2797.97点，整体呈现出M形走势，至北京时间11:15持续上涨并达到2874.04点。 MarketVectorTM数字资产100中盘指数涨2.74%，报2970.49点，00:00前后再次显著走高 MarketVector数字资产100指数跌2.16%，报14265.83点，12:00以来持续下挫。",
+          "url": "https://wallstreetcn.com/livenews/3112586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "国际能源署石油负责人：价格上涨和经济前景疲弱导致运输燃料需求下降。 如果霍尔木兹海峡的原油运输没有恢复，石油库存消耗将持续到夏季。 在夏季需求高峰到来之前，库存可能会达到临界水平。",
+          "url": "https://wallstreetcn.com/livenews/3112973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "罕见！以军政策发生“重大转变”",
@@ -455,6 +641,18 @@
           "time_info": "[13时57分 ~ 18时52分]"
         },
         {
+          "title": "【焦点复盘】沪指深V反转收复60日线，硬科技方向重获资金抱团，稀贵金属概念异军突起",
+          "url": "https://www.cls.cn/detail/2388469",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 23时02分]"
+        },
+        {
           "title": "中央财政下达999亿育儿补贴补助资金",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E4%B8%8B%E8%BE%BE999%E4%BA%BF%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E8%A1%A5%E5%8A%A9%E8%B5%84%E9%87%91",
           "source": "百度热搜",
@@ -478,17 +676,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时44分 ~ 08时21分]"
-        },
-        {
-          "title": "【焦点复盘】沪指深V反转收复60日线，硬科技方向重获资金抱团，稀贵金属概念异军突起",
-          "url": "https://www.cls.cn/detail/2388469",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 18时52分]"
         },
         {
           "title": "公募基金基准变更潮来袭，近32万亿银行理财资金迎来可复制经验，资管行业基准体系标准化愈加完善",
@@ -524,6 +711,28 @@
           "time_info": "08时21分"
         },
         {
+          "title": "6月科技产业有哪些催化？",
+          "url": "https://www.cls.cn/detail/2388614",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "中央财政下达育儿补贴补助资金 999 亿元，较上年增长 10.6%，如何看待这一资金安排？",
+          "url": "https://www.zhihu.com/question/2045118337223488138",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "中央财政下达育儿补贴补助资金999亿元 较上年增长10.6%",
           "url": "https://wallstreetcn.com/livenews/3112813",
           "source": "华尔街见闻-快讯",
@@ -537,139 +746,8 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "韩国首尔综指转为下跌3.1%。",
-          "url": "https://wallstreetcn.com/livenews/3112703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2387523",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 08时21分]"
-        },
-        {
-          "title": "马光远：黄金牛市结束了",
-          "url": "https://www.toutiao.com/trending/7646218613866630697/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 08时21分]"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2388416",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 18时52分]"
-        },
-        {
-          "title": "创业板指午后涨超3%，沪指涨0.58%，深证成指涨1.78%，CPO、光纤概念板块领涨。",
-          "url": "https://wallstreetcn.com/livenews/3112842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "A股券商板块异动，中信建投涨超6%，国泰海通涨超2%，中金公司、国金证券、兴业证券等拉升。",
-          "url": "https://wallstreetcn.com/livenews/3112840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "A股有色板块涨势扩大，小金属方向领涨，锡业股份封涨停，此前福达合金2连板，华锡有色、贵研铂业涨停，江西铜业、北方铜业、金钼股份、洛阳钼业、西部矿业等均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3112832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "特朗普：不在乎美伊谈判是否终结，油价将“像石头一样下跌”",
-          "url": "https://flash.jin10.com/detail/20260602074011283800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "台湾加权指数6月2日（周二）收盘上涨219.4点，涨幅0.48%，报45557.31点。",
-          "url": "https://flash.jin10.com/detail/20260602133506543800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨3.11%，暂报2797.97点，整体呈现出M形走势，至北京时间11:15持续上涨并达到2874.04点。 MarketVectorTM数字资产100中盘指数涨2.74%，报2970.49点，00:00前后再次显著走高 MarketVector数字资产100指数跌2.16%，报14265.83点，12:00以来持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3112586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "国际能源署石油负责人：价格上涨和经济前景疲弱导致运输燃料需求下降。 如果霍尔木兹海峡的原油运输没有恢复，石油库存消耗将持续到夏季。 在夏季需求高峰到来之前，库存可能会达到临界水平。",
-          "url": "https://wallstreetcn.com/livenews/3112973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "六神包装“撞脸”人民币引热议",
@@ -693,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
+        },
+        {
+          "title": "高考试卷过上了人民币的待遇",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E8%BF%87%E4%B8%8A%E4%BA%86%E4%BA%BA%E6%B0%91%E5%B8%81%E7%9A%84%E5%BE%85%E9%81%87",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "网友称摸起来很像人民币 六神回应",
@@ -723,7 +812,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         }
@@ -731,7 +820,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "港交所文件显示，腾讯控股(00700.HK)于6月2日回购234,600股股份，耗资1.041亿港元。",
@@ -740,9 +829,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "Wedbush分析师：Quantinuum的估值可能依然“被低估了”",
+          "url": "https://wallstreetcn.com/livenews/3113144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "iShares软件ETF两天涨13%，创2001年以来最大涨幅。",
@@ -779,7 +879,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -790,7 +890,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -801,7 +901,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         }
