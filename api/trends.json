@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T16:57:06.167736+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-06-04T20:09:58.214506+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -73,7 +73,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -106,9 +106,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "“200元”股又添一员！气体龙头2个月涨4倍，翻倍热股近期频现，这些板块占比较高",
+          "url": "https://www.cls.cn/detail/2390856",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "厄尔尼诺“警报”拉响，机构看好三大板块机遇",
@@ -120,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
+          "url": "https://www.cls.cn/detail/2390870",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "美国股市延续下跌，纳斯达克指数下跌1.00%。",
@@ -216,7 +238,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -254,6 +276,17 @@
           "time_info": "12时56分"
         },
         {
+          "title": "博通(AVGO.O)美股盘前下跌15%，触及日内低点。",
+          "url": "https://flash.jin10.com/detail/20260604193530315800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "标普500指数收跌56.10点，跌幅0.74%，报7553.68点，美股盘初显著下跌，绝大部分时间低位震荡——交投于7570点附近。 道琼斯工业平均指数收跌620.72点，跌幅1.21%，报50687.07点。 纳斯达克综合指数（纳指）收跌239.925点，跌幅0.89%，报26853.976点。 纳斯达克100指数收跌89.364点，跌幅0.29%，报30571.237点。 纳斯达克科技市值加权指数收跌0.39%，报3040.2136点，美股盘初高开低走，绝大部分时间维持下跌状态。 费城半导体指数收涨1.39%，报13916.957点，连续第三个交易日创收盘历史新高，盘初出现V形反转行情，绝大部分时间高位震荡。 费城证交所KBW银行指数收跌1.44%，报169.19点。 道琼斯KBW地区银行指数收跌2.15%，报131.27点。 罗素2000指数收跌1.31%，报2893.514点。 纳斯达克生物科技指数收盘反弹1.87%，报5807.22点。 标普中盘股400指数收跌0.10%，纳斯达克美国中等市值指数跌0.69%。 恐慌指数VIX收涨2.09%，报16.10，日内绝大部分时间持稳于这样的水平、北京时间22:00前后尖锐地冲高回落——一度达到16.63。",
           "url": "https://wallstreetcn.com/livenews/3113997",
           "source": "华尔街见闻-快讯",
@@ -279,18 +312,19 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 17,
+      "match_count": 25,
       "titles": [
         {
           "title": "国内成品油价格调整",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%A0%BC%E8%B0%83%E6%95%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 20时09分]"
         },
         {
           "title": "今晚油价将调整",
@@ -337,6 +371,28 @@
           "time_info": "12时56分"
         },
         {
+          "title": "现货黄金突破4500美元/盎司，日内涨近1.5%。 现货白银日内涨2%，报74.16美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3114425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳指期货、标普500指数期货均触及日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3114421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "美国称以色列和黎巴嫩同意执行停火。 美国称，以色列和黎巴嫩同意于6月22日当周再次举行会谈。 WTI原油期货跌超0.8%，在亚太盘初逼近95美元。",
           "url": "https://wallstreetcn.com/livenews/3114058",
           "source": "华尔街见闻-快讯",
@@ -348,13 +404,24 @@
           "time_info": "07时52分"
         },
         {
+          "title": "现货黄金站上4500美元",
+          "url": "https://flash.jin10.com/detail/20260604194820471800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "富宝资讯：碳酸锂现货价格下跌，富宝电池级碳酸锂报162500元/吨",
           "url": "https://flash.jin10.com/detail/20260604164010011800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -403,6 +470,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "纳斯达克100指数期货跌幅扩大，触及盘中低点，现跌1.43%。",
+          "url": "https://flash.jin10.com/detail/20260604193944450800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "港股午评：恒生指数早盘持续低迷 权重科技股持续调整",
           "url": "https://flash.jin10.com/detail/20260604120537495800",
           "source": "金十数据",
@@ -412,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "标普500指数期货延续跌势，触及盘中最低点，跌幅达0.6%。",
+          "url": "https://flash.jin10.com/detail/20260604193830166800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "周四亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.6%，道指期货涨0.1%。 科技股中，博通目前（美股盘后）跌12.9%，甲骨文跌4.7%，IBM跌3.8%，AMD跌2.6%，闪迪跌2.5%，美光跌2.4%，高通跌1.9%，苹果涨1.2%，C3.ai涨2.3%。",
@@ -458,6 +547,39 @@
           "time_info": "01时07分"
         },
         {
+          "title": "外资机构席位·期货品种持仓一览（6月4日）",
+          "url": "https://flash.jin10.com/detail/20260604193346521800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "期货盯盘神器全新功能",
+          "url": "https://flash.jin10.com/detail/20260604193212120800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3114383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "广东省政府领导班子分工调整",
           "url": "https://www.toutiao.com/trending/7647120440494030902/",
           "source": "今日头条",
@@ -472,18 +594,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
           "url": "https://wallstreetcn.com/articles/3773742",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 16时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 20时09分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -537,33 +660,36 @@
           "url": "https://www.cls.cn/detail/2390543",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 20时09分]"
         },
         {
           "title": "如何看待美股窄牛",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 20时09分]"
         },
         {
           "title": "美股芯片巨头暴跌",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 20时09分]"
         },
         {
           "title": "美股“逢低买入”信仰不倒，全球首个万亿美元ETF诞生",
@@ -588,6 +714,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "小盘股指ETF收跌将近1.4%，领跌美股大类资产类ETF，布油基金涨约2%",
           "url": "https://wallstreetcn.com/livenews/3114012",
           "source": "华尔街见闻-快讯",
@@ -605,7 +742,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -619,12 +756,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "富途控股美股盘前跌超5%，老虎证券跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3114398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "黄金ETF近一个月资金净流出超百亿元",
@@ -644,7 +792,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -660,6 +808,18 @@
           "time_info": "05时26分"
         },
         {
+          "title": "新任湖北省委书记首次调研，关注科技创新和产业创新融合发展工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33303152",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 20时09分]"
+        },
+        {
           "title": "山东一高校成立辣子鸡产业学院",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%AB%98%E6%A0%A1%E6%88%90%E7%AB%8B%E8%BE%A3%E5%AD%90%E9%B8%A1%E4%BA%A7%E4%B8%9A%E5%AD%A6%E9%99%A2",
           "source": "百度热搜",
@@ -673,24 +833,13 @@
           "time_info": "[01时07分 ~ 07时52分]"
         },
         {
-          "title": "新任湖北省委书记首次调研，关注科技创新和产业创新融合发展工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33303152",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
-        },
-        {
           "title": "据沙特阿拉伯阿拉比亚电视台：特朗普告知调解方，在签署协议前他拒绝向伊朗释放资金。",
           "url": "https://flash.jin10.com/detail/20260604164102085800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -717,6 +866,17 @@
           "time_info": "12时56分"
         },
         {
+          "title": "业内人士：6月初处于跨季窗口期前夕，央行近日公开市场操作为即将到来的跨季资金波动预留政策空间",
+          "url": "https://flash.jin10.com/detail/20260604194448654800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "央行公开市场再现“零操作”，机构：技术性回笼不改资金面宽松预期",
           "url": "https://wallstreetcn.com/livenews/3114049",
           "source": "华尔街见闻-快讯",
@@ -734,7 +894,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -745,7 +905,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -756,7 +916,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -764,8 +924,19 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "TYLOO vs Sharks科隆Major",
+          "url": "https://search.bilibili.com/all?keyword=TYLOO%20Sharks",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850543&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/3DNTmUx3PM0NwYuJUmMof.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260604120543493800",
@@ -831,26 +1002,20 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.7768，较上一交易日官方收盘价跌48点，较上日夜盘收盘涨25点。",
-          "url": "https://wallstreetcn.com/livenews/3114310",
-          "source": "华尔街见闻-快讯",
+          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
+          "url": "https://www.zhihu.com/question/2045468542531851848",
+          "source": "知乎",
           "ranks": [
-            1
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "time_info": "20时09分"
+        },
         {
           "title": "2/10年期美债收益率涨约4个基点",
           "url": "https://wallstreetcn.com/livenews/3113992",
@@ -861,6 +1026,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7768，较上一交易日官方收盘价跌48点，较上日夜盘收盘涨25点。",
+          "url": "https://wallstreetcn.com/livenews/3114310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         }
       ]
     }
