@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T16:50:10.192808+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-06-05T20:17:21.745307+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
@@ -74,7 +74,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -95,11 +95,12 @@
           "url": "https://www.zhihu.com/question/2045794379957278430",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 16时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 20时17分]"
         },
         {
           "title": "A股三大指数集体下跌，芯片半导体逆势拉升，京东方涨停，恒指、恒科指双双跌超1%",
@@ -124,13 +125,24 @@
           "time_info": "12时40分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 6月5日（周五）晚盘盘初下跌0.02%报974.3元/克；<br/>上海黄金交易所白银T+D 6月5日（周五）晚盘盘初下跌1.25%报17520.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260605200041942800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "港股收盘：恒生指数收跌1.15%，恒生科技指数收跌1.75%。大模型概念股普跌，MINIMAX跌超16%，智谱跌超9%。半导体、存储板块走弱，华虹半导体跌超7%，中芯国际跌超7%，澜起科技跌超9%，兆易创新跌超8%。",
           "url": "https://wallstreetcn.com/livenews/3114923",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -157,6 +169,17 @@
           "time_info": "12时40分"
         },
         {
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "美元指数4日下跌",
           "url": "https://flash.jin10.com/detail/20260605060453998800",
           "source": "金十数据",
@@ -174,7 +197,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -185,7 +208,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -207,7 +230,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -223,6 +246,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "Planet Labs股价盘前下跌5%，公司申请最多15亿美元股票发行。",
+          "url": "https://flash.jin10.com/detail/20260605195456261800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "贝森特称油价已下跌，释放劳动节前迎来缓解的信号",
           "url": "https://wallstreetcn.com/livenews/3114587",
           "source": "华尔街见闻-快讯",
@@ -232,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "荷兰金融科技公司Adyen股票因下跌幅度达到8.1%而自动停牌。",
+          "url": "https://flash.jin10.com/detail/20260605195132140800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "美联储戴利：目前通胀关注点集中在能源和食品，这些因素正在推动价格上涨。",
@@ -336,7 +381,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "央行将开展5000亿元买断式逆回购操作 缩量趋势延续 机构：资金面或从“异常宽松”回到“合理充裕”",
@@ -406,6 +451,28 @@
           "time_info": "03时28分"
         },
         {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "明阳电路：拟发行可转债募资不超过12亿元，用于年产10万平米人工智能高阶HDI算力产品项目、补充流动资金及偿还银行贷款项目。",
+          "url": "https://wallstreetcn.com/livenews/3115107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "多路增量资金加码A股，主动权益类基金加仓科技成长",
           "url": "https://wallstreetcn.com/livenews/3114663",
           "source": "华尔街见闻-快讯",
@@ -456,7 +523,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -497,7 +564,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "博通重挫引芯片板块抛售 纳指期货盘前跌超1% | 今夜看点",
@@ -635,6 +702,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "摩根士丹利：预计SpaceX到2028年营收将接近1600亿美元。 预计SpaceX到2040年营收将达到3.4万亿美元。 预计SpaceX调整后EBITDA到2040年将超过2.7万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "内盘期货夜市普遍收跌，棕榈油跌超2.3%，焦煤涨超1.2%",
           "url": "https://wallstreetcn.com/livenews/3114516",
           "source": "华尔街见闻-快讯",
@@ -644,12 +722,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "期货盯盘神器全新功能",
+          "url": "https://flash.jin10.com/detail/20260605193656222800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -687,13 +776,24 @@
           "time_info": "[16时49分 ~ 16时50分]"
         },
         {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "美股盘前，科技股延续跌势，英伟达跌超1.5%，美光科技跌2.77%，ARM跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3114919",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -745,7 +845,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周四（6月4日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7769元，较周三纽约尾盘涨34点，日内整体交投于6.7803-6.7701元区间。",
@@ -769,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "合盛硅业：拟非公开发行不超过人民币15亿元（含）的公司债券。",
+          "url": "https://wallstreetcn.com/livenews/3115112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "离岸人民币同业拆息利率多数持稳 一年期拆息小跌至周初触及的纪录低点",
