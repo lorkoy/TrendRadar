@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T12:40:51.532081+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-06-05T16:50:10.192808+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
@@ -40,7 +40,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -68,6 +68,17 @@
           "time_info": "[00时26分 ~ 07时17分]"
         },
         {
+          "title": "【外资本周抛售逾100亿美元韩国股票】韩国首尔综指收盘下跌5.5%，三星电子和SK海力士至少下跌6%。外国投资者再卖3.5万亿韩元(约23亿美元)的韩国股票，本周累积抛售逾100亿美元。韩元跌至2009年3月以来的最低水准。KB Securities经济学家Oh Jaeyoung表示，油价上涨引发的韩元下跌，因外资抛售韩股而加剧；随着首尔综指下跌，这种压力被进一步放大。从短期市场情绪来看，韩元可能仍有进一步下跌的空间。",
+          "url": "https://wallstreetcn.com/livenews/3114928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "“200元”股又添一员！气体龙头2个月涨4倍，翻倍热股近期频现，这些板块占比较高",
           "url": "https://www.cls.cn/detail/2390856",
           "source": "财联社热门",
@@ -80,26 +91,48 @@
           "time_info": "[00时26分 ~ 07时17分]"
         },
         {
-          "title": "港股午评：恒指震荡走低收跌0.81% 存储芯片等半导体板块回调",
-          "url": "https://flash.jin10.com/detail/20260605120641761800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
           "title": "韩国证券账户数比总人口还多，年轻人借钱炒股甚至辞职全职投资，这轮牛市为何成了普通人的「最后一搏」？",
           "url": "https://www.zhihu.com/question/2045794379957278430",
           "source": "知乎",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 16时50分]"
+        },
+        {
+          "title": "A股三大指数集体下跌，芯片半导体逆势拉升，京东方涨停，恒指、恒科指双双跌超1%",
+          "url": "https://wallstreetcn.com/articles/3773833",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "港股午评：恒指震荡走低收跌0.81% 存储芯片等半导体板块回调",
+          "url": "https://flash.jin10.com/detail/20260605120641761800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌1.15%，恒生科技指数收跌1.75%。大模型概念股普跌，MINIMAX跌超16%，智谱跌超9%。半导体、存储板块走弱，华虹半导体跌超7%，中芯国际跌超7%，澜起科技跌超9%，兆易创新跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3114923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报392.19点。 在十个板块中，北欧医疗保健板块涨幅最大。 马士基涨8.3%，在一众北欧个股里领跑。",
@@ -119,7 +152,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -135,15 +168,48 @@
           "time_info": "07时17分"
         },
         {
+          "title": "英国央行：24%的受访企业预计由于冲突工资将会上涨。",
+          "url": "https://flash.jin10.com/detail/20260605163437784800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "在岸人民币兑美元6月5日16:30收盘报6.7712，较上一交易日上涨56点。",
+          "url": "https://flash.jin10.com/detail/20260605163335480800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "SK海力士股价延续跌势，跌幅近8%；三星电子下跌4.8%。",
           "url": "https://flash.jin10.com/detail/20260605115339400800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "英国央行：四月份，英国企业预计提高价格3.8%。企业预计未来一年工资将上涨3.4%。",
+          "url": "https://flash.jin10.com/detail/20260605163150383800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
@@ -196,7 +262,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -207,7 +273,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -218,7 +284,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -251,7 +317,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -262,167 +328,15 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "博通重挫引芯片板块抛售 纳指期货盘前跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2391104",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 07时17分]"
-        },
-        {
-          "title": "芝加哥大豆期货跌约2.2%，大豆油跌超2.9%",
-          "url": "https://wallstreetcn.com/livenews/3114598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "标普道琼斯指数公司计划不对超大市值公司指数的入选资格期限做出任何调整。",
-          "url": "https://wallstreetcn.com/livenews/3114647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "周四（6月4日）纽约尾盘，标普500股指期货最终涨0.26%，道指期货涨1.74%，纳斯达克100股指期货跌0.77%。 罗素2000股指期货涨1.29%。",
-          "url": "https://wallstreetcn.com/livenews/3114642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 07时17分]"
-        },
-        {
-          "title": "富途控股调整中国境内服务",
-          "url": "https://www.douyin.com/hot/2523603",
-          "source": "抖音",
-          "ranks": [
-            27,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 12时40分]"
-        },
-        {
-          "title": "恒指期货夜盘收涨0.27%，报25158点，低水95点。",
-          "url": "https://flash.jin10.com/detail/20260605030446757800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "现货黄金涨0.9%，白银涨1.6%",
-          "url": "https://wallstreetcn.com/livenews/3114638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.24%，10年期主力合约跌0.09%，5年期主力合约跌0.06%，2年期主力合约跌0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3114791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
-          "url": "https://flash.jin10.com/detail/20260605044557857800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "WTI 7月原油期货收跌2.98美元，跌幅3.10%，报93.04美元/桶。 布伦特8月原油期货收跌2.78美元，跌幅2.84报95.03美元/桶。 NYMEX 7月天然气期货收报3.3360美元/百万英热单位。 NYMEX 7月汽油期货收报3.0383美元/加仑，NYMEX 7月取暖油期货收报3.6738美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3114585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "上期所原油期货2607合约夜盘收跌2.17%，报595.10元人民币/桶。 沪金夜盘收涨0.43%，沪银收涨0.73%。",
-          "url": "https://wallstreetcn.com/livenews/3114584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
-          "url": "https://wallstreetcn.com/livenews/3114631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "内盘期货夜市普遍收跌，棕榈油跌超2.3%，焦煤涨超1.2%",
-          "url": "https://wallstreetcn.com/livenews/3114516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "央行将开展5000亿元买断式逆回购操作 缩量趋势延续 机构：资金面或从“异常宽松”回到“合理充裕”",
@@ -536,6 +450,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "鸿海：第二季度是ICT产业的传统淡季，但AI机架预计将保持持续增长趋势。 第二季度业绩远超此前预期的显著增长。 仍需密切关注全球政治和经济局势的波动影响。",
+          "url": "https://wallstreetcn.com/livenews/3114905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "加拿大总理卡尼发布AI战略：将为AI初创公司提供资金并购入其股权",
           "url": "https://wallstreetcn.com/livenews/3114519",
           "source": "华尔街见闻-快讯",
@@ -571,8 +496,160 @@
       ]
     },
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "博通重挫引芯片板块抛售 纳指期货盘前跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2391104",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 07时17分]"
+        },
+        {
+          "title": "芝加哥大豆期货跌约2.2%，大豆油跌超2.9%",
+          "url": "https://wallstreetcn.com/livenews/3114598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "标普道琼斯指数公司计划不对超大市值公司指数的入选资格期限做出任何调整。",
+          "url": "https://wallstreetcn.com/livenews/3114647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "富途控股调整中国境内服务",
+          "url": "https://www.douyin.com/hot/2523603",
+          "source": "抖音",
+          "ranks": [
+            27,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 16时50分]"
+        },
+        {
+          "title": "周四（6月4日）纽约尾盘，标普500股指期货最终涨0.26%，道指期货涨1.74%，纳斯达克100股指期货跌0.77%。 罗素2000股指期货涨1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3114642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时17分]"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.27%，报25158点，低水95点。",
+          "url": "https://flash.jin10.com/detail/20260605030446757800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "现货黄金涨0.9%，白银涨1.6%",
+          "url": "https://wallstreetcn.com/livenews/3114638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.24%，10年期主力合约跌0.09%，5年期主力合约跌0.06%，2年期主力合约跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3114791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
+          "url": "https://flash.jin10.com/detail/20260605044557857800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "WTI 7月原油期货收跌2.98美元，跌幅3.10%，报93.04美元/桶。 布伦特8月原油期货收跌2.78美元，跌幅2.84报95.03美元/桶。 NYMEX 7月天然气期货收报3.3360美元/百万英热单位。 NYMEX 7月汽油期货收报3.0383美元/加仑，NYMEX 7月取暖油期货收报3.6738美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3114585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "上期所原油期货2607合约夜盘收跌2.17%，报595.10元人民币/桶。 沪金夜盘收涨0.43%，沪银收涨0.73%。",
+          "url": "https://wallstreetcn.com/livenews/3114584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
+          "url": "https://wallstreetcn.com/livenews/3114631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "内盘期货夜市普遍收跌，棕榈油跌超2.3%，焦煤涨超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3114516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -599,13 +676,35 @@
           "time_info": "[00时26分 ~ 12时40分]"
         },
         {
+          "title": "汇丰：美股转空的三大信号",
+          "url": "https://wallstreetcn.com/articles/3773857",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "美股盘前，科技股延续跌势，英伟达跌超1.5%，美光科技跌2.77%，ARM跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3114919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
           "url": "https://www.zhihu.com/question/2045914979002315116",
           "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -678,7 +777,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -689,7 +788,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -739,7 +838,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -750,7 +849,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
@@ -767,7 +866,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
