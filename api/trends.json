@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-08T06:13:25.386390+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-06-08T08:19:18.284323+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
           "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时19分]"
         },
         {
           "title": "【早报】国常会最新部署！事关未来产业；事关私募基金高质量发展，国办公布指导意见",
@@ -48,11 +49,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            30
+            30,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 08时19分]"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3115698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时19分"
         },
         {
           "title": "声明称，欧佩克在周日会议上决定维持组织范围内的石油产量政策不变。",
@@ -68,78 +81,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时13分]"
-        },
-        {
-          "title": "如何看待美股黑色星期五？如何影响A股？",
-          "url": "https://www.cls.cn/detail/2392886",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时13分]"
-        },
-        {
-          "title": "国泰海通：美股或迎来至少一两个月的波动期",
-          "url": "https://flash.jin10.com/detail/20260607222627146800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2392910",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时13分]"
-        },
-        {
-          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
-          "url": "https://wallstreetcn.com/articles/3774038",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -152,8 +95,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时19分]"
+        },
+        {
+          "title": "新闻交易员：科技股这波下跌不只是获利了结，水位已经变了",
+          "url": "https://flash.jin10.com/detail/20260608081358563800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时19分"
         },
         {
           "title": "中信建投：当前海外科技板块整体维持择优增持、逢低布局的核心策略",
@@ -166,6 +120,123 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 02时12分]"
+        },
+        {
+          "title": "韩元兑美元上涨0.3%，此前韩国公布提振韩元的措施。",
+          "url": "https://wallstreetcn.com/livenews/3115700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        },
+        {
+          "title": "日韩股市开盘下跌",
+          "url": "https://flash.jin10.com/detail/20260608080145674800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
+          "url": "https://wallstreetcn.com/articles/3774038",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时19分]"
+        },
+        {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时19分]"
+        },
+        {
+          "title": "韩国交易所启动Kosdaq市场临时停牌机制。Kosdaq150指数期货下跌6%后程序交易暂停5分钟。",
+          "url": "https://flash.jin10.com/detail/20260608080752816800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260608075310782800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时19分]"
+        },
+        {
+          "title": "如何看待美股黑色星期五？如何影响A股？",
+          "url": "https://www.cls.cn/detail/2392886",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时19分]"
+        },
+        {
+          "title": "国泰海通：美股或迎来至少一两个月的波动期",
+          "url": "https://flash.jin10.com/detail/20260607222627146800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
