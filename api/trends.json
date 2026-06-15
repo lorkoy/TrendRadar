@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T13:20:23.465888+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-06-15T20:37:07.103944+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】美伊达成协议，国际油价大跌，美股期货拉涨",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -91,9 +91,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "国际现货黄金讲解中",
+          "url": "https://flash.jin10.com/detail/20260615200108144800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金测试4340美元 美日关注上行押注",
+          "url": "https://flash.jin10.com/detail/20260615195918412800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "国债期货早盘收盘，30年期主力合约涨0.22%，10年期主力合约涨0.05%，5年期主力合约涨0.06%，2年期主力合约涨0.02%。",
@@ -102,7 +124,124 @@
           "ranks": [
             28
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "非遗题材和中式美学都齐了，《家业》为何仍让人“入戏不深”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33332012",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 07时19分]"
+        },
+        {
+          "title": "中东局势逐渐清晰，黄金剧烈反弹，震荡格局是否改变？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260615201629558800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "A股硅能源板块午后上升，有研硅直线拉升涨超13%，合盛硅业触及涨停，硅烷科技、东岳硅材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260615130958463800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "A股小金属板块午后走高，长裕集团封板涨停，云南锗业、中稀有色、中钨高新、东方钽业、章源钨业等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260615130504683800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "A股创业板指午后涨超4%，深证成指涨2.7%，上证指数涨1%，元件、PET铜箔、CPO等概念板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260615130200396800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "农产品价格下跌 预期霍尔木兹海峡重开有望缓解农业投入品冲击",
+          "url": "https://wallstreetcn.com/livenews/3119680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "波罗的海干散货指数下跌0.33%，至2720点。",
+          "url": "https://flash.jin10.com/detail/20260615200236058800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "国际油价显著下跌",
+          "url": "https://www.toutiao.com/trending/7651395984651636270/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月15日（周一）晚盘盘初上涨3.29%报938.3元/克；<br/>上海黄金交易所白银T+D 6月15日（周一）晚盘盘初上涨6.41%报16870.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260615200115194800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "上证指数早盘收报4068.58点，涨0.92%。 深证成指早盘收报15342.47点，涨2.53%。 创业板指早盘收报3970.67点，涨3.66%。 沪深300早盘收报4847.65点，涨1.47%。 科创50早盘收报1723.47点，涨3.62%。 中证500早盘收报8304.88点，涨2.45%。 中证1000早盘收报8431.49点，涨2.79%。",
+          "url": "https://wallstreetcn.com/livenews/3119423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         }
@@ -110,8 +249,30 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：第21轮对俄制裁方案的更广泛工作正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260615201515178800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "SpaceX明年要部署1GW太空算力，服务器机柜和光通信产业链“闻风而动”",
+          "url": "https://wallstreetcn.com/articles/3774635",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
+        },
         {
           "title": "印度外长称美国政策变来变去",
           "url": "https://www.toutiao.com/trending/7650697164603047955/",
@@ -131,7 +292,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -142,9 +303,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：美国将承诺允许伊朗动用其被冻结的资金，但美国不会向德黑兰提供任何资金。",
+          "url": "https://flash.jin10.com/detail/20260615201254267800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "韩国负责外汇政策的官员称韩、美同意就韩元疲软问题合作",
@@ -153,7 +325,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -175,82 +347,82 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         }
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "keyword_group": "SZ SH HK",
       "match_count": 6,
       "titles": [
         {
-          "title": "非遗题材和中式美学都齐了，《家业》为何仍让人“入戏不深”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33332012",
-          "source": "澎湃新闻",
+          "title": "老粉狂喜!TheShy重返IG",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355183&amp;topic_name=%E8%80%81%E7%B2%89%E7%8B%82%E5%96%9C%21TheShy%E9%87%8D%E8%BF%94IG",
+          "source": "贴吧",
           "ranks": [
-            5,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 07时19分]"
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
         },
         {
-          "title": "A股硅能源板块午后上升，有研硅直线拉升涨超13%，合盛硅业触及涨停，硅烷科技、东岳硅材等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260615130958463800",
-          "source": "金十数据",
+          "title": "拯救LPL,TheShy疑加入TES",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355161&amp;topic_name=%E6%8B%AF%E6%95%91LPL%2CTheShy%E7%96%91%E5%8A%A0%E5%85%A5TES",
+          "source": "贴吧",
           "ranks": [
-            6
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 20时37分]"
         },
         {
-          "title": "A股小金属板块午后走高，长裕集团封板涨停，云南锗业、中稀有色、中钨高新、东方钽业、章源钨业等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260615130504683800",
-          "source": "金十数据",
+          "title": "iG 宣布 TheShy 回归队伍征战 2026 第三赛段，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2049899564811773860",
+          "source": "知乎",
           "ranks": [
-            9
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
         },
         {
-          "title": "A股创业板指午后涨超4%，深证成指涨2.7%，上证指数涨1%，元件、PET铜箔、CPO等概念板块涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260615130200396800",
-          "source": "金十数据",
+          "title": "IG官宣TheShy归队",
+          "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3TheShy%E5%BD%92%E9%98%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
         },
         {
-          "title": "国际油价显著下跌",
-          "url": "https://www.toutiao.com/trending/7651395984651636270/",
-          "source": "今日头条",
+          "title": "iG官宣TheShy归队",
+          "url": "https://www.douyin.com/hot/2535539",
+          "source": "抖音",
           "ranks": [
-            21
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
         },
         {
-          "title": "上证指数早盘收报4068.58点，涨0.92%。 深证成指早盘收报15342.47点，涨2.53%。 创业板指早盘收报3970.67点，涨3.66%。 沪深300早盘收报4847.65点，涨1.47%。 科创50早盘收报1723.47点，涨3.62%。 中证500早盘收报8304.88点，涨2.45%。 中证1000早盘收报8431.49点，涨2.79%。",
-          "url": "https://wallstreetcn.com/livenews/3119423",
-          "source": "华尔街见闻-快讯",
+          "title": "iG官宣TheShy归队",
+          "url": "https://s.weibo.com/weibo?q=%23iG%E5%AE%98%E5%AE%A3TheShy%E5%BD%92%E9%98%9F%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            26
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
         }
       ]
     },
@@ -265,7 +437,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -276,26 +448,77 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         }
       ]
     },
     {
-      "keyword_group": "SZ SH HK",
+      "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
         {
-          "title": "拯救LPL,TheShy疑加入TES",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355161&amp;topic_name=%E6%8B%AF%E6%95%91LPL%2CTheShy%E7%96%91%E5%8A%A0%E5%85%A5TES",
-          "source": "贴吧",
+          "title": "东百集团：拟转让全资子公司东百红星100%股权 暂定股权转让价格为人民币182.78万元",
+          "url": "https://flash.jin10.com/detail/20260615201106927800",
+          "source": "金十数据",
           "ranks": [
-            5
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "20时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多重因素催动六氟化钨价格较去年同期涨幅超200% 分析人士：国产替代迎来黄金窗口期",
+          "url": "https://wallstreetcn.com/livenews/3119670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊达成协议，美股盘前半导体股普涨，SpaceX涨超6%，美债收益率全线下行，油价重挫4%",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Fox美股盘前跌15%，报道称福克斯（Fox）将以160美元/股的现金和股票交易方式收购Roku。",
+          "url": "https://wallstreetcn.com/livenews/3119665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     }
