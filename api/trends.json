@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-15T07:19:38.938697+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-06-15T13:20:23.465888+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "【早报】美伊达成协议，国际油价大跌，美股期货拉涨",
+          "url": "https://www.cls.cn/detail/2399448",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
         {
           "title": "现货白银站上70美元/盎司，日内涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3119296",
@@ -14,7 +25,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -69,15 +80,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260615124610140800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.22%，10年期主力合约涨0.05%，5年期主力合约涨0.06%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3119420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "印度外长称美国政策变来变去",
@@ -92,6 +125,39 @@
           "time_info": "[01时38分 ~ 03时49分]"
         },
         {
+          "title": "日本4月第三产业活动指数环比 1.3%，前值 -0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3119449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "市场消息：日本延长降低对私人石油储备的政策要求。",
+          "url": "https://flash.jin10.com/detail/20260615130853710800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "韩国负责外汇政策的官员称韩、美同意就韩元疲软问题合作",
+          "url": "https://wallstreetcn.com/livenews/3119443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "世界杯中国赞助商缩水背后的产业变迁",
           "url": "https://www.toutiao.com/trending/7651197764402941481/",
           "source": "今日头条",
@@ -101,12 +167,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "据阿拉比亚电视台：以色列媒体援引消息人士称，以色列内阁支持内塔尼亚胡在黎巴嫩问题上的政策。特拉维夫坚持其在黎巴嫩的安全利益。",
+          "url": "https://flash.jin10.com/detail/20260615123228270800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 1,
+      "match_count": 6,
       "titles": [
         {
           "title": "非遗题材和中式美学都齐了，《家业》为何仍让人“入戏不深”",
@@ -119,6 +196,106 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时38分 ~ 07时19分]"
+        },
+        {
+          "title": "A股硅能源板块午后上升，有研硅直线拉升涨超13%，合盛硅业触及涨停，硅烷科技、东岳硅材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260615130958463800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "A股小金属板块午后走高，长裕集团封板涨停，云南锗业、中稀有色、中钨高新、东方钽业、章源钨业等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260615130504683800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "A股创业板指午后涨超4%，深证成指涨2.7%，上证指数涨1%，元件、PET铜箔、CPO等概念板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260615130200396800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "国际油价显著下跌",
+          "url": "https://www.toutiao.com/trending/7651395984651636270/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "上证指数早盘收报4068.58点，涨0.92%。 深证成指早盘收报15342.47点，涨2.53%。 创业板指早盘收报3970.67点，涨3.66%。 沪深300早盘收报4847.65点，涨1.47%。 科创50早盘收报1723.47点，涨3.62%。 中证500早盘收报8304.88点，涨2.45%。 中证1000早盘收报8431.49点，涨2.79%。",
+          "url": "https://wallstreetcn.com/livenews/3119423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价跌破900老板5个手机都忙不过来",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4900%E8%80%81%E6%9D%BF5%E4%B8%AA%E6%89%8B%E6%9C%BA%E9%83%BD%E5%BF%99%E4%B8%8D%E8%BF%87%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "拯救LPL,TheShy疑加入TES",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355161&amp;topic_name=%E6%8B%AF%E6%95%91LPL%2CTheShy%E7%96%91%E5%8A%A0%E5%85%A5TES",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     }
