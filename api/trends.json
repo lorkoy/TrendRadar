@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T13:23:14.578218+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-06-16T19:28:59.266435+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "A股算力租赁概念震荡拉升，莲花控股午后涨停，贵广网络、南威软件、南兴股份、中贝通信跟涨。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -25,9 +25,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "买错了就是熊市，多位知名百亿基金经理今年仍在亏损",
+          "url": "https://www.cls.cn/detail/2400875",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "DRAM价格再次回到上涨轨道 德国DDR5价格指数反弹至419%",
+          "url": "https://www.cls.cn/detail/2400909",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "加拿大标普/TSX综合指数收涨0.97%，报35275.64点，突破6月4日所创收盘历史最高位35217.06点，最近三个交易日累计上涨3.29%。 小盘股指收涨1.17%，报1441.10点。",
@@ -70,7 +92,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -81,9 +103,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "【午报】创业板指震荡走高涨超2%，AI硬件持续爆发，MLCC、玻纤等细分领涨",
+          "url": "https://www.cls.cn/detail/2400951",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "周一（6月15日），彭博电动汽车价格回报指数涨1.88%，报3859.15点。 指数在亚太早盘显著上涨，日内过半时间交投于3850点上方，北京时间21:30刷新日高至3878.04点。 成分股中，印尼安塔姆矿业收涨9.82%，淡水河谷印尼公司涨7.75%，中创新航科技集团H股涨6.82%，Panasonic株式会社涨5.53%，智利化工矿业公司（SQM）则跌1.79%，小鹏集团H股跌3.47%，Ola Electric Mobility Ltd.跌3.54%。",
@@ -169,7 +202,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -191,7 +224,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -202,7 +235,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -213,7 +246,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -239,11 +272,12 @@
           "url": "https://wallstreetcn.com/articles/3774633",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 19时28分]"
         },
         {
           "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
@@ -417,7 +451,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "现货黄金涨超2%，重拾4300美元关口，美国和伊朗达成协议以恢复霍尔木兹海峡通行",
@@ -443,6 +477,17 @@
           "time_info": "[05时16分 ~ 07时54分]"
         },
         {
+          "title": "李一桐主动调整署名顺序",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E4%B8%BB%E5%8A%A8%E8%B0%83%E6%95%B4%E7%BD%B2%E5%90%8D%E9%A1%BA%E5%BA%8F%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "巴克莱银行：地缘政治“调整”趋于消退，现货黄金将回升至4900美元",
           "url": "https://flash.jin10.com/detail/20260616061405993800",
           "source": "金十数据",
@@ -460,7 +505,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -504,7 +549,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -548,7 +593,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         }
@@ -556,7 +601,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "万斯：伊朗可能获得3000亿重建资金，海湾国家出钱",
@@ -587,7 +632,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -598,7 +643,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -634,25 +679,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "昀冢科技：公司MLCC业务具有前期资金投入大、投资周期长等特点，尚处于亏损状态",
+          "url": "https://flash.jin10.com/detail/20260616190222842800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "老粉狂喜!TheShy重返IG",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355183&amp;topic_name=%E8%80%81%E7%B2%89%E7%8B%82%E5%96%9C%21TheShy%E9%87%8D%E8%BF%94IG",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 13时23分]"
-        },
         {
           "title": "IG官宣TheShy归队",
           "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3TheShy%E5%BD%92%E9%98%9F",
@@ -660,11 +704,25 @@
           "ranks": [
             13,
             16,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 19时28分]"
+        },
+        {
+          "title": "老粉狂喜!TheShy重返IG",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355183&amp;topic_name=%E8%80%81%E7%B2%89%E7%8B%82%E5%96%9C%21TheShy%E9%87%8D%E8%BF%94IG",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 19时28分]"
         },
         {
           "title": "拯救LPL,TheShy疑加入TES",
@@ -690,6 +748,17 @@
           "time_info": "[01时59分 ~ 05时16分]"
         },
         {
+          "title": "曝TheShy回归IG原因",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DTheShy%E5%9B%9E%E5%BD%92IG%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加11.25吨，当前持仓量为14972.85吨。欢迎点击查看数据中心…",
           "url": "https://flash.jin10.com/detail/20260616061650304800",
           "source": "金十数据",
@@ -710,6 +779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "如何评价TheShy回归IG",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7TheShy%E5%9B%9E%E5%BD%92IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
@@ -735,7 +815,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         }
@@ -751,11 +831,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 19时28分]"
         },
         {
           "title": "两年期美债收益率跌幅收窄至2.5个基点",
