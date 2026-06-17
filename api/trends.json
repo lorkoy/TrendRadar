@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T07:42:22.753716+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-06-17T13:02:34.749700+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
@@ -25,9 +25,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 13时02分]"
         },
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
@@ -40,6 +40,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 05时14分]"
+        },
+        {
+          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
+          "url": "https://www.cls.cn/detail/2401752",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 13时02分]"
         },
         {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
@@ -66,17 +78,6 @@
           "time_info": "[01时14分 ~ 07时42分]"
         },
         {
-          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
-          "url": "https://www.cls.cn/detail/2401752",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
           "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
           "url": "https://wallstreetcn.com/livenews/3120490",
           "source": "华尔街见闻-快讯",
@@ -94,7 +95,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -105,7 +106,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -146,8 +147,19 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "巴基斯坦KSE-100指数上涨0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3120748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
         {
           "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
           "url": "https://wallstreetcn.com/livenews/3120489",
@@ -215,6 +227,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "上证指数早盘收报4084.54点，跌0.18%。 深证成指早盘收报15735.60点，涨0.39%。 创业板指早盘收报4103.01点，涨0.00%。 沪深300早盘收报4889.69点，涨0.11%。 科创50早盘收报1776.26点，涨1.01%。 中证500早盘收报8534.44点，涨0.31%。 中证1000早盘收报8645.85点，跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3120721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.5%，连续第二个交易日下挫，报385.40点。 在十个板块中，北欧信息技术板块跌幅最大。 诺基亚跌4.2%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3120413",
           "source": "华尔街见闻-快讯",
@@ -228,8 +251,186 @@
       ]
     },
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "欧洲央行管委Makhlouf：仍然需要观察能源价格会按照多快的速度调整。",
+          "url": "https://wallstreetcn.com/livenews/3120440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "多银行调整积存金业务：降费降门槛，延时交易",
+          "url": "https://wallstreetcn.com/livenews/3120552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "现货白银跌破70美元/盎司关口，报69.98美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3120487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "新加坡铁矿石期货价格自3月以来首次跌破每吨100美元，交投最活跃的合约一度下跌1.6%，至每吨99.60美元。",
+          "url": "https://wallstreetcn.com/livenews/3120733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.04%，10年期主力合约跌0.00%，5年期主力合约跌0.01%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3120717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "芝加哥大豆期货涨超0.9%，咖啡豆涨超5.5%，纽约可可涨超6.5%",
+          "url": "https://wallstreetcn.com/livenews/3120469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "证监会主席吴清：支持香港于近期推出5年期人民币国债期货上市交易",
+          "url": "https://wallstreetcn.com/livenews/3120714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "吴清：平稳推动液化天然气期货期权上市",
+          "url": "https://wallstreetcn.com/livenews/3120708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
+          "url": "https://www.cls.cn/detail/2401731",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 13时02分]"
+        },
+        {
+          "title": "南向资金今年以来净买入超3000亿港元",
+          "url": "https://wallstreetcn.com/livenews/3120541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "陆家嘴论坛上 央行带来新政策利好",
+          "url": "https://www.baidu.com/s?wd=%E9%99%86%E5%AE%B6%E5%98%B4%E8%AE%BA%E5%9D%9B%E4%B8%8A+%E5%A4%AE%E8%A1%8C%E5%B8%A6%E6%9D%A5%E6%96%B0%E6%94%BF%E7%AD%96%E5%88%A9%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "资金用脚投票，近半月黄金相关ETF流出73亿，黄金反弹能扭转颓势吗？",
+          "url": "https://www.cls.cn/detail/2401803",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "资金面边际收敛，银行间流动性重回均衡",
+          "url": "https://wallstreetcn.com/livenews/3120528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "国家外汇管理局局长朱鹤新：近期将新增推出“一揽子”增量政策",
+          "url": "https://wallstreetcn.com/livenews/3120727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "单日涌入超10亿美元，杠杆资金疯狂押注SpaceX引爆ETF市场",
+          "url": "https://wallstreetcn.com/livenews/3120415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SZ SH HK",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "IG官宣TheShy归队",
@@ -240,8 +441,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 13时02分]"
         },
         {
           "title": "老粉狂喜!TheShy重返IG",
@@ -249,11 +450,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 13时02分]"
         },
         {
           "title": "如何评价TheShy回归IG",
@@ -275,7 +477,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -297,109 +499,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "欧洲央行管委Makhlouf：仍然需要观察能源价格会按照多快的速度调整。",
-          "url": "https://wallstreetcn.com/livenews/3120440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "多银行调整积存金业务：降费降门槛，延时交易",
-          "url": "https://wallstreetcn.com/livenews/3120552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "07时42分"
         },
         {
-          "title": "现货白银跌破70美元/盎司关口，报69.98美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3120487",
-          "source": "华尔街见闻-快讯",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850552&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/JMTBVGp5UHdlWqDhmyBJL.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260617120448538800",
+          "source": "金十数据",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "芝加哥大豆期货涨超0.9%，咖啡豆涨超5.5%，纽约可可涨超6.5%",
-          "url": "https://wallstreetcn.com/livenews/3120469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
-          "url": "https://www.cls.cn/detail/2401731",
-          "source": "财联社热门",
-          "ranks": [
-            3
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "南向资金今年以来净买入超3000亿港元",
-          "url": "https://wallstreetcn.com/livenews/3120541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "资金面边际收敛，银行间流动性重回均衡",
-          "url": "https://wallstreetcn.com/livenews/3120528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "单日涌入超10亿美元，杠杆资金疯狂押注SpaceX引爆ETF市场",
-          "url": "https://wallstreetcn.com/livenews/3120415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "13时02分"
         }
       ]
     },
@@ -414,7 +527,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -436,7 +549,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
@@ -444,8 +557,19 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "涉及股市、债市、人民币，潘功胜最新发声",
+          "url": "https://www.cls.cn/detail/2401924",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7575元，较周一夜盘收盘跌7点。成交量418.30亿美元。",
           "url": "https://wallstreetcn.com/livenews/3120467",
