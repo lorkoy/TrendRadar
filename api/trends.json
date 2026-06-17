@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-17T19:12:16.004484+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-06-17T23:56:48.584764+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美国大型银行股票上涨，摩根士丹利上涨2.6%，高盛上涨2.3%，花旗上涨1.8%。",
+          "url": "https://flash.jin10.com/detail/20260617235344649800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
         {
           "title": "巴基斯坦KSE-100指数上涨0.5%。",
           "url": "https://wallstreetcn.com/livenews/3120748",
@@ -17,6 +28,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "德国DAX30指数6月17日（周三）收盘上涨38.22点，涨幅0.15%，报24952.98点；<br/>英国富时100指数6月17日（周三）收盘上涨14.02点，涨幅0.13%，报10508.23点；<br/>法国CAC40指数6月17日（周三）收盘下跌16.48点，跌幅0.20%，报8430.79点；<br/>欧洲斯托克50指数6月17日（周三）收盘上涨44.38点，涨幅0.71%，报6301.80点；<br/>西班牙IBEX35指数6月17日（周三）收盘上涨266.56点，涨幅1.39%，报19430.16点；<br/>意大利富时MIB指数6月17日（周三）收盘上涨187.94点，涨幅0.36%，报52620.50点。",
+          "url": "https://flash.jin10.com/detail/20260617233709900800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.4%，报387.14点。 在十个板块中，北欧医疗保健板块涨幅最大。 Genmab A/S涨5.3%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3121125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
@@ -36,7 +80,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -47,7 +91,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -58,7 +102,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -118,6 +162,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "SpaceX股价进一步下跌，最新下跌6.3%。",
+          "url": "https://flash.jin10.com/detail/20260617230952806800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "上证指数早盘收报4084.54点，跌0.18%。 深证成指早盘收报15735.60点，涨0.39%。 创业板指早盘收报4103.01点，涨0.00%。 沪深300早盘收报4889.69点，涨0.11%。 科创50早盘收报1776.26点，涨1.01%。 中证500早盘收报8534.44点，涨0.31%。 中证1000早盘收报8645.85点，跌0.01%。",
           "url": "https://wallstreetcn.com/livenews/3120721",
           "source": "华尔街见闻-快讯",
@@ -138,23 +193,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "专家：别被金银近期下跌吓跑",
+          "url": "https://www.toutiao.com/trending/7652314044803583524/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "标普500指数下跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3121101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
           "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时42分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 23时56分]"
         },
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -178,6 +256,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 05时14分]"
+        },
+        {
+          "title": "摩根资产管理：AI热潮料推动美股续涨，下半年宜持有高风险资产",
+          "url": "https://wallstreetcn.com/livenews/3121128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
@@ -214,6 +303,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时14分 ~ 07时42分]"
+        },
+        {
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
@@ -285,7 +385,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
@@ -300,22 +400,23 @@
           "time_info": "[07时42分 ~ 13时02分]"
         },
         {
+          "title": "宣布六项政策，央行行长潘功胜详解中国金融结构变迁和金融市场现代化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397624",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 23时56分]"
+        },
+        {
           "title": "朱鹤新：近期将新增推出“一揽子”增量政策",
           "url": "https://www.cls.cn/detail/2402067",
           "source": "财联社热门",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
-        },
-        {
-          "title": "宣布六项政策，央行行长潘功胜详解中国金融结构变迁和金融市场现代化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33397624",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -333,15 +434,37 @@
           "time_info": "[19时11分 ~ 19时12分]"
         },
         {
+          "title": "德银：沃什若避免释放政策信号，套利交易将迎来机会",
+          "url": "https://wallstreetcn.com/livenews/3121127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "诚邦股份：拟定增募资不超过1亿元，用于嵌入式存储芯片扩产项目、补充流动资金。",
           "url": "https://wallstreetcn.com/livenews/3120967",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2402436",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "南向资金今年以来净买入超3000亿港元",
@@ -413,7 +536,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "欧洲央行管委Makhlouf：仍然需要观察能源价格会按照多快的速度调整。",
@@ -460,15 +583,37 @@
           "time_info": "13时02分"
         },
         {
+          "title": "“上海价格”输出境外成熟期货市场，上期所向LME授权热轧卷板期货结算价",
+          "url": "https://wallstreetcn.com/livenews/3121114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "期货业整合提速！申万期货拟合并宏源期货",
           "url": "https://wallstreetcn.com/livenews/3120939",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "内盘期货夜市涨跌各异，焦煤收跌超2.2%，焦炭、铁矿石至少跌超1.1%",
+          "url": "https://wallstreetcn.com/livenews/3121108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "国债期货早盘收盘，30年期主力合约涨0.04%，10年期主力合约跌0.00%，5年期主力合约跌0.01%，2年期主力合约跌0.00%。",
@@ -518,7 +663,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何评价TheShy回归IG",
@@ -558,6 +703,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时14分 ~ 13时02分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850553&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/qAkRIrxLKvPVNDseHa0St.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260617234101598800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "Kalshi在永续合约首秀斩获55亿美元后，计划进一步扩展业务",
@@ -606,6 +762,45 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "涉及股市、债市、人民币，潘功胜最新发声",
+          "url": "https://www.cls.cn/detail/2401924",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "香港证监会梁凤仪：境外投资者持有境内人民币债券规模突破3万亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3121110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7575元，较周一夜盘收盘跌7点。成交量418.30亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3120467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -641,34 +836,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "涉及股市、债市、人民币，潘功胜最新发声",
-          "url": "https://www.cls.cn/detail/2401924",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7575元，较周一夜盘收盘跌7点。成交量418.30亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3120467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
         }
       ]
     },
