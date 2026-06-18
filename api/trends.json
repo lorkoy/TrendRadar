@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T01:25:47.047513+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-19T04:47:52.051916+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时47分]"
+        },
+        {
+          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2403938",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时47分]"
         },
         {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
@@ -26,19 +38,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时47分]"
         },
         {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
-          "source": "财联社热门",
+          "title": "新兴市场ETF收涨超3.2%，与纳指ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3121889",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时25分"
+          "time_info": "04时47分"
         },
         {
           "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览（美股盘中）",
@@ -61,13 +73,225 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "周四四（6月18日），美股行业ETF多数收涨，半导体ETF涨5.76%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至多涨3.75%，网络股指数ETF涨1.11%，医疗业ETF、金融业ETF则至多收跌0.89%，能源业ETF跌1.65%。",
+          "url": "https://wallstreetcn.com/livenews/3121887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260619040543323800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260619040541240800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收涨 SpaceX跌3.5%",
+          "url": "https://flash.jin10.com/detail/20260619040108280800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "仅132字！沃什大幅调整美联储利率声明，全文对比美联储6月会议声明有何变化",
+          "url": "https://wallstreetcn.com/articles/3774940",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时47分]"
+        },
+        {
+          "title": "现货黄金日内跌幅达1.0%，报4214.91美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3121834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "现货黄金日内跌超1.00%，现报4215.05美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260619005217195800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
+          "url": "https://wallstreetcn.com/livenews/3121872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美国芝加哥商业交易所集团（CME Group）就加密货币永续期货市场起诉美国商品期货交易委员会（CFTC）及其主席Michael Selig。",
+          "url": "https://wallstreetcn.com/livenews/3121866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "现货白银日内跌幅达4.0%，报65.18美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3121869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "WTI 7月原油期货收跌0.19美元，跌幅0.25%，报76.60美元/桶。 布伦特8月原油期货收涨0.30美元，涨幅0.38%，报79.85美元/桶。 NYMEX 7月天然气期货收报3.2330美元/百万英热单位。 NYMEX 7月汽油期货收报2.9949美元/加仑，NYMEX 7月取暖油期货收报3.1273美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3121860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【焦点复盘】极致两极分化行情再现，硬科技方向多点开花，大金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2403717",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时47分]"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：能源成本上涨正传导至服务业与交通运输行业。",
+          "url": "https://flash.jin10.com/detail/20260619011829005800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "标普500指数的11个板块中，能源板块收跌1.73%，金融板块跌0.91%，电信板块涨1.13%，可选消费板块涨1.76%，信息技术/科技板块涨2.68%。",
+          "url": "https://wallstreetcn.com/livenews/3121891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美国五年期通胀保值债券（TIPS）收益率在拍卖后下跌，目前为1.921% 。",
+          "url": "https://flash.jin10.com/detail/20260619010359018800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "道琼斯指数6月18日（周四）收盘上涨73.14点，涨幅0.14%，报51565.69点；<br/>标普500指数6月18日（周四）收盘上涨80.57点，涨幅1.09%，报7500.67点；<br/>纳斯达克综合指数6月18日（周四）收盘上涨496.28点，涨幅1.91%，报26517.93点。",
+          "url": "https://flash.jin10.com/detail/20260619040344382800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.7%，创6月9日（跌1.4%）以来最差单日表现，报384.11点。 在十个板块中，北欧医疗保健板块跌幅最大。 Equinor ASA跌3.3%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3121813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "穆迪：SpaceX(SPCX.O)保持保守的财务政策，同时得益于可观的现金余额，拥有强大的流动性和财务灵活性。",
+          "url": "https://flash.jin10.com/detail/20260619041625765800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
         {
           "title": "我国又一千亿级产业刷屏",
           "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%8F%88%E4%B8%80%E5%8D%83%E4%BA%BF%E7%BA%A7%E4%BA%A7%E4%B8%9A%E5%88%B7%E5%B1%8F%23&t=31&band_rank=3&Refer=top",
@@ -84,11 +308,12 @@
           "url": "https://www.cls.cn/detail/2403701",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时47分]"
         },
         {
           "title": "美国财政部：外国资产控制办公室还将制裁黎巴嫩、叙利亚、伊拉克和阿曼境内为真主党筹集资金的更多人员。",
@@ -115,97 +340,8 @@
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "欧洲央行管委艾斯克里瓦：能源成本上涨正传导至服务业与交通运输行业。",
-          "url": "https://flash.jin10.com/detail/20260619011829005800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "【焦点复盘】极致两极分化行情再现，硬科技方向多点开花，大金融板块全线重挫",
-          "url": "https://www.cls.cn/detail/2403717",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "美国五年期通胀保值债券（TIPS）收益率在拍卖后下跌，目前为1.921% 。",
-          "url": "https://flash.jin10.com/detail/20260619010359018800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.7%，创6月9日（跌1.4%）以来最差单日表现，报384.11点。 在十个板块中，北欧医疗保健板块跌幅最大。 Equinor ASA跌3.3%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3121813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "仅132字！沃什大幅调整美联储利率声明，全文对比美联储6月会议声明有何变化",
-          "url": "https://wallstreetcn.com/articles/3774940",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "现货黄金日内跌幅达1.0%，报4214.91美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3121834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "现货黄金日内跌超1.00%，现报4215.05美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260619005217195800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
@@ -217,6 +353,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "中国4月减持美债，日本、英国增持美债",
+          "url": "https://flash.jin10.com/detail/20260619040538502800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "日本4月所持美国国债1.2099万亿美元，前值1.1916万亿美元。 4月英国所持美债9375亿美元，前值9269亿美元。 4月中国所持美债6511亿美元，前值6523亿美元。 4月开曼群岛所持美债4716亿美元，前值4594亿美元。 4月比利时所持美债4599亿美元，前值4540亿美元。 4月卢森堡所持美债4311亿美元，前值4320亿美元。 4月加拿大所持美债3971亿美元，前值4394亿美元。 4月法国所持美债3933亿美元，前值3930亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3121881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "10年期美债收益率在沃什首秀次日回撤超3个基点，两年期实际收益率一度涨穿2%",
+          "url": "https://wallstreetcn.com/livenews/3121874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收跌0.88%，报6068.15点。 热门中概股里，世纪互联初步收跌4.8%，万国数据跌4.3%，金山云跌3.1%，新东方跌1.3%，阿里跌0.2%，百度涨0.1%，网易涨0.5%，腾讯涨0.6%，阿特斯太阳能涨1.3%，网易有道涨4%，日月光半导体涨8.7%。 ETF中，中概互联网指数ETF（KWEB）收跌0.55%，中国科技指数ETF（CQQQ）收涨2.57%。 德银嘉实沪深300指数ETF（ASHR）收涨1.17%，XtrackersHarvest中证50（ASHS）收涨2.03%，MSCI新兴市场ex中国ETF（EMXC）收涨3.92%。",
+          "url": "https://wallstreetcn.com/livenews/3121878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7728元，较周三夜盘收盘跌98点。成交量442.19亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3121861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数创13个月新高，两天涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3121867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     }
