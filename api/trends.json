@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-20T03:02:36.154068+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-06-20T05:15:47.787917+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "马士基哥本哈根股价收涨1.23%，本周累计下跌12.00%，6月15-18日持续走低。 赫伯罗特德国法兰克福股价收涨0.71%，本周累跌3.33%。 德迅国际瑞士股价收跌0.55%，本周累跌7.08%。",
           "url": "https://wallstreetcn.com/livenews/3122168",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 05时15分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 05时15分]"
         },
         {
           "title": "如何看待房价上涨的城市越来越多了",
@@ -36,11 +37,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 05时15分]"
         },
         {
           "title": "中东股市收盘播报｜周五（6月19日），土耳其伊斯坦布尔证交所全国100指数收跌0.63%，报14734.50点，脱离5月12日以来最高收盘位，本周累计上涨5.71%。 伊斯坦布尔证交所银行指数收涨0.31%，报18994.50点，北京时间20:50出现一波短线拉升行情，逼近2月27日收盘位20287.20点，本周累涨9.98%。",
@@ -67,6 +69,28 @@
           "time_info": "[00时11分 ~ 03时02分]"
         },
         {
+          "title": "周五（6月19日）纽约尾盘，美元兑日元跌0.05%，报161.30日元，本周累计上涨0.66%，整体持续走高，交投于159.74-161.81日元。 欧元兑日元涨0.06%，报185.05日元，本周累跌0.16%；英镑兑日元涨0.15%，报213.395日元，本周累跌0.66%。",
+          "url": "https://wallstreetcn.com/livenews/3122181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "美元指数19日下跌",
+          "url": "https://flash.jin10.com/detail/20260620035724024800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "德国DAX30指数6月19日（周五）收盘下跌38.88点，跌幅0.16%，报24989.18点；<br/>英国富时100指数6月19日（周五）收盘下跌32.80点，跌幅0.32%，报10366.90点；<br/>法国CAC40指数6月19日（周五）收盘下跌46.84点，跌幅0.55%，报8421.14点；<br/>欧洲斯托克50指数6月19日（周五）收盘下跌29.32点，跌幅0.46%，报6293.95点；<br/>西班牙IBEX35指数6月19日（周五）收盘下跌68.29点，跌幅0.35%，报19335.81点；<br/>意大利富时MIB指数6月19日（周五）收盘上涨162.28点，涨幅0.31%，报52850.50点。",
           "url": "https://flash.jin10.com/detail/20260619233741310800",
           "source": "金十数据",
@@ -76,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
+          "url": "https://wallstreetcn.com/articles/3775075",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
@@ -95,7 +130,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -106,7 +141,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         }
@@ -114,7 +149,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
@@ -125,19 +160,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 05时15分]"
         },
         {
           "title": "周五（6月19日）纽约尾盘，标普500股指期货最终跌0.16%，道指期货跌0.18%，纳斯达克100股指期货跌0.22%。 罗素2000股指期货跌0.20%。",
           "url": "https://wallstreetcn.com/livenews/3122169",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 05时15分]"
         },
         {
           "title": "利率期货成交“四倍异动”！交易员押注美联储下月就加息？",
@@ -147,8 +183,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 05时15分]"
         },
         {
           "title": "布伦特8月原油期货收报80.57美元/桶。",
@@ -157,7 +193,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -168,7 +204,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -179,9 +215,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "布伦特8月原油期货收涨0.72美元，涨幅0.90%，报80.57美元/桶，本周累计下跌7.74%。",
+          "url": "https://wallstreetcn.com/livenews/3122166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     },
@@ -197,8 +244,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 05时15分]"
         },
         {
           "title": "金价陷入低迷",
@@ -210,6 +257,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 05时15分]"
+        },
+        {
+          "title": "美元指数本周涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3122179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗外交部副部长赛义德·哈提卜扎德：伊朗将继续在与阿曼协调并在国际法规则下提供航行服务。在谅解备忘录所规定的60天期限内，伊朗不会收取通行费用，但之后将引入新的航道管理机制，并提交给地区国家。 未来要达成的任何协议都必须包括解冻所有伊朗被冻结资金。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3122185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     },
@@ -226,8 +318,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 05时15分]"
         }
       ]
     },
@@ -242,23 +334,6 @@
           "ranks": [
             10,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 03时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
