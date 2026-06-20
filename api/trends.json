@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T19:24:17.097318+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-06-20T22:23:35.023574+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -18,8 +18,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 19时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 22时23分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
@@ -91,8 +91,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 22时23分]"
         },
         {
           "title": "美元指数19日下跌",
@@ -160,9 +160,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "金价下跌买30克镯子差价有一万多",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "德国DAX30指数6月19日（周五）收盘下跌38.88点，跌幅0.16%，报24989.18点；<br/>英国富时100指数6月19日（周五）收盘下跌32.80点，跌幅0.32%，报10366.90点；<br/>法国CAC40指数6月19日（周五）收盘下跌46.84点，跌幅0.55%，报8421.14点；<br/>欧洲斯托克50指数6月19日（周五）收盘下跌29.32点，跌幅0.46%，报6293.95点；<br/>西班牙IBEX35指数6月19日（周五）收盘下跌68.29点，跌幅0.35%，报19335.81点；<br/>意大利富时MIB指数6月19日（周五）收盘上涨162.28点，涨幅0.31%，报52850.50点。",
@@ -345,8 +356,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 22时23分]"
         },
         {
           "title": "美媒：美国、卡塔尔拟联手解冻伊朗百亿资金",
@@ -370,6 +381,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 12时24分]"
+        },
+        {
+          "title": "金价陷入低迷",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 07时07分]"
+        },
+        {
+          "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     },
@@ -401,36 +453,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时07分 ~ 12时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 12时24分]"
-        },
-        {
-          "title": "金价陷入低迷",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 07时07分]"
         }
       ]
     },
