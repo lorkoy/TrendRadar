@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T12:24:50.523968+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-06-20T16:27:23.829548+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -14,11 +14,23 @@
           "ranks": [
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 12时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 16时27分]"
+        },
+        {
+          "title": "金价下跌买30克镯子差价有一万多",
+          "url": "https://www.toutiao.com/trending/7653198914279751718/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "世界银行： 3月份，世界银行天然气价格指数上涨了24%，而亚洲的LNG基准价格飙升约94%，欧洲的基准价格上涨了59%。",
@@ -27,7 +39,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -94,6 +106,18 @@
           "time_info": "[05时15分 ~ 07时07分]"
         },
         {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 16时27分]"
+        },
+        {
           "title": "中东股市收盘播报｜周五（6月19日），土耳其伊斯坦布尔证交所全国100指数收跌0.63%，报14734.50点，脱离5月12日以来最高收盘位，本周累计上涨5.71%。 伊斯坦布尔证交所银行指数收涨0.31%，报18994.50点，北京时间20:50出现一波短线拉升行情，逼近2月27日收盘位20287.20点，本周累涨9.98%。",
           "url": "https://wallstreetcn.com/livenews/3122142",
           "source": "华尔街见闻-快讯",
@@ -129,17 +153,6 @@
           "time_info": "00时11分"
         },
         {
-          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404523",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
           "title": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
           "url": "https://www.zhihu.com/question/2050884243694118342",
           "source": "知乎",
@@ -149,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "金价下跌买30克镯子差价有一万多",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "意大利股市继续创收盘历史新高，银行板块本周涨6.7%",
@@ -266,7 +290,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -277,7 +301,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         }
@@ -285,7 +309,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗外交部副部长赛义德·哈提卜扎德：伊朗将继续在与阿曼协调并在国际法规则下提供航行服务。在谅解备忘录所规定的60天期限内，伊朗不会收取通行费用，但之后将引入新的航道管理机制，并提交给地区国家。 未来要达成的任何协议都必须包括解冻所有伊朗被冻结资金。（央视）",
@@ -305,11 +329,23 @@
           "url": "https://wallstreetcn.com/livenews/3122203",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 16时27分]"
+        },
+        {
+          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
+          "url": "https://wallstreetcn.com/articles/3775107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时24分"
+          "time_info": "16时27分"
         },
         {
           "title": "美媒：美卡拟联手解冻伊朗百亿资金 人道主义采购成破冰首步",
@@ -318,7 +354,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         }
