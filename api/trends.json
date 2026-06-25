@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T16:29:51.004895+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-06-25T19:47:04.006525+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3775429",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 19时47分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -48,7 +49,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -57,11 +58,12 @@
           "url": "https://www.cls.cn/detail/2408726",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 19时47分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
@@ -74,6 +76,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 07时15分]"
+        },
+        {
+          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3775467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
+        },
+        {
+          "title": "首次突破1.2万亿！电子板块成交额创历史新高，哪些股已成“百亿常客”？",
+          "url": "https://www.cls.cn/detail/2409166",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
+        },
+        {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
         },
         {
           "title": "高通股价盘后上涨 CFO宣布上调数据中心及非手机业务的长期营收目标",
@@ -126,9 +161,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "兆易创新：由于供给短缺带来价格较大幅度上涨，公司经营业绩得以提振",
+          "url": "https://wallstreetcn.com/livenews/3124630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "美股盘前：存储板块大涨，美光科技涨约18%",
@@ -137,7 +183,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -148,7 +194,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -170,7 +216,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -192,7 +238,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -291,7 +337,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -305,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "SpaceX美股盘前扩大涨势，现上涨2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3124608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "大金融板块再度拉升，长江证券触及涨停，走出4天3板，方正证券涨超7%，中信建投、财达证券、东方财富、中国人寿、新华保险、中国人保、宁波银行跟涨。",
@@ -335,7 +392,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
@@ -343,7 +400,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -374,11 +431,34 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            19
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 19时47分]"
+        },
+        {
+          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
+          "url": "https://www.zhihu.com/question/2053415711725151834",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 19时47分]"
+        },
+        {
+          "title": "跌破4000美元！现货黄金价格创去年11月初以来新低",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446231",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时17分 ~ 16时29分]"
+          "time_info": "[19时46分 ~ 19时47分]"
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -412,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "黑莓第一财季营收1.529亿美元，预估1.368亿美元。 第一财季经调整基本每股收益0.040美元，预估0.03美元。 第一财季经调整毛利率78.6％，预估76.9％。 黑莓预计全年营收5.94亿美元至6.21亿美元，市场预估6.019亿美元。 黑莓预计全年调整后EBITDA 1.19亿美元至1.39亿美元。 黑莓预计全年经调整基本每股收益0.16美元至0.20美元，市场预估0.18美元。 黑莓美股盘前涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3124628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "纽约期金周三跌3.2%，现货黄金失守4000美元整数位心理关口，白银跌超6%",
@@ -467,17 +558,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
-        },
-        {
-          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
-          "url": "https://www.zhihu.com/question/2053415711725151834",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         },
         {
           "title": "恒指期货夜盘收跌0.29%，报23322点，低水90点。",
@@ -552,7 +632,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -596,7 +676,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -615,7 +695,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "产业扎根大地 科技赋能民生",
@@ -642,6 +722,17 @@
           "time_info": "[01时12分 ~ 07时15分]"
         },
         {
+          "title": "链博会助力全球产业链更有韧性",
+          "url": "https://www.douyin.com/hot/2547328",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
+        },
+        {
           "title": "康宁大中国区总裁：始终在中国，与产业链伙伴协同发展",
           "url": "https://wallstreetcn.com/livenews/3124429",
           "source": "华尔街见闻-快讯",
@@ -664,6 +755,17 @@
           "time_info": "03时59分"
         },
         {
+          "title": "美国国务卿鲁比奥：对委内瑞拉采取的是全政府层面的应对措施。 与海湾国家进行了非常好的会晤。 海湾国家对霍尔木兹海峡通行收费的支持度为零。 我们不会做任何损害海湾伙伴利益的事情。 （就伊朗支持代理人的问题作出回应）伊朗谅解备忘录涉及不干涉他国内政的问题。 我们关注的是行动，而非伊朗的言辞。 “费用”和“通行费”是一回事。霍尔木兹海峡的收费体系根本不可行。 委内瑞拉首先需要的是搜救援助。 不知晓卡塔尔持有的伊朗资金被转移一事。 海合会（GCC）会议上未讨论3000亿美元基金事宜。",
+          "url": "https://wallstreetcn.com/livenews/3124643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "中证报：创新引领结构优化，稳投资政策料持续发力",
           "url": "https://wallstreetcn.com/livenews/3124278",
           "source": "华尔街见闻-快讯",
@@ -673,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "通富微电：持股5%以上股东产业基金持股比例降至5%以下",
+          "url": "https://wallstreetcn.com/livenews/3124641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
@@ -685,6 +798,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 07时15分]"
+        },
+        {
+          "title": "侯友宜蒋万安力挺敬老政策，李四川：好的政策不分颜色",
+          "url": "https://news.ifeng.com/c/8uFKTylYTho",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 19时47分]"
         },
         {
           "title": "商务部公布《产业链供应链安全调查工作办法》",
@@ -719,17 +844,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
-        },
-        {
-          "title": "侯友宜蒋万安力挺敬老政策，李四川：好的政策不分颜色",
-          "url": "https://news.ifeng.com/c/8uFKTylYTho",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         },
         {
           "title": "据CBS：特朗普拟推动将15%乙醇汽油混合燃料政策永久化。",
@@ -793,7 +907,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -809,15 +923,37 @@
           "time_info": "03时59分"
         },
         {
+          "title": "美国国务卿鲁比奥：不清楚卡塔尔持有的伊朗资金是否已被转移。",
+          "url": "https://flash.jin10.com/detail/20260625192514060800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "机构：AI产业正从基础设施建设转向企业级应用爆发",
           "url": "https://wallstreetcn.com/livenews/3124507",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "日本首相高市早苗：将摆脱对补充预算的依赖。 旨在提高财政政策的透明度。",
+          "url": "https://wallstreetcn.com/livenews/3124602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "英国央行货币政策委员会（MPC）成员Swati Dhingra警告称：高利率造成绿色创新放缓。 较高的利率通过减缓对绿色技术的投资，损害了应对气候变化的进展。",
@@ -946,7 +1082,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -1118,7 +1254,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
@@ -1130,6 +1266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "金价大跌投资者抄底刷爆银行卡 金店10克20克金条3小时卖光",
+          "url": "https://wallstreetcn.com/livenews/3124603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         }
       ]
     },
