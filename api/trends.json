@@ -1,11 +1,327 @@
 {
-  "generated_at": "2026-06-26T20:20:18.734289+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-06-26T23:29:35.669959+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "周五亚太盘初，纳斯达克100指数股指期货跌0.3%，道指期货涨0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3124872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260626074019226800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        },
+        {
+          "title": "美联储威廉姆斯：美联储将视需要调整储备管理购买操作。",
+          "url": "https://flash.jin10.com/detail/20260626034153476800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "金十数据整理：每日期货市场要闻速递（2026-06-26）",
+          "url": "https://flash.jin10.com/detail/20260626073841582800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        },
+        {
+          "title": "日经225指数期货在早盘交易中下跌1.85%。",
+          "url": "https://wallstreetcn.com/livenews/3124905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        },
+        {
+          "title": "“反腐少将”被查，朝鲜领导层重大调整",
+          "url": "https://news.ifeng.com/c/8uGvyTlL0MR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 23时29分]"
+        },
+        {
+          "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2409443",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 06时27分]"
+        },
+        {
+          "title": "芝加哥大豆、玉米期货至多涨约2%，纽约可可涨约5.2%逼近1月13日顶部5658美元",
+          "url": "https://wallstreetcn.com/livenews/3124836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 06时27分]"
+        },
+        {
+          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
+          "url": "https://www.zhihu.com/question/2053415711725151834",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时15分]"
+        },
+        {
+          "title": "外资机构席位·期货品种持仓一览（6月26日）",
+          "url": "https://flash.jin10.com/detail/20260626193845316800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260626073502098800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        },
+        {
+          "title": "周四（6月25日）纽约尾盘，标普500股指期货最终涨0.08%，道指期货涨0.30%，纳斯达克100股指期货涨0.77%。 罗素2000股指期货涨0.81%。",
+          "url": "https://wallstreetcn.com/livenews/3124862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨跌不一，合成橡胶跌超2%，燃料油、20号胶、聚氯乙烯（PVC）跌超1%，苯乙烯（EB）、纯碱、低硫燃料油（LU）跌近1%。涨幅方面，焦炭、焦煤涨超1%，淀粉、菜粕、豆二涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260626230055937800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "苹果股价跌幅扩大至6.5%。媒体报道称，苹果调整Mac芯片战略，下一代高端芯片将直接跃升至M7系列。",
+          "url": "https://wallstreetcn.com/livenews/3124789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "周四（6月25日）纽约尾盘，现货黄金涨0.64%，报4024.97美元/盎司。 COMEX黄金期货涨0.78%，报4040.10美元/盎司。 现货白银涨0.73%，报57.8327美元/盎司。 COMEX白银期货跌0.38%，报58.290美元/盎司。 COMEX铜期货涨2.03%，报6.1335美元/磅。 现货铂金涨1.08%，现货钯金涨1.43%。",
+          "url": "https://wallstreetcn.com/livenews/3124859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "WTI原油期货日内跌幅扩大至1.9%，报70.55美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3125042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "现货白银日内涨幅达1%，报58.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3125273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "现货白银日内涨幅达2.5%，报59.34美元/盎司；纽约银日内涨幅达1.5%，报59.7美元/盎司。 现货黄金日内涨幅达1.5%，报4087.14美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3125360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "市场消息：苹果将​​跳过高端M6 Mac芯片，转而采用侧重于AI的M7芯片；此举是一项罕见的战略调整，旨在满足AI工作流程的需求。",
+          "url": "https://flash.jin10.com/detail/20260626003824737800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "现货钯金涨约3%，报1219.40美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3125363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.33%，报23005点，低水72点。",
+          "url": "https://flash.jin10.com/detail/20260626030209744800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.11%，10年期主力合约涨0.05%，5年期主力合约涨0.04%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3125026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "富时中国A50指数期货日内跌幅扩大至4%。",
+          "url": "https://wallstreetcn.com/livenews/3125023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "WTI 8月原油期货收涨1.58美元，涨幅2.25%，报71.92美元/桶。 布伦特7月原油期货收涨1.52美元，涨幅2.06%，报75.26美元/桶。 中东Abu Dhabi Murban原油期货涨3.13%，报68.53美元/桶。 NYMEX 7月天然气期货收报3.3430美元/百万英热单位。 NYMEX 7月汽油期货收报3.0273美元/加仑，NYMEX 7月取暖油期货收报3.2982美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3124820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "滔搏否认耐克终止线上授权，但耐克确实有调整渠道规划",
+          "url": "https://wallstreetcn.com/livenews/3125351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "A股缩量419亿调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%BC%A9%E9%87%8F419%E4%BA%BF%E8%B0%83%E6%95%B4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "现货黄金涨约1%，报4039.89美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3124780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "上期所原油期货2608合约夜盘收涨2.29%，报478.70元人民币/桶。 沪金夜盘收涨1.17%，沪银收涨1.24%。",
+          "url": "https://wallstreetcn.com/livenews/3124819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
@@ -23,6 +339,19 @@
           "time_info": "[01时20分 ~ 13时17分]"
         },
         {
+          "title": "中金：黄金牛市结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3775561",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 23时29分]"
+        },
+        {
           "title": "苹果重挫5%拖累科技板块，纳指转跌超1%，美光涨幅收窄至8%，黄金重回4000，白银转涨",
           "url": "https://wallstreetcn.com/articles/3775470",
           "source": "华尔街见闻",
@@ -34,16 +363,28 @@
           "time_info": "[01时20分 ~ 04时15分]"
         },
         {
-          "title": "中金：黄金牛市结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3775561",
-          "source": "华尔街见闻",
+          "title": "近千股跌破“924”起点！两大板块成“破位”聚集地，这些千亿市值权重在列",
+          "url": "https://www.cls.cn/detail/2410343",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            9,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 20时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 23时29分]"
+        },
+        {
+          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "首次突破1.2万亿！电子板块成交额创历史新高，哪些股已成“百亿常客”？",
@@ -69,18 +410,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 06时27分]"
-        },
-        {
-          "title": "近千股跌破“924”起点！两大板块成“破位”聚集地，这些千亿市值权重在列",
-          "url": "https://www.cls.cn/detail/2410343",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 20时20分]"
         },
         {
           "title": "周四（6月25日），彭博电动汽车价格回报指数跌1.08%，报3551.19点。 北京时间10:00之前显著下跌，22:00之前再次显著下挫。",
@@ -164,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "金饰克价年内下跌近500元",
+          "url": "https://www.toutiao.com/trending/7654607771577106438/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "标普500指数初步收跌0.1%，可选消费板块跌1.9%，电信版看跌跌0.9%，科技板块跌0.3%，原材料、保健、工业板块最多跌1.9%。 纳斯达克100指数初步收涨0.6%，成分股中，闪迪初步收涨22.2%，美光科技涨15%，应用材料、泰瑞达、科磊、拉姆研究、阿斯麦ADR、西部数据至少涨4%，高通涨3.7%，亚马逊、微软、Arm控股跌超3%，Palantir跌5.5%，苹果重挫6%，Strategy跌8.8%。",
@@ -311,280 +651,8 @@
       ]
     },
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "周五亚太盘初，纳斯达克100指数股指期货跌0.3%，道指期货涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3124872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260626074019226800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "美联储威廉姆斯：美联储将视需要调整储备管理购买操作。",
-          "url": "https://flash.jin10.com/detail/20260626034153476800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "金十数据整理：每日期货市场要闻速递（2026-06-26）",
-          "url": "https://flash.jin10.com/detail/20260626073841582800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "日经225指数期货在早盘交易中下跌1.85%。",
-          "url": "https://wallstreetcn.com/livenews/3124905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "“反腐少将”被查，朝鲜领导层重大调整",
-          "url": "https://news.ifeng.com/c/8uGvyTlL0MR",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 20时20分]"
-        },
-        {
-          "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2409443",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 06时27分]"
-        },
-        {
-          "title": "芝加哥大豆、玉米期货至多涨约2%，纽约可可涨约5.2%逼近1月13日顶部5658美元",
-          "url": "https://wallstreetcn.com/livenews/3124836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 06时27分]"
-        },
-        {
-          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
-          "url": "https://www.zhihu.com/question/2053415711725151834",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 04时15分]"
-        },
-        {
-          "title": "外资机构席位·期货品种持仓一览（6月26日）",
-          "url": "https://flash.jin10.com/detail/20260626193845316800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260626073502098800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "周四（6月25日）纽约尾盘，标普500股指期货最终涨0.08%，道指期货涨0.30%，纳斯达克100股指期货涨0.77%。 罗素2000股指期货涨0.81%。",
-          "url": "https://wallstreetcn.com/livenews/3124862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "苹果股价跌幅扩大至6.5%。媒体报道称，苹果调整Mac芯片战略，下一代高端芯片将直接跃升至M7系列。",
-          "url": "https://wallstreetcn.com/livenews/3124789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "周四（6月25日）纽约尾盘，现货黄金涨0.64%，报4024.97美元/盎司。 COMEX黄金期货涨0.78%，报4040.10美元/盎司。 现货白银涨0.73%，报57.8327美元/盎司。 COMEX白银期货跌0.38%，报58.290美元/盎司。 COMEX铜期货涨2.03%，报6.1335美元/磅。 现货铂金涨1.08%，现货钯金涨1.43%。",
-          "url": "https://wallstreetcn.com/livenews/3124859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "WTI原油期货日内跌幅扩大至1.9%，报70.55美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3125042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "现货白银日内涨幅达1%，报58.41美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3125273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "市场消息：苹果将​​跳过高端M6 Mac芯片，转而采用侧重于AI的M7芯片；此举是一项罕见的战略调整，旨在满足AI工作流程的需求。",
-          "url": "https://flash.jin10.com/detail/20260626003824737800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.33%，报23005点，低水72点。",
-          "url": "https://flash.jin10.com/detail/20260626030209744800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.11%，10年期主力合约涨0.05%，5年期主力合约涨0.04%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3125026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "富时中国A50指数期货日内跌幅扩大至4%。",
-          "url": "https://wallstreetcn.com/livenews/3125023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "WTI 8月原油期货收涨1.58美元，涨幅2.25%，报71.92美元/桶。 布伦特7月原油期货收涨1.52美元，涨幅2.06%，报75.26美元/桶。 中东Abu Dhabi Murban原油期货涨3.13%，报68.53美元/桶。 NYMEX 7月天然气期货收报3.3430美元/百万英热单位。 NYMEX 7月汽油期货收报3.0273美元/加仑，NYMEX 7月取暖油期货收报3.2982美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3124820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "A股缩量419亿调整",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%BC%A9%E9%87%8F419%E4%BA%BF%E8%B0%83%E6%95%B4%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "现货黄金涨约1%，报4039.89美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3124780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "上期所原油期货2608合约夜盘收涨2.29%，报478.70元人民币/桶。 沪金夜盘收涨1.17%，沪银收涨1.24%。",
-          "url": "https://wallstreetcn.com/livenews/3124819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美最高法院裁决支持特朗普强硬移民政策",
@@ -597,6 +665,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时18分 ~ 13时17分]"
+        },
+        {
+          "title": "625亿元国补资金已经下达",
+          "url": "https://s.weibo.com/weibo?q=%23625%E4%BA%BF%E5%85%83%E5%9B%BD%E8%A1%A5%E8%B5%84%E9%87%91%E5%B7%B2%E7%BB%8F%E4%B8%8B%E8%BE%BE%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美联储威廉姆斯：货币政策对于当前经济而言处于“适宜位置”。",
@@ -621,6 +700,30 @@
           "time_info": "[01时20分 ~ 08时19分]"
         },
         {
+          "title": "“国补”继续 第三批资金已下达",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E8%A1%A5%E2%80%9D%E7%BB%A7%E7%BB%AD+%E7%AC%AC%E4%B8%89%E6%89%B9%E8%B5%84%E9%87%91%E5%B7%B2%E4%B8%8B%E8%BE%BE",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 23时29分]"
+        },
+        {
+          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
+          "url": "https://wallstreetcn.com/articles/3775570",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 23时29分]"
+        },
+        {
           "title": "侯友宜蒋万安力挺敬老政策，李四川：好的政策不分颜色",
           "url": "https://news.ifeng.com/c/8uFKTylYTho",
           "source": "凤凰网",
@@ -630,17 +733,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 06时27分]"
-        },
-        {
-          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
-          "url": "https://wallstreetcn.com/articles/3775570",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 20时20分]"
         },
         {
           "title": "美联储威廉姆斯“放鸽”：当前货币政策立场足以推动通胀回落至2%",
@@ -660,7 +752,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -674,17 +766,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
-        },
-        {
-          "title": "“国补”继续 第三批资金已下达",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E8%A1%A5%E2%80%9D%E7%BB%A7%E7%BB%AD+%E7%AC%AC%E4%B8%89%E6%89%B9%E8%B5%84%E9%87%91%E5%B7%B2%E4%B8%8B%E8%BE%BE",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         },
         {
           "title": "据知情人士透露，多家国防企业（在会见美国总统时）希望于生产方面获得更多资金。（纽约时报）",
@@ -726,7 +807,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -748,7 +829,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         }
@@ -756,7 +837,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -790,7 +871,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -853,6 +934,17 @@
           "time_info": "17时44分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近3%，生物科技指数ETF涨超2%，半导体ETF跌超3%，科技行业ETF跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3125372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
           "url": "https://wallstreetcn.com/livenews/3124857",
           "source": "华尔街见闻-快讯",
@@ -862,6 +954,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
@@ -900,7 +1003,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加73.13吨，当前持仓量为14991.13吨。欢迎点击查看数据中心...",
@@ -925,6 +1028,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/RcIrF_WjCVTjlOaB2A2no.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260626230214121800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌2.7%。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，KWEB跌2.7%，CQQQ涨1.1%，ASHR涨2.3%。",
           "url": "https://wallstreetcn.com/livenews/3124845",
           "source": "华尔街见闻-快讯",
@@ -942,7 +1056,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1026,7 +1140,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         }
@@ -1072,6 +1186,34 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY短线上扬20点，最新报101.29。",
+          "url": "https://flash.jin10.com/detail/20260626225851367800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "周四（6月25日）纽约尾盘，ICE美元指数跌0.16%，报101.443点，在一波W形反转行情结束时，于北京时间19:39刷新日高至101.746点，随后持续走低，00:28刷新日低至101.305点。 彭博美元指数跌0.25%，报1222.78点，日内交投区间为1227.65-1222.78点。",
+          "url": "https://wallstreetcn.com/livenews/3124835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1086,23 +1228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 06时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周四（6月25日）纽约尾盘，ICE美元指数跌0.16%，报101.443点，在一波W形反转行情结束时，于北京时间19:39刷新日高至101.746点，随后持续走低，00:28刷新日低至101.305点。 彭博美元指数跌0.25%，报1222.78点，日内交投区间为1227.65-1222.78点。",
-          "url": "https://wallstreetcn.com/livenews/3124835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
         }
       ]
     }
