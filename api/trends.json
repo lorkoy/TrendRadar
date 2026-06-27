@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-27T06:20:55.235071+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-06-27T08:17:54.726383+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
       "match_count": 15,
       "titles": [
+        {
+          "title": "“反腐少将”被查，朝鲜领导层重大调整",
+          "url": "https://news.ifeng.com/c/8uGvyTlL0MR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 08时17分]"
+        },
         {
           "title": "国商品期货交易委员会（CFTC）：6月23日当周，投机者所持NYMEX WTI原油净多头头寸下降12,491手合约，至88,486手合约。",
           "url": "https://wallstreetcn.com/livenews/3125442",
@@ -32,15 +43,39 @@
           "time_info": "[04时04分 ~ 06时20分]"
         },
         {
-          "title": "“反腐少将”被查，朝鲜领导层重大调整",
-          "url": "https://news.ifeng.com/c/8uGvyTlL0MR",
-          "source": "凤凰网",
+          "title": "IMF首席经济学家古兰沙：由于各国释放了战略储备且炼油厂调整了生产，伊朗相关冲突并未导致油价进一步飙升。",
+          "url": "https://flash.jin10.com/detail/20260627043939360800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时20分]"
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 08时17分]"
+        },
+        {
+          "title": "周五（6月26日）纽约尾盘，标普500股指期货最终跌0.34%，道指期货跌0.31%，纳斯达克100股指期货跌1.53%。 罗素2000股指期货跌0.11%。",
+          "url": "https://wallstreetcn.com/livenews/3125464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 08时17分]"
+        },
+        {
+          "title": "黄金、白银周五涨超1%，本周现货黄金跌1.9%、白银跌约9.5%",
+          "url": "https://wallstreetcn.com/livenews/3125462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 08时17分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至6月23日当周，NYMEX、ICE市场的天然气期货投机者转为持有2183手净空头头寸，较前一周减少3515手合约。",
@@ -52,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
-        },
-        {
-          "title": "IMF首席经济学家古兰沙：由于各国释放了战略储备且炼油厂调整了生产，伊朗相关冲突并未导致油价进一步飙升。",
-          "url": "https://flash.jin10.com/detail/20260627043939360800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至6月23日当周，投机者将CBOT美国2年期国债期货净空头头寸增加48,339手合约，至1,318,846手合约。投机者将CBOT美国10年期国债期货净空头头寸减少75,816手合约，至835,266手合约。",
@@ -131,28 +155,6 @@
           "time_info": "04时04分"
         },
         {
-          "title": "周五（6月26日）纽约尾盘，标普500股指期货最终跌0.34%，道指期货跌0.31%，纳斯达克100股指期货跌1.53%。 罗素2000股指期货跌0.11%。",
-          "url": "https://wallstreetcn.com/livenews/3125464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "黄金、白银周五涨超1%，本周现货黄金跌1.9%、白银跌约9.5%",
-          "url": "https://wallstreetcn.com/livenews/3125462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
           "title": "恒指期货夜盘收涨0.99%，报22874点，高水202点。",
           "url": "https://flash.jin10.com/detail/20260627031131982800",
           "source": "金十数据",
@@ -177,6 +179,81 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
+        {
+          "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
+          "url": "https://wallstreetcn.com/livenews/3125495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 08时17分]"
+        },
+        {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 08时17分]"
+        },
+        {
+          "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3125469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 08时17分]"
+        },
+        {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
       "match_count": 5,
       "titles": [
@@ -188,19 +265,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 08时17分]"
         },
         {
           "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
           "url": "https://wallstreetcn.com/articles/3775570",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 08时17分]"
         },
         {
           "title": "深度｜隔夜逆回购开启在即，十年演变后，政策利率的终局将至？",
@@ -220,9 +298,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 08时17分]"
         },
         {
           "title": "标普：尽管美国政治极化加剧，我们仍认为关键机构以及制衡机制将继续发挥作用，确保政策结果保持稳定。",
@@ -231,9 +309,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 08时17分]"
         }
       ]
     },
@@ -241,6 +319,30 @@
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
       "match_count": 5,
       "titles": [
+        {
+          "title": "近千股跌破“924”起点！两大板块成“破位”聚集地，这些千亿市值权重在列",
+          "url": "https://www.cls.cn/detail/2410343",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 08时17分]"
+        },
+        {
+          "title": "中金：黄金牛市结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3775561",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 08时17分]"
+        },
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
           "url": "https://wallstreetcn.com/articles/3775571",
@@ -253,48 +355,28 @@
           "time_info": "[01时59分 ~ 06时20分]"
         },
         {
-          "title": "近千股跌破“924”起点！两大板块成“破位”聚集地，这些千亿市值权重在列",
-          "url": "https://www.cls.cn/detail/2410343",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时20分]"
-        },
-        {
-          "title": "中金：黄金牛市结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3775561",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时20分]"
-        },
-        {
           "title": "金饰克价年内下跌近500元",
           "url": "https://www.toutiao.com/trending/7654607771577106438/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 08时17分]"
         },
         {
           "title": "标普500指数的11个板块中，医疗保健板块收涨3.16%，可选消费、房地产板块至多涨1.55%，能源板块则收跌0.41%，电信板块跌0.56%，信息技术/科技板块跌1.05%，工业板块跌1.53%。",
           "url": "https://wallstreetcn.com/livenews/3125473",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 08时17分]"
         }
       ]
     },
@@ -350,48 +432,21 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2410602",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时20分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3125469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 2,
       "titles": [
+        {
+          "title": "如何看待 2026 年 6 月 26 日 DC 新作《超级少女》血扑，首日票房预测值不到 270 万人民币？",
+          "url": "https://www.zhihu.com/question/2053855466724315465",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 08时17分]"
+        },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7978元，较周四夜盘收盘涨12点。成交量562.03亿美元。",
           "url": "https://wallstreetcn.com/livenews/3125438",
@@ -402,17 +457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
-        },
-        {
-          "title": "如何看待 2026 年 6 月 26 日 DC 新作《超级少女》血扑，首日票房预测值不到 270 万人民币？",
-          "url": "https://www.zhihu.com/question/2053855466724315465",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
         }
       ]
     },
@@ -427,7 +471,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         }
