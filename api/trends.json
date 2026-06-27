@@ -1,507 +1,11 @@
 {
-  "generated_at": "2026-06-27T22:50:26.182195+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-06-28T00:14:52.116064+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "海南调整住房公积金缴存基数 7月起执行",
-          "url": "https://wallstreetcn.com/livenews/3125548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "“反腐少将”被查，朝鲜领导层重大调整",
-          "url": "https://news.ifeng.com/c/8uGvyTlL0MR",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 08时17分]"
-        },
-        {
-          "title": "国商品期货交易委员会（CFTC）：6月23日当周，投机者所持NYMEX WTI原油净多头头寸下降12,491手合约，至88,486手合约。",
-          "url": "https://wallstreetcn.com/livenews/3125442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时04分 ~ 06时20分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：6月23日当周，投机者所持COMEX黄金净多头头寸增加91手合约，至113,010手合约。",
-          "url": "https://wallstreetcn.com/livenews/3125441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时04分 ~ 06时20分]"
-        },
-        {
-          "title": "网传 WPS 存储占用 C 盘、基础功能收费，官方回应已反馈产品部门调整，商家这类小动作暴露哪些问题？",
-          "url": "https://www.zhihu.com/question/2052171917809938898",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 18时20分]"
-        },
-        {
-          "title": "IMF首席经济学家古兰沙：由于各国释放了战略储备且炼油厂调整了生产，伊朗相关冲突并未导致油价进一步飙升。",
-          "url": "https://flash.jin10.com/detail/20260627043939360800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 08时17分]"
-        },
-        {
-          "title": "周五（6月26日）纽约尾盘，标普500股指期货最终跌0.34%，道指期货跌0.31%，纳斯达克100股指期货跌1.53%。 罗素2000股指期货跌0.11%。",
-          "url": "https://wallstreetcn.com/livenews/3125464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 08时17分]"
-        },
-        {
-          "title": "黄金、白银周五涨超1%，本周现货黄金跌1.9%、白银跌约9.5%",
-          "url": "https://wallstreetcn.com/livenews/3125462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 08时17分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至6月23日当周，NYMEX、ICE市场的天然气期货投机者转为持有2183手净空头头寸，较前一周减少3515手合约。",
-          "url": "https://flash.jin10.com/detail/20260627033508946800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至6月23日当周，投机者将CBOT美国2年期国债期货净空头头寸增加48,339手合约，至1,318,846手合约。投机者将CBOT美国10年期国债期货净空头头寸减少75,816手合约，至835,266手合约。",
-          "url": "https://flash.jin10.com/detail/20260627033159397800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至6月23日当周，COMEX黄金投机者净多头头寸增加91手合约，至113,010手合约。COMEX白银投机者净多头头寸减少411手合约，至11,659手合约。COMEX铜投机者净多头头寸减少2,257手合约，至68,818手合约。",
-          "url": "https://flash.jin10.com/detail/20260627033122007800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至6月23日当周，日元净空头头寸为146,104手合约。欧元净多头头寸为30,158手合约。英镑净空头头寸为105,719手合约。瑞士法郎净空头头寸为41,094手合约。",
-          "url": "https://flash.jin10.com/detail/20260627033013761800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至6月23日当周，股票基金经理增持标普500指数CME净多头头寸4,547手至987,977手。股票基金投机者减持标普500指数CME净空头头寸146,022手至355,669手。",
-          "url": "https://flash.jin10.com/detail/20260627032902197800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "WTI 8月原油期货收跌2.69美元，跌幅3.74%，报69.23美元/桶，本周累计跌9.55%。 布伦特7月原油期货收跌3.27美元，跌幅4.34%，报71.99美元/桶，本周累跌超9.85%。",
-          "url": "https://wallstreetcn.com/livenews/3125434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "上期所原油期货2608合约夜盘收跌2.48%，报459.90元人民币/桶。 沪金夜盘收涨1.34%，沪银收涨2.61%。",
-          "url": "https://wallstreetcn.com/livenews/3125433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "海南调整住房公积金缴存基数 7月起执行",
-          "url": "https://flash.jin10.com/detail/20260627132554126800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "恒指期货夜盘收涨0.99%，报22874点，高水202点。",
-          "url": "https://flash.jin10.com/detail/20260627031131982800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "据Politico：美国商品期货交易委员会（CFTC）正在调查预测市场巨头Polymarket。",
-          "url": "https://flash.jin10.com/detail/20260627025502410800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "“国补”继续 第三批资金已下达",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E8%A1%A5%E2%80%9D%E7%BB%A7%E7%BB%AD+%E7%AC%AC%E4%B8%89%E6%89%B9%E8%B5%84%E9%87%91%E5%B7%B2%E4%B8%8B%E8%BE%BE",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 08时17分]"
-        },
-        {
-          "title": "625亿元国补资金已下达",
-          "url": "https://www.douyin.com/hot/2548467",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
-        },
-        {
-          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
-          "url": "https://wallstreetcn.com/articles/3775570",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 08时17分]"
-        },
-        {
-          "title": "TCL李东生：全球供应链加速重构，中国有望在维护产业链供应链稳定中发挥更加积极的作用",
-          "url": "https://wallstreetcn.com/livenews/3125606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
-          "url": "https://wallstreetcn.com/articles/3775625",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 18时20分]"
-        },
-        {
-          "title": "深度｜隔夜逆回购开启在即，十年演变后，政策利率的终局将至？",
-          "url": "https://www.cls.cn/detail/2410442",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时20分]"
-        },
-        {
-          "title": "王小洪在吉林调研时强调 强化创新驱动 丰富政策供给 助力推动新时代东北全面振兴",
-          "url": "https://wallstreetcn.com/livenews/3125592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 22时50分]"
-        },
-        {
-          "title": "主力资金大调仓，超267亿元撤出“易中天”",
-          "url": "https://wallstreetcn.com/livenews/3125569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 20时14分]"
-        },
-        {
-          "title": "标普：基于对美国经济将持续稳健增长及货币政策执行既可信又有效的预期，美国的前景保持稳定。",
-          "url": "https://flash.jin10.com/detail/20260627041449708800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 08时17分]"
-        },
-        {
-          "title": "标普：尽管美国政治极化加剧，我们仍认为关键机构以及制衡机制将继续发挥作用，确保政策结果保持稳定。",
-          "url": "https://flash.jin10.com/detail/20260627041129234800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 08时17分]"
-        },
-        {
-          "title": "主力资金大调仓 超267亿元撤出“易中天”",
-          "url": "https://flash.jin10.com/detail/20260627165323531800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "伊朗议会国家安全和外交政策委员会发言人雷扎伊表示，美国通过在霍尔木兹海峡制造紧张局势，违反了结束战争的备忘录。针对任何违反备忘录的行为，将遭到迅速且果断的回应。",
-          "url": "https://flash.jin10.com/detail/20260627181139499800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "张国清在浙江调研时强调 强化科技创新和产业创新深度融合 全面加强质量管理增加高质量供给",
-          "url": "https://flash.jin10.com/detail/20260627154955125800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "我国医疗器械产业创新发展势头强劲",
-          "url": "https://wallstreetcn.com/livenews/3125518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        },
-        {
-          "title": "张国清在浙江调研时强调 强化科技创新和产业创新深度融合 全面加强质量管理增加高质量供给",
-          "url": "https://wallstreetcn.com/livenews/3125557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "近千股跌破“924”起点！两大板块成“破位”聚集地，这些千亿市值权重在列",
-          "url": "https://www.cls.cn/detail/2410343",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 16时02分]"
-        },
-        {
-          "title": "中金：黄金牛市结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3775561",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 08时17分]"
-        },
-        {
-          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时20分]"
-        },
-        {
-          "title": "国际金价银价上涨",
-          "url": "https://www.douyin.com/hot/2549494",
-          "source": "抖音",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时14分]"
-        },
-        {
-          "title": "欧洲央行执委Schnabel：能源冲击可能传导至更广泛的通胀动态。 能源价格上涨具有连锁效应。 食品、商品和服务通胀面临上行风险。 生产商将部分输入品成本上涨转嫁出去。 消费者通胀预期上升。 目前尚无工资压力的迹象。 预计欧洲央行将进一步加息。 资产估值面临的金融稳定风险上升。",
-          "url": "https://wallstreetcn.com/livenews/3125608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "金饰克价年内下跌近500元",
-          "url": "https://www.toutiao.com/trending/7654607771577106438/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 08时17分]"
-        },
-        {
-          "title": "标普500指数的11个板块中，医疗保健板块收涨3.16%，可选消费、房地产板块至多涨1.55%，能源板块则收跌0.41%，电信板块跌0.56%，信息技术/科技板块跌1.05%，工业板块跌1.53%。",
-          "url": "https://wallstreetcn.com/livenews/3125473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 08时17分]"
-        },
-        {
-          "title": "资本市场“光谷板块”总市值突破1.8万亿",
-          "url": "https://wallstreetcn.com/livenews/3125534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 16时02分]"
-        },
-        {
-          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
-          "url": "https://wallstreetcn.com/articles/3775663",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
         {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
@@ -511,164 +15,121 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时17分 ~ 22时50分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时20分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
           "url": "https://www.cls.cn/detail/2410784",
           "source": "财联社热门",
           "ranks": [
-            7,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时17分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
           "url": "https://wallstreetcn.com/articles/3775664",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
-          "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
-          "url": "https://wallstreetcn.com/livenews/3125495",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2410602",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 08时17分]"
-        },
-        {
-          "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3125469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 08时17分]"
+          "time_info": "00时14分"
         }
       ]
     },
     {
-      "keyword_group": "SZ SH HK",
-      "match_count": 4,
+      "keyword_group": "资金 政策 产业",
+      "match_count": 2,
       "titles": [
         {
-          "title": "马斯克获准收购Mesh，加码数据中心光通信布局",
-          "url": "https://wallstreetcn.com/livenews/3125444",
+          "title": "TCL李东生：全球供应链加速重构，中国有望在维护产业链供应链稳定中发挥更加积极的作用",
+          "url": "https://wallstreetcn.com/livenews/3125606",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时04分 ~ 06时20分]"
-        },
-        {
-          "title": "马斯克获准收购Mesh 加码数据中心光通信布局",
-          "url": "https://flash.jin10.com/detail/20260627032301137800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "00时14分"
         },
         {
-          "title": "市场消息：马斯克获联邦贸易委员会批准收购SpaceX前员工创立的公司Mesh。",
-          "url": "https://flash.jin10.com/detail/20260627031651332800",
-          "source": "金十数据",
+          "title": "王小洪在吉林调研时强调 强化创新驱动 丰富政策供给 助力推动新时代东北全面振兴",
+          "url": "https://wallstreetcn.com/livenews/3125592",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
-        },
+          "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "三角洲Ash12爆改霰弹枪",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2Ash12%E7%88%86%E6%94%B9%E9%9C%B0%E5%BC%B9%E6%9E%AA",
-          "source": "bilibili 热搜",
+          "title": "欧洲央行执委Schnabel：能源冲击可能传导至更广泛的通胀动态。 能源价格上涨具有连锁效应。 食品、商品和服务通胀面临上行风险。 生产商将部分输入品成本上涨转嫁出去。 消费者通胀预期上升。 目前尚无工资压力的迹象。 预计欧洲央行将进一步加息。 资产估值面临的金融稳定风险上升。",
+          "url": "https://wallstreetcn.com/livenews/3125608",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "00时14分"
+        },
+        {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股在暴力调整之后该怎么看",
+          "url": "https://www.toutiao.com/trending/7656063002357009971/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "如何看待 2026 年 6 月 26 日 DC 新作《超级少女》血扑，首日票房预测值不到 270 万人民币？",
-          "url": "https://www.zhihu.com/question/2053855466724315465",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 16时02分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7978元，较周四夜盘收盘涨12点。成交量562.03亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3125438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
         {
           "title": "塞尔维亚人民币论坛聚焦拓展双边金融合作",
           "url": "https://wallstreetcn.com/livenews/3125600",
@@ -676,66 +137,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价大跌 有商家称跌没一辆迈巴赫",
-          "url": "https://www.toutiao.com/trending/7655931453586849835/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时13分 ~ 22时50分]"
-        },
-        {
-          "title": "金价跌25%银价暴跌45%",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C25%25%E9%93%B6%E4%BB%B7%E6%9A%B4%E8%B7%8C45%25%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
-        },
-        {
-          "title": "金价大跌 有商家称跌没一辆迈巴赫",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E5%95%86%E5%AE%B6%E7%A7%B0%E8%B7%8C%E6%B2%A1%E4%B8%80%E8%BE%86%E8%BF%88%E5%B7%B4%E8%B5%AB",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数本周涨约0.6%",
-          "url": "https://wallstreetcn.com/livenews/3125447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时14分"
         }
       ]
     }
