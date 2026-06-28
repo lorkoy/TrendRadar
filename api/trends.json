@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T17:25:39.717815+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-06-28T19:53:40.928825+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球企业认准中国完整产业链",
@@ -31,17 +31,6 @@
           "time_info": "[00时14分 ~ 13时25分]"
         },
         {
-          "title": "何立峰在四川调研时指出，加快建设现代化产业体系，持续增强经济发展动能",
-          "url": "https://wallstreetcn.com/livenews/3125650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "王小洪在吉林调研时强调 强化创新驱动 丰富政策供给 助力推动新时代东北全面振兴",
           "url": "https://wallstreetcn.com/livenews/3125592",
           "source": "华尔街见闻-快讯",
@@ -51,6 +40,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 08时11分]"
+        },
+        {
+          "title": "何立峰在四川调研时指出，加快建设现代化产业体系，持续增强经济发展动能",
+          "url": "https://wallstreetcn.com/livenews/3125650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 19时53分]"
+        },
+        {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 19时53分]"
         },
         {
           "title": "本周超267亿资金撤出“易中天”",
@@ -65,22 +79,32 @@
           "time_info": "[02时12分 ~ 04时16分]"
         },
         {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
+          "title": "深天马A：目前公司在与产业链合作伙伴协同进行玻璃基封装基板样品开发中 处在技术预研阶段",
+          "url": "https://flash.jin10.com/detail/20260628191441735800",
+          "source": "金十数据",
           "ranks": [
-            19,
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "聚焦三个维度 江苏楼市政策“工具箱”扩容",
+          "url": "https://flash.jin10.com/detail/20260628183635251800",
+          "source": "金十数据",
+          "ranks": [
             14
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 17时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -91,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 19时53分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -100,11 +124,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 19时53分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -129,6 +154,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 06时11分]"
+        },
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         }
       ]
     },
@@ -238,11 +274,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时11分 ~ 17时25分]"
+          "appearance_count": 5,
+          "time_info": "[08时11分 ~ 19时53分]"
         }
       ]
     }
