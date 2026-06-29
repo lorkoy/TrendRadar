@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T05:41:14.519024+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-06-30T07:07:41.548850+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "高盛交易员预警：存储芯片板块面临三大下行风险",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 07时07分]"
         },
         {
           "title": "德国DAX30指数6月29日（周一）收盘下跌55.03点，跌幅0.22%，报24626.69点；<br/>英国富时100指数6月29日（周一）收盘下跌15.60点，跌幅0.15%，报10492.42点；<br/>法国CAC40指数6月29日（周一）收盘下跌17.54点，跌幅0.21%，报8367.33点；<br/>欧洲斯托克50指数6月29日（周一）收盘上涨9.10点，涨幅0.15%，报6230.65点；<br/>西班牙IBEX35指数6月29日（周一）收盘下跌41.02点，跌幅0.21%，报19384.28点；<br/>意大利富时MIB指数6月29日（周一）收盘下跌79.85点，跌幅0.16%，报51185.50点。",
@@ -42,17 +42,6 @@
           "time_info": "00时03分"
         },
         {
-          "title": "美元指数29日下跌",
-          "url": "https://flash.jin10.com/detail/20260630053044155800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
           "url": "https://www.cls.cn/detail/2411748",
           "source": "财联社热门",
@@ -60,30 +49,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 07时07分]"
         },
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
           "url": "https://www.cls.cn/detail/2412084",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 07时07分]"
+        },
+        {
+          "title": "美元指数29日下跌",
+          "url": "https://flash.jin10.com/detail/20260630053044155800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 07时07分]"
         },
         {
           "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
           "url": "https://wallstreetcn.com/livenews/3126312",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 07时07分]"
         },
         {
           "title": "周一（6月29日）纽约尾盘，美国10年期国债收益率跌0.20个基点，报4.3666%，日内整体窄幅震荡于4.3646%-4.3882%区间。 两年期美债收益率涨0.62个基点，报4.0983%；30年期美债收益率跌1.28个基点，报4.8513%。 2/10年期美债收益率利差跌0.813个基点，报+26.829个基点。 10年期通胀保值国债（TIPS）收益率跌1.93个基点，至2.1369%；两年期TIPS收益率跌2.12个基点，至2.0932%；30年期TIPS收益率跌1.92个基点，至2.6808%。",
@@ -92,9 +95,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "相关主题ETF上周“吸金”超过250亿元，A股半导体板块高景气下波动加大",
+          "url": "https://wallstreetcn.com/livenews/3126330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "上海黄金交易所黄金T+D 6月29日（周一）晚盘收盘下跌1.12%报878.08元/克；<br/>上海黄金交易所白银T+D 6月29日（周一）晚盘收盘下跌0.59%报14115.0元/千克。",
@@ -106,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "国际油价29日上涨",
+          "url": "https://flash.jin10.com/detail/20260630055043609800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "德国两年期国债收益率涨超2个基点，油价上涨让德债价格结束五连涨",
@@ -125,7 +150,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -139,12 +164,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "Axon Enterprise Inc.（AXON）收涨9.85%，报510.60美元，跳空高开后持续高位震荡，逼近6月4日收盘位513.20美元、3月11日收盘位517.57美元。 据媒体报道，在移民执法局（ICE）向该公司采购一批武器之前，美国总统特朗普买入该公司股票。",
+          "url": "https://wallstreetcn.com/livenews/3126328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "WTI 8月原油期货收涨1.52美元，涨幅2.20%，报70.75美元/桶。 NYMEX 8月天然气期货收报3.1810美元/百万英热单位。 NYMEX 7月汽油期货收报3.0614美元/加仑，NYMEX 7月取暖油期货收报3.3317美元/加仑。",
@@ -158,26 +194,18 @@
           "time_info": "03时08分"
         },
         {
-          "title": "周一（6月29日）纽约尾盘，标普500股指期货最终涨1.09%，道指期货涨0.54%，纳斯达克100股指期货涨2.05%。 罗素2000股指期货跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3126318",
-          "source": "华尔街见闻-快讯",
+          "title": "宇树机器人 R1 起售价降至 2.99 万元，并开启现货发售，如何看待这一调整？降价能提升销量吗？",
+          "url": "https://www.zhihu.com/question/2053454703569244163",
+          "source": "知乎",
           "ranks": [
-            2
+            15,
+            17,
+            18,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "现货黄金跌约1.8%，美股早盘一度逼近4000点整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3126316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 07时07分]"
         },
         {
           "title": "上期所原油期货2608合约夜盘收涨0.41%，报463.70元人民币/桶。 沪金夜盘收跌1.25%，沪银收跌0.39%。",
@@ -192,17 +220,28 @@
           "time_info": "[03时08分 ~ 05时41分]"
         },
         {
-          "title": "宇树机器人 R1 起售价降至 2.99 万元，并开启现货发售，如何看待这一调整？降价能提升销量吗？",
-          "url": "https://www.zhihu.com/question/2053454703569244163",
-          "source": "知乎",
+          "title": "周一（6月29日）纽约尾盘，标普500股指期货最终涨1.09%，道指期货涨0.54%，纳斯达克100股指期货涨2.05%。 罗素2000股指期货跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3126318",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            17,
-            18
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 05时41分]"
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 07时07分]"
+        },
+        {
+          "title": "现货黄金跌约1.8%，美股早盘一度逼近4000点整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3126316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 07时07分]"
         },
         {
           "title": "恒指期货夜盘收涨0.04%，报22976点，低水51点。",
@@ -216,13 +255,46 @@
           "time_info": "03时08分"
         },
         {
+          "title": "迎接2026年下半场，分化环境下公私募调整配置思路",
+          "url": "https://wallstreetcn.com/livenews/3126339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "现货黄金周二小幅高开，向上触及4020美元/盎司，日内涨0.10%。",
+          "url": "https://flash.jin10.com/detail/20260630060233206800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "周二亚太盘初，美国股指期货走低，纳斯达克100指数跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3126329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "拉加德表示：欧洲经济的韧性为欧洲央行调整利率提供了更大空间",
           "url": "https://wallstreetcn.com/livenews/3126300",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -233,7 +305,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -244,7 +316,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -262,118 +334,8 @@
       ]
     },
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
-          "url": "https://wallstreetcn.com/articles/3775739",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 05时41分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：我们可以继续加息，而无需担心货币政策收紧本身会成为金融压力的来源。",
-          "url": "https://flash.jin10.com/detail/20260630030650343800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "【每日收评】科创50放量涨超4.5%，芯片产业链持续爆发，创新药概念股异军突起",
-          "url": "https://www.cls.cn/detail/2411791",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 05时41分]"
-        },
-        {
-          "title": "韩国全力打造新的半导体集群！三星和SK海力士将斥重金布局存储产业",
-          "url": "https://www.cls.cn/detail/2411622",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 05时41分]"
-        },
-        {
-          "title": "三项“最严国标”实施倒计时 以安全筑牢新能源汽车产业发展根基",
-          "url": "https://www.cls.cn/detail/2411509",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "国际货币基金组织：完成对洪都拉斯扩展基金便利和扩展信贷便利安排的审核，并批准拨付约2.42亿美元资金给洪都拉斯。",
-          "url": "https://flash.jin10.com/detail/20260630045523009800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "前美国贸易代表莱特希泽将担任五角大楼国防政策委员会主席",
-          "url": "https://wallstreetcn.com/livenews/3126243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "摩根士丹利(MS.N)直接贷款基金定价发行3.5亿美元6.10%票据，期限至2031年。公司表示，发行所得净资金将用于偿还现有有担保债务。",
-          "url": "https://flash.jin10.com/detail/20260630034818013800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "美联储理事库克在一份声明中表示，美国最高法院6月29日的裁决“重申了一项支撑数代稳健经济管理的原则：美联储必须在不受政治干预的情况下，完全基于证据和独立判断作出所有政策决策”。",
-          "url": "https://wallstreetcn.com/livenews/3126262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
@@ -388,28 +350,52 @@
           "time_info": "[00时03分 ~ 05时41分]"
         },
         {
+          "title": "科技股领涨，美股全线收涨，油价反弹，日元跌至40年低位",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15,
             26,
-            23
+            23,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 07时07分]"
         },
         {
           "title": "周一（6月29日），彭博电动汽车价格回报指数涨2.73%，报3522.70点，亚太时段显著走高，北京时间14:00以来持稳于3500点附近，美股开盘后涨幅略微有所扩大。",
           "url": "https://wallstreetcn.com/livenews/3126310",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 07时07分]"
+        },
+        {
+          "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
+          "url": "https://www.cls.cn/detail/2412265",
+          "source": "财联社热门",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时41分"
+          "time_info": "07时07分"
         },
         {
           "title": "美股费城半导体指数转涨。",
@@ -445,13 +431,24 @@
           "time_info": "03时08分"
         },
         {
+          "title": "美股大类资产类ETF周一多数收涨，纳指100 ETF涨2.49%，标普500 ETF、巴克莱美国可转债ETF、美国布伦特油价基金至多涨1.65%，道指ETF涨0.76%，新兴市场ETF、欧元做多、美国国债20+年ETF至多涨0.36%。 日元做多、罗素2000指数ETF、做多美元指数则至多收跌0.53%，农产品基金跌1.08%，大豆基金跌1.14%，黄金ETF跌1.35%。",
+          "url": "https://wallstreetcn.com/livenews/3126325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260630040557144800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -462,7 +459,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -473,9 +470,180 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
+          "url": "https://wallstreetcn.com/articles/3775739",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 07时07分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我们可以继续加息，而无需担心货币政策收紧本身会成为金融压力的来源。",
+          "url": "https://flash.jin10.com/detail/20260630030650343800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
+          "url": "https://wallstreetcn.com/livenews/3126341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "【每日收评】科创50放量涨超4.5%，芯片产业链持续爆发，创新药概念股异军突起",
+          "url": "https://www.cls.cn/detail/2411791",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 07时07分]"
+        },
+        {
+          "title": "韩国全力打造新的半导体集群！三星和SK海力士将斥重金布局存储产业",
+          "url": "https://www.cls.cn/detail/2411622",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 07时07分]"
+        },
+        {
+          "title": "三项“最严国标”实施倒计时 以安全筑牢新能源汽车产业发展根基",
+          "url": "https://www.cls.cn/detail/2411509",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "国际货币基金组织：完成对洪都拉斯扩展基金便利和扩展信贷便利安排的审核，并批准拨付约2.42亿美元资金给洪都拉斯。",
+          "url": "https://flash.jin10.com/detail/20260630045523009800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "国际货币基金组织：已就埃及扩展基金便利（EFF）第七次审查及弹性与可持续性工具（RSF）第二次审查达成工作人员层面协议，审查完成后将向埃及发放约15亿美元EFF资金及1.36亿美元RSF资金。",
+          "url": "https://flash.jin10.com/detail/20260630055211210800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "前美国贸易代表莱特希泽将担任五角大楼国防政策委员会主席",
+          "url": "https://wallstreetcn.com/livenews/3126243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "摩根士丹利(MS.N)直接贷款基金定价发行3.5亿美元6.10%票据，期限至2031年。公司表示，发行所得净资金将用于偿还现有有担保债务。",
+          "url": "https://flash.jin10.com/detail/20260630034818013800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "美联储理事库克在一份声明中表示，美国最高法院6月29日的裁决“重申了一项支撑数代稳健经济管理的原则：美联储必须在不受政治干预的情况下，完全基于证据和独立判断作出所有政策决策”。",
+          "url": "https://wallstreetcn.com/livenews/3126262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少45.01吨，当前持仓量为14902.53吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260630060851094800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.41%，报5810.93点。 热门中概股里，百度初步收涨7.5%，小鹏涨5.8%，日月光半导体、网易涨4.3%，金山云涨3.4%，阿里巴巴涨0.6%，理想跌0.9%。 ETF中，中国科技指数ETF（CQQQ）收涨2.25%，中概互联网指数ETF（KWEB）收涨1.50%。 XtrackersHarvest中证50（ASHS）收涨1.22%，德银嘉实沪深300指数ETF（ASHR）收涨1.06%，MSCI新兴市场ex中国ETF（EMXC）收涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3126306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
+          "url": "https://wallstreetcn.com/livenews/3126270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         }
       ]
     },
@@ -488,11 +656,12 @@
           "url": "https://wallstreetcn.com/livenews/3126317",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 07时07分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7960元，较上周五夜盘收盘涨18点。成交量449.07亿美元。",
@@ -501,7 +670,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -511,34 +680,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数收涨1.41%，报5810.93点。 热门中概股里，百度初步收涨7.5%，小鹏涨5.8%，日月光半导体、网易涨4.3%，金山云涨3.4%，阿里巴巴涨0.6%，理想跌0.9%。 ETF中，中国科技指数ETF（CQQQ）收涨2.25%，中概互联网指数ETF（KWEB）收涨1.50%。 XtrackersHarvest中证50（ASHS）收涨1.22%，德银嘉实沪深300指数ETF（ASHR）收涨1.06%，MSCI新兴市场ex中国ETF（EMXC）收涨0.41%。",
-          "url": "https://wallstreetcn.com/livenews/3126306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
-          "url": "https://wallstreetcn.com/livenews/3126270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -568,7 +709,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         }
