@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T19:39:52.138712+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-07-03T22:28:22.690576+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -65,6 +65,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "大陆集团（Continental）德国股价上涨2%，公司即将敲定出售旗下工业技术业务部门康迪泰克的协议。",
+          "url": "https://flash.jin10.com/detail/20260703221105543800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "韩国KOSPI指数7月3日（周五）开盘上涨107.5点，涨幅1.41%，报7755.59点。三星电子涨超2%，SK海力士涨1%。",
           "url": "https://flash.jin10.com/detail/20260703080143606800",
           "source": "金十数据",
@@ -99,6 +110,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 06时15分]"
+        },
+        {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 22时28分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
@@ -149,15 +172,15 @@
           "time_info": "[00时58分 ~ 02时42分]"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
+          "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
+          "url": "https://www.cls.cn/detail/2416647",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "22时28分"
         },
         {
           "title": "本周标普500指数上涨1.75%，纳斯达克指数上涨2.12%，道琼斯工业平均指数上涨1.97%。道指连续第四周上涨，创下自2024年10月以来的最长连涨纪录。",
@@ -336,6 +359,17 @@
           "time_info": "16时17分"
         },
         {
+          "title": "非农数据爆冷，黄金应声上涨！​《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260703213235031800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "创业板指涨超1%，沪指涨0.36%，深成指涨0.85%，贵金属、机器人、军工、造纸等方向领涨，沪深京三市上涨个股超3800只。",
           "url": "https://wallstreetcn.com/livenews/3128374",
           "source": "华尔街见闻-快讯",
@@ -353,15 +387,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "波罗的海干散货指数上涨2.53%，至2717点。",
+          "url": "https://wallstreetcn.com/livenews/3128709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "期货热点追踪",
@@ -381,7 +426,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -392,7 +437,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -421,6 +466,30 @@
           "time_info": "06时15分"
         },
         {
+          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://www.cls.cn/detail/2416626",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 22时28分]"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
+          "url": "https://www.cls.cn/detail/2416590",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 22时28分]"
+        },
+        {
           "title": "王楚钦赛后调整心态笑着摇头",
           "url": "https://www.toutiao.com/trending/7657030886998704134/",
           "source": "今日头条",
@@ -432,26 +501,15 @@
           "time_info": "[12时50分 ~ 12时51分]"
         },
         {
-          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
-          "url": "https://www.cls.cn/detail/2416626",
-          "source": "财联社热门",
+          "title": "期货交易夜读 | 知识的诅咒——你对品种了解得越深，可能亏得更多",
+          "url": "https://flash.jin10.com/detail/20260703220611709800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
-          "url": "https://www.cls.cn/detail/2416590",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "22时28分"
         },
         {
           "title": "现货价格",
@@ -474,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "夜盘期货开盘，沪银、沪锡涨逾1%，乙二醇、PVC、沪金等上涨；棕榈油、菜粕、原油、铁矿石等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3128730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "科技板块遭遇深度调整，机构建议聚焦细分龙头",
@@ -531,6 +600,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "两人操纵鲜苹果2404期货合约非法获利36万元，证监会合计罚没336万元",
+          "url": "https://wallstreetcn.com/livenews/3128724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "内盘期货夜市多数收涨，LPG涨约2.9%，铁矿石跌超1.3%",
           "url": "https://wallstreetcn.com/livenews/3128127",
           "source": "华尔街见闻-快讯",
@@ -548,9 +628,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "中国证监会与新加坡金管局举行第十届中新证券期货监管圆桌会",
+          "url": "https://wallstreetcn.com/livenews/3128718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "WTI 8月原油期货收涨0.11美元，涨幅0.16%，报68.69美元/桶。 中东Abu Dhabi Murban原油期货跌0.82%，报65.10美元/桶。 布伦特9月原油期货收涨0.23美元，涨幅0.32%，报71.80美元/桶。 NYMEX 8月天然气期货收报3.1960美元/百万英热单位。 NYMEX 8月汽油期货收报2.9173美元/加仑，NYMEX 8月取暖油期货收报3.1822美元/加仑。",
@@ -589,7 +680,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "2000亿元设备更新资金已全部下达",
@@ -603,15 +694,37 @@
           "time_info": "[16时17分 ~ 19时39分]"
         },
         {
+          "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
+          "url": "https://www.cls.cn/detail/2416860",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "中方坚决反对有关国家诋毁中国民族政策",
           "url": "https://www.toutiao.com/trending/7657540121208127531/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "四部门出台稳岗扩岗政策",
+          "url": "https://www.douyin.com/hot/2556062",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -648,6 +761,18 @@
           "time_info": "[00时57分 ~ 04时25分]"
         },
         {
+          "title": "韩国资金逆势加仓半导体！公募：上行周期未终结",
+          "url": "https://www.cls.cn/detail/2416294",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 22时28分]"
+        },
+        {
           "title": "英国央行货币政策委员曼恩：自6月以来金融条件的宽松变化，将对我在下次会议上的利率投票至关重要。",
           "url": "https://flash.jin10.com/detail/20260703001850144800",
           "source": "金十数据",
@@ -665,18 +790,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "韩国资金逆势加仓半导体！公募：上行周期未终结",
-          "url": "https://www.cls.cn/detail/2416294",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -709,7 +823,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -783,7 +897,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
@@ -859,11 +973,12 @@
           "url": "https://wallstreetcn.com/articles/3776105",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 19时39分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 22时28分]"
         },
         {
           "title": "美股三大股指走势分化，纳指跌超1%，标普500指数跌0.28%，道指涨0.64%。",
@@ -886,6 +1001,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美股存储概念股还在跌",
@@ -933,7 +1059,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -955,7 +1081,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -977,7 +1103,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
@@ -1016,7 +1142,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
@@ -1068,8 +1194,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "赤峰黄金：黄金产品市场价格波动较大",
+          "url": "https://www.toutiao.com/trending/7658216489241100330/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
         {
           "title": "赤峰黄金：近期，公司黄金产品的市场价格波动较大，预计将对公司经营业绩产生一定影响。",
           "url": "https://wallstreetcn.com/livenews/3128645",
@@ -1077,7 +1214,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
