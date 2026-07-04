@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T06:12:51.636745+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-07-04T08:14:26.828602+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 08时14分]"
         },
         {
           "title": "周五美元小幅走低，有望创下12周以来的最大单周跌幅。 瑞士宝盛银行（Swissquote Bank）高级分析师Ipek Ozkardeskaya）表示：“最终将由通胀数据来决定这一转变是否会持续……我们可能会看到美元巩固近期的涨幅，未来几天黄金和主要货币的上涨空间有限。”",
@@ -47,11 +48,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            17
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 08时14分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月3日（周五）晚盘收盘上涨0.41%报910.7元/克；<br/>上海黄金交易所白银T+D 7月3日（周五）晚盘收盘上涨0.76%报15207.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260704023100243800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 08时14分]"
+        },
+        {
+          "title": "周五（7月3日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7853元，较周四纽约尾盘涨35点，日内整体交投于6.7901-6.7811元区间。 本周，离岸人民币累计上涨大约190点，涨幅0.29%。",
+          "url": "https://wallstreetcn.com/livenews/3128840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时12分]"
+          "time_info": "[06时12分 ~ 08时14分]"
         },
         {
           "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
@@ -64,6 +89,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 04时20分]"
+        },
+        {
+          "title": "加拿大标普/TSX综合指数收涨0.88%，报35274.84点，投资者看好总理卡尼披露的西海岸新版管道输送项目，本周累计上涨0.84%。 小盘股指收涨1.73%，报1426.61点，本周累涨2.77%。 周五（7月3日）北美尾盘，加拿大10年期基准国债收益率跌0.4个基点，报3.443%，本周累涨5.7个基点。 两年期加债收益率跌0.5个基点，报2.756%，本周累涨1.1个基点。",
+          "url": "https://wallstreetcn.com/livenews/3128838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时14分]"
         },
         {
           "title": "分析师称黄金已跌至公允价值！加息预期太过激进 黄金牛市并未结束",
@@ -101,28 +138,6 @@
           "time_info": "[04时20分 ~ 06时12分]"
         },
         {
-          "title": "上海黄金交易所黄金T+D 7月3日（周五）晚盘收盘上涨0.41%报910.7元/克；<br/>上海黄金交易所白银T+D 7月3日（周五）晚盘收盘上涨0.76%报15207.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260704023100243800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时12分]"
-        },
-        {
-          "title": "周五（7月3日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7853元，较周四纽约尾盘涨35点，日内整体交投于6.7901-6.7811元区间。 本周，离岸人民币累计上涨大约190点，涨幅0.29%。",
-          "url": "https://wallstreetcn.com/livenews/3128840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
           "title": "明晟公司MSCI北欧国家指数涨0.9%，连续第五个交易日走强，报397.85点，创5月25日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 Sandvik AB涨4.4%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3128783",
           "source": "华尔街见闻-快讯",
@@ -132,17 +147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        },
-        {
-          "title": "加拿大标普/TSX综合指数收涨0.88%，报35274.84点，投资者看好总理卡尼披露的西海岸新版管道输送项目，本周累计上涨0.84%。 小盘股指收涨1.73%，报1426.61点，本周累涨2.77%。 周五（7月3日）北美尾盘，加拿大10年期基准国债收益率跌0.4个基点，报3.443%，本周累涨5.7个基点。 两年期加债收益率跌0.5个基点，报2.756%，本周累涨1.1个基点。",
-          "url": "https://wallstreetcn.com/livenews/3128838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
         },
         {
           "title": "德国DAX30指数7月3日（周五）收盘上涨255.17点，涨幅1.00%，报25801.57点；<br/>英国富时100指数7月3日（周五）收盘上涨24.78点，涨幅0.23%，报10677.65点；<br/>法国CAC40指数7月3日（周五）收盘上涨33.21点，涨幅0.39%，报8508.07点；<br/>欧洲斯托克50指数7月3日（周五）收盘上涨56.09点，涨幅0.88%，报6416.56点；<br/>西班牙IBEX35指数7月3日（周五）收盘上涨173.97点，涨幅0.88%，报19845.77点；<br/>意大利富时MIB指数7月3日（周五）收盘上涨389.32点，涨幅0.74%，报52817.50点。",
@@ -181,7 +185,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
@@ -192,8 +196,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 08时14分]"
         },
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
@@ -205,8 +209,35 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 08时14分]"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
+          "url": "https://www.cls.cn/detail/2416590",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 08时14分]"
+        },
+        {
+          "title": "新能源汽车车船税优惠政策调整",
+          "url": "https://www.douyin.com/hot/2557214",
+          "source": "抖音",
+          "ranks": [
+            15,
+            11,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 08时14分]"
         },
         {
           "title": "周五（7月3日）纽约尾盘，标普500股指期货最终涨0.31%，道指期货跌0.10%，纳斯达克100股指期货涨1.13%。 罗素2000股指期货涨0.29%。",
@@ -221,29 +252,37 @@
           "time_info": "[02时19分 ~ 04时20分]"
         },
         {
-          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
-          "url": "https://www.cls.cn/detail/2416590",
-          "source": "财联社热门",
+          "title": "法国总统马克龙：法国调整中东部署，“戴高乐”号航母撤回，扫雷与护航力量继续驻留待命。",
+          "url": "https://flash.jin10.com/detail/20260704030949450800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 08时14分]"
         },
         {
-          "title": "新能源汽车车船税优惠政策调整",
-          "url": "https://www.douyin.com/hot/2557214",
-          "source": "抖音",
+          "title": "恒指期货夜盘收跌0.2%，报23253点，低水97点。",
+          "url": "https://flash.jin10.com/detail/20260704030155971800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            11,
-            13
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 08时14分]"
+        },
+        {
+          "title": "洲际交易所（ICE）：截至6月30日当周，布伦特原油期货投机者削减了34,704手净多头头寸，降至55,634手。柴油期货投机者削减了2,664手净多头头寸，降至57,852手。",
+          "url": "https://flash.jin10.com/detail/20260704025342619800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 08时14分]"
         },
         {
           "title": "布伦特9月原油期货收涨0.32美元，涨幅超过0.44%，报72.12美元/桶，本周累计下跌0.66%。 中东Abu Dhabi Murban原油期货涨1.47%，报66.18美元/桶，本周累跌1.61%。",
@@ -258,17 +297,6 @@
           "time_info": "[02时19分 ~ 04时20分]"
         },
         {
-          "title": "法国总统马克龙：法国调整中东部署，“戴高乐”号航母撤回，扫雷与护航力量继续驻留待命。",
-          "url": "https://flash.jin10.com/detail/20260704030949450800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时12分]"
-        },
-        {
           "title": "上期所原油期货2608合约夜盘收跌0.16%，报438.30元人民币/桶。 沪金夜盘收涨0.81%，沪银收涨1.61%。",
           "url": "https://wallstreetcn.com/livenews/3128817",
           "source": "华尔街见闻-快讯",
@@ -281,26 +309,15 @@
           "time_info": "[04时20分 ~ 06时12分]"
         },
         {
-          "title": "恒指期货夜盘收跌0.2%，报23253点，低水97点。",
-          "url": "https://flash.jin10.com/detail/20260704030155971800",
-          "source": "金十数据",
+          "title": "车船税重大调整对家庭用车有何影响",
+          "url": "https://www.toutiao.com/trending/7658182562280390694/",
+          "source": "今日头条",
           "ranks": [
-            16
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时12分]"
-        },
-        {
-          "title": "洲际交易所（ICE）：截至6月30日当周，布伦特原油期货投机者削减了34,704手净多头头寸，降至55,634手。柴油期货投机者削减了2,664手净多头头寸，降至57,852手。",
-          "url": "https://flash.jin10.com/detail/20260704025342619800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
         },
         {
           "title": "ICE布伦特原油9月期货结算价为每桶72.12美元。",
@@ -339,7 +356,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
@@ -349,24 +366,24 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 06时12分]"
-        },
-        {
-          "title": "2000亿元两新设备更新资金已全部下达",
-          "url": "https://s.weibo.com/weibo?q=%232000%E4%BA%BF%E5%85%83%E4%B8%A4%E6%96%B0%E8%AE%BE%E5%A4%87%E6%9B%B4%E6%96%B0%E8%B5%84%E9%87%91%E5%B7%B2%E5%85%A8%E9%83%A8%E4%B8%8B%E8%BE%BE%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 08时14分]"
         },
         {
           "title": "四部门出台稳岗扩岗政策",
           "url": "https://www.douyin.com/hot/2556062",
           "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 08时14分]"
+        },
+        {
+          "title": "2000亿元两新设备更新资金已全部下达",
+          "url": "https://s.weibo.com/weibo?q=%232000%E4%BA%BF%E5%85%83%E4%B8%A4%E6%96%B0%E8%AE%BE%E5%A4%87%E6%9B%B4%E6%96%B0%E8%B5%84%E9%87%91%E5%B7%B2%E5%85%A8%E9%83%A8%E4%B8%8B%E8%BE%BE%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
             3
           ],
@@ -386,6 +403,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "伯纳姆：若接任首相将不提前大选 稳住政策延续性",
+          "url": "https://flash.jin10.com/detail/20260704025904703800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 08时14分]"
+        },
+        {
           "title": "英国首相候选人伯纳姆（Andy Burnham）在Reddit上回答网友提问：坚守养老金“三重锁定”承诺至关重要。 将确保国防投资计划获得全额资金。 不会要求大选。 将促成政府加强与欧盟的关系。",
           "url": "https://wallstreetcn.com/livenews/3128803",
           "source": "华尔街见闻-快讯",
@@ -396,6 +424,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 04时20分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
+          "url": "https://wallstreetcn.com/livenews/3128834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时14分]"
         },
         {
           "title": "银行重启五年期存款背后的资金转折",
@@ -410,26 +450,15 @@
           "time_info": "[04时20分 ~ 06时12分]"
         },
         {
-          "title": "伯纳姆：若接任首相将不提前大选 稳住政策延续性",
-          "url": "https://flash.jin10.com/detail/20260704025904703800",
-          "source": "金十数据",
+          "title": "明年起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策",
+          "url": "https://wallstreetcn.com/articles/3776152",
+          "source": "华尔街见闻",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时12分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
-          "url": "https://wallstreetcn.com/livenews/3128834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时12分"
+          "time_info": "08时14分"
         },
         {
           "title": "英国首相候选人伯纳姆：将确保国防投资计划获得充分资金支持。",
@@ -494,11 +523,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 08时14分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -541,11 +571,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 08时14分]"
         }
       ]
     }
