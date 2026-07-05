@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T13:04:30.890866+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-07-05T17:19:10.875000+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时11分 ~ 08时09分]"
+        },
+        {
+          "title": "韩国拟以芯片产业税收红利设立未来基金",
+          "url": "https://flash.jin10.com/detail/20260705164929847800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "谌贻琴在陕西调研时强调 促进养老事业和养老产业发展 持续做强做大文旅产业",
@@ -66,6 +77,17 @@
           "time_info": "[06时05分 ~ 08时09分]"
         },
         {
+          "title": "A股超520亿资金撤离9只科技股",
+          "url": "https://www.toutiao.com/trending/7658142757459165220/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
+        },
+        {
           "title": "沙特媒体：美伊下一轮谈判将于11日进行，将讨论被冻结资金与核问题",
           "url": "https://flash.jin10.com/detail/20260704212355337800",
           "source": "金十数据",
@@ -102,7 +124,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -113,11 +135,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 13时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 17时19分]"
         },
         {
           "title": "【Trendforce：传统 DRAM价格Q3预计上涨13%至18%】Trendforce 预计，在 2026 年第三季度，传统 DRAM 产品的合同价格将环比上涨 13%至 18%。",
@@ -138,9 +161,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "*ST亚士：股价短期上涨幅度较大 未来存在快速下跌的风险",
+          "url": "https://flash.jin10.com/detail/20260705162237754800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "中信证券：两因素有望催化部分有业绩支撑的非AI板块的修复",
+          "url": "https://flash.jin10.com/detail/20260705160505673800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "AI投资进入落地阶段 半导体价格开始显著上涨",
@@ -149,7 +194,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         }
@@ -157,18 +202,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
           "url": "https://wallstreetcn.com/articles/3776204",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 17时19分]"
+        },
+        {
+          "title": "如何看待网传字节员工靠炒美股赚三千万财富自由后离职，称投资比升职更易财务自由，后回应了三个千万祝福？",
+          "url": "https://www.zhihu.com/question/2055415968537618014",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
@@ -177,7 +234,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         }
@@ -185,8 +242,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "招金黄金：若未来黄金价格大幅波动 将对公司经营业绩产生较大影响",
+          "url": "https://flash.jin10.com/detail/20260705160914671800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
         {
           "title": "金价结束四周连跌",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%BB%93%E6%9D%9F%E5%9B%9B%E5%91%A8%E8%BF%9E%E8%B7%8C",
@@ -194,9 +262,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "招商轮船：预计上半年净利润为人民币66亿元-73亿元，同比增加 214%-248%",
+          "url": "https://wallstreetcn.com/livenews/3128977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     }
