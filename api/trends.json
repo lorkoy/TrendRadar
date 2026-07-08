@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T05:18:29.217879+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-07-09T07:18:40.245133+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "纽约期金跌超1.7%，白银期货跌3%",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -30,6 +30,32 @@
           "time_info": "03时47分"
         },
         {
+          "title": "“中国房地产调整或接近尾声”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%B0%83%E6%95%B4%E6%88%96%E6%8E%A5%E8%BF%91%E5%B0%BE%E5%A3%B0%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时18分]"
+        },
+        {
+          "title": "邢自强：中国房地产调整或接近尾声",
+          "url": "https://www.toutiao.com/trending/7659924608824868910/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            24,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时18分]"
+        },
+        {
           "title": "芝加哥玉米期货跌2.1%，大豆油期货涨3.2%",
           "url": "https://wallstreetcn.com/livenews/3130867",
           "source": "华尔街见闻-快讯",
@@ -40,31 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 05时18分]"
-        },
-        {
-          "title": "“中国房地产调整或接近尾声”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%B0%83%E6%95%B4%E6%88%96%E6%8E%A5%E8%BF%91%E5%B0%BE%E5%A3%B0%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时18分]"
-        },
-        {
-          "title": "邢自强：中国房地产调整或接近尾声",
-          "url": "https://www.toutiao.com/trending/7659924608824868910/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            24,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时18分]"
         },
         {
           "title": "北约秘书长吕特：没有必要调整与特朗普相处的方式，盟友们“在选择我的时候就知道他们得到的是什么”。",
@@ -133,6 +134,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "美国10年期国债期货下跌3个跳动点，联邦基金期货暗示美联储到12月份这段时间可能会加息38个基点。",
+          "url": "https://wallstreetcn.com/livenews/3130911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶78.02美元，上涨3.86美元，涨幅5.2%。",
           "url": "https://flash.jin10.com/detail/20260709025432972800",
           "source": "金十数据",
@@ -142,23 +154,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "周四亚太盘初，WTI原油期货高开2.2%，报75.13美元/桶，美国再次袭击伊朗。 美国三大股指期货跌超0.1%，罗素2000股指期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3130909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "韩国股市跌入技术性熊市，监管紧急开会：半导体板块过度集中加剧市场波动",
           "url": "https://wallstreetcn.com/articles/3776441",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时18分]"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
@@ -190,7 +214,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -204,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "美光、闪迪领跌、整个板块全线重挫，市场焦点：存储见顶了吗？",
+          "url": "https://wallstreetcn.com/articles/3776420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "数字货币市场普遍下跌",
@@ -223,7 +258,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -237,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "上证报：理性看待市场短期波动，多重逻辑支撑A股中长期配置价值",
+          "url": "https://wallstreetcn.com/livenews/3130915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "美国10年期国债收益率在10年期国债拍卖后涨幅收窄；目前上涨5.22个基点，报4.581%。",
@@ -264,7 +310,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -274,8 +320,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时18分]"
         },
         {
           "title": "道明证券美国利率策略主管Gennadiy Goldberg表示：美债实际利率走高受到稳健的增长预期，以及市场担忧美联储在中东冲突升级的情况下需要进一步收紧政策的共同推动。",
@@ -284,7 +330,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -295,9 +341,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "中证报：资金保障底气足，下半年稳投资料持续加力",
+          "url": "https://wallstreetcn.com/livenews/3130931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "伊拉克同意，停止向支持伊朗的那些武装人员提供美元资金。（华尔街日报）",
@@ -324,6 +381,17 @@
           "time_info": "[01时48分 ~ 03时47分]"
         },
         {
+          "title": "多家算力产业链公司上半年业绩预增",
+          "url": "https://wallstreetcn.com/livenews/3130919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "提醒：北京时间02:00，美联储将发布6月16-17日FOMC货币政策会议的纪要文件。",
           "url": "https://wallstreetcn.com/livenews/3130846",
           "source": "华尔街见闻-快讯",
@@ -333,12 +401,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "赚钱效应明显，多路资金抢筹基石投资",
+          "url": "https://wallstreetcn.com/livenews/3130916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -346,11 +425,23 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时18分]"
+        },
+        {
+          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
+          "url": "https://www.cls.cn/detail/2421032",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "地产ETF收跌超1.6%，与道指ETF领跌美股大类资产类ETF，布油基金涨3.9%",
@@ -359,7 +450,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -370,7 +461,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -384,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "报道：SK海力士美股上市获超7倍超额认购，预计募资约245亿美元",
+          "url": "https://wallstreetcn.com/livenews/3130914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
@@ -439,7 +541,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -450,7 +552,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
@@ -467,7 +569,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
