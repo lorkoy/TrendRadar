@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T12:22:27.336219+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-07-08T15:37:18.914465+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "期货热点追踪",
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时18分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[06时18分 ~ 15时37分]"
         },
         {
           "title": "日媒：日本政府可能调整年度政策方针中货币政策相关表述",
@@ -52,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260708151622019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "现货价格",
@@ -84,7 +96,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -111,13 +123,24 @@
           "time_info": "08时06分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约涨0.29%，10年期主力合约涨0.10%，5年期主力合约涨0.06%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3130462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约跌0.08%，10年期主力合约跌0.02%，5年期主力合约跌0.01%，2年期主力合约跌0.00%。",
           "url": "https://wallstreetcn.com/livenews/3130350",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -128,7 +151,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -172,9 +195,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "商品期货收盘，原油、LU燃油、燃料油主力合约涨超6%，纯苯涨超5%，苯乙烯、甲醇涨超4%，丙烯、聚丙烯、液化气涨超3%。碳酸锂、工业硅、不锈钢跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3130450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "股指期货早盘收盘",
@@ -183,7 +217,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -194,7 +228,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -205,15 +239,48 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260708150127599800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨多跌少，SC原油、低硫燃料油（LU）、燃料油涨超6%，纯苯涨超5%，苯乙烯（EB）、甲醇涨超4%，丙烯涨近4%，聚丙烯涨超3%。跌幅方面，工业硅、不锈钢（SS）、碳酸锂跌超2%，苹果、棉花跌超1%，沪镍、白糖、棉纱跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260708150108213800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金下方多单密集 美日上方空单密集区较远",
+          "url": "https://flash.jin10.com/detail/20260708145606153800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
@@ -226,6 +293,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时08分 ~ 08时06分]"
+        },
+        {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 15时37分]"
         },
         {
           "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
@@ -252,16 +332,15 @@
           "time_info": "[02时08分 ~ 06时19分]"
         },
         {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
+          "title": "德国两年期国债收益率上涨6个基点，至2.646%，为6月19日以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260708151359501800",
+          "source": "金十数据",
           "ranks": [
-            9,
             6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "港股午评：科指半日涨4.3%重回4700点上方 人工智能板块领涨",
@@ -270,7 +349,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -281,7 +360,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -292,7 +371,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -319,6 +398,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "欧股开盘集体下跌，欧洲斯托克50指数跌0.53%，英国富时100指数跌0.38%，法国CAC40指数跌0.58%，德国DAX指数跌0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3130453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "美国3年期国债收益率在3年期国债竞拍后小幅收窄涨幅，最新上涨2.5个基点，报4.173%。",
           "url": "https://flash.jin10.com/detail/20260708010459357800",
           "source": "金十数据",
@@ -336,9 +426,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "中国上证综指7月8日（周三）收盘下跌19.36点，跌幅：0.49%，报3970.88点；<br/>中国深证成指7月8日（周三）收盘下跌285.39点，跌幅：1.87%，报14939.73点；<br/>中国沪深300指数7月8日（周三）收盘下跌36.73点，跌幅：0.77%，报4755.53点；<br/>中国创业板指数7月8日（周三）收盘下跌66.56点，跌幅：1.7%，报3845.35点；<br/>中国科创50指数7月8日（周三）收盘上涨14.64点，涨幅：0.73%，报2016.23点。",
+          "url": "https://flash.jin10.com/detail/20260708150236070800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "金十图示：2026年07月08日（周三）富时中国A50指数成分股今日收盘行情一览：银行、煤炭开采板块普涨，半导体、通信设备板块涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260708150232290800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "多数拉美货币因油价飙升而下跌，新兴市场股指跌2%",
@@ -352,13 +464,35 @@
           "time_info": "06时19分"
         },
         {
+          "title": "上证指数收报3970.88点，跌0.49%。 深证成指收报14939.73点，跌1.87%。 创业板指收报3845.35点，跌1.70%。 沪深300收报4755.53点，跌0.77%。 科创50收报2016.23点，涨0.73%。 中证500收报8390.02点，跌1.40%。 中证1000收报8117.86点，跌2.22%。",
+          "url": "https://wallstreetcn.com/livenews/3130448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "德国DAX30指数7月8日（周三）开盘下跌177.15点，跌幅0.69%，报25312.11点；<br/>英国富时100指数7月8日（周三）开盘下跌33.71点，跌幅0.32%，报10632.17点；<br/>法国CAC40指数7月8日（周三）开盘下跌49.27点，跌幅0.58%，报8386.97点；<br/>欧洲斯托克50指数7月8日（周三）开盘下跌32.61点，跌幅0.52%，报6287.25点；<br/>西班牙IBEX35指数7月8日（周三）开盘下跌131.27点，跌幅0.67%，报19508.93点；<br/>意大利富时MIB指数7月8日（周三）开盘下跌202.94点，跌幅0.39%，报52252.50点。",
+          "url": "https://flash.jin10.com/detail/20260708150132521800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "智谱在首批限售股解禁日上涨，机构投资者称将继续持有",
           "url": "https://wallstreetcn.com/livenews/3130335",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -377,7 +511,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "南向资金净买入额超100亿港元。",
@@ -386,9 +520,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "财政部、应急管理部紧急预拨5000万元中央自然灾害救灾资金，支持湖北、甘肃做好灾害应急抢险救灾工作。（财政部网站）",
+          "url": "https://wallstreetcn.com/livenews/3130469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "【焦点复盘】三大指数全天缩量探底，全市场仅30余股涨停，资金逆势抱团半导体设备股",
@@ -415,13 +560,24 @@
           "time_info": "[02时08分 ~ 08时06分]"
         },
         {
+          "title": "人社部：建立人社行业领域人工智能应用协调机制，积极拓宽资金支持渠道",
+          "url": "https://wallstreetcn.com/livenews/3130465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "南向资金净买额达100亿元。",
           "url": "https://flash.jin10.com/detail/20260708115931850800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -432,9 +588,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出698.23亿元，占比2.72%；大单资金净流出342.47亿元，占比1.34%；小单资金净流入692.91亿元，占比2.7%。",
+          "url": "https://flash.jin10.com/detail/20260708150657335800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "英国政府：英国将主导一项欧洲倡议，以增加对深度精确打击能力的资金支持。新倡议下，盟国将在未来10年内投资500亿美元，开发深度精确打击能力。",
@@ -454,7 +621,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -465,7 +632,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -512,6 +679,18 @@
           "time_info": "[02时08分 ~ 12时22分]"
         },
         {
+          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
+          "url": "https://www.cls.cn/detail/2419797",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 15时37分]"
+        },
+        {
           "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
           "url": "https://wallstreetcn.com/articles/3776355",
           "source": "华尔街见闻",
@@ -521,18 +700,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 06时19分]"
-        },
-        {
-          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
-          "url": "https://www.cls.cn/detail/2419797",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时22分]"
         },
         {
           "title": "美股",
@@ -593,7 +760,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
@@ -627,7 +794,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
