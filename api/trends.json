@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T14:23:21.276288+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-07-11T16:54:48.554880+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
@@ -113,6 +113,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "中期协： 6月全国期货交易市场成交额同比增长52.72%",
+          "url": "https://flash.jin10.com/detail/20260711155059303800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶76.01美元，下跌29美分，跌幅0.38%。",
           "url": "https://flash.jin10.com/detail/20260711025802605800",
           "source": "金十数据",
@@ -202,11 +213,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 16时54分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -229,8 +241,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 16时54分]"
         },
         {
           "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
@@ -362,7 +374,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -374,11 +386,36 @@
             8,
             7,
             6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 16时54分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 16时54分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时06分 ~ 16时54分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -391,30 +428,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时54分 ~ 05时15分]"
-        },
-        {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 14时23分]"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时06分 ~ 14时23分]"
         },
         {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -449,6 +462,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时54分 ~ 07时06分]"
+        },
+        {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "一周热榜精选：美国要求伊朗周六给承诺！SK海力士美股首日涨超12%",
@@ -568,7 +592,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         }
@@ -609,7 +633,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
