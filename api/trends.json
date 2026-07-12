@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-07-13T03:17:23.851265+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2026-07-13T05:01:46.622980+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "斯洛伐克总统佩列格里尼：斯洛伐克不会参与总额700亿欧元的新一轮对乌克兰援助计划，也不会向乌克兰提供武器或为其进一步武装提供资金。",
+          "url": "https://flash.jin10.com/detail/20260713035248993800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "伊朗议员：管控霍尔木兹海峡是伊朗的“最终”政策",
+          "url": "https://flash.jin10.com/detail/20260713015857749800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 05时01分]"
+        },
+        {
+          "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
+          "url": "https://flash.jin10.com/detail/20260713010355573800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 05时01分]"
+        }
+      ]
+    },
     {
       "keyword_group": "调整 期货 现货",
       "match_count": 2,
@@ -15,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时01分]"
         },
         {
           "title": "与美合作、加速入盟 乌克兰宣布全面调整国家政治战略",
@@ -26,43 +67,26 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 03时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗议员：管控霍尔木兹海峡是伊朗的“最终”政策",
-          "url": "https://flash.jin10.com/detail/20260713015857749800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
-          "url": "https://flash.jin10.com/detail/20260713010355573800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 05时01分]"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "为什么油价下跌尚未导致通胀下降",
+          "url": "https://flash.jin10.com/detail/20260713033122306800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
         {
           "title": "沉默的周星驰和上涨的票房",
           "url": "https://www.toutiao.com/trending/7661472426055716406/",
@@ -70,7 +94,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         }
