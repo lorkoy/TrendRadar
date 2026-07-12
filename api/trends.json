@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T01:10:16.178485+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-13T03:17:23.851265+08:00",
+  "total_titles_processed": 350,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时17分]"
         },
         {
           "title": "与美合作、加速入盟 乌克兰宣布全面调整国家政治战略",
@@ -25,9 +25,54 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗议员：管控霍尔木兹海峡是伊朗的“最终”政策",
+          "url": "https://flash.jin10.com/detail/20260713015857749800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "03时17分"
+        },
+        {
+          "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
+          "url": "https://flash.jin10.com/detail/20260713010355573800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沉默的周星驰和上涨的票房",
+          "url": "https://www.toutiao.com/trending/7661472426055716406/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         }
       ]
     }
