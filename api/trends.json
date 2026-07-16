@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T14:27:42.480581+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-07-16T17:22:12.936743+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
@@ -45,6 +45,17 @@
           "time_info": "[07时05分 ~ 14时27分]"
         },
         {
+          "title": "德国次日基载电力价格下跌8.66%，至144.5欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20260716165941213800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "美元指数15日下跌",
           "url": "https://flash.jin10.com/detail/20260716043228905800",
           "source": "金十数据",
@@ -73,9 +84,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "【昭衍新药：生物资产公允价值受多种不确定性因素影响 存在较大价值波动风险】昭衍新药公告称，公司股票于2026年7月14日、15日和16日连续3个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。公司股票于2026年7月14日、7月15日、7月16日连续三个交易日内收盘价格涨幅偏离值累计超过20%，公司股价短期内涨幅较大，存在市场情绪过热、非理性炒作风险，交易风险极大，随时存在股价下跌的风险。另外，公司生物资产公允价值受多种不确定性因素影响，存在较大价值波动风险。敬请广大投资者注意二级市场交易风险，理性决策，审慎投资。",
+          "url": "https://wallstreetcn.com/livenews/3134974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债",
+          "url": "https://wallstreetcn.com/articles/3777047",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 17时22分]"
         },
         {
           "title": "周三（7月15日，美国PPI通胀数据发布日），美股降息赢家指数涨1.44%——延续CPI数据出炉当天反弹的表现，报97.17点，美股早盘持续上涨，北京时间22:00以来主要持稳于97点上方。",
@@ -90,16 +124,16 @@
           "time_info": "[05时10分 ~ 07时05分]"
         },
         {
-          "title": "破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债",
-          "url": "https://wallstreetcn.com/articles/3777047",
-          "source": "华尔街见闻",
+          "title": "7月16日投资避雷针：12天11板人气股提示风险 如进一步异常上涨将停牌核查",
+          "url": "https://www.cls.cn/detail/2427880",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 17时22分]"
         },
         {
           "title": "澳大利亚S&P/ASX200指数7月16日（周四）收盘下跌0.70点，跌幅0.01%，报8840.40点。",
@@ -108,7 +142,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -130,20 +164,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "7月16日投资避雷针：12天11板人气股提示风险 如进一步异常上涨将停牌核查",
-          "url": "https://www.cls.cn/detail/2427880",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "14时27分"
         },
         {
           "title": "周三（7月15日），彭博电动汽车价格回报指数涨0.62%，报3417.66点，全天处于上涨状态。",
@@ -163,7 +186,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -177,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "荷兰国际：欧元兑美元进一步上涨空间有限",
+          "url": "https://flash.jin10.com/detail/20260716165246865800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "美国总统特朗普：（关于石油）价格稍微上涨是因为我不得不采取强硬措施。",
@@ -207,7 +241,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -256,6 +290,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "韩国暂停新增个股杠杆ETF，保证金门槛升至3000万韩元",
+          "url": "https://flash.jin10.com/detail/20260716163753567800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数大致持平，报392.87点。 在十个板块中，北欧信息技术板块跌幅最大。 电信集团Elisa Oyj跌5.4%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3134507",
           "source": "华尔街见闻-快讯",
@@ -281,7 +326,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
@@ -484,6 +529,17 @@
           "time_info": "11时26分"
         },
         {
+          "title": "韩国金融监督院官员：周四的政策措施不针对境外券商。",
+          "url": "https://flash.jin10.com/detail/20260716163838012800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "国家统计局: 二季度房地产业GDP同比-0.2%，金融业GDP同比+6.9%，住宿和餐饮业GDP同比+5.8%。",
           "url": "https://wallstreetcn.com/livenews/3134737",
           "source": "华尔街见闻-快讯",
@@ -498,8 +554,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 17时22分]"
+        },
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
           "url": "https://wallstreetcn.com/articles/3776859",
@@ -537,17 +605,6 @@
           "time_info": "[05时10分 ~ 07时05分]"
         },
         {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 14时27分]"
-        },
-        {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
@@ -566,7 +623,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -675,6 +732,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "百度美股盘前涨超4%，公司寻求于港交所主板自愿转换为双重主要上市",
+          "url": "https://wallstreetcn.com/livenews/3134955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "金十图示：2026年07月15日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260716040535908800",
           "source": "金十数据",
@@ -695,12 +763,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "台积电美股盘前一度跌近5%，公司此前公布了二季度财报。",
+          "url": "https://wallstreetcn.com/livenews/3134951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "富时中国A50指数期货跌逾2%。",
@@ -709,7 +788,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -720,7 +799,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -849,6 +928,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "纳斯达克100指数期货跌幅扩大至0.6%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3134943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
@@ -893,8 +983,19 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7678，较上一交易日官方收盘价涨33点，较上日夜盘收盘涨19点。",
+          "url": "https://wallstreetcn.com/livenews/3134953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
         {
           "title": "周三（7月15日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7687元，较周二纽约尾盘涨53点，日内整体交投于6.7782-6.7652元区间，逼近6月16日尾盘报价6.7566元。 彭博数据显示，离岸人民币已经在7月10日涨穿50日均线，该技术指标目前上移至6.7861元。",
           "url": "https://wallstreetcn.com/livenews/3134617",
