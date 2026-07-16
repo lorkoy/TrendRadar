@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-17T00:25:09.225905+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-17T02:13:48.135767+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "A股哪些板块在逆势吸筹",
-          "url": "https://www.toutiao.com/trending/7663116917388873259/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
-        },
         {
           "title": "【焦点复盘】科创50连续2日大跌超4%，算力硬件板块持续低迷，850亿“中药茅”现久违涨停",
           "url": "https://www.cls.cn/detail/2428544",
@@ -26,8 +15,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
+        },
+        {
+          "title": "必和必拓集团（BHP）公布创纪录的铁矿石产量和更高的实际成交价格。 必和必拓西澳业务在100%权益基础上的年度铁矿石产量达到2.912亿吨，高于去年的2.9亿吨。 在2026财年，铁矿石的平均实际成交价上涨了3%，达到每湿吨84.56美元。 在2027财年，该矿企预计其西澳业务将生产2.86亿-2.98亿吨铁矿石。",
+          "url": "https://wallstreetcn.com/livenews/3135217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
+          "url": "https://wallstreetcn.com/livenews/3135215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "A股哪些板块在逆势吸筹",
+          "url": "https://www.toutiao.com/trending/7663116917388873259/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
         },
         {
           "title": "一图看懂 | 中报预披露收官，一批个股连续三个季度净利润环比增长",
@@ -37,19 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
-        },
-        {
-          "title": "破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债",
-          "url": "https://wallstreetcn.com/articles/3777047",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
         },
         {
           "title": "史上最大牛市，让32万韩国人一夜破产？",
@@ -59,8 +71,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
+        },
+        {
+          "title": "破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债",
+          "url": "https://wallstreetcn.com/articles/3777047",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
         },
         {
           "title": "较历史峰值收窄四成！电子板块成交额重返6月中旬水平，融资客月内动向表现分化",
@@ -70,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数大致持平，报392.91点。 在十个板块中，北欧工业板块涨幅最大。 Indutrade AB涨17.1%，在一众北欧个股里领跑。",
@@ -80,7 +104,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
         },
@@ -91,9 +115,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美联储施密德：通胀冲击并非天然具有暂时性，不认同美联储应“忽略”某些类型的价格上涨。",
+          "url": "https://flash.jin10.com/detail/20260717012657917800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "英国政府融资成本上涨将近3个基点，投资者关注如“一张白纸”的财相人选",
+          "url": "https://wallstreetcn.com/livenews/3135190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         }
       ]
     },
@@ -109,8 +155,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
         },
         {
           "title": "【每日收评】沪指跌近2%失守3900点，医药、影视股逆势活跃，芯片产业链持续调整",
@@ -120,8 +166,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
         },
         {
           "title": "现货黄金日内跌幅达1.0%，报4005.81美元/盎司。",
@@ -130,7 +176,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
         },
@@ -142,19 +188,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
         },
         {
           "title": "百度申请香港、纳斯达克双重主要上市，有望赶上9月港股通调整窗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33598176",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：提词器操作员在预测平台Kalshi上就特朗普的发言内容下注，CFTC正在调查。",
@@ -163,7 +210,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
         },
@@ -174,7 +221,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
         }
@@ -192,8 +239,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
         },
         {
           "title": "前纽约联储首席：今年大概率不会加息，美政策正推高主权黄金需求！",
@@ -203,8 +250,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
         }
       ]
     },
@@ -220,8 +267,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时13分]"
         },
         {
           "title": "美股存储芯片指数跌幅扩大至7%，闪迪跌幅扩大至10%，西部数据跌近9%。SK海力士ADR跌8.6%。费城半导体指数目前跌3.5%，纳斯达克100指数维持超过0.9%的跌幅。",
@@ -230,7 +277,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
         }
@@ -247,9 +294,26 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.40%，暂报2197.47点，北京时间16:16曾刷新日低至2165.11点。 MarketVectorTM数字资产100中盘指数跌0.97%，报2578.78点。 MarketVector数字资产100指数跌1.16%，报12825.74点，16:00前后曾显著扩大跌幅。 目前，Solana跌1.30%，狗狗币跌0.60%，XRP持平。 比特币跌0.71%，暂报64418.58美元；以太坊跌2.49%，暂报1875.89美元。",
+          "url": "https://wallstreetcn.com/livenews/3135199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         }
       ]
     }
