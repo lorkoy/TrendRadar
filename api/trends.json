@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T08:06:00.590240+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-07-17T12:16:28.305752+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "【焦点复盘】科创50连续2日大跌超4%，算力硬件板块持续低迷，850亿“中药茅”现久违涨停",
@@ -44,6 +44,18 @@
           "time_info": "[00时24分 ~ 08时06分]"
         },
         {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 12时16分]"
+        },
+        {
           "title": "史上最大牛市，让32万韩国人一夜破产？",
           "url": "https://news.ifeng.com/c/8unlPPoTh99",
           "source": "凤凰网",
@@ -55,26 +67,16 @@
           "time_info": "[00时24分 ~ 06时12分]"
         },
         {
-          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
-          "url": "https://www.cls.cn/detail/2428987",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 08时06分]"
-        },
-        {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
           "url": "https://www.cls.cn/detail/2428956",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 08时06分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 12时16分]"
         },
         {
           "title": "周四（7月16日）纽约尾盘，彭博电动汽车价格回报指数维持下跌1%的状态，报3381.09点，北京时间刷新日高至3437.79点，随后持续走低。",
@@ -146,6 +148,39 @@
           "time_info": "[00时24分 ~ 04时08分]"
         },
         {
+          "title": "上证指数早盘收报3818.59点，跌1.64%。 深证成指早盘收报13953.26点，跌3.70%。 创业板指早盘收报3518.65点，跌4.71%。 沪深300早盘收报4583.23点，跌2.45%。 科创50早盘收报1763.22点，跌4.53%。 中证500早盘收报7691.88点，跌3.32%。 中证1000早盘收报7392.22点，跌3.14%。",
+          "url": "https://wallstreetcn.com/livenews/3135449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "7月17日午间收评：创业板指半日跌4.71%，全市场下跌个股近4400只",
+          "url": "https://wallstreetcn.com/livenews/3135448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数大致持平，报392.91点。 在十个板块中，北欧工业板块涨幅最大。 Indutrade AB涨17.1%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3135179",
           "source": "华尔街见闻-快讯",
@@ -168,6 +203,39 @@
           "time_info": "06时12分"
         },
         {
+          "title": "SK集团会长称SK海力士股票长期将呈上涨趋势",
+          "url": "https://wallstreetcn.com/livenews/3135437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）富时中国A50指数成分股午盘收盘行情一览：成分股涨跌互现，银行、保险及地产板块多数走强，通信设备、半导体及消费电子板块表现趋弱。",
+          "url": "https://flash.jin10.com/detail/20260717113450653800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3971%，上涨0.81个基点。 7天SHIBOR报1.4350%，下降0.50个基点。 3个月SHIBOR报1.4300%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3135434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "德国DAX30指数7月16日（周四）收盘下跌109.82点，跌幅0.44%，报24908.99点；<br/>英国富时100指数7月16日（周四）收盘上涨54.63点，涨幅0.52%，报10570.55点；<br/>法国CAC40指数7月16日（周四）收盘下跌4.57点，跌幅0.05%，报8377.86点；<br/>欧洲斯托克50指数7月16日（周四）收盘上涨15.98点，涨幅0.26%，报6281.56点；<br/>西班牙IBEX35指数7月16日（周四）收盘上涨15.07点，涨幅0.08%，报19290.57点；<br/>意大利富时MIB指数7月16日（周四）收盘下跌71.75点，跌幅0.14%，报52339.50点。",
           "url": "https://flash.jin10.com/detail/20260716233907577800",
           "source": "金十数据",
@@ -188,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "创业板指跌超5%，沪指跌1.52%，深成指跌3.7%，医药医疗、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近4500只，其中近170股跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3135424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月16日（周四）晚盘收盘下跌1.09%报870.1元/克；<br/>上海黄金交易所白银T+D 7月16日（周四）晚盘收盘下跌2.29%报13592.0元/千克。",
@@ -232,12 +311,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报152450元/吨，较上日16:30价格上涨1250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3135416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -267,11 +357,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 08时06分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 12时16分]"
         },
         {
           "title": "百度申请香港、纳斯达克双重主要上市，有望赶上9月港股通调整窗口",
@@ -283,8 +374,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 08时06分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 12时16分]"
+        },
+        {
+          "title": "国内成品油价格迎本月第二次调整",
+          "url": "https://www.douyin.com/hot/2574280",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "现货黄金日内跌幅达1.0%，报4005.81美元/盎司。",
@@ -320,13 +422,24 @@
           "time_info": "04时08分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.19%，10年期主力合约涨0.05%，5年期主力合约涨0.05%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3135446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260717073906708800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -337,7 +450,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -386,6 +499,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260717113140230800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶84.23美元，下跌72美分，跌幅0.85%。",
           "url": "https://flash.jin10.com/detail/20260717025024712800",
           "source": "金十数据",
@@ -397,6 +521,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260717113133021800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "芝加哥玉米期货跌约1.3%",
           "url": "https://wallstreetcn.com/livenews/3135238",
           "source": "华尔街见闻-快讯",
@@ -406,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约有涨有跌。沪银、钯跌近4%，铂跌超3%，聚氯乙烯（PVC）、聚氯乙烯（PVC）月均价跌近3%，纯碱、玻璃、红枣、烧碱、棉花、多晶硅跌超2%。涨幅方面，集运欧线、沪铅涨超2%，碳酸锂涨近2%，液化石油气（LPG）、低硫燃料油（LU）、沥青涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260717113113751800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "美国原油期货结算价为每桶78.95美元，下跌65美分，跌幅0.82%。",
@@ -450,12 +596,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "HLE在MSI做了哪些调整",
+          "url": "https://search.bilibili.com/all?keyword=HLE%E5%9C%A8MSI%E5%81%9A%E4%BA%86%E5%93%AA%E4%BA%9B%E8%B0%83%E6%95%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "匈牙利前外长加入比亚迪：曾是最年轻议员，主导“东方开放”政策",
@@ -480,6 +637,17 @@
           "time_info": "[08时05分 ~ 08时06分]"
         },
         {
+          "title": "AI站稳产业圈顶流C位",
+          "url": "https://www.douyin.com/hot/2574370",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "前纽约联储首席：今年大概率不会加息，美政策正推高主权黄金需求！",
           "url": "https://www.cls.cn/detail/2428377",
           "source": "财联社热门",
@@ -491,13 +659,24 @@
           "time_info": "[00时24分 ~ 02时13分]"
         },
         {
+          "title": "权益ETF重回规模第一，哪些资金逆势进场？还释放哪些信号？",
+          "url": "https://www.cls.cn/detail/2429277",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "美联储副主席杰斐逊：不能孤立地看待每一个因素，制定政策时必须考虑整体经济。",
           "url": "https://flash.jin10.com/detail/20260717070208518800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -508,7 +687,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -519,7 +698,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -530,7 +709,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -538,7 +717,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -559,8 +738,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 08时06分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 12时16分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
@@ -596,6 +775,28 @@
           "time_info": "00时25分"
         },
         {
+          "title": "巴菲特怒斥美股投机狂热",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%80%92%E6%96%A5%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E7%8B%82%E7%83%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "华尔街机构：散户影响力空前提升 美股交易格局正在重塑",
+          "url": "https://www.cls.cn/detail/2428851",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "美股存储芯片指数收跌超8%",
           "url": "https://wallstreetcn.com/livenews/3135275",
           "source": "华尔街见闻-快讯",
@@ -621,8 +822,19 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "香港交易所支持以人民币缴付印花税及交易相关费用",
+          "url": "https://flash.jin10.com/detail/20260717115405865800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
         {
           "title": "周四（7月16日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7732元，较周三纽约尾盘跌45点，日内整体交投于6.7649-6.7755元区间。",
           "url": "https://wallstreetcn.com/livenews/3135282",
@@ -644,6 +856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "离岸人民币同业拆息利率基本持稳",
+          "url": "https://flash.jin10.com/detail/20260717113058582800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     },
@@ -658,7 +881,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -731,7 +954,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
