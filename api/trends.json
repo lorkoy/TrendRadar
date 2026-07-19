@@ -1,62 +1,57 @@
 {
-  "generated_at": "2026-07-20T03:18:35.577809+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-07-20T05:02:12.902369+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 3,
+      "keyword_group": "资金 政策 产业",
+      "match_count": 5,
       "titles": [
         {
-          "title": "调整接近后半段？应该关注哪些景气线索？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2430547",
-          "source": "财联社热门",
+          "title": "光通信全线预告高增，产业真实需求坚挺",
+          "url": "https://wallstreetcn.com/livenews/3136340",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 03时18分]"
-        },
-        {
-          "title": "调整接近后半段",
-          "url": "https://wallstreetcn.com/articles/3777365",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 03时18分]"
-        },
-        {
-          "title": "据英国金融时报：英国候任首相伯纳姆将坚持工党备受争议的北海新勘探许可证禁令，打破了油气行业对政府可能大幅调整化石燃料政策的希望。",
-          "url": "https://flash.jin10.com/detail/20260720000359325800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 2,
-      "titles": [
+          "time_info": "05时02分"
+        },
         {
           "title": "中国国新：已使用股票回购增持专项再贷款及配套资金超500亿元",
           "url": "https://wallstreetcn.com/livenews/3136308",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 05时02分]"
+        },
+        {
+          "title": "中指研究院政策研究总监：预计稳房价将成为下半年楼市跳空政策的核心着力点",
+          "url": "https://wallstreetcn.com/livenews/3136326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "从算力底座到应用现场，上海AI跑出产业正循环生态",
+          "url": "https://wallstreetcn.com/livenews/3136321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         },
         {
           "title": "姚期智：中国AI产业领跑全球",
@@ -72,8 +67,47 @@
       ]
     },
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "调整接近后半段？应该关注哪些景气线索？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2430547",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
+        },
+        {
+          "title": "调整接近后半段",
+          "url": "https://wallstreetcn.com/articles/3777365",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
+        },
+        {
+          "title": "据英国金融时报：英国候任首相伯纳姆将坚持工党备受争议的北海新勘探许可证禁令，打破了油气行业对政府可能大幅调整化石燃料政策的希望。",
+          "url": "https://flash.jin10.com/detail/20260720000359325800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周末要闻汇总：费城半导体指数进入技术性熊市；茅台宣布涨价",
@@ -83,8 +117,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
+        },
+        {
+          "title": "周一悉尼盘初，美元兑日元报价大致持平，窄幅震荡于162.38-162.43日元。 欧元兑美元跌0.06%，至1.1431；英镑兑美元持平于1.3453。 商品货币对中，澳元兑美元跌0.2%，至0.6970下方；纽元兑美元跌0.13%，至0.5835下方；美元兑加元跌0.06%，至1.4013下方。",
+          "url": "https://wallstreetcn.com/livenews/3136319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         }
       ]
     },
@@ -116,11 +161,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
         }
       ]
     }
