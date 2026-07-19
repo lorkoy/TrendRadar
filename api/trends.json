@@ -1,11 +1,127 @@
 {
-  "generated_at": "2026-07-19T19:16:11.954693+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-07-19T21:42:29.299173+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "发送给美国国会议员们的项目拨款相关通报显示，美国正准备为欧洲亲MAGA（让美国再次伟大）的倡议提供资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3136083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 08时01分]"
+        },
+        {
+          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
+          "url": "https://flash.jin10.com/detail/20260719055403527800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "南京临空产业发展大会举行 两大百亿级项目落地",
+          "url": "https://wallstreetcn.com/livenews/3136201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时10分"
+        },
+        {
+          "title": "中国AI产业落地跑出加速度",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "陈茂波：香港将出台政策支持中小企业采用AI",
+          "url": "https://wallstreetcn.com/livenews/3136250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "柬埔寨重申坚定奉行一个中国政策",
+          "url": "https://www.toutiao.com/trending/7663715914684383283/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
+          "title": "量化私募平方和投资发布公告，将于下周内使用自有资金1亿元，申购公司旗下私募证券基金产品。",
+          "url": "https://wallstreetcn.com/livenews/3136118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "杠杆资金大手笔买入CRO龙头",
+          "url": "https://wallstreetcn.com/livenews/3136274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "国联民生证券：拟通过公司自有资金以集中竞价交易方式回购公司A股股份，回购资金额预计为1-2亿元人民币，回购股份用途包括但不限于维护公司价值及股东权益、减少公司注册资本等法律法规允许的用途。",
+          "url": "https://flash.jin10.com/detail/20260719204215780800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "世界黄金协会CEO泰达维高度评价中国市场涌现的创新和活力。 “中国是全球黄金市场当中至关重要且充满活力的一部分，在市场发展、消费者培育、产品创新等方面的实践为全球黄金产业的发展提供了宝贵经验。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3136266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -68,13 +184,24 @@
           "time_info": "[01时06分 ~ 05时01分]"
         },
         {
+          "title": "周末要闻汇总：费城半导体指数进入技术性熊市；茅台宣布涨价",
+          "url": "https://www.cls.cn/detail/2430503",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "深市非银金融板块半年报扎堆预喜",
           "url": "https://flash.jin10.com/detail/20260719183304178800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -96,7 +223,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -107,98 +234,15 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "发送给美国国会议员们的项目拨款相关通报显示，美国正准备为欧洲亲MAGA（让美国再次伟大）的倡议提供资金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3136083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 08时01分]"
-        },
-        {
-          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
-          "url": "https://flash.jin10.com/detail/20260719055403527800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "南京临空产业发展大会举行 两大百亿级项目落地",
-          "url": "https://wallstreetcn.com/livenews/3136201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        },
-        {
-          "title": "中国AI产业落地跑出加速度",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "陈茂波：香港将出台政策支持中小企业采用AI",
-          "url": "https://wallstreetcn.com/livenews/3136250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "柬埔寨重申坚定奉行一个中国政策",
-          "url": "https://www.toutiao.com/trending/7663715914684383283/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
-        },
-        {
-          "title": "量化私募平方和投资发布公告，将于下周内使用自有资金1亿元，申购公司旗下私募证券基金产品。",
-          "url": "https://wallstreetcn.com/livenews/3136118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -212,13 +256,24 @@
           "time_info": "[01时06分 ~ 06时02分]"
         },
         {
+          "title": "调整接近后半段？应该关注哪些景气线索？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2430547",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "德国总理默茨：我们可能有机会对内阁进行调整。",
           "url": "https://flash.jin10.com/detail/20260719175919236800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -232,6 +287,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "ShowMaker重返国际赛决赛舞台",
+          "url": "https://search.bilibili.com/all?keyword=ShowMaker%E9%87%8D%E8%BF%94%E5%9B%BD%E9%99%85%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%88%9E%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 17时10分]"
+        },
+        {
+          "title": "Kalshi在世界杯期间新增300万用户。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3136289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "市场消息：事件预测平台Kalshi在世界杯期间新增了300万用户。",
+          "url": "https://flash.jin10.com/detail/20260719205742794800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     },
@@ -308,24 +403,6 @@
       ]
     },
     {
-      "keyword_group": "SZ SH HK",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "ShowMaker重返国际赛决赛舞台",
-          "url": "https://search.bilibili.com/all?keyword=ShowMaker%E9%87%8D%E8%BF%94%E5%9B%BD%E9%99%85%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%88%9E%E5%8F%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 17时10分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
@@ -334,11 +411,12 @@
           "url": "https://www.zhihu.com/question/2061864895159833546",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时42分]"
         }
       ]
     }
