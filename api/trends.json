@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T06:08:48.155233+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-07-21T08:04:45.230852+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "半导体指数跌入熊市，高盛悄然转向三大替代投资主题",
@@ -15,11 +15,12 @@
             7,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 08时04分]"
         },
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
@@ -30,8 +31,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 08时04分]"
+        },
+        {
+          "title": "韩国KOSPI指数开盘上涨0.6%，至6553.88点。",
+          "url": "https://flash.jin10.com/detail/20260721080159939800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
+          "url": "https://www.cls.cn/detail/2431956",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月20日（周一）晚盘收盘上涨0.11%报873.3元/克；<br/>上海黄金交易所白银T+D 7月20日（周一）晚盘收盘上涨0.29%报13763.0元/千克。",
@@ -45,15 +68,38 @@
           "time_info": "03时01分"
         },
         {
+          "title": "日经225指数7月21日（周二）开盘上涨395.58点，涨幅0.62%，报64536.70点。",
+          "url": "https://flash.jin10.com/detail/20260721080109323800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
           "url": "https://www.cls.cn/detail/2431734",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 08时04分]"
+        },
+        {
+          "title": "近期芯片股回调仅是暂时？小摩：Q2财报季将吹响下一轮上涨号角！",
+          "url": "https://www.cls.cn/detail/2431501",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 08时04分]"
         },
         {
           "title": "【焦点复盘】高股息红利股强势做多，上证50高开高走涨超3%，1万亿油气巨头时隔4个多月收获涨停",
@@ -77,17 +123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 06时08分]"
-        },
-        {
-          "title": "近期芯片股回调仅是暂时？小摩：Q2财报季将吹响下一轮上涨号角！",
-          "url": "https://www.cls.cn/detail/2431501",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 06时08分]"
         },
         {
           "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
@@ -152,7 +187,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -163,7 +198,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -204,7 +239,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "WTI 8月原油期货收涨0.74美元，涨幅将近0.90%，报83.23美元/桶，亚太时段高位窄幅震荡，北京时间16:00以来持稳于82美元一线、在一波短线V形行情中于19:43刷新日低至80.27美元。 NYMEX 8月天然气期货收报2.86美元/百万英热单位。 NYMEX 8月汽油期货收报3.3890美元/加仑，NYMEX 8月取暖油期货收报4.1190美元/加仑。",
@@ -216,17 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        },
-        {
-          "title": "周一（7月20日）纽约尾盘，标普500股指期货最终跌0.18%，道指期货跌0.46%，纳斯达克100股指期货跌0.01%。 罗素2000股指期货跌0.60%。",
-          "url": "https://wallstreetcn.com/livenews/3137100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
         },
         {
           "title": "上期所原油期货2609合约夜盘收跌0.43%，报535.30元人民币/桶。 沪金夜盘收涨0.05%，沪银收涨1.26%。",
@@ -241,6 +265,18 @@
           "time_info": "[03时01分 ~ 04时38分]"
         },
         {
+          "title": "周一（7月20日）纽约尾盘，标普500股指期货最终跌0.18%，道指期货跌0.46%，纳斯达克100股指期货跌0.01%。 罗素2000股指期货跌0.60%。",
+          "url": "https://wallstreetcn.com/livenews/3137100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 08时04分]"
+        },
+        {
           "title": "AMC院线收涨27%，创2024年5月份以来最大单日涨幅，该公司二季度调整后EBITDA超过分析师预期。",
           "url": "https://wallstreetcn.com/livenews/3137073",
           "source": "华尔街见闻-快讯",
@@ -253,13 +289,36 @@
           "time_info": "[04时38分 ~ 06时08分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260720233602308800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 08时04分]"
+        },
+        {
+          "title": "金十数据整理：每日期货市场要闻速递（2026-07-21）",
+          "url": "https://flash.jin10.com/detail/20260721074312333800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "现货黄金跌0.2%，持续交投于4000美元关口附近，纽约铜涨超1.2%",
           "url": "https://wallstreetcn.com/livenews/3137090",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -273,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260721073413656800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "WTI 8月原油期货收涨0.74美元，涨幅将近0.90%，报83.23美元/桶，亚太时段高位窄幅震荡，北京时间16:00以来持稳于82美元一线、在一波短线V形行情中于19:43刷新日低至80.27美元。 布伦特9月原油期货收涨1.12美元，涨幅1.27%，报89.22美元/桶。 中东Abu Dhabi Murban原油期货涨0.34%，报81.60美元/桶。 NYMEX 8月天然气期货收报2.86美元/百万英热单位。 NYMEX 8月汽油期货收报3.3890美元/加仑，NYMEX 8月取暖油期货收报4.1190美元/加仑。",
@@ -297,17 +367,6 @@
           "time_info": "04时38分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260720233602308800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
           "title": "内盘期货夜市多数收跌，低硫燃油跌超2.9%，焦煤跌超2.7%",
           "url": "https://wallstreetcn.com/livenews/3136993",
           "source": "华尔街见闻-快讯",
@@ -317,12 +376,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "现货黄金失守4000美元/盎司，日内跌幅0.22%。",
+          "url": "https://flash.jin10.com/detail/20260721065442000800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -342,9 +412,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -368,6 +449,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时39分 ~ 06时08分]"
+        },
+        {
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "金十图示：2026年07月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -417,8 +509,30 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "紧抓权益市场投资机遇，理财资金打新常态化",
+          "url": "https://wallstreetcn.com/livenews/3137125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "高盛：日本政策讨论或更多通过信号传递来提振日本国债",
+          "url": "https://wallstreetcn.com/livenews/3137119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
         {
           "title": "险资百亿资金支持A股，伊朗称收到停火提议| Plus日报",
           "url": "https://flash.jin10.com/detail/20260720234905741800",
@@ -442,6 +556,28 @@
           "time_info": "03时01分"
         },
         {
+          "title": "韩国《人工智能基本法》修订案落地，AI产业迎监管“大考”",
+          "url": "https://flash.jin10.com/detail/20260721074234055800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "多只宽基ETF成交放量，增量资金积极布局A股市场",
+          "url": "https://wallstreetcn.com/livenews/3137113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "白宫：商务部长将负责监督并执行所有获批的产业回流计划。若企业未能履行其承诺义务，商务部长可停止并撤销其关税优惠，包括追溯取消相关优惠。",
           "url": "https://flash.jin10.com/detail/20260721035115663800",
           "source": "金十数据",
@@ -462,12 +598,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "上证报头版文章：三季度货币政策宽松空间或进一步打开",
+          "url": "https://wallstreetcn.com/livenews/3137109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "ShowMaker的来时路",
@@ -477,11 +624,12 @@
             22,
             19,
             17,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 08时04分]"
         },
         {
           "title": "如何评价 ShowMaker 在 EWC 面对现场观众嘘声时的回应？",
@@ -502,9 +650,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "英国政府任命Wes Streeting为国防大臣。 任命Stephen Kinnock为威尔士事务大臣。 任命Chris Bryant为北爱尔兰事务大臣。 任命Ellie Reeves为总检察长。 任命Emma Reynolds为财政部首席秘书。 任命Kanishka Narayan为人工智能（AI）部长。 任命Hamish Falconer为欧洲关系部长。",
+          "url": "https://wallstreetcn.com/livenews/3137105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少8.43吨，当前持仓量为15052.89吨。欢迎点击查看数据中心..",
+          "url": "https://flash.jin10.com/detail/20260721065742508800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
@@ -513,7 +683,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         }
@@ -528,11 +698,12 @@
           "url": "https://wallstreetcn.com/livenews/3137097",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 08时04分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7690元，较上周五夜盘收盘涨62点。成交量339.96亿美元。",
