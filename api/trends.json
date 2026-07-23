@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T20:45:50.672159+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-07-23T23:19:12.867247+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "黄金连续四日上涨后动能转弱，但期权显示多头仍在布局",
@@ -28,6 +28,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "自由港麦克莫兰公司首席执行官：正等待特朗普政府关于铜232关税的决定。若对铜征收关税，公司在美国市场的铜价可能上涨。",
+          "url": "https://flash.jin10.com/detail/20260723231019937800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡集体收红，全市场超4200股上涨，电网设备概念全线爆发",
+          "url": "https://www.cls.cn/detail/2435150",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 23时19分]"
         },
         {
           "title": "俄罗斯6月PPI环比下滑0.1%，同比上升10.5%。 7月20日当周CPI周环比上升0.17%，2026年迄今累计上涨4.82%。",
@@ -68,16 +91,15 @@
           "time_info": "[04时17分 ~ 08时10分]"
         },
         {
-          "title": "【每日收评】三大指数缩量震荡集体收红，全市场超4200股上涨，电网设备概念全线爆发",
-          "url": "https://www.cls.cn/detail/2435150",
-          "source": "财联社热门",
+          "title": "A股超4200股上涨却上演冰与火之歌",
+          "url": "https://www.toutiao.com/trending/7665661773081313299/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            8
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时32分 ~ 20时45分]"
+          "time_info": "[23时18分 ~ 23时19分]"
         },
         {
           "title": "上证指数早盘收报3859.69点，跌0.19%。 深证成指早盘收报14035.01点，跌0.19%。 创业板指早盘收报3555.09点，跌0.33%。 沪深300早盘收报4707.96点，跌0.20%。 科创50早盘收报1783.94点，跌4.09%。 中证500早盘收报7690.90点，跌0.78%。 中证1000早盘收报7142.04点，跌0.23%。",
@@ -152,7 +174,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -240,7 +262,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -273,7 +295,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -413,7 +435,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "滔搏明年起将终止耐克产品在线上平台销售，背后有哪些原因？此次调整带来的影响有多大？",
@@ -427,13 +449,28 @@
           "time_info": "[00时27分 ~ 02时15分]"
         },
         {
+          "title": "享受20万报销得先自费50万？当患者遇上惠民保调整，高保障与可持续性如何兼顾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622331",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 23时19分]"
+        },
+        {
           "title": "美股三大股指期货扩大跌幅，纳期斯达克100指数期货跌超1%，标普500指数期货跌0.73%，道指期货跌0.83%。",
           "url": "https://flash.jin10.com/detail/20260723202333793800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -455,7 +492,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -516,20 +553,6 @@
           "time_info": "[08时10分 ~ 12时22分]"
         },
         {
-          "title": "享受20万报销得先自费50万？当患者遇上惠民保调整，高保障与可持续性如何兼顾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622331",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 20时45分]"
-        },
-        {
           "title": "国债期货早盘收盘，30年期主力合约涨0.17%，10年期主力合约跌0.08%，5年期主力合约跌0.07%，2年期主力合约跌0.03%。",
           "url": "https://wallstreetcn.com/livenews/3138586",
           "source": "华尔街见闻-快讯",
@@ -585,6 +608,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "截至23:00收盘，国内期货主力合约涨多跌少，燃料油、苯乙烯（EB）涨超3%，低硫燃料油（LU）、纯苯、沥青、对二甲苯、合成橡胶、乙二醇（EG）涨超2%。跌幅方面，玻璃跌超1%，纯碱跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260723230046969800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "商品期货收盘，原油主力合约涨超4%，燃料油涨超3%，苯乙烯、棕榈油、LU燃油、碳酸锂、塑料涨超2%。钯、锰硅、铂跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3138677",
           "source": "华尔街见闻-快讯",
@@ -602,7 +636,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -657,7 +691,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -679,7 +713,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -712,7 +746,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -723,7 +757,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         }
@@ -731,7 +765,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "国务院批复 超7万亿元大产业来了",
@@ -789,6 +823,18 @@
           "time_info": "08时10分"
         },
         {
+          "title": "本月第二只！电力热股晋级6连板，活跃资金动作频频，这些席位常登龙虎榜",
+          "url": "https://www.cls.cn/detail/2435225",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 23时19分]"
+        },
+        {
           "title": "携程黑钻会员吐槽 1.5 万元机票仅退 432 元，称没想到扣那么狠，这种退票政策合理吗？",
           "url": "https://www.zhihu.com/question/2062858376510451826",
           "source": "知乎",
@@ -825,15 +871,37 @@
           "time_info": "[12时22分 ~ 15时40分]"
         },
         {
-          "title": "本月第二只！电力热股晋级6连板，活跃资金动作频频，这些席位常登龙虎榜",
-          "url": "https://www.cls.cn/detail/2435225",
-          "source": "财联社热门",
+          "title": "韩国对朝鲜政策变了",
+          "url": "https://www.toutiao.com/trending/7665409538065547327/",
+          "source": "今日头条",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时32分 ~ 20时45分]"
+          "time_info": "[23时18分 ~ 23时19分]"
+        },
+        {
+          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
+          "url": "https://wallstreetcn.com/articles/3777740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
+        },
+        {
+          "title": "韩国对朝鲜政策，变了",
+          "url": "https://news.ifeng.com/c/8v05Biqr8zM",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
         },
         {
           "title": "中国财政部长蓝佛安：以更大力度落实财政金融协同促内需一揽子政策",
@@ -853,7 +921,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -913,6 +981,17 @@
           "time_info": "15时40分"
         },
         {
+          "title": "上交所已上市产业园区REITs达15只 募资规模逾280亿元",
+          "url": "https://wallstreetcn.com/livenews/3138930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "德银：日本政策重心或从“护日元”转向“控收益率”",
           "url": "https://flash.jin10.com/detail/20260723010517253800",
           "source": "金十数据",
@@ -930,7 +1009,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -982,8 +1061,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时09分 ~ 20时45分]"
+          "appearance_count": 8,
+          "time_info": "[08时09分 ~ 23时19分]"
         },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -1138,7 +1217,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         }
@@ -1238,7 +1317,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "油债双压未能拦住金价，连续反弹后将迎来考验？",
@@ -1250,6 +1329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "金价四连涨深圳水贝又挤爆了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
         },
         {
           "title": "金价涨超1%，重返4100美元上方，纽约铜跌1%",
@@ -1266,7 +1356,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“债券义警”疑似再现：30年期美债收益率高于5%的天数创近二十年最多",
@@ -1286,9 +1376,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "美债收益率升创年内高点 油价飙升推高美联储加息押注",
+          "url": "https://wallstreetcn.com/livenews/3138919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
