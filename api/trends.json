@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T04:26:46.152165+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-07-25T06:12:59.989590+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 06时12分]"
         },
         {
           "title": "高通(QCOM.O)股价现跌超1.5%，消息称其通知客户价格将上涨两位数百分比。",
@@ -31,37 +32,83 @@
           "time_info": "00时49分"
         },
         {
+          "title": "国际油价24日显著下跌",
+          "url": "https://flash.jin10.com/detail/20260725053416950800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美国两年期国债收益率本周涨15.6个基点，油价上涨让投资者关注利率前景",
+          "url": "https://wallstreetcn.com/livenews/3139665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美元指数24日上涨",
+          "url": "https://flash.jin10.com/detail/20260725053410066800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
           "title": "标普500指数的11个板块普遍收涨，房地产板块涨2.36%，原材料板块涨1.44%，能源板块涨0.25%，信息技术/科技板块跌0.88%。",
           "url": "https://wallstreetcn.com/livenews/3139641",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
+          "url": "https://wallstreetcn.com/livenews/3139661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "周五（7月24日），彭博电动汽车价格回报指数跌2.46%，报3230.43点，北京时间08:00以来持续走低、亚太早盘跌幅显著。 本周累计下跌2.27%，整体冲高回落，7月23日14:30刷新期内最高位、随后持续下挫。",
           "url": "https://wallstreetcn.com/livenews/3139639",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 06时12分]"
         },
         {
           "title": "道琼斯指数7月24日（周五）收盘上涨235.60点，涨幅0.46%，报51947.25点；<br/>标普500指数7月24日（周五）收盘上涨3.72点，涨幅0.05%，报7412.02点；<br/>纳斯达克综合指数7月24日（周五）收盘下跌161.87点，跌幅0.64%，报24975.82点。",
           "url": "https://flash.jin10.com/detail/20260725040709542800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 06时12分]"
         },
         {
           "title": "本周，标普累跌约0.6%，道指累跌0.4%，纳指累跌2.2%，科技股七巨头指数跌3.4%，存储芯片指数冲高回落累涨5.4%，半导体指数涨0.8%。 标普500指数初步大致收平，科技板块跌1%，原材料板块涨1.3%，房地产板块涨2.4%。 纳斯达克100指数初步收跌1.2%，成分股中，Nebius Group初步收跌13.2%，CoreWeave跌11.6%，闪迪、Astera Labs跌11.1%，Lumentum跌8.6%，Arm控股、英特尔至少跌7.9%。",
@@ -70,7 +117,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -103,9 +150,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "标普500指数的11个板块普遍收涨，房地产板块涨2.36%，原材料板块涨1.44%，能源板块涨0.25%，信息技术/科技板块跌0.88%。 所有成分股里，Packaging Corp. of America、Travelers Companies Inc.、Ventas Inc.等13只个股创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3139641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.63%，暂报2119.90点，上周五结束交易以来（7*24）累计下跌1.56%，整体冲高回落。 MarketVectorTM数字资产100中盘指数跌1.49%，报2393.94点，期内累跌6.63%，7月21日北京时间16:01拉升至2669.08点，随后持续下挫。 MarketVector数字资产100指数跌1.42%，报12649.38点，期内累涨0.08%，整体冲高回落。 最近七天迄今，Solana累跌1.81%，狗狗币累跌5.52%，XRP累跌0.26%。 比特币跌0.30%，暂报63878.70美元；以太坊涨0.69%，暂报1854.812美元。",
@@ -117,12 +175,139 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.66%，报6104.64点，本周累计下跌2.80%，整体持续下挫。 热门中概股里，日月光半导体跌6.8%，蔚来、小鹏跌超3%，腾讯涨0.4%，美团涨1%。 XtrackersHarvest中证50（ASHS）收跌1.94%，本周反弹0.27%，此前三周先后回撤1.32%、0.87%、11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌1.21%，本周反弹2.17%，上周跌4.95%； 中国科技指数ETF（CQQQ）收跌1.03%，本周累跌0.87%、延续上周回撤9.56%的表现； 中概互联网指数ETF（KWEB）收涨0.08%，本周回撤1.94%，此前三周先后反弹4.39%、5.56%、1.63%； MSCI新兴市场ex中国ETF（EMXC）收跌2.39%，本周累涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3139635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "周五（7月24日）纽约尾盘，标普500股指期货最终涨0.02%，道指期货涨0.38%，纳斯达克100股指期货跌1.08%。 罗素2000股指期货跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3139657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "英国天然气期货本周涨约10%",
+          "url": "https://wallstreetcn.com/livenews/3139595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "现货黄金本周涨约0.9%，纽约铜涨约1.2%",
+          "url": "https://wallstreetcn.com/livenews/3139654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：7月21日当周，投机者所持COMEX黄金净多头头寸增加4,439手合约，至123,586手合约，创六个月新高。 所持COMEX白银净多头头寸创六周新低。 所持COMEX铜净多头头寸创七周新高。 所持NYMEX铂金净多头头寸创20周新低，所持NYMEX钯金净空头头寸创13个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3139625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：7月21日当周，投机者所持NYMEX WTI原油净多头头寸增加522手合约，至86,905手合约，创三周新高。 所持NYMEX汽油净多头头寸创18周新高。 所持NYMEX天然气净空头头寸创两年新高。",
+          "url": "https://wallstreetcn.com/livenews/3139624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "芝加哥玉米期货本周涨超4.2%，豆粕涨约4.3%",
+          "url": "https://wallstreetcn.com/livenews/3139619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "巴克莱：现货油价可能会引领走势，并在持续3个月的情景下测试150美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260725034336733800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "中东原油期货周五跌约9.8%，本周累计涨幅收窄至18.95",
+          "url": "https://wallstreetcn.com/livenews/3139609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "内盘期货夜市涨跌各异，烧碱涨超2.3%，焦炭涨0.9%，低硫燃油跌超2.7%",
+          "url": "https://wallstreetcn.com/livenews/3139542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "上期所原油期货2609合约夜盘收跌2.55%，报577.70元人民币/桶。 沪金夜盘收涨0.18%，沪银收涨1.39%。",
+          "url": "https://wallstreetcn.com/livenews/3139608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -132,52 +317,56 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 06时12分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
           "url": "https://wallstreetcn.com/articles/3777828",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 06时12分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260725041124494800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 06时12分]"
         },
         {
           "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
           "url": "https://wallstreetcn.com/livenews/3139640",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 06时12分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
           "url": "https://flash.jin10.com/detail/20260725040225206800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 06时12分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股盘中）",
@@ -213,6 +402,17 @@
           "time_info": "00时49分"
         },
         {
+          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260725041219645800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
           "title": "布油跌4%，美股扩大涨幅，报道称巴基斯坦正在探索重启美伊会谈的途径",
           "url": "https://wallstreetcn.com/livenews/3139551",
           "source": "华尔街见闻-快讯",
@@ -222,100 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "英国天然气期货本周涨约10%",
-          "url": "https://wallstreetcn.com/livenews/3139595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：7月21日当周，投机者所持COMEX黄金净多头头寸增加4,439手合约，至123,586手合约，创六个月新高。 所持COMEX白银净多头头寸创六周新低。 所持COMEX铜净多头头寸创七周新高。 所持NYMEX铂金净多头头寸创20周新低，所持NYMEX钯金净空头头寸创13个月新高。",
-          "url": "https://wallstreetcn.com/livenews/3139625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：7月21日当周，投机者所持NYMEX WTI原油净多头头寸增加522手合约，至86,905手合约，创三周新高。 所持NYMEX汽油净多头头寸创18周新高。 所持NYMEX天然气净空头头寸创两年新高。",
-          "url": "https://wallstreetcn.com/livenews/3139624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "芝加哥玉米期货本周涨超4.2%，豆粕涨约4.3%",
-          "url": "https://wallstreetcn.com/livenews/3139619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "巴克莱：现货油价可能会引领走势，并在持续3个月的情景下测试150美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260725034336733800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "中东原油期货周五跌约9.8%，本周累计涨幅收窄至18.95",
-          "url": "https://wallstreetcn.com/livenews/3139609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "内盘期货夜市涨跌各异，烧碱涨超2.3%，焦炭涨0.9%，低硫燃油跌超2.7%",
-          "url": "https://wallstreetcn.com/livenews/3139542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "上期所原油期货2609合约夜盘收跌2.55%，报577.70元人民币/桶。 沪金夜盘收涨0.18%，沪银收涨1.39%。",
-          "url": "https://wallstreetcn.com/livenews/3139608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
         }
       ]
     },
@@ -331,8 +437,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 06时12分]"
         },
         {
           "title": "Shams：勒布朗 - 詹姆斯 2 年 800 万签约 76 人，第二年球员选项，如何评价这一操作？",
@@ -340,33 +446,36 @@
           "source": "知乎",
           "ranks": [
             20,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 06时12分]"
         },
         {
           "title": "iShares软件ETF涨1%，创最近两周最佳单日表现。",
           "url": "https://wallstreetcn.com/livenews/3139638",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 06时12分]"
         },
         {
           "title": "The Shy回应复出原因",
           "url": "https://search.bilibili.com/all?keyword=The%20Shy%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%87%BA%E5%8E%9F%E5%9B%A0",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 06时12分]"
         }
       ]
     },
@@ -382,8 +491,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 06时12分]"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：针对周五的袭击，欧盟将召见俄罗斯驻欧盟大使；将提出更多针对俄罗斯军事工业综合体的制裁名单。",
@@ -403,7 +512,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
@@ -411,8 +520,19 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "周五（7月24日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7718元，较周四纽约尾盘涨57点，日内整体交投于6.7789-6.7698元区间。 本周，离岸人民币终稿回落，7月21日亚太尾盘曾达到6.7635元。",
+          "url": "https://wallstreetcn.com/livenews/3139655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7702元，较周四夜盘收盘涨75点。成交量295.88亿美元。",
           "url": "https://wallstreetcn.com/livenews/3139616",
@@ -420,7 +540,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
@@ -437,7 +557,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
