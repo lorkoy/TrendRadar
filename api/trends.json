@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T06:12:59.989590+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-07-25T08:11:51.321334+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,30 @@
           "time_info": "[00时49分 ~ 06时12分]"
         },
         {
+          "title": "国际油价24日显著下跌",
+          "url": "https://flash.jin10.com/detail/20260725053416950800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时11分]"
+        },
+        {
+          "title": "美元指数24日上涨",
+          "url": "https://flash.jin10.com/detail/20260725053410066800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时11分]"
+        },
+        {
           "title": "高通(QCOM.O)股价现跌超1.5%，消息称其通知客户价格将上涨两位数百分比。",
           "url": "https://flash.jin10.com/detail/20260725004210719800",
           "source": "金十数据",
@@ -30,39 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
-        },
-        {
-          "title": "国际油价24日显著下跌",
-          "url": "https://flash.jin10.com/detail/20260725053416950800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美国两年期国债收益率本周涨15.6个基点，油价上涨让投资者关注利率前景",
-          "url": "https://wallstreetcn.com/livenews/3139665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美元指数24日上涨",
-          "url": "https://flash.jin10.com/detail/20260725053410066800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
         },
         {
           "title": "标普500指数的11个板块普遍收涨，房地产板块涨2.36%，原材料板块涨1.44%，能源板块涨0.25%，信息技术/科技板块跌0.88%。",
@@ -82,9 +73,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美国两年期国债收益率本周涨15.6个基点，油价上涨让投资者关注利率前景",
+          "url": "https://wallstreetcn.com/livenews/3139665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时11分]"
         },
         {
           "title": "周五（7月24日），彭博电动汽车价格回报指数跌2.46%，报3230.43点，北京时间08:00以来持续走低、亚太早盘跌幅显著。 本周累计下跌2.27%，整体冲高回落，7月23日14:30刷新期内最高位、随后持续下挫。",
@@ -104,11 +107,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 08时11分]"
         },
         {
           "title": "本周，标普累跌约0.6%，道指累跌0.4%，纳指累跌2.2%，科技股七巨头指数跌3.4%，存储芯片指数冲高回落累涨5.4%，半导体指数涨0.8%。 标普500指数初步大致收平，科技板块跌1%，原材料板块涨1.3%，房地产板块涨2.4%。 纳斯达克100指数初步收跌1.2%，成分股中，Nebius Group初步收跌13.2%，CoreWeave跌11.6%，闪迪、Astera Labs跌11.1%，Lumentum跌8.6%，Arm控股、英特尔至少跌7.9%。",
@@ -161,7 +165,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -183,26 +187,238 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         }
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 08时11分]"
+        },
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 06时12分]"
+        },
+        {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
+          "url": "https://wallstreetcn.com/livenews/3139670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260725041124494800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 08时11分]"
+        },
+        {
+          "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
+          "url": "https://wallstreetcn.com/livenews/3139640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 06时12分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
+          "url": "https://flash.jin10.com/detail/20260725040225206800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 06时12分]"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260725041219645800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时11分]"
+        },
+        {
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260725015555373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260725015553317800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3139564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
+          "url": "https://wallstreetcn.com/livenews/3139661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "美股存储、光通信重挫 闪迪跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E9%87%8D%E6%8C%AB+%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "布油跌4%，美股扩大涨幅，报道称巴基斯坦正在探索重启美伊会谈的途径",
+          "url": "https://wallstreetcn.com/livenews/3139551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "调整 期货 现货",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "周五（7月24日）纽约尾盘，标普500股指期货最终涨0.02%，道指期货涨0.38%，纳斯达克100股指期货跌1.08%。 罗素2000股指期货跌0.17%。",
           "url": "https://wallstreetcn.com/livenews/3139657",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时11分]"
+        },
+        {
+          "title": "现货黄金本周涨约0.9%，纽约铜涨约1.2%",
+          "url": "https://wallstreetcn.com/livenews/3139654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时11分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：7月21日当周，投机者所持澳元多头头寸创2026年迄今最低。",
+          "url": "https://wallstreetcn.com/livenews/3139666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时12分"
+          "time_info": "08时11分"
         },
         {
           "title": "英国天然气期货本周涨约10%",
@@ -214,17 +430,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
-        },
-        {
-          "title": "现货黄金本周涨约0.9%，纽约铜涨约1.2%",
-          "url": "https://wallstreetcn.com/livenews/3139654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：7月21日当周，投机者所持COMEX黄金净多头头寸增加4,439手合约，至123,586手合约，创六个月新高。 所持COMEX白银净多头头寸创六周新低。 所持COMEX铜净多头头寸创七周新高。 所持NYMEX铂金净多头头寸创20周新低，所持NYMEX钯金净空头头寸创13个月新高。",
@@ -306,126 +511,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 06时12分]"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 06时12分]"
-        },
-        {
-          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260725041124494800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时12分]"
-        },
-        {
-          "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
-          "url": "https://wallstreetcn.com/livenews/3139640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时12分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
-          "url": "https://flash.jin10.com/detail/20260725040225206800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时12分]"
-        },
-        {
-          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260725015555373800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260725015553317800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3139564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260725041219645800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "布油跌4%，美股扩大涨幅，报道称巴基斯坦正在探索重启美伊会谈的途径",
-          "url": "https://wallstreetcn.com/livenews/3139551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "SZ SH HK",
       "match_count": 4,
       "titles": [
@@ -437,8 +522,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 06时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 08时11分]"
         },
         {
           "title": "Shams：勒布朗 - 詹姆斯 2 年 800 万签约 76 人，第二年球员选项，如何评价这一操作？",
@@ -454,6 +539,19 @@
           "time_info": "[02时24分 ~ 06时12分]"
         },
         {
+          "title": "The Shy回应复出原因",
+          "url": "https://search.bilibili.com/all?keyword=The%20Shy%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%87%BA%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 08时11分]"
+        },
+        {
           "title": "iShares软件ETF涨1%，创最近两周最佳单日表现。",
           "url": "https://wallstreetcn.com/livenews/3139638",
           "source": "华尔街见闻-快讯",
@@ -464,18 +562,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 06时12分]"
-        },
-        {
-          "title": "The Shy回应复出原因",
-          "url": "https://search.bilibili.com/all?keyword=The%20Shy%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%87%BA%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 06时12分]"
         }
       ]
     },
@@ -488,11 +574,12 @@
           "url": "https://www.cls.cn/detail/2436364",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 06时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 08时11分]"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：针对周五的袭击，欧盟将召见俄罗斯驻欧盟大使；将提出更多针对俄罗斯军事工业综合体的制裁名单。",
@@ -527,11 +614,12 @@
           "url": "https://wallstreetcn.com/livenews/3139655",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时11分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7702元，较周四夜盘收盘涨75点。成交量295.88亿美元。",
