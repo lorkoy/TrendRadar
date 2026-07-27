@@ -1,93 +1,134 @@
 {
-  "generated_at": "2026-07-27T22:54:46.645881+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-07-28T01:05:34.226494+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 24,
+      "keyword_group": "资金 政策 产业",
+      "match_count": 5,
       "titles": [
         {
-          "title": "市场“震荡再平衡”，静待月底大事落地，十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2437214",
-          "source": "财联社热门",
+          "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33663468",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8,
-            7,
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 11时53分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "纳斯达克100指数下跌1%，创5月4日以来盘中新低。",
-          "url": "https://wallstreetcn.com/livenews/3140398",
+          "title": "美国总统特朗普被问及本周美联储货币政策会议，宣称：成本正在迅速下降。 利率应该下降，美国应该拥有全球最低的利率。 美联储主席沃什很棒，但他有理事会。",
+          "url": "https://wallstreetcn.com/livenews/3140440",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "受AI热潮推动，贝莱德韩国ETF连续第三周录得资金净流入",
+          "url": "https://wallstreetcn.com/livenews/3140433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉的资金可以用于军队。",
+          "url": "https://flash.jin10.com/detail/20260728003303378800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们将利用伊朗的资金来支付霍尔木兹的损失。",
+          "url": "https://flash.jin10.com/detail/20260728003232431800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时54分"
+          "time_info": "01时05分"
         },
         {
-          "title": "上证报：8月市场有望轮动修复，行情重心加速向业绩验证集中",
-          "url": "https://wallstreetcn.com/livenews/3139884",
+          "title": "加密货币市场于美股盘初跳水",
+          "url": "https://wallstreetcn.com/livenews/3140446",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时05分"
+          "time_info": "01时05分"
         },
         {
-          "title": "印度卢比兑美元日内上涨0.8%，升至95.7950卢比兑1美元。",
-          "url": "https://flash.jin10.com/detail/20260727152553367800",
-          "source": "金十数据",
+          "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "01时05分"
         },
         {
-          "title": "上证指数早盘收报3829.39点，涨0.40%。 深证成指早盘收报13969.37点，涨1.41%。 创业板指早盘收报3534.83点，涨1.55%。 沪深300早盘收报4661.02点，涨0.25%。 科创50早盘收报1778.79点，跌0.47%。 中证500早盘收报7622.63点，涨1.19%。 中证1000早盘收报7144.62点，涨2.13%。",
-          "url": "https://wallstreetcn.com/livenews/3140007",
+          "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
+          "url": "https://www.cls.cn/detail/2438003",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度美国有机营收增长6%，分析师预期增长4%。 二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3140424",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "高市将面临质询，支持率持续下跌",
-          "url": "https://news.ifeng.com/c/8v53y27qy3Z",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 19时34分]"
-        },
-        {
-          "title": "长鑫科技成首支单日成交额破千亿元个股",
-          "url": "https://www.toutiao.com/trending/7667030869005045299/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
+          "time_info": "01时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 3,
+      "titles": [
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
           "url": "https://www.cls.cn/detail/2438191",
@@ -95,825 +136,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时54分"
+          "time_info": "01时05分"
         },
         {
-          "title": "油价下跌提振欧洲股市，多数板块上涨",
-          "url": "https://flash.jin10.com/detail/20260727151700778800",
+          "title": "美国总统特朗普：战争一结束，价格将大幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260728004246361800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "01时05分"
         },
         {
-          "title": "隔夜shibor报1.4180%，上涨3.68个基点；7天shibor报1.4316%，上涨3.16个基点；3个月shibor报1.4300%，上涨0.2个基点。点击查看>>",
-          "url": "https://flash.jin10.com/detail/20260727110531038800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "隔夜SHIBOR报1.4180%，上涨3.68个基点。 7天SHIBOR报1.4316%，上涨3.16个基点。 3个月SHIBOR报1.4300%，上涨0.20个基点。",
-          "url": "https://wallstreetcn.com/livenews/3139993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "A股脑机接口板块持续走强，塞力医疗、创新医疗、海南海药、盈趣科技、南京熊猫、爱朋医疗涨停，倍益康涨超15%，倍轻松、三博脑科涨超10%，美好医疗、伟思医疗、翔宇医疗、泰和科技、荣泰健康跟涨。",
-          "url": "https://flash.jin10.com/detail/20260727110459747800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "因油价延续下跌走势，印度卢比在银行间订单撮合系统上升破96卢比兑1美元。",
-          "url": "https://flash.jin10.com/detail/20260727151408866800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "野村：长鑫科技股价或较IPO发行价上涨逾1200%",
-          "url": "https://wallstreetcn.com/livenews/3139987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报144550元/吨，较上日16:30价格上涨250元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3139983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "长鑫科技成交突破1000亿，成为A股历史首支单日成交额突破1000亿元的个股，现涨超472%，换手近49%。",
-          "url": "https://wallstreetcn.com/livenews/3139979",
+          "title": "明晟公司MSCI北欧国家指数涨0.2%，报392.56点。 在十个板块中，北欧医疗保健板块涨幅最大。 Evolution AB涨6.7%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3140421",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "A股AI应用板块盘中再度异动，智度股份直线涨停，此前苏州科达涨停，米奥会展涨超15%，宣亚国际、游族网络、福石控股、中文在线等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260727105621940800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "上证指数收报3858.25点，涨1.15%。 深证成指收报14148.73点，涨2.72%。 创业板指收报3590.79点，涨3.16%。 沪深300收报4702.43点，涨1.15%。 科创50收报1807.95点，涨1.16%。 中证500收报7720.60点，涨2.49%。 中证1000收报7228.78点，涨3.33%。",
-          "url": "https://wallstreetcn.com/livenews/3140091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "A股收评：三大股指震荡上升 长鑫科技上市首日创下多项记录",
-          "url": "https://flash.jin10.com/detail/20260727151007347800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "欧洲旅游与休闲类股票领涨各行业板块，上涨2.5%；油气板块跌幅最大，下跌2.3%。",
-          "url": "https://flash.jin10.com/detail/20260727150941811800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "法航荷航集团股价上涨4.3%。",
-          "url": "https://flash.jin10.com/detail/20260727150803936800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "长鑫科技成交达901亿，超过2024年10月9日东方财富的900亿元成交额，创A股市场个股单日成交额成交新高。",
-          "url": "https://wallstreetcn.com/livenews/3139970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.47%，深成指涨1.67%，脑机接口、电池、创新药、CPO等方向涨幅居前，沪深京三市上涨个股近4800只。",
-          "url": "https://wallstreetcn.com/livenews/3139963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "创业板指涨3%，沪指涨1.1%，深成指涨2.5%。脑机接口、电子特气、MLCC、电池等方向涨幅居前，沪深京三市上涨个股近5100只。",
-          "url": "https://wallstreetcn.com/livenews/3140078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "极氪回应境外锁车事件并公布调整方案，此前有车主反映自驾出国遭远程锁车超30小时",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33661468",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 11时53分]"
-        },
-        {
-          "title": "极氪回应跨境自驾遭远程锁车，上线「跨境守护」功能、优化安全功能，你觉得该调整怎样？能回应此前质疑吗？",
-          "url": "https://www.zhihu.com/question/2064748461803529879",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时05分]"
-        },
-        {
-          "title": "芝商所（CME）周一将推出个股期货，使投资者能够对50多只美国龙头股进行对冲或投机。相关合约将以挂钩股票的收盘价进行现金结算，并提供比期权更为简单的杠杆方式。个股期货将每周交易五天、每天23小时，并有两种规模：大型合约以100股股票为基础，微型合约以10股为基础。",
-          "url": "https://flash.jin10.com/detail/20260727010322157800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时24分]"
-        },
-        {
-          "title": "李权哲就高铁占座道歉，活动方称座位调整、团队现场换座，铁路部门称全程座位无变更，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2064485891255570968",
-          "source": "知乎",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 19时34分]"
-        },
-        {
-          "title": "随着油价下跌，美国联邦基金期货上涨，12月合约上涨5个点。",
-          "url": "https://flash.jin10.com/detail/20260727060309979800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.07%，10年期主力合约跌0.03%，5年期主力合约跌0.03%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3140004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "WTI原油期货盘初重挫8.00%，现报83.23美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260727060246653800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "现货黄金跳空高开现报4090美元/盎司，日内涨0.94%。",
-          "url": "https://flash.jin10.com/detail/20260727060156170800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "群智咨询：预计七月LCD TV面板价格向下温和调整",
-          "url": "https://flash.jin10.com/detail/20260727191526341800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "纳指期货周一高开1.4%，标普500指数期货涨0.76%。",
-          "url": "https://flash.jin10.com/detail/20260727060056880800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "布油期货跌超7%，跌破90美元/桶关口。",
-          "url": "https://wallstreetcn.com/livenews/3139866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "布伦特原油期货周一亚市早盘跌超4%，此前美伊暂停互袭。 标普500指数期货涨0.8%，纳指期货涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3139865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "国债期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20260727151606661800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "挂单报告：国际现货黄金此处空单集中 美日下方多单稀疏",
-          "url": "https://flash.jin10.com/detail/20260727151532172800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约涨0.10%，10年期主力合约跌0.04%，5年期主力合约跌0.02%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3140102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "男星李权哲被指高铁占座，主办方称座位调整、团队现场换座，铁路部门称「全程座位无变更」，可能是什么情况？",
-          "url": "https://www.zhihu.com/question/2064485891255570968",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "金十期货7月27日讯，据上海航运交易所数据，截至2026年7月27日，上海出口集装箱结算运价指数（欧洲航线）报3718.93点，与上期相比跌3.5%。",
-          "url": "https://flash.jin10.com/detail/20260727151148253800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "商品期货收盘，原油、燃料油主力合约跌超8%，纯苯跌超7%，BR橡胶、苯乙烯、LU燃油、对二甲苯跌超6%，液化气、PTA、丙烯、甲醇、瓶片跌超5%。钯、铂、沪银涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3140090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33663468",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 22时54分]"
-        },
-        {
-          "title": "财政部、应急管理部紧急预拨1.8亿元中央自然灾害救灾资金支持广东、辽宁等6省做好防汛防台风应急抢险救灾工作。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3140275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "“六张网”如何赋能现代化产业体系",
-          "url": "https://www.toutiao.com/trending/7666601754120896575/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "中国制造在全球产业变局中释放新价值",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%A8%E5%85%A8%E7%90%83%E4%BA%A7%E4%B8%9A%E5%8F%98%E5%B1%80%E4%B8%AD%E9%87%8A%E6%94%BE%E6%96%B0%E4%BB%B7%E5%80%BC%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "工信部：加快编制出台智能网联新能源汽车产业发展“十五五”规划",
-          "url": "https://flash.jin10.com/detail/20260727192224228800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "印度央行行长：6月美元吸引措施已带来近320亿美元资金流入",
-          "url": "https://flash.jin10.com/detail/20260727111811377800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "长鑫科技正式登陆科创板！首日市值登顶A股 背后中国科技产业天团陪跑",
-          "url": "https://www.cls.cn/detail/2437447",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 15时42分]"
-        },
-        {
-          "title": "蓝盾光电：筹划发行股份及支付现金购买资产并募集配套资金事项 自2026年7月27日起停牌",
-          "url": "https://wallstreetcn.com/livenews/3140270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "上证报：“六张网”铺开、资金就位，下半年投资企稳向好可期",
-          "url": "https://wallstreetcn.com/livenews/3139874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "工信部等八部门部署开展科技型企业创新政策扶持“一件事”专项行动",
-          "url": "https://flash.jin10.com/detail/20260727152222461800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "北交所多家公司披露增持回购计划，专项贷款工具拓宽资金来源",
-          "url": "https://wallstreetcn.com/livenews/3139873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "蓝盾光电：筹划发行股份及支付现金购买资产并募集配套资金事项，股票停牌",
-          "url": "https://flash.jin10.com/detail/20260727190510148800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "养老金有保障 补助资金达1.2万亿元",
-          "url": "https://www.toutiao.com/trending/7666623005707108394/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "路德科技：拟发行股票募集资金不超过1.52亿元用于洋河酒糟资源化利用项目等",
-          "url": "https://flash.jin10.com/detail/20260727190312133800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "北自科技：公司聚焦产业化落地，未生产人形机器人本体及零部件。",
-          "url": "https://wallstreetcn.com/livenews/3140246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "黄金资金压缩布局区间，日内上行首个目标基本完成——增强版同步发布！",
-          "url": "https://flash.jin10.com/detail/20260727151040864800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流入908.30亿元，占比4.37%；大单资金净流入118.21亿元，占比0.57%；小单资金净流出479.78亿元，占比2.31%。",
-          "url": "https://flash.jin10.com/detail/20260727151021015800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时05分]"
-        },
-        {
-          "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3139854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时05分]"
-        },
-        {
-          "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
-          "url": "https://wallstreetcn.com/articles/3777937",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时05分]"
-        },
-        {
-          "title": "美伊紧张局势缓和，美股三大股指集体高开，SK海力士涨超3%，布油一度大跌7%、债市走强",
-          "url": "https://wallstreetcn.com/articles/3777993",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "美股存储芯片指数跌超7%，成分股闪迪跌9.2%，泰瑞达跌5.2%，西部数据跌5%，希捷科技跌4.4%，美光跌4.3%，拉姆研究跌4.3%。 此外，SK海力士ADR跌幅扩大至6％，报145.44美元/股，创上市以来新低，盘中市值1.06万亿美元。 费城半导体指数跌4%，英伟达跌约3.8%。",
-          "url": "https://wallstreetcn.com/livenews/3140393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
-          "url": "https://www.cls.cn/detail/2438003",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "D-WAVE美股盘前涨12%，此前AT&T宣布扩大与该公司的量子合作协议。",
-          "url": "https://flash.jin10.com/detail/20260727190337962800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "美伊骤然停火，有望重返谈判桌！AI“开放权重模型”公开信签署企业增至50家，“大空头”加码做空美光和英伟达……当前金银油均呈多头占优，美股情绪分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260727104810536800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "美股迎关键一周：所有目光转向AI财报与美联储",
-          "url": "https://flash.jin10.com/detail/20260727104614100800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Shy哥首战告捷,自嘲涅槃上单",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356504&amp;topic_name=Shy%E5%93%A5%E9%A6%96%E6%88%98%E5%91%8A%E6%8D%B7%2C%E8%87%AA%E5%98%B2%E6%B6%85%E6%A7%83%E4%B8%8A%E5%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            18,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 15时42分]"
-        },
-        {
-          "title": "港股新消费概念股持续走强，小米集团(01810.HK)涨近7%，沪上阿姨(02589.HK)涨超4.5%，老铺黄金(06181.HK)、卫龙(09985.HK)、蜜雪集团(02097.HK)、泡泡玛特(09992.HK)、上美股份(02145.HK)等多股均涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260727105549593800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "TheShy时隔284天重回赛场",
-          "url": "https://search.bilibili.com/all?keyword=TheShy%E6%97%B6%E9%9A%94284%E5%A4%A9%E9%87%8D%E5%9B%9E%E8%B5%9B%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "物产金轮：拟以3000万元-6000万元回购股份，回购价格不高于人民币14元/股。",
-          "url": "https://wallstreetcn.com/livenews/3140255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "中力股份：拟以5000万元-1亿元回购股份，回购股份价格不超过人民币50元/股。",
-          "url": "https://wallstreetcn.com/livenews/3140237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "油价暴跌 金价飙升",
-          "url": "https://www.douyin.com/hot/2587376",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "金十图示：2026年07月27日（周一）上海金午盘价为893.19元/克，较国际金价(891.49元/克)，高1.7元/克",
-          "url": "https://flash.jin10.com/detail/20260727151118915800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "汇市盘初，美元指数DXY跌0.16%，报101.31；澳元兑美元AUD/USD涨0.23%；美元兑日元USD/JPY跌0.16%；欧元兑美元EUR/USD涨0.18%。",
-          "url": "https://flash.jin10.com/detail/20260727051159970800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "北美科技软件股指数ETF涨3.7%，报91.20美元，处于连续第二个交易日反弹之中。",
-          "url": "https://wallstreetcn.com/livenews/3140371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
+          "time_info": "01时05分"
         }
       ]
     }
