@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-29T05:16:54.359274+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-07-29T07:09:39.224780+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2439316",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 07时09分]"
         },
         {
           "title": "Teradyne（泰瑞达）二季度净营收13.3亿美元，分析师预期12.2亿美元。 二季度调整后每股收益（EPS）为2.47美元，分析师预期2.04美元。 预计三季度营收12亿-13亿美元，分析师预期10.4亿美元。 预计三季度调整后EPS为1.85-2.15美元，分析师预期1.46美元。",
@@ -25,9 +26,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "飞天茅台双价格体系：自营门店价格上调至1719元/瓶，多家称“无现货”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672542",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 07时09分]"
         },
         {
           "title": "芝加哥玉米期货涨约1.5%，大豆期货涨约0.5%，大豆油跌超0.7%",
@@ -40,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 05时16分]"
-        },
-        {
-          "title": "飞天茅台双价格体系：自营门店价格上调至1719元/瓶，多家称“无现货”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672542",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 05时16分]"
         },
         {
           "title": "美国原油期货三天跌超14%，失守80美元关口",
@@ -70,7 +72,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -86,13 +88,24 @@
           "time_info": "03时45分"
         },
         {
+          "title": "美股三大股指期货短线小幅下挫，道指期货跌0.13%，标普500指数期货跌0.08%，纳指期货跌0.02%。",
+          "url": "https://flash.jin10.com/detail/20260729062508619800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
           "title": "Bloom Energy二季度调整后每股收益（EPS）为0.78美元，分析师预期0.40美元。 二季度营收10.7亿美元，分析师预期8.387亿美元。 预计全年营收39亿-42亿美元，公司原本预计34亿-38亿美元。",
           "url": "https://wallstreetcn.com/livenews/3141189",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -108,15 +121,37 @@
           "time_info": "03时45分"
         },
         {
+          "title": "随着油价走高，美国10年期国债期货下跌3个点。",
+          "url": "https://flash.jin10.com/detail/20260729062056108800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
           "title": "恩智浦二季度营收35亿美元，分析师预期34.6亿美元。 二季度每股收益（EPS）为3.02美元，上年同期1.75美元。 二季度调整后自由现金流（FCF）为7.91亿美元，分析师预期9.493亿美元。 预计三季度营收36.5亿-38.5亿美元，分析师预期37.1亿美元。 预计三季度EPS为3.21-3.64美元，预计调整后EPS为3.89-4.32美元（分析师预期3.71美元）。 预计三季度调整后毛利润率58%-59%，分析师预期58.6%。 预计三季度调整后利润13.1亿-14.5亿美元，分析师预期13.5亿美元。",
           "url": "https://wallstreetcn.com/livenews/3141187",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "WTI原油期货涨5%，美国称拦截了伊朗朝美军发射的导弹。",
+          "url": "https://wallstreetcn.com/livenews/3141223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         },
         {
           "title": "Visa第三财季净营收116亿美元，分析师预期114亿美元。 第三财季调整后每股收益（EPS）为3.32美元，分析师预期3.23美元。",
@@ -125,7 +160,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -147,7 +182,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -158,7 +193,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -183,12 +218,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "美联储决议前夕交易员分歧显著，联邦基金利率期货头寸创纪录",
+          "url": "https://wallstreetcn.com/livenews/3141209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "周二（7月28日）纽约尾盘，标普500股指期货最终涨0.28%，道指期货涨0.98%，纳斯达克100股指期货跌0.82%。 罗素2000股指期货涨0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3141203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -199,8 +256,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 07时09分]"
+        },
+        {
+          "title": "SK海力士(SKHY.O)：第二季度DRAM平均售价较第一季度上涨约30%。",
+          "url": "https://flash.jin10.com/detail/20260729064459870800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         },
         {
           "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
@@ -209,7 +277,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -220,22 +288,24 @@
           "ranks": [
             3,
             8,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 07时09分]"
         },
         {
           "title": "股价重返10元上方！建设银行创历史新高，银行板块月内活跃，哪些方向同样领跑？",
           "url": "https://www.cls.cn/detail/2439103",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 07时09分]"
         },
         {
           "title": "全球股市震荡原因何在",
@@ -247,8 +317,21 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 07时09分]"
+        },
+        {
+          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            12,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时43分 ~ 05时16分]"
+          "time_info": "[03时45分 ~ 07时09分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.81%，暂报2083.86点，北京时间01:00以来持续下跌、06:00过后加速下跌，07:00以来低位窄幅震荡。 MarketVectorTM数字资产100中盘指数跌1.96%，报2384.07点。 MarketVector数字资产100指数跌1.30%，报12714.11点。 目前，Solana跌1.84%，狗狗币跌1.17%，XRP跌2.45%。 比特币跌1.43%，暂报63979.20美元；以太坊跌1.21%，暂报1924.37美元。",
@@ -263,16 +346,15 @@
           "time_info": "[01时43分 ~ 03时45分]"
         },
         {
-          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
-          "source": "百度热搜",
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            12
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         },
         {
           "title": "美国七年期国债收益率在440亿美元的拍卖后小幅下跌，现报4.463%，下跌4.63个基点。",
@@ -284,6 +366,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "WTI原油上涨3.00%，现报80.68美元/桶。美媒消息称，伊朗向约旦的美军基地发射导弹。",
+          "url": "https://flash.jin10.com/detail/20260729062041060800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "知名基金经理频出手，医药板块关注度升温",
+          "url": "https://wallstreetcn.com/livenews/3141221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "部分百亿级私募持仓曝光，计算机板块“吸金”",
+          "url": "https://wallstreetcn.com/livenews/3141220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "高盛仍看多日本AI板块：暴跌后反成买入良机",
+          "url": "https://flash.jin10.com/detail/20260729054723726800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         },
         {
           "title": "布伦特原油日内跌幅达5.0%，报81.56美元/桶；WTI原油5分钟内下跌0.61美元/桶，报78.59美元/桶。",
@@ -333,7 +459,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -347,16 +473,28 @@
           "time_info": "[01时43分 ~ 03时45分]"
         },
         {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778135",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 07时09分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -366,8 +504,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 07时09分]"
         },
         {
           "title": "美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。 此外，SK海力士ADR跌8.98%。",
@@ -376,7 +514,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -387,7 +525,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
@@ -395,7 +533,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】双创指数均大跌超6%，英伟达产业链全线退潮，银行等红利股获逆势抱团",
@@ -405,8 +543,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 07时09分]"
+        },
+        {
+          "title": "未来产业热门项目估值“一周一变”，创投机构忙中选优",
+          "url": "https://wallstreetcn.com/livenews/3141231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         },
         {
           "title": "【数据看盘】超20亿元资金涌入算力硬件龙头，北一环路席位1.79亿元买入岩山科技",
@@ -419,6 +568,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 05时16分]"
+        },
+        {
+          "title": "AI算力需求催热上半年业绩，行业人士称MLCC产业链高景气度下半年将延续",
+          "url": "https://wallstreetcn.com/livenews/3141230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7710元，较周一夜盘收盘跌85点。成交量309.95亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3141161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "周二（7月28日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7711元，较周一纽约尾盘跌56点，日内整体交投于6.7640-6.7737元区间。",
+          "url": "https://wallstreetcn.com/livenews/3141202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         }
       ]
     },
@@ -433,26 +621,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7710元，较周一夜盘收盘跌85点。成交量309.95亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3141161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "05时16分"
         }
       ]
     },
@@ -467,7 +638,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
