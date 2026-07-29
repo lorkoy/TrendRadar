@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T11:26:16.929562+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-07-29T14:40:41.492952+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 28,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -79,6 +79,18 @@
           "time_info": "[01时43分 ~ 07时09分]"
         },
         {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时09分 ~ 14时40分]"
+        },
+        {
           "title": "全球股市震荡原因何在",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E9%9C%87%E8%8D%A1%E5%8E%9F%E5%9B%A0%E4%BD%95%E5%9C%A8",
           "source": "bilibili 热搜",
@@ -90,18 +102,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 07时09分]"
-        },
-        {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时09分 ~ 11时26分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -135,9 +135,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？",
+          "url": "https://www.zhihu.com/question/2065767078427113175",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "A股电力板块午后再度拉升，京能电力直线涨停，此前桂冠电力涨停，大唐发电、晋控电力、粤电力A、华光环能、华能蒙电跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3141481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "A股三大指数探底回升集体翻红，乳业、教育、食品饮料、零售等方向涨幅居前，沪深京三市上涨个股近4000只。",
@@ -146,7 +168,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -168,7 +190,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -179,9 +201,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数7月29日（周三）收盘上涨91.50点，涨幅1.02%，报9039.30点。",
+          "url": "https://flash.jin10.com/detail/20260729142145538800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "创业板指涨超2%，早盘一度跌超2%，食品饮料、零售等方向涨幅居前，全市场超4300家个股上涨。",
+          "url": "https://wallstreetcn.com/livenews/3141478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "WTI原油上涨3.00%，现报80.68美元/桶。美媒消息称，伊朗向约旦的美军基地发射导弹。",
@@ -206,6 +250,17 @@
           "time_info": "07时09分"
         },
         {
+          "title": "新加坡基准股指海峡时报指数上涨1%，创下5,669.79点的历史新高。",
+          "url": "https://flash.jin10.com/detail/20260729141840828800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "部分百亿级私募持仓曝光，计算机板块“吸金”",
           "url": "https://wallstreetcn.com/livenews/3141220",
           "source": "华尔街见闻-快讯",
@@ -217,13 +272,46 @@
           "time_info": "07时09分"
         },
         {
+          "title": "A股证券板块午后持续上扬，华林证券封板涨停，中银证券、国盛证券、华安证券、国金证券、首创证券跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3141469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "A股金融股震荡拉升，兆日科技20cm涨停，华林证券涨超7%，指南针、银之杰、海德股份、中银证券涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3141465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "A股消费电子板块直线拉升，昀冢科技涨超10%，国光电器此前涨停，蓝思科技、长盈精密、影石创新、惠威科技、朗特智能等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3141463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "A股游戏板块逆势上升，巨人网络封板涨停，恺英网络、吉比特、星辉娱乐、世纪华通、冰川网络等跟涨。",
           "url": "https://flash.jin10.com/detail/20260729105925938800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -234,7 +322,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -267,9 +355,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "日经225指数下跌3%，报60491.81点。",
+          "url": "https://wallstreetcn.com/livenews/3141454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "韩国首尔综指跌超5%。SK海力士大跌10%，此前发布财报。 MSCI亚太指数下跌1.1%至254.23点。",
@@ -278,7 +377,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -322,7 +421,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
@@ -330,7 +429,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -355,8 +454,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 11时26分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 14时40分]"
         },
         {
           "title": "Teradyne（泰瑞达）二季度净营收13.3亿美元，分析师预期12.2亿美元。 二季度调整后每股收益（EPS）为2.47美元，分析师预期2.04美元。 预计三季度营收12亿-13亿美元，分析师预期10.4亿美元。 预计三季度调整后EPS为1.85-2.15美元，分析师预期1.46美元。",
@@ -386,11 +485,12 @@
           "url": "https://www.cls.cn/detail/2439585",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 14时40分]"
         },
         {
           "title": "美国原油期货三天跌超14%，失守80美元关口",
@@ -424,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "埃尼（Eni）第二季度调整后净利润23.3亿欧元，市场预估21.1亿欧元。 第二季度调整后营业利润35.2亿欧元，市场预估35.3亿欧元。 第二季度净利润33.2亿欧元。 埃尼将2026年股份回购规模提高至最高34亿欧元，此前为28亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3141485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "美股三大股指期货短线小幅下挫，道指期货跌0.13%，标普500指数期货跌0.08%，纳指期货跌0.02%。",
@@ -558,6 +669,28 @@
           "time_info": "03时45分"
         },
         {
+          "title": "巴斯夫第二季度调整后EBITDA 24.5亿欧元，同比增长54%。 第二季度调整后EBIT 14.8亿欧元，上年同期6.86亿欧元。 第二季度调整后每股收益1.28欧元，市场预估0.98欧元。 仍然预测全年调整后EBITDA 69亿欧元至77亿欧元。 巴斯夫将启动10亿欧元股份回购。",
+          "url": "https://wallstreetcn.com/livenews/3141457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.35%，道琼斯指数期货跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3141455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "美联储决议前夕交易员分歧显著，联邦基金利率期货头寸创纪录",
           "url": "https://wallstreetcn.com/livenews/3141209",
           "source": "华尔街见闻-快讯",
@@ -582,105 +715,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时09分 ~ 11时26分]"
-        },
-        {
-          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778135",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 11时26分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 03时45分]"
-        },
-        {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 11时26分]"
-        },
-        {
-          "title": "美股芯片存储大跌",
-          "url": "https://www.douyin.com/hot/2588858",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。 此外，SK海力士ADR跌8.98%。",
-          "url": "https://wallstreetcn.com/livenews/3141190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "受希捷科技(STX.O)财报提振，美股存储芯片概念股盘后走高，西部数据(WDC.O)涨6.5%，SK海力士(SKHY.O)涨2.5%，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨1%，希捷科技(STX.O)一度涨9%。",
-          "url": "https://flash.jin10.com/detail/20260729042233620800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "【焦点复盘】双创指数均大跌超6%，英伟达产业链全线退潮，银行等红利股获逆势抱团",
@@ -694,13 +730,24 @@
           "time_info": "[01时43分 ~ 07时09分]"
         },
         {
+          "title": "乌兹别克斯坦央行将政策利率维持在14%不变。",
+          "url": "https://wallstreetcn.com/livenews/3141495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "国家知识产权局：预计在“十五五”时期战略性新兴产业专利比重将进一步提升",
           "url": "https://wallstreetcn.com/livenews/3141401",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -739,15 +786,146 @@
           "time_info": "07时09分"
         },
         {
+          "title": "记者暗访“酸臭毛粉”产业链",
+          "url": "https://www.toutiao.com/trending/7667777073961336886/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "乌兹别克斯坦央行将政策利率维持在14%不变。",
+          "url": "https://flash.jin10.com/detail/20260729141104211800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260729141014467800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "韩国央行行长：通胀率将在相当长的一段时间内保持在目标水平以上。 认为有必要继续加息。 芯片行业将助力韩国经济保持稳定增长。 将在评估通货膨胀和经济状况后决定政策。 将考虑通胀压力、经济和金融稳定性。",
           "url": "https://wallstreetcn.com/livenews/3141353",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时09分 ~ 14时40分]"
+        },
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 14时40分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 14时40分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 14时40分]"
+        },
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时45分]"
+        },
+        {
+          "title": "美股芯片存储大跌",
+          "url": "https://www.douyin.com/hot/2588858",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。 此外，SK海力士ADR跌8.98%。",
+          "url": "https://wallstreetcn.com/livenews/3141190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "受希捷科技(STX.O)财报提振，美股存储芯片概念股盘后走高，西部数据(WDC.O)涨6.5%，SK海力士(SKHY.O)涨2.5%，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨1%，希捷科技(STX.O)一度涨9%。",
+          "url": "https://flash.jin10.com/detail/20260729042233620800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     },
@@ -773,7 +951,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -784,7 +962,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -812,7 +990,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -823,7 +1001,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -851,7 +1029,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
