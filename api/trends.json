@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T06:15:17.266421+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-07-31T12:31:54.393413+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "政治局会议明确优化财金协同促内需 业内：货币政策调整节奏有望提速 政策联动重在落地",
@@ -42,6 +42,17 @@
           "time_info": "[00时42分 ~ 06时15分]"
         },
         {
+          "title": "新一轮油价调整今晚开启",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E8%BD%AE%E6%B2%B9%E4%BB%B7%E8%B0%83%E6%95%B4%E4%BB%8A%E6%99%9A%E5%BC%80%E5%90%AF",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "巴西财政部官员：政府考虑对支出上限进行潜在调整，以帮助平衡公共账户并实现已宣布的目标。",
           "url": "https://flash.jin10.com/detail/20260731022118876800",
           "source": "金十数据",
@@ -71,9 +82,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "今晚24时油价将调整",
+          "url": "https://www.toutiao.com/trending/7667521642420011017/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "周四（7月30日）欧市尾盘，ICE英国天然气期货跌3.50%，报141.300便士/千卡。 TTF基准荷兰天然气期货跌3.41%，报58.650欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌0.32%，报81.26欧元/吨。",
@@ -85,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "新一轮油价调整将开启",
+          "url": "https://www.douyin.com/hot/2591499",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "现货铂金涨超3%，报1660.54美元/盎司。",
@@ -131,6 +164,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.35%，10年期主力合约涨0.11%，5年期主力合约涨0.07%，2年期主力合约涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3142900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "现货钯金向上触及1300美元/盎司，日内涨2.39%。",
           "url": "https://flash.jin10.com/detail/20260730235052237800",
           "source": "金十数据",
@@ -148,7 +192,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -200,7 +244,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
         {
           "title": "月内跑赢92%个股！茅台股价创3个月新高，白酒板块持续回升，均价紧追半导体",
@@ -237,6 +281,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citatdel出手收购全部仓位",
+          "url": "https://wallstreetcn.com/articles/3778381",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "非美货币全面上涨，英镑涨约0.8%，瑞典克朗涨约1.3%",
           "url": "https://wallstreetcn.com/livenews/3142628",
           "source": "华尔街见闻-快讯",
@@ -259,6 +314,39 @@
           "time_info": "00时43分"
         },
         {
+          "title": "上证指数早盘收报3833.65点，涨0.76%。 深证成指早盘收报13705.42点，涨3.16%。 创业板指早盘收报3408.15点，涨5.04%。 沪深300早盘收报4605.92点，涨1.24%。 科创50早盘收报1682.27点，涨5.91%。 中证500早盘收报7561.47点，涨3.45%。 中证1000早盘收报7145.92点，涨3.55%。",
+          "url": "https://wallstreetcn.com/livenews/3142903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "A股全线飘红 超4500股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%85%A8%E7%BA%BF%E9%A3%98%E7%BA%A2+%E8%B6%854500%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "日本央行：需要关注外汇对经济和通胀的影响。 经济展望面临的风险包括中东局势及其对外汇和日本经济的影响。 需要特别关注中东局势发展。 全球AI需求有助于提振日本经济。 价格趋势正在接近2%的物价目标，将价格趋势稳定在2%附近至关重要。 将密切关注中东局势、AI及外汇以决定下一次加息时点。 中短期内实质利率一直处于负值状态。 日元贬值可能会推高物价，近期日元下跌是导致物价上涨的因素之一。",
+          "url": "https://wallstreetcn.com/livenews/3142897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "高通(QCOM.O)CEO：内存芯片价格上涨非常夸张。更高的价格正在改变消费者行为。",
           "url": "https://flash.jin10.com/detail/20260730234630449800",
           "source": "金十数据",
@@ -268,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "MSCI亚太地区（除日本）股指上涨超过5%。",
+          "url": "https://flash.jin10.com/detail/20260731115324271800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "Cigna警示GLP-1处方药增速放缓，礼来股价下跌",
@@ -298,9 +397,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.4100%，上涨1.00个基点。 7天SHIBOR报1.4530%，下降0.20个基点。 3个月SHIBOR报1.4300%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3142884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "德国DAX30指数7月30日（周四）收盘上涨164.94点，涨幅0.65%，报25613.70点；<br/>英国富时100指数7月30日（周四）收盘下跌11.52点，跌幅0.11%，报10896.89点；<br/>法国CAC40指数7月30日（周四）收盘上涨77.37点，涨幅0.92%，报8485.64点；<br/>欧洲斯托克50指数7月30日（周四）收盘上涨96.51点，涨幅1.54%，报6345.35点；<br/>西班牙IBEX35指数7月30日（周四）收盘上涨357.73点，涨幅1.84%，报19748.03点；<br/>意大利富时MIB指数7月30日（周四）收盘上涨637.89点，涨幅1.24%，报52081.00点。",
@@ -312,12 +422,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "A股午评：创业板指涨超5% AI硬件板块集体反弹",
+          "url": "https://flash.jin10.com/detail/20260731114226607800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "索尼集团公布财报后，股价上涨2%，扭转早前的跌势。",
+          "url": "https://flash.jin10.com/detail/20260731113933591800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
@@ -344,6 +476,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
+          "url": "https://www.cls.cn/detail/2441995",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "Reddit二季度营收8.049亿美元，分析师预期7.318亿美元。 Reddit美股盘后跌6%。",
           "url": "https://wallstreetcn.com/livenews/3142637",
           "source": "华尔街见闻-快讯",
@@ -356,13 +499,24 @@
           "time_info": "[04时20分 ~ 06时15分]"
         },
         {
+          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
+          "url": "https://www.cls.cn/detail/2442218",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
           "url": "https://wallstreetcn.com/livenews/3142660",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -373,7 +527,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -384,67 +538,15 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何看待 2026 年 7 月 29 日《蜘蛛侠：崭新之日》预测票房大幅下降至 15.6 亿人民币？",
-          "url": "https://www.zhihu.com/question/2065493257627423324",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时15分]"
-        },
-        {
-          "title": "离岸人民币创2023年年初以来新高",
-          "url": "https://wallstreetcn.com/livenews/3142661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7528元，较周三夜盘收盘涨102点。成交量391.57亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3142618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "美元兑在岸人民币创2023年2月份以来新低。",
-          "url": "https://wallstreetcn.com/livenews/3142554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
@@ -482,12 +584,108 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时20分]"
+        },
+        {
+          "title": "日本经济再生担当大臣木内康弘：政府将继续密切关注市场走势。 外汇政策由财务大臣片山负责。",
+          "url": "https://wallstreetcn.com/livenews/3142909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "政治局会议深读｜九大信号：宏观政策要发力提效，务实管用的增量政策可期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33687100",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "男子高温天衣着严实被查涉诈资金10万",
+          "url": "https://www.toutiao.com/trending/7668251821677461540/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "发改委：将实施更加积极有为的宏观政策，增强经济发展和物价回升内生动力",
+          "url": "https://wallstreetcn.com/livenews/3142877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何看待 2026 年 7 月 29 日《蜘蛛侠：崭新之日》预测票房大幅下降至 15.6 亿人民币？",
+          "url": "https://www.zhihu.com/question/2065493257627423324",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 06时15分]"
+        },
+        {
+          "title": "离岸人民币创2023年年初以来新高",
+          "url": "https://wallstreetcn.com/livenews/3142661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7528元，较周三夜盘收盘涨102点。成交量391.57亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3142618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "美元兑在岸人民币创2023年2月份以来新低。",
+          "url": "https://wallstreetcn.com/livenews/3142554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
@@ -499,6 +697,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 06时15分]"
+        },
+        {
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "美元指数跌超0.9%",
@@ -538,6 +747,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日元疑似干预重创美元，金价借势走高",
+          "url": "https://flash.jin10.com/detail/20260731114729880800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
