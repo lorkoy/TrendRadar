@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T18:05:37.372887+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-08-02T20:10:28.519999+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "单日7.2万亿韩元，外资周五净买入创纪录！华尔街：韩股资金面逆风已经消退",
@@ -20,8 +20,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 18时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 20时10分]"
         },
         {
           "title": "我国茶产业链规模已迈入万亿元",
@@ -37,17 +37,6 @@
           "time_info": "[00时08分 ~ 12时31分]"
         },
         {
-          "title": "利润最高涨700倍 半导体产业全线爆发",
-          "url": "https://www.toutiao.com/trending/7668166509122355243/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 18时05分]"
-        },
-        {
           "title": "我国超长期特别国债资金精准发力",
           "url": "https://www.douyin.com/hot/2593950",
           "source": "抖音",
@@ -57,6 +46,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 15时37分]"
+        },
+        {
+          "title": "利润最高涨700倍 半导体产业全线爆发",
+          "url": "https://www.toutiao.com/trending/7668166509122355243/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 20时10分]"
+        },
+        {
+          "title": "欧佩克+的声明未提及2026年9月之后的政策。",
+          "url": "https://flash.jin10.com/detail/20260802192808330800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "央行：继续实施适度宽松的货币政策",
@@ -122,7 +134,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -164,11 +176,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 18时05分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 20时10分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
@@ -209,7 +222,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -221,6 +234,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时07分 ~ 08时04分]"
+        },
+        {
+          "title": "TheShy四抓一反杀",
+          "url": "https://s.weibo.com/weibo?q=%23TheShy%E5%9B%9B%E6%8A%93%E4%B8%80%E5%8F%8D%E6%9D%80%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "日本经济财政大臣城内实：日本将加强与市场的双向对话。 保持信息一致是赢得市场信任的关键。（NHK）",
@@ -238,6 +262,35 @@
       ]
     },
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国存储调研：三星长协“限制跌幅、不限涨幅”，现货价格在四季度旺季前持续反弹",
+          "url": "https://wallstreetcn.com/articles/3778507",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 20时10分]"
+        },
+        {
+          "title": "欧佩克+：沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼同意调整产量，并重申对市场稳定的承诺。",
+          "url": "https://flash.jin10.com/detail/20260802192744359800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -247,11 +300,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 18时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 20时10分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -260,28 +314,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 18时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国存储调研：三星长协“限制跌幅、不限涨幅”，现货价格在四季度旺季前持续反弹",
-          "url": "https://wallstreetcn.com/articles/3778507",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 20时10分]"
         }
       ]
     },
