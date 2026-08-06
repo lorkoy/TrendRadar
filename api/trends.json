@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T07:10:58.465686+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-08-06T11:26:36.585635+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "沈腾新片《欢迎来龙餐馆》空降，极限定档 8 月 11 日全国上映，战争美食喜剧题材，对此你有何期待？",
@@ -21,15 +21,39 @@
           "time_info": "[01时49分 ~ 07时10分]"
         },
         {
+          "title": "日股半导体链集中放榜：PCB、MLCC、玻纤布板块捷报频传",
+          "url": "https://www.cls.cn/detail/2446641",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时49分 ~ 11时26分]"
+        },
+        {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 11时26分]"
+        },
+        {
+          "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
+          "url": "https://www.cls.cn/detail/2446843",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时10分"
+          "time_info": "11时26分"
         },
         {
           "title": "Meta Platforms(META.O)市值已超过SpaceX(SPCX.O)。SpaceX目前下跌10.5%，总市值1.48万亿美元。Meta Platforms现跌0.8%，总市值1.49万亿美元。",
@@ -54,18 +78,6 @@
           "time_info": "03时47分"
         },
         {
-          "title": "日股半导体链集中放榜：PCB、MLCC、玻纤布板块捷报频传",
-          "url": "https://www.cls.cn/detail/2446641",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时10分]"
-        },
-        {
           "title": "飙升的科技股还能买吗？资深策略师Yardeni认为该板块现在是打折价",
           "url": "https://wallstreetcn.com/livenews/3145566",
           "source": "华尔街见闻-快讯",
@@ -88,6 +100,73 @@
           "time_info": "05时21分"
         },
         {
+          "title": "隔夜SHIBOR报1.3530%，下降0.74个基点。 7天SHIBOR报1.3830%，上涨0.60个基点。 3个月SHIBOR报1.4300%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3145783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "港股AI应用股多数下跌，汇量科技(01860.HK)大跌近8%，金山云(03896.HK)跌超6%，中手游(00302.HK)、百度(09888.HK)、阿里巴巴(09988.HK)、小米集团(01810.HK)均跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260806112007682800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "创业板指涨超1%，盘初一度跌超2.5%，沪指涨0.33%，深成指涨0.64%，算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股近2000只。",
+          "url": "https://wallstreetcn.com/livenews/3145778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "隔夜shibor报1.3530%，下跌0.74个基点；7天shibor报1.3830%，上涨0.6个基点；3个月shibor报1.4300%，与上日持平。点击查看>>",
+          "url": "https://flash.jin10.com/detail/20260806111200687800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "CPO概念股震荡拉升，联特科技、光力科技涨超10%，中富电路、长芯博创、汇绿生态、工业富联涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3145776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
+          "url": "https://wallstreetcn.com/articles/3778759",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 11时26分]"
+        },
+        {
           "title": "美元指数5日下跌",
           "url": "https://flash.jin10.com/detail/20260806042740895800",
           "source": "金十数据",
@@ -99,15 +178,15 @@
           "time_info": "05时21分"
         },
         {
-          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
-          "url": "https://wallstreetcn.com/articles/3778759",
-          "source": "华尔街见闻",
+          "title": "A股医药商业板块直线拉升，人民同泰、合富中国双双涨停，药易购涨超15%，开开实业、建发致新、塞力医疗、华人健康跟涨。",
+          "url": "https://flash.jin10.com/detail/20260806111152300800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时10分"
+          "time_info": "11时26分"
         },
         {
           "title": "美股大类资产类ETF多数下跌，纳指100 ETF跌0.9%，黄金ETF涨超4.1%",
@@ -149,7 +228,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -163,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "A股三大指数集体翻红，创业板指盘初一度跌超2.5%，贵金属、算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股超2500只。",
+          "url": "https://wallstreetcn.com/livenews/3145762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "上海黄金交易所黄金T+D 8月5日（周三）晚盘收盘上涨3.4%报925.64元/克；<br/>上海黄金交易所白银T+D 8月5日（周三）晚盘收盘上涨3.11%报15187.0元/千克。",
@@ -193,7 +283,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -204,7 +294,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -223,7 +313,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国芝加哥期权交易所（CBOE）7月期货日均成交量（DTV）增长16.1%。 7月指数期权日均成交量增长34%。 7月跨交易所期权日均成交量增长28.4%。",
@@ -235,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "现货黄金突破4300美元",
+          "url": "https://www.toutiao.com/trending/7670717450970730025/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "俄罗斯总统普京调整俄罗斯军方领导层，任命丹尼斯·利亚明（Denis Lyamin）领导新成立的无人系统部队，并任命新的前线作战和军事后勤指挥官。",
@@ -342,7 +443,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
@@ -371,22 +472,24 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时49分 ~ 11时26分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
           "url": "https://www.cls.cn/detail/2446816",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 11时26分]"
         },
         {
           "title": "闪迪(SNDK.O)美股盘后跌超3%。",
@@ -436,7 +539,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
@@ -458,7 +561,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -472,6 +575,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "A股半导体产业链震荡拉升，汇成股份、欧莱新材、甬矽电子涨超10%，有研新材此前2连板，和林微纳、长电科技涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3145759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260806104706112800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
@@ -526,7 +651,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -540,6 +665,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2446838",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
