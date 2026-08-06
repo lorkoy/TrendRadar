@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-06T17:45:58.151203+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-08-06T20:08:54.782351+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时10分 ~ 20时08分]"
+        },
         {
           "title": "沈腾新片《欢迎来龙餐馆》空降，极限定档 8 月 11 日全国上映，战争美食喜剧题材，对此你有何期待？",
           "url": "https://www.zhihu.com/question/2068277179704664546",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时49分 ~ 07时10分]"
-        },
-        {
-          "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3778704",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时10分 ~ 17时45分]"
         },
         {
           "title": "日股半导体链集中放榜：PCB、MLCC、玻纤布板块捷报频传",
@@ -46,17 +46,6 @@
           "time_info": "[01时49分 ~ 11时26分]"
         },
         {
-          "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
-          "url": "https://www.cls.cn/detail/2446843",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 14时40分]"
-        },
-        {
           "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
           "url": "https://wallstreetcn.com/articles/3778759",
           "source": "华尔街见闻",
@@ -66,8 +55,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时10分 ~ 17时45分]"
+          "appearance_count": 5,
+          "time_info": "[07时10分 ~ 20时08分]"
+        },
+        {
+          "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
+          "url": "https://www.cls.cn/detail/2446843",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 14时40分]"
         },
         {
           "title": "Meta Platforms(META.O)市值已超过SpaceX(SPCX.O)。SpaceX目前下跌10.5%，总市值1.48万亿美元。Meta Platforms现跌0.8%，总市值1.49万亿美元。",
@@ -225,6 +225,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，电子特气概念领涨，煤炭板块午后爆发",
+          "url": "https://www.cls.cn/detail/2447405",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "标普500指数的11个板块中，电信板块收跌2.39%，能源板块跌2.03%，信息技术/科技板块涨0.02%，保健板块涨1.34%，原材料板块涨1.54%。",
           "url": "https://wallstreetcn.com/livenews/3145596",
           "source": "华尔街见闻-快讯",
@@ -319,7 +330,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -407,7 +418,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -423,13 +434,24 @@
           "time_info": "05时21分"
         },
         {
+          "title": "爱丽家居：如公司股票价格进一步异常上涨，公司可能再次申请停牌核查。",
+          "url": "https://wallstreetcn.com/livenews/3145981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "在IPO后股票锁定期到期前，SpaceX美股盘前上涨2.9%。",
           "url": "https://wallstreetcn.com/livenews/3145931",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         }
@@ -534,7 +556,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -619,7 +641,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
@@ -644,6 +666,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "英国未排除提高银行税 花旗CEO警告“资金会用脚投票”",
+          "url": "https://wallstreetcn.com/livenews/3146021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "磷化铟概念股三连板！英伟达、Lumentum预警供需缺口 机构：全产业链走向价值重估",
+          "url": "https://www.cls.cn/detail/2447102",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 20时08分]"
+        },
+        {
+          "title": "“兰州拉面”多地改名“青海拉面”？青海省拉面产业行业协会：青海人开的店自愿报名，不用交钱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33729131",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 20时08分]"
         },
         {
           "title": "主力资金流向前十大个股",
@@ -675,7 +731,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -691,15 +747,15 @@
           "time_info": "07时10分"
         },
         {
-          "title": "磷化铟概念股三连板！英伟达、Lumentum预警供需缺口 机构：全产业链走向价值重估",
-          "url": "https://www.cls.cn/detail/2447102",
-          "source": "财联社热门",
+          "title": "外交部：中国一贯奉行防御性国防政策",
+          "url": "https://www.toutiao.com/trending/7670869076971929663/",
+          "source": "今日头条",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时45分"
+          "time_info": "20时08分"
         },
         {
           "title": "美联储理事库克：到目前为止，政策并未导致显著的失业。",
@@ -711,17 +767,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "“兰州拉面”多地改名“青海拉面”？青海省拉面产业行业协会：青海人开的店自愿报名，不用交钱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33729131",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "A股半导体产业链震荡拉升，汇成股份、欧莱新材、甬矽电子涨超10%，有研新材此前2连板，和林微纳、长电科技涨超6%。",
@@ -738,7 +783,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -797,7 +842,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -811,6 +856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "AppLovin美股盘前跌超16%，公司二季度营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3145991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股收盘）",
@@ -829,6 +885,57 @@
           "source": "金十数据",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "TheShy力挺Meiko",
+          "url": "https://search.bilibili.com/all?keyword=TheShy%E5%8A%9B%E6%8C%BAMeiko",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时10分]"
+        },
+        {
+          "title": "Starboard Value的CEO Jeff Smith：公司已经持股Shake Shack。 价值投资者创造价值正当其时。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3145509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "昇腾0 Day支持百灵Ling-3.0-flash CANN PyPTO重磅登场",
+          "url": "https://wallstreetcn.com/livenews/3145990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.09%，报6552.33点。 热门中概股里，阿特斯太阳能初步收跌5.6%，日月光半导体跌4.6%，金山云跌4.2%，腾讯跌1.9%，网易跌1.8%，阿里跌0.1%，新东方涨1.2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.21%，中国科技指数ETF（CQQQ）收涨0.64%。 MSCI新兴市场ex中国ETF（EMXC）收跌0.40%，德银嘉实沪深300指数ETF（ASHR）收涨0.49%，XtrackersHarvest中证50（ASHS）收涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3145581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -887,49 +994,20 @@
       ]
     },
     {
-      "keyword_group": "SZ SH HK",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "TheShy力挺Meiko",
-          "url": "https://search.bilibili.com/all?keyword=TheShy%E5%8A%9B%E6%8C%BAMeiko",
-          "source": "bilibili 热搜",
+          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
+          "url": "https://www.cls.cn/detail/2447296",
+          "source": "财联社热门",
           "ranks": [
-            5,
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时10分]"
-        },
-        {
-          "title": "Starboard Value的CEO Jeff Smith：公司已经持股Shake Shack。 价值投资者创造价值正当其时。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3145509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "20时08分"
         },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.09%，报6552.33点。 热门中概股里，阿特斯太阳能初步收跌5.6%，日月光半导体跌4.6%，金山云跌4.2%，腾讯跌1.9%，网易跌1.8%，阿里跌0.1%，新东方涨1.2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.21%，中国科技指数ETF（CQQQ）收涨0.64%。 MSCI新兴市场ex中国ETF（EMXC）收跌0.40%，德银嘉实沪深300指数ETF（ASHR）收涨0.49%，XtrackersHarvest中证50（ASHS）收涨2.09%。",
-          "url": "https://wallstreetcn.com/livenews/3145581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
         {
           "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
           "url": "https://www.cls.cn/detail/2446838",
