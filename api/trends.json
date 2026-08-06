@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T14:40:46.329433+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-08-06T17:45:58.151203+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "沈腾新片《欢迎来龙餐馆》空降，极限定档 8 月 11 日全国上映，战争美食喜剧题材，对此你有何期待？",
@@ -21,6 +21,18 @@
           "time_info": "[01时49分 ~ 07时10分]"
         },
         {
+          "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时10分 ~ 17时45分]"
+        },
+        {
           "title": "日股半导体链集中放榜：PCB、MLCC、玻纤布板块捷报频传",
           "url": "https://www.cls.cn/detail/2446641",
           "source": "财联社热门",
@@ -34,17 +46,6 @@
           "time_info": "[01时49分 ~ 11时26分]"
         },
         {
-          "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3778704",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时10分 ~ 14时40分]"
-        },
-        {
           "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
           "url": "https://www.cls.cn/detail/2446843",
           "source": "财联社热门",
@@ -54,6 +55,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 14时40分]"
+        },
+        {
+          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
+          "url": "https://wallstreetcn.com/articles/3778759",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时10分 ~ 17时45分]"
         },
         {
           "title": "Meta Platforms(META.O)市值已超过SpaceX(SPCX.O)。SpaceX目前下跌10.5%，总市值1.48万亿美元。Meta Platforms现跌0.8%，总市值1.49万亿美元。",
@@ -133,18 +147,6 @@
           "time_info": "11时26分"
         },
         {
-          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
-          "url": "https://wallstreetcn.com/articles/3778759",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时10分 ~ 14时40分]"
-        },
-        {
           "title": "隔夜shibor报1.3530%，下跌0.74个基点；7天shibor报1.3830%，上涨0.6个基点；3个月shibor报1.4300%，与上日持平。点击查看>>",
           "url": "https://flash.jin10.com/detail/20260806111200687800",
           "source": "金十数据",
@@ -167,6 +169,18 @@
           "time_info": "11时26分"
         },
         {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 17时45分]"
+        },
+        {
           "title": "美元指数5日下跌",
           "url": "https://flash.jin10.com/detail/20260806042740895800",
           "source": "金十数据",
@@ -184,7 +198,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -209,17 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
         },
         {
           "title": "标普500指数的11个板块中，电信板块收跌2.39%，能源板块跌2.03%，信息技术/科技板块涨0.02%，保健板块涨1.34%，原材料板块涨1.54%。",
@@ -250,7 +253,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -272,7 +275,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -305,9 +308,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "LME三个月期铜上涨至14,297美元/吨，创1月29日以来最高水平，现涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3145945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "A股煤炭板块短线拉升，淮北矿业、平煤股份封涨停，兖矿能源涨超9%，晋控煤业、潞安环能涨超7%，中煤能源均涨超6%。",
@@ -316,7 +330,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -338,7 +352,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -382,9 +396,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "小区物业费要上涨 谁说了算",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E7%89%A9%E4%B8%9A%E8%B4%B9%E8%A6%81%E4%B8%8A%E6%B6%A8+%E8%B0%81%E8%AF%B4%E4%BA%86%E7%AE%97",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "周三（8月5日）纽约尾盘，彭博电动汽车价格回报指数涨1.21%，报3438.09点，亚太时段显著上涨、北京时间10:00以来高位持稳——震荡于3440点附近。 日线图上，7月28日跌至3210.83点以来，呈现出逐步反弹的趋势。",
@@ -396,12 +421,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "在IPO后股票锁定期到期前，SpaceX美股盘前上涨2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3145931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国芝加哥期权交易所（CBOE）7月期货日均成交量（DTV）增长16.1%。 7月指数期权日均成交量增长34%。 7月跨交易所期权日均成交量增长28.4%。",
@@ -443,7 +479,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -487,9 +523,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "航运巨头马士基：将在陆上运输中实施反映成本的能源/燃料价格临时调整。",
+          "url": "https://flash.jin10.com/detail/20260806172856454800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "WTI 9月原油期货收跌0.55美元，跌幅超过0.72%，报75.22美元/桶。 布伦特10月原油期货收涨0.09美元，涨幅超过0.11%，报79.45美元/桶。 中东Abu Dhabi Murban原油期货涨1.37%，报77.91美元/桶。 NYMEX 9月天然气期货收报2.6880美元/百万英热单位。 NYMEX 9月汽油期货收报2.8388美元/加仑，NYMEX 9月取暖油期货收报3.7962美元/加仑。",
@@ -542,7 +589,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -572,7 +619,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
@@ -594,7 +641,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -617,9 +664,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "南向资金今日净卖出14.61亿元。港股通（沪）方面，腾讯控股、阿里巴巴-W分别获净卖出9.99亿港元、2.18亿港元；净买入额居首，金额为21.7亿港元；港股通（深）方面，中芯国际、阿里巴巴-W分别获净卖出16.43亿港元、14.1亿港元；净买入额居首，金额为5.27亿港元。",
+          "url": "https://flash.jin10.com/detail/20260806173157086800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "加量又加价，算力产业服务大单不断",
@@ -633,6 +691,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "磷化铟概念股三连板！英伟达、Lumentum预警供需缺口 机构：全产业链走向价值重估",
+          "url": "https://www.cls.cn/detail/2447102",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "美联储理事库克：到目前为止，政策并未导致显著的失业。",
           "url": "https://flash.jin10.com/detail/20260806040756692800",
           "source": "金十数据",
@@ -642,6 +711,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "“兰州拉面”多地改名“青海拉面”？青海省拉面产业行业协会：青海人开的店自愿报名，不用交钱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33729131",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "A股半导体产业链震荡拉升，汇成股份、欧莱新材、甬矽电子涨超10%，有研新材此前2连板，和林微纳、长电科技涨超6%。",
@@ -658,7 +738,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -709,6 +789,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "派拓公司（Palo Alto Networks）美股盘前短线跳水跌近2%，此前网信办对派拓公司在华销售产品启动网络安全审查。",
+          "url": "https://wallstreetcn.com/livenews/3145958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "Cirrus Logics Inc.（CRUS）美股盘后跌7.1%。 该公司第一财季净销售4.597亿美元，分析师预期4.602亿美元。 预计第二财季净收入5.10亿-5.7亿美元，分析师预期5.566亿美元。",
@@ -767,7 +858,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -778,7 +869,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
