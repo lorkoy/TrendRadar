@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T19:37:55.993087+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-08-09T21:08:08.580076+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时20分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[10时20分 ~ 21时08分]"
         },
         {
           "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
@@ -56,6 +56,18 @@
           "time_info": "[10时20分 ~ 19时37分]"
         },
         {
+          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
+          "url": "https://www.cls.cn/detail/2449215",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 21时08分]"
+        },
+        {
           "title": "国家统计局：7月份居民消费价格同比上涨0.5%",
           "url": "https://wallstreetcn.com/livenews/3147039",
           "source": "华尔街见闻-快讯",
@@ -73,29 +85,18 @@
           "time_info": "[10时20分 ~ 19时37分]"
         },
         {
-          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
-          "url": "https://www.cls.cn/detail/2449215",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 19时37分]"
-        },
-        {
           "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
           "url": "https://m.thepaper.cn/newsDetail_forward_33747633",
           "source": "澎湃新闻",
           "ranks": [
             20,
             17,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 19时37分]"
+          "appearance_count": 8,
+          "time_info": "[15时08分 ~ 21时08分]"
         },
         {
           "title": "国家统计局：7月份，CPI同比温和上涨，黄金饰品上涨24.6%",
@@ -136,6 +137,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时20分 ~ 13时53分]"
+        },
+        {
+          "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗？",
+          "url": "https://www.zhihu.com/question/2067910668142093912",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "中东股市收盘播报｜周日（8月9日），沙特证交所全股指数收涨0.05%，报10817.01点。 沙特阿美收涨0.38%，报26.60沙特里亚尔，此前连续三个交易日下跌。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨1.71%，报11.32沙特里亚尔，逼近5月13日收盘位11.43里亚尔。 埃及证交所EGX 30指数收涨0.82%，报55125.43点，8月4日突破5月10日所创收盘历史最高位以来、连续第四个交易日走高。 阿曼MSM 30指数收涨0.26%，报7387.16点，7月20日跳水出现的失地几乎完全收复、不断逼近7月19日收盘位7407.09点。 卡塔尔证交所指数收跌0.12%，报10100.11点。 科威特证交所超级市场价格回报指数收涨0.12%，报9307.48点，7月23日以来呈现出持续反弹趋势、最近数日高位持稳——8月5日收报9319.89点。",
+          "url": "https://wallstreetcn.com/livenews/3147084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     },
@@ -150,11 +173,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 19时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 21时08分]"
         },
         {
           "title": "新疆优化调整景区内自驾服务费",
@@ -172,6 +196,33 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时44分 ~ 18时43分]"
+        },
+        {
+          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
+          "url": "https://www.cls.cn/detail/2449266",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 21时08分]"
+        },
+        {
+          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 21时08分]"
         },
         {
           "title": "多地停车场计费试行取消「向上取整」，「按分钟计费」试点加速落地，如何看待这一调整？值得推广吗？",
@@ -200,31 +251,6 @@
           "time_info": "[10时20分 ~ 13时53分]"
         },
         {
-          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
-          "url": "https://www.cls.cn/detail/2449266",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时37分]"
-        },
-        {
-          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时37分]"
-        },
-        {
           "title": "2026 暑期档国产片频繁提档、撤档，进口片档期却基本不变，可能有哪些原因？频繁调整档期的影响有多大？",
           "url": "https://www.zhihu.com/question/2067995468202599329",
           "source": "知乎",
@@ -239,7 +265,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
@@ -252,8 +278,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时37分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[07时37分 ~ 21时08分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -274,6 +300,19 @@
           "time_info": "[00时45分 ~ 17时50分]"
         },
         {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时20分 ~ 21时08分]"
+        },
+        {
           "title": "国家统计局：生猪产能综合调控政策效应显现，叠加部分地区高温、强降雨等极端天气频发推高运输成本等因素，猪肉价格由上月环比下降0.8%转为上涨4.1%，影响CPI环比上涨约0.07个百分点。",
           "url": "https://wallstreetcn.com/livenews/3147042",
           "source": "华尔街见闻-快讯",
@@ -291,19 +330,6 @@
           "time_info": "[10时20分 ~ 19时37分]"
         },
         {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时20分 ~ 19时37分]"
-        },
-        {
           "title": "美银Hartnett：“战术”看跌，但“战略”看涨，因为政策制定者不会允许市场崩盘",
           "url": "https://wallstreetcn.com/articles/3779003",
           "source": "华尔街见闻",
@@ -314,6 +340,74 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时54分 ~ 19时37分]"
+        },
+        {
+          "title": "离境退税“2.0版”政策落地满月，广州入境消费持续升温",
+          "url": "https://wallstreetcn.com/livenews/3147078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 21时08分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 19时37分]"
+        },
+        {
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时37分]"
+        },
+        {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         }
       ]
     },
@@ -333,11 +427,12 @@
             24,
             25,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 19时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 21时08分]"
         },
         {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
@@ -367,52 +462,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 19时37分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 19时37分]"
-        },
-        {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时37分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -437,11 +486,12 @@
           "ranks": [
             18,
             9,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 19时37分]"
+          "appearance_count": 8,
+          "time_info": "[15时08分 ~ 21时08分]"
         }
       ]
     },
