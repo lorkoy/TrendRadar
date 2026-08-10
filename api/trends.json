@@ -1,11 +1,394 @@
 {
-  "generated_at": "2026-08-10T07:39:34.279546+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-08-10T10:25:59.110419+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时39分]"
+        },
+        {
+          "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗？",
+          "url": "https://www.zhihu.com/question/2067910668142093912",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            3,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时39分]"
+        },
+        {
+          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
+          "url": "https://www.cls.cn/detail/2449215",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 10时25分]"
+        },
+        {
+          "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33747633",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时39分]"
+        },
+        {
+          "title": "印尼股市上涨0.7%至6,454.388点，创5月20日以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3147233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股算力硬件股震荡下挫，泰金新能跌超10%，炬光科技、光迅科技、东威科技、迅捷兴、东山精密、天承科技跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3147230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股食品、白酒等消费股震荡上扬，一鸣食品、香飘飘双双涨停，金达威此前封板，品渥食品涨超10%，东鹏饮料涨超7%，迎驾贡酒、立高食品、会稽山等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "还有哪些类似《奥德赛》一样史诗题材的电影值得一看？",
+          "url": "https://www.zhihu.com/question/2068418251516633276",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时41分]"
+        },
+        {
+          "title": "WTI原油周一开盘上涨1.5%，现报77.6美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810060035302800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时39分]"
+        },
+        {
+          "title": "A股食品饮料行业板块持续走强，香飘飘、金达威、一鸣食品涨停，品渥食品、东鹏饮料、迎驾贡酒、仲景食品、会稽山、立高食品等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810100456186800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股军工板块异动拉升，长城军工直线涨停，北方长龙涨超10%，湖南天雁、建设工业、东安动力、内蒙一机纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3147217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股养殖板块震荡拉升，益生股份涨停，大禹生物涨超10%，立华股份、牧原股份、温氏股份、湘佳股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指涨0.3%，深成指跌0.48%，6G、玻璃基板、CPO、卫星导航等方向跌幅居前，沪深京三市下跌个股超2600只。",
+          "url": "https://wallstreetcn.com/livenews/3147206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股有色板块震荡拉升，鹏欣资源涨停，寒锐钴业、腾远钴业涨超10%，华友钴业、东方锆业、金钼股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股房地产板块早盘活跃，京投发展涨停，城建发展、我爱我家、金融街、三湘印象、大悦城跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "中证转债指数开盘上涨0.28%。圣泉转债、华懋转债、通合转债、盛德转债、欧通转债涨幅居前，分别涨6.49%、4.66%、2.81%、2.75%、2.63%。宏图转债、宝莱转债、春23转债、博22转债、银轮转债跌幅居前，分别跌3.22%、3.17%、2.77%、0.62%、0.52%。",
+          "url": "https://wallstreetcn.com/livenews/3147190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股白酒板块短线走强，会稽山、迎驾贡酒涨超5%，贵州茅台涨超2%，古井贡酒、泸州老窖等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810095308813800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股半导体设备板块再度拉升，盛美上海涨超10%，托伦斯、微导纳米、恒运昌、富创精密、至纯科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810095231388800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨2%至45,110.97点。",
+          "url": "https://wallstreetcn.com/livenews/3147186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
+          "url": "https://flash.jin10.com/detail/20260810094757732800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "上证指数开盘报3943.82点，涨0.10%。 深证成指开盘报14348.95点，涨0.27%。 创业板指开盘报3567.05点，涨0.11%。 沪深300开盘报4698.82点，涨0.09%。 科创50开盘报1740.14点，跌0.22%。 中证500开盘报8003.92点，涨0.30%。 中证1000开盘报7723.38点，涨0.57%。",
+          "url": "https://wallstreetcn.com/livenews/3147184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "“不能入职 许愿入个股”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8D%E8%83%BD%E5%85%A5%E8%81%8C+%E8%AE%B8%E6%84%BF%E5%85%A5%E4%B8%AA%E8%82%A1%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股锂矿板块走高，永杉锂业涨停，融捷股份、天齐锂业、赣锋锂业、永兴材料、盛新锂能等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260810094409282800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "台湾证交所加权股价指数盘初上涨1%至44,683.14点。",
+          "url": "https://wallstreetcn.com/livenews/3147175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
+          "url": "https://www.cls.cn/detail/2449266",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 10时25分]"
+        },
+        {
+          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 10时25分]"
+        },
+        {
+          "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
+          "url": "https://flash.jin10.com/detail/20260810060135599800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时39分]"
+        },
+        {
+          "title": "现货黄金周一开盘上涨0.2%，现报4349美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260810060105196800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时39分]"
+        },
+        {
+          "title": "布油和WTI原油期货均上涨逾每桶1美元，受霍尔木兹海峡重开的不确定性影响。",
+          "url": "https://wallstreetcn.com/livenews/3147125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时39分]"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.03%，10年期主力合约跌0.00%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3147189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "商品期货开盘，纯碱、乙二醇主力合约涨超3%，燃料油涨超2%，原油、沪银、纯苯、沪金、焦煤涨超1%。PVC跌超2%，沪锡、沪锌跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3147174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -26,7 +409,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -72,160 +455,59 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时39分]"
         },
         {
-          "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗？",
-          "url": "https://www.zhihu.com/question/2067910668142093912",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            3,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时39分]"
-        },
-        {
-          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
-          "url": "https://www.cls.cn/detail/2449215",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时39分]"
-        },
-        {
-          "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33747633",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            12,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时39分]"
-        },
-        {
-          "title": "还有哪些类似《奥德赛》一样史诗题材的电影值得一看？",
-          "url": "https://www.zhihu.com/question/2068418251516633276",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 05时41分]"
-        },
-        {
-          "title": "WTI原油周一开盘上涨1.5%，现报77.6美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260810060035302800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
-          "url": "https://www.cls.cn/detail/2449266",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时39分]"
-        },
-        {
-          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时39分]"
-        },
-        {
-          "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
-          "url": "https://flash.jin10.com/detail/20260810060135599800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时39分]"
-        },
-        {
-          "title": "现货黄金周一开盘上涨0.2%，现报4349美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260810060105196800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时39分]"
-        },
-        {
-          "title": "布油和WTI原油期货均上涨逾每桶1美元，受霍尔木兹海峡重开的不确定性影响。",
-          "url": "https://wallstreetcn.com/livenews/3147125",
+          "title": "摩根士丹利：看好阿里巴巴，因其覆盖全产业链的AI能力、算力方面的优势，以及多年的云增长和完整的利润扩张。",
+          "url": "https://wallstreetcn.com/livenews/3147178",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            17
+            26
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国财政部：将于8月20日在澳门发行60亿元人民币国债",
+          "url": "https://wallstreetcn.com/livenews/3147225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "中华人民共和国财政部、澳门特别行政区中央政府在澳门发行人民币国债",
+          "url": "https://flash.jin10.com/detail/20260810100121098800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年2月10日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3147179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     },
@@ -241,19 +523,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 10时25分]"
         },
         {
           "title": "一边买黄金，一边买美股",
           "url": "https://wallstreetcn.com/articles/3779012",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时40分 ~ 07时39分]"
+          "appearance_count": 7,
+          "time_info": "[03时40分 ~ 10时25分]"
         }
       ]
     },
