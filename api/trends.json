@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T16:46:27.644742+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-08-10T18:25:37.170341+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -61,13 +61,26 @@
           "time_info": "[00时46分 ~ 07时39分]"
         },
         {
+          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
+          "url": "https://www.cls.cn/detail/2449732",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 18时25分]"
+        },
+        {
           "title": "ICE数据显示，英国近月天然气上涨5.1%。",
           "url": "https://flash.jin10.com/detail/20260810163537831800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -106,18 +119,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时46分 ~ 05时41分]"
-        },
-        {
-          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
-          "url": "https://www.cls.cn/detail/2449732",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 16时46分]"
         },
         {
           "title": "印尼股市上涨0.7%至6,454.388点，创5月20日以来最高水平。",
@@ -184,7 +185,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -220,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "【每日收评】沪指录得5连阳，全市场超4000股飘红，大消费、有色板块集体走强",
+          "url": "https://www.cls.cn/detail/2450076",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "港股午评：恒指水上震荡收涨0.72% 创新药、养殖板块领涨大盘",
@@ -272,7 +284,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -467,7 +479,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -486,11 +498,12 @@
           "url": "https://www.cls.cn/detail/2449790",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 18时25分]"
         },
         {
           "title": "植物提取物产业前景广阔，多家北交所公司积极布局",
@@ -510,9 +523,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "Meta推轻量级AI模型 扎克伯格呼吁美国重审开源政策",
+          "url": "https://flash.jin10.com/detail/20260810180349737800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "社保基金接连出手，助力量子科技加速从实验室走向产业化",
@@ -574,6 +598,18 @@
           "time_info": "[00时46分 ~ 02时54分]"
         },
         {
+          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
+          "url": "https://www.zhihu.com/question/2068943667189002947",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 18时25分]"
+        },
+        {
           "title": "“电池护照”实施倒计时：合规要求传导至锂电池产业链上游",
           "url": "https://wallstreetcn.com/livenews/3147137",
           "source": "华尔街见闻-快讯",
@@ -591,7 +627,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -602,18 +638,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
-          "url": "https://www.zhihu.com/question/2068943667189002947",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -624,9 +649,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "市场监管总局批准发布一批重要国家标准，涉及高新技术领域、传统产业、安全生产等",
+          "url": "https://flash.jin10.com/detail/20260810173206044800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "南向资金今日净买入20.21亿元。港股通（沪）方面，、智谱分别获净买入8.33亿港元、5.6亿港元；中芯国际净卖出额居首，金额为1.39亿港元；港股通（深）方面，金斯瑞生物科技、小米集团-W分别获净买入4.72亿港元、1.95亿港元；中芯国际净卖出额居首，金额为3.13亿港元。",
+          "url": "https://flash.jin10.com/detail/20260810173143516800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "摩根士丹利：看好阿里巴巴，因其覆盖全产业链的AI能力、算力方面的优势，以及多年的云增长和完整的利润扩张。",
@@ -643,7 +690,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
@@ -706,6 +753,18 @@
           "time_info": "[06时40分 ~ 07时39分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260810135401469800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 18时25分]"
+        },
+        {
           "title": "布油和WTI原油期货均上涨逾每桶1美元，受霍尔木兹海峡重开的不确定性影响。",
           "url": "https://wallstreetcn.com/livenews/3147125",
           "source": "华尔街见闻-快讯",
@@ -730,22 +789,22 @@
           "time_info": "[12时46分 ~ 14时16分]"
         },
         {
+          "title": "威迈斯：回购股份资金总额由“不低于人民币5000万元（含），不超过人民币1亿元（含）”调整为“不低于人民币1亿元（含），不超过人民币2亿元（含）。",
+          "url": "https://wallstreetcn.com/livenews/3147437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "机构：预估iPhone 18 Pro成本大增近40%，苹果或调整毛利策略以稳健出货",
           "url": "https://flash.jin10.com/detail/20260810135706756800",
           "source": "金十数据",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时16分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260810135401469800",
-          "source": "金十数据",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -780,7 +839,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -791,7 +850,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -810,7 +869,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国财政部：将于8月20日在澳门发行60亿元人民币国债",
@@ -830,7 +889,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -855,6 +914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "中国央行：根据《中国人民银行与德意志联邦银行备忘录》，中国人民银行决定授权德意志银行股份有限公司担任法兰克福人民币清算行。",
+          "url": "https://wallstreetcn.com/livenews/3147404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
@@ -946,7 +1016,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         }
