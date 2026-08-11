@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T15:22:31.494617+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-08-11T17:09:03.511113+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "【每日收评】沪指录得5连阳，全市场超4000股飘红，大消费、有色板块集体走强",
@@ -68,6 +68,19 @@
           "time_info": "[10时19分 ~ 12时27分]"
         },
         {
+          "title": "非科技板块的春天？医药板块调研热度超越半导体",
+          "url": "https://www.cls.cn/detail/2450966",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 17时09分]"
+        },
+        {
           "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
           "url": "https://wallstreetcn.com/livenews/3147690",
           "source": "华尔街见闻-快讯",
@@ -106,18 +119,6 @@
           "time_info": "[12时27分 ~ 13时59分]"
         },
         {
-          "title": "非科技板块的春天？医药板块调研热度超越半导体",
-          "url": "https://www.cls.cn/detail/2450966",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时22分]"
-        },
-        {
           "title": "道琼斯指数8月10日（周一）收盘下跌61.30点，跌幅0.11%，报53975.63点；<br/>标普500指数8月10日（周一）收盘下跌4.62点，跌幅0.06%，报7753.02点；<br/>纳斯达克综合指数8月10日（周一）收盘下跌85.26点，跌幅0.32%，报26605.36点。",
           "url": "https://flash.jin10.com/detail/20260811040525568800",
           "source": "金十数据",
@@ -128,6 +129,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 05时52分]"
+        },
+        {
+          "title": "日元对美元汇率再次大幅下跌",
+          "url": "https://www.douyin.com/hot/2605380",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "德国近日基载电力价格上涨23.6%，达到139.4欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20260811164200002800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "中证转债指数开盘下跌0.04%。华懋转债、航宇转债、金威转债、华峰转债、联瑞转债跌幅居前，分别跌2.33%、2.09%、1.98%、1.61%、1.32%。恒逸转2、胜蓝转02、三江转债、明新转债、奥飞转债涨幅居前，分别涨3.88%、1.79%、1.67%、1.63%、1.52%。",
@@ -169,7 +192,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -295,6 +318,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "法国30年期国债收益率升至4.8004%，创2008年10月以来新高，最新上涨3个基点。",
+          "url": "https://flash.jin10.com/detail/20260811163155615800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "周一（8月10日）纽约尾盘，彭博电动汽车价格回报指数涨1.44%，报3523.01点。 亚太盘初显著走高，北京时间14:00以来持续高位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3147675",
           "source": "华尔街见闻-快讯",
@@ -304,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "在岸人民币兑美元8月11日16:30收盘报6.7457，较上一交易日下跌15点。",
+          "url": "https://flash.jin10.com/detail/20260811163141386800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "上证报头版文章：多重稳市信号释放，资本市场着力强韧性、提信心",
@@ -334,7 +379,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -345,7 +390,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -367,7 +412,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -458,12 +503,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "港股收评：恒指冲高回落收跌1.1% 有色金属板块承压走弱",
+          "url": "https://flash.jin10.com/detail/20260811161522484800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
@@ -473,8 +529,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时09分]"
         },
         {
           "title": "布伦特原油期货结算价为每桶87.72美元，上涨4.17美元，涨幅4.99%。",
@@ -488,13 +544,37 @@
           "time_info": "03时07分"
         },
         {
+          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
+          "url": "https://www.cls.cn/detail/2450976",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 17时09分]"
+        },
+        {
+          "title": "康师傅控股上半年营收405.4亿元人民币，预估408.1亿元人民币。 上半年净利润24.3亿元人民币，上半年调整后净利润2.588亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3147964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "国债期货收盘，30年期主力合约跌0.15%，10年期主力合约跌0.04%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。",
           "url": "https://wallstreetcn.com/livenews/3147919",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -510,18 +590,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时52分 ~ 07时42分]"
-        },
-        {
-          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
-          "url": "https://www.cls.cn/detail/2450976",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时22分]"
         },
         {
           "title": "特朗普媒体科技集团(DJT.O)第二季度营收170万美元，第二季度净亏损2.381亿美元，调整后EBITDA亏损2.235亿美元。",
@@ -621,7 +689,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -654,7 +722,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -882,7 +950,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
@@ -935,6 +1003,17 @@
           "time_info": "[12时27分 ~ 15时22分]"
         },
         {
+          "title": "一组数据看新产业动能强劲",
+          "url": "https://www.douyin.com/hot/2605840",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
           "title": "印度央行行长：敦促各银行对所有人工智能模型进行盘点，并制定经董事会批准的人工智能治理政策。",
           "url": "https://flash.jin10.com/detail/20260811134517603800",
           "source": "金十数据",
@@ -944,6 +1023,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
+          "url": "https://www.cls.cn/detail/2450955",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 17时09分]"
         },
         {
           "title": "货币政策分析公司（Monetary Policy Analytics）经济学家Derek Tang：（相比1998年、2011年）2026年这一次美国与日本联手干预日元汇率时，美联储”并未出资”参与美方的干预行动。 官方数据可能要到今年晚些时候才会公布以证实这一点。 其干预能力理论上仅受限于其意愿。",
@@ -982,18 +1074,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时54分 ~ 06时49分]"
-        },
-        {
-          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
-          "url": "https://www.cls.cn/detail/2450955",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时22分]"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：（谈5000亿美元AI基建融资计划）相关交易将支持人工智能的广泛应用。资金全部来自第三方资本。",
@@ -1065,6 +1145,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "欧洲股债市场吸引全球资金加码 因经济增长与通胀形成理想组合",
+          "url": "https://wallstreetcn.com/livenews/3147958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "合康新能：拟定增募资不超16.52亿元，用于高压变频器研发及产业化等项目",
+          "url": "https://flash.jin10.com/detail/20260811163931139800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "比特币资金流入创四个月新高，黑客事件动摇持有者信心",
@@ -1142,6 +1244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20260811161540319800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
@@ -1149,6 +1262,17 @@
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时42分 ~ 17时09分]"
+        },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
           "url": "https://www.cls.cn/detail/2450652",
@@ -1162,17 +1286,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时48分 ~ 15时22分]"
-        },
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时42分 ~ 15时22分]"
         },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -1317,7 +1430,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加33.73吨，当前持仓量为15206.72吨。欢迎点击查看数据中心...",
@@ -1366,6 +1479,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "中际旭创(03308.HK)：董事会会议将于2026年8月21日举行，借以考虑及批准本公司及其附属公司截至2026年6月30日止六个月的中期业绩及其发布，以及考虑建议派付中期股息（如有）。",
+          "url": "https://flash.jin10.com/detail/20260811163544552800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "离岸人民币同业拆息利率涨跌互现，HKMA日间回购协议流动性被用过半",
           "url": "https://flash.jin10.com/detail/20260811113603455800",
           "source": "金十数据",
@@ -1377,6 +1501,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "理想汽车(02015.HK)：将于2026年8月26日公布2026年第二季度财务业绩。",
+          "url": "https://flash.jin10.com/detail/20260811163122357800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "港股黄金股午后跌幅扩大，紫金矿业(02899.HK)跌超5%，灵宝黄金(03330.HK)跌超6%，招金矿业(01818.HK)、山东黄金(01787.HK)等跟跌。",
           "url": "https://flash.jin10.com/detail/20260811132756854800",
           "source": "金十数据",
@@ -1386,12 +1521,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "伊朗石油部长表示，到9月底将有9500万立方米的天然气恢复进入生产循环。（伊朗官方通讯社Shana）",
+          "url": "https://wallstreetcn.com/livenews/3147937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周一（8月10日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7460元，较上周五（非农日）纽约尾盘跌31点，日内整体交投于6.7419-6.7481元区间，脱离2023年2月3日（盘中最高位6.7342元）以来最高位6.7401元。",
@@ -1405,6 +1551,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时52分 ~ 07时42分]"
+        },
+        {
+          "title": "阅文集团上半年营收35.3亿元人民币，上半年净利润1.354亿元人民币。 上半年平均月付费用户820万，预估880万。",
+          "url": "https://wallstreetcn.com/livenews/3147960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "人民币兑美元中间价报6.7900，下调16点；上一交易日中间价6.7884，上一交易日官方收盘价6.7442，上日夜盘报收6.7495。",
