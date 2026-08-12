@@ -1,12 +1,356 @@
 {
-  "generated_at": "2026-08-12T07:52:50.828395+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-08-12T10:34:18.455665+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 15,
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 29,
       "titles": [
+        {
+          "title": "【早报】美存储板块，逆势走高；油价上涨、黄金回落；上海印发重磅规划，事关GPU、CPO等",
+          "url": "https://www.cls.cn/detail/2451806",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时34分]"
+        },
+        {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 05时57分]"
+        },
+        {
+          "title": "日本30年期国债收益率上涨3.0个基点，至3.980%。",
+          "url": "https://flash.jin10.com/detail/20260812100043299800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报147850元/吨，较上日16:30价格上涨2850元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3148372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股电力板块回调走软，立新能源跌超5%，绿发电力、聆达股份、京能电力等股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260812095930625800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股磷化铟概念震荡走高，欧莱新材涨超9%，云南锗业、华锡有色等股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812095753235800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "日元对美元汇率再次大幅下跌",
+          "url": "https://www.douyin.com/hot/2605380",
+          "source": "抖音",
+          "ranks": [
+            10,
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时13分 ~ 07时52分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
+          "url": "https://www.cls.cn/detail/2451276",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 06时56分]"
+        },
+        {
+          "title": "金银牛市即将重启？专家：回调是“正常波折”，长期风险回报已改善！",
+          "url": "https://www.cls.cn/detail/2451146",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 05时57分]"
+        },
+        {
+          "title": "Coreweave(CRWV.O)美股盘后上涨10%。",
+          "url": "https://flash.jin10.com/detail/20260812043909627800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时56分]"
+        },
+        {
+          "title": "A股教育板块异动走高，传智教育涨停，全通教育、昂立教育、中公教育、创业黑马、科德教育等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260812095424919800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "港股光通信板块冲高，曦智科技(01879.HK)涨超9%，中际旭创(03308.HK)涨近5%，长飞光纤光缆(06869.HK)、海光芯正(01191.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812095418984800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "两大龙头中报披露在即，机构研判港股后市或转入震荡整固期",
+          "url": "https://wallstreetcn.com/livenews/3148280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "创业板指、科创50均涨超1%，沪指涨0.06%，深成指涨0.72%，半导体芯片、算力硬件、创新药、工业母机等方向领涨，沪深京三市上涨个股超3000只。",
+          "url": "https://wallstreetcn.com/livenews/3148350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月11日（周二）晚盘收盘下跌0.58%报947.2元/克；<br/>上海黄金交易所白银T+D 8月11日（周二）晚盘收盘下跌0.92%报15701.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260812024113276800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "A股文化传媒板块短线拉升，省广集团、湖北广电涨停，天龙集团、风语筑、天娱数科、引力传媒跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812095021626800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "房地产板块早盘拉升，京投发展3连板，市北高新、荣盛发展触及涨停，中洲控股、新城控股、金科股份等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "创业板指盘初涨逾1%，深证成指现涨0.74%，CRO概念、先进封装等板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260812094530215800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股光刻机板块持续走强，炬光科技涨超14%，富创精密涨超5%，茂莱光学、江丰电子等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812094505269800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股房地产板块拉升，市北高新、京投发展、香江控股涨停，荣盛发展、中洲控股、金科股份等股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812094300415800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "中证转债指数开盘上涨0.07%。N赛斯转、奥飞转债、爱迪转债、双良转债、精测转2涨幅居前，分别涨30.00%、2.36%、2.31%、1.89%、1.65%。久吾转02、航宇转债、永吉转债、运机转债、银轮转债跌幅居前，分别跌0.99%、0.99%、0.85%、0.64%、0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3148337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "创业板指涨逾1% 上涨个股近3000只",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%B6%A8%E9%80%BE1%25+%E4%B8%8A%E6%B6%A8%E4%B8%AA%E8%82%A1%E8%BF%913000%E5%8F%AA",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "日本20年期国债收益率上涨2.5个基点，至3.710%。",
+          "url": "https://flash.jin10.com/detail/20260812094051812800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
+          "url": "https://wallstreetcn.com/livenews/3148243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "上证指数开盘报3933.55点，跌0.01%。 深证成指开盘报14253.12点，跌0.04%。 创业板指开盘报3542.13点，跌0.20%。 沪深300开盘报4660.47点，跌0.07%。 科创50开盘报1720.36点，涨0.64%。 中证500开盘报7978.04点，涨0.13%。 中证1000开盘报7704.96点，涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3148330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股白酒板块短线拉升，今世缘涨超8%，迎驾贡酒、古井贡酒、舍得酒业、口子窖纷纷上扬。",
+          "url": "https://flash.jin10.com/detail/20260812093801274800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股食品加工制造板块短线拉升，百合股份涨停，巴比食品、朱老六、天味食品、煌上煌、立高食品等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260812093510016800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股创新药板块短线拉升，百花医药拉升涨停走出七连板，万邦医药、泓博医药、陇神戎发、誉衡药业、哈药股份、博济医药跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812093434027800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "周二（8月11日），彭博电动汽车价格回报指数跌1.27%，报3478.39点，亚太时段持续下跌、北京时间14:00以来低位窄幅震荡、交投于3480点附近。",
+          "url": "https://wallstreetcn.com/livenews/3148234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "8月14日24时油价将迎调整",
+          "url": "https://www.douyin.com/hot/2606449",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时34分]"
+        },
         {
           "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
           "url": "https://www.cls.cn/detail/2451345",
@@ -31,15 +375,15 @@
           "time_info": "03时13分"
         },
         {
-          "title": "8月14日24时油价将迎调整",
-          "url": "https://www.douyin.com/hot/2606449",
-          "source": "抖音",
+          "title": "日本首相高市早苗内阁可能在9月中旬或之后改组，预计不太可能调整内阁官房长官、财务大臣和经济产业大臣等关键职位。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3148369",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "10时34分"
         },
         {
           "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
@@ -147,6 +491,28 @@
           "time_info": "03时13分"
         },
         {
+          "title": "国债期货开盘，30年期主力合约跌0.09%，10年期主力合约跌0.00%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3148334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260812093600246800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "Firefly Aerospace二季度营收1.177亿美元，上年同期亏损0.155亿美元。 二季度调整后EBITDA亏损0.612亿美元，分析师预期亏损0.479亿美元。 二季度每股亏损0.57美元，上年同期亏损5.78美元。 Firefly美股盘后跌3.6%。",
           "url": "https://wallstreetcn.com/livenews/3148240",
           "source": "华尔街见闻-快讯",
@@ -174,128 +540,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 05时57分]"
-        },
-        {
-          "title": "【早报】美存储板块，逆势走高；油价上涨、黄金回落；上海印发重磅规划，事关GPU、CPO等",
-          "url": "https://www.cls.cn/detail/2451806",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "日元对美元汇率再次大幅下跌",
-          "url": "https://www.douyin.com/hot/2605380",
-          "source": "抖音",
-          "ranks": [
-            10,
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 07时52分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
-          "url": "https://www.cls.cn/detail/2451276",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 06时56分]"
-        },
-        {
-          "title": "金银牛市即将重启？专家：回调是“正常波折”，长期风险回报已改善！",
-          "url": "https://www.cls.cn/detail/2451146",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 05时57分]"
-        },
-        {
-          "title": "Coreweave(CRWV.O)美股盘后上涨10%。",
-          "url": "https://flash.jin10.com/detail/20260812043909627800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时56分]"
-        },
-        {
-          "title": "两大龙头中报披露在即，机构研判港股后市或转入震荡整固期",
-          "url": "https://wallstreetcn.com/livenews/3148280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月11日（周二）晚盘收盘下跌0.58%报947.2元/克；<br/>上海黄金交易所白银T+D 8月11日（周二）晚盘收盘下跌0.92%报15701.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260812024113276800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
-          "url": "https://wallstreetcn.com/livenews/3148243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "周二（8月11日），彭博电动汽车价格回报指数跌1.27%，报3478.39点，亚太时段持续下跌、北京时间14:00以来低位窄幅震荡、交投于3480点附近。",
-          "url": "https://wallstreetcn.com/livenews/3148234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -336,7 +580,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -397,11 +641,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 10时34分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -412,8 +657,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 07时52分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 10时34分]"
         },
         {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
@@ -434,7 +679,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -453,7 +698,7 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Kalshi年化收入超过40亿美元。 该公司按400亿美元估值洽谈融资。（The Information）",
@@ -493,13 +738,24 @@
           "time_info": "[06时56分 ~ 07时52分]"
         },
         {
+          "title": "港股铝业股盘初走强，创新实业(02788.HK)涨超6%，中国铝业(02600.HK)涨超4%，中国宏桥(01378.HK)、南山铝业国际(02610.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812094218462800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "CFTC命令Kalshi在美国纽约诉讼下继续运营",
           "url": "https://wallstreetcn.com/livenews/3148286",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -507,7 +763,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周二（8月11日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7465元，较周一纽约尾盘跌5点，日内整体交投于6.7443-6.7490元区间。",
@@ -531,6 +787,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年2月8日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3148322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
