@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T12:55:48.656560+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-08-12T14:22:23.841786+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
         {
           "title": "【早报】美存储板块，逆势走高；油价上涨、黄金回落；上海印发重磅规划，事关GPU、CPO等",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 14时22分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -165,7 +165,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -236,6 +236,28 @@
           "time_info": "10时34分"
         },
         {
+          "title": "A股影视院线板块短线拉升，儒意电影涨停，北京文化此前封板走出三连板，中国电影、金逸影视、中广天择、幸福蓝海、横店影视跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812135905668800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "A股食品加工制造板块大幅拉升，安记食品涨停，百合股份此前涨停，好想你、盖世食品、莲花控股、金达威、海欣食品跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "A股房地产板块拉升，市北高新、京投发展、香江控股涨停，荣盛发展、中洲控股、金科股份等股跟涨。",
           "url": "https://flash.jin10.com/detail/20260812094300415800",
           "source": "金十数据",
@@ -275,9 +297,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "A股百货零售板块短线拉升，中兴商业涨停，宁波中百此前封板，百大集团、上海九百、永辉超市、银座股份、东百集团等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "日本20年期国债收益率上涨2.5个基点，至3.710%。",
@@ -297,7 +330,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -335,6 +368,17 @@
           "time_info": "10时34分"
         },
         {
+          "title": "A股房地产板块午后持续走高，城建发展触及涨停，市北高新、京投发展此前封板，荣盛发展、新城控股、天地源跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812134750862800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "A股食品加工制造板块短线拉升，百合股份涨停，巴比食品、朱老六、天味食品、煌上煌、立高食品等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20260812093510016800",
           "source": "金十数据",
@@ -344,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "A股医疗器械板块震荡拉升，宝莱特20cm涨停，澳华内镜涨超10%，鹿得医疗、康众医疗、南卫股份、戴维医疗等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "A股创新药板块短线拉升，百花医药拉升涨停走出七连板，万邦医药、泓博医药、陇神戎发、誉衡药业、哈药股份、博济医药跟涨。",
@@ -357,15 +412,59 @@
           "time_info": "10时34分"
         },
         {
+          "title": "台湾加权指数8月12日（周三）收盘上涨397.35点，涨幅0.88%，报45518.07点。",
+          "url": "https://flash.jin10.com/detail/20260812133514788800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "A股食品加工制造板块大幅拉升，安记食品涨停，百合股份此前涨停，好想你、盖世食品、莲花控股、金达威、海欣食品跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812133459847800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "A股光学元件板块持续走高，光智科技、中润光学涨超10%，东田微、激智科技、水晶光电、波长光电、戈碧迦等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "金十图示：2026年08月12日（周三）富时中国A50指数成分股午盘收盘行情一览：银行、保险、证券多数下跌，半导体、通信设备大幅上涨",
           "url": "https://flash.jin10.com/detail/20260812113604593800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "创业板指午后涨幅扩大至2%，光纤、光刻机、存储芯片等板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3148414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "周二（8月11日），彭博电动汽车价格回报指数跌1.27%，报3478.39点，亚太时段持续下跌、北京时间14:00以来低位窄幅震荡、交投于3480点附近。",
@@ -385,7 +484,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
@@ -393,7 +492,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "8月14日24时油价将迎调整",
@@ -401,11 +500,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 14时22分]"
         },
         {
           "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
@@ -429,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "前7个月我国期货市场累计成交额同比增长38.43%",
+          "url": "https://wallstreetcn.com/livenews/3148452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "日本首相高市早苗内阁可能在9月中旬或之后改组，预计不太可能调整内阁官房长官、财务大臣和经济产业大臣等关键职位。（路透）",
@@ -515,6 +626,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "前7个月我国期货市场累计成交额同比增长38.43%",
+          "url": "https://flash.jin10.com/detail/20260812140147501800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "上期所原油期货2609合约夜盘收跌0.25%，报549.40元人民币/桶。 沪金夜盘收跌0.28%，沪银收跌0.42%。",
           "url": "https://wallstreetcn.com/livenews/3148204",
           "source": "华尔街见闻-快讯",
@@ -524,6 +646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "欧洲斯托克50指数期货上涨0.02%，德国DAX指数期货下跌0.02%，英国富时100指数期货下跌0.24%。",
+          "url": "https://flash.jin10.com/detail/20260812140105778800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "布伦特原油期货结算价为每桶88.91美元，上涨1.19美元，涨幅1.36%。",
@@ -543,7 +676,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -554,7 +687,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -568,6 +701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "Vestas第二季度营收47.2亿欧元，市场预估45.7亿欧元。 第二季度净利润2.80亿欧元。 第二季度自由现金流5,600万欧元，市场预估1.707亿欧元。 预计全年调整后EBIT利润率7%至9%，此前预期6%至8%，市场预估7.2%。 仍预计全年营收200亿至220亿欧元，市场预估212.1亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3148431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "国债期货开盘，30年期主力合约跌0.09%，10年期主力合约跌0.00%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
@@ -587,7 +731,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -639,7 +783,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "上海：到2030年把上海软件和信息服务业打造成经济增长“动力源” 产业规模力争达到4万亿元",
@@ -657,11 +801,12 @@
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E7%BB%99%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时22分]"
         },
         {
           "title": "美国太空军盖特莱因上将：我们需要解决2027年“金穹顶”的资金问题。",
@@ -673,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260812141043151800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "IIF：7月新兴市场结束了连续两个月的资金外流态势",
@@ -692,7 +848,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -737,17 +893,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 06时56分]"
-        },
-        {
           "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
           "url": "https://www.cls.cn/detail/2451784",
           "source": "财联社热门",
@@ -757,8 +902,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时56分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[06时56分 ~ 14时22分]"
+        },
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 06时56分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -918,7 +1074,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
@@ -935,7 +1091,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
