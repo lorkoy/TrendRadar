@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T16:28:39.713955+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-08-13T18:17:28.358830+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
@@ -26,11 +26,12 @@
             15,
             19,
             21,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 16时28分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 18时17分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -74,7 +75,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -197,6 +198,39 @@
           "time_info": "03时13分"
         },
         {
+          "title": "宏和科技：2026年上半年电子级玻璃纤维布营收10.33亿元 同比上涨147.61%",
+          "url": "https://wallstreetcn.com/livenews/3149092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
+          "url": "https://www.cls.cn/detail/2453364",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "股价飙升34%！算力租赁商Nebius Q2云收入暴增514% 点燃AI基建板块",
+          "url": "https://www.cls.cn/detail/2453081",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "纽元兑美元NZD/USD日内下跌0.50%，现报0.5827。",
           "url": "https://flash.jin10.com/detail/20260813122126963800",
           "source": "金十数据",
@@ -247,7 +281,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -269,7 +303,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -280,7 +314,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -291,7 +325,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
@@ -299,7 +333,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "MSCI中国旗舰指数调整：新纳入智谱等33只标的",
@@ -354,7 +388,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -456,7 +490,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -467,7 +501,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -494,13 +528,24 @@
           "time_info": "05时55分"
         },
         {
+          "title": "欧洲天然气基准期货一度下跌3.3%，跌至每兆瓦时60欧元以下。",
+          "url": "https://wallstreetcn.com/livenews/3149061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "商品期货收盘，生猪、BR橡胶主力合约涨超2%，纸浆涨2%，碳酸锂、豆一、鸡蛋、甲醇、塑料、燃料油等涨超1%。玻璃、钯、纯碱、氧化铝、焦煤、铝合金、沪铝跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3148994",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
@@ -516,11 +561,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时52分 ~ 16时28分]"
+          "appearance_count": 6,
+          "time_info": "[06时52分 ~ 18时17分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
@@ -545,6 +591,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时52分 ~ 16时28分]"
+        },
+        {
+          "title": "李大霄提醒警惕美股泡沫爆破",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E8%AD%A6%E6%83%95%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 18时17分]"
         },
         {
           "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
@@ -594,17 +652,6 @@
           "time_info": "[05时55分 ~ 06时52分]"
         },
         {
-          "title": "李大霄提醒警惕美股泡沫爆破",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E8%AD%A6%E6%83%95%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
           "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260813003436500800",
           "source": "金十数据",
@@ -622,7 +669,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -663,7 +710,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
@@ -694,7 +741,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -705,11 +752,24 @@
           "ranks": [
             17,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 16时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 18时17分]"
+        },
+        {
+          "title": "从表态到实操！险资近一个月密集调研通信板块，科技产业增量成核心布局方向",
+          "url": "https://www.cls.cn/detail/2453116",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 18时17分]"
         },
         {
           "title": "主力资金流向前十大个股",
@@ -723,15 +783,26 @@
           "time_info": "14时25分"
         },
         {
-          "title": "从表态到实操！险资近一个月密集调研通信板块，科技产业增量成核心布局方向",
-          "url": "https://www.cls.cn/detail/2453116",
-          "source": "财联社热门",
+          "title": "中国央行Q2货币政策执行报告：适度宽松货币政策效果持续显现，金融服务实体经济质效不断提升",
+          "url": "https://wallstreetcn.com/articles/3779289",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "18时17分"
+        },
+        {
+          "title": "AI重构半导体产业？韩国双雄积极导入AI 研发、设备甚至KPI都要改",
+          "url": "https://www.cls.cn/detail/2453126",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "安全应急装备产业发展“十五五”规划发布",
@@ -740,7 +811,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
@@ -757,11 +828,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 16时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 18时17分]"
         },
         {
           "title": "不加息也压不住？10年期美债中标收益率创金融危机以来最高！",
@@ -792,6 +864,46 @@
           "source": "金十数据",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周三（8月12日）纽约尾盘（周三北京时间04:59），美元兑离岸人民币（CNH）报6.7464元，持平于周二纽约尾盘汇价，日内整体交投于6.74193-6.74873元区间。",
+          "url": "https://wallstreetcn.com/livenews/3148766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时52分]"
+        },
+        {
+          "title": "京东物流上半年营收1,246.8亿元人民币，净利润32.9亿元人民币。 上半年非国际财务准则盈利37.0亿元人民币。 上半年研发支出23.5亿元人民币。 上半年销售费用33.6亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3149070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "离岸人民币同业拆息利率涨跌互现，两周期拆息创近一周新低",
+          "url": "https://flash.jin10.com/detail/20260813120447416800",
+          "source": "金十数据",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -839,38 +951,20 @@
       ]
     },
     {
-      "keyword_group": "人民币",
+      "keyword_group": "SZ SH HK",
       "match_count": 2,
       "titles": [
         {
-          "title": "周三（8月12日）纽约尾盘（周三北京时间04:59），美元兑离岸人民币（CNH）报6.7464元，持平于周二纽约尾盘汇价，日内整体交投于6.74193-6.74873元区间。",
-          "url": "https://wallstreetcn.com/livenews/3148766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时52分]"
-        },
-        {
-          "title": "离岸人民币同业拆息利率涨跌互现，两周期拆息创近一周新低",
-          "url": "https://flash.jin10.com/detail/20260813120447416800",
+          "title": "京东(09618.HK)2026年Q2营收3464亿元，上年同期3566.6亿元。",
+          "url": "https://flash.jin10.com/detail/20260813180049561800",
           "source": "金十数据",
           "ranks": [
-            23
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 1,
-      "titles": [
+          "time_info": "18时17分"
+        },
         {
           "title": "联想集团(00992.HK)：第一季度集团收入同比增长43%，达269亿美元，创单季度新高。",
           "url": "https://flash.jin10.com/detail/20260813120743991800",
