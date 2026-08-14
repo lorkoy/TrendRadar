@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T05:33:16.673628+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-08-15T06:32:49.476751+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 06时32分]"
         },
         {
           "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时32分]"
         },
         {
           "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览（美股收盘）",
@@ -114,6 +115,91 @@
       ]
     },
     {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "布伦特原油期货结算价为每桶88.52美元，上涨1.45美元，涨幅1.67%。",
+          "url": "https://wallstreetcn.com/livenews/3149858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时33分]"
+        },
+        {
+          "title": "上期所原油期货主力合约夜盘收涨2.60%，报569.30元人民币/桶。 沪银2609合约夜盘收涨0.68%，报15820元/千克。 沪金2609合约夜盘收涨0.63%，报949.66元/克。",
+          "url": "https://wallstreetcn.com/livenews/3149853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时33分]"
+        },
+        {
+          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3149887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "市场消息：美国司法部和商品期货交易委员会正在调查铁矿石交易商Radiant World的交易。",
+          "url": "https://flash.jin10.com/detail/20260815011017096800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "市场消息：Anthropic在2026年第二季度初步营收超过115亿美元，较上年同期至少增长了14倍，同时报告实现调整后营业利润为正。",
+          "url": "https://flash.jin10.com/detail/20260815051457331800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "美国司法部与商品期货交易委员会正在对铁矿石交易商Radiant World的交易活动展开调查。",
+          "url": "https://wallstreetcn.com/livenews/3149840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "国内商品期货夜盘收盘，合成橡胶、对二甲苯、乙二醇、PTA、低硫燃油、纯苯、苯乙烯涨超2%，焦炭、瓶片、豆一涨超1%。胶版纸、铁矿石小幅下跌。",
+          "url": "https://wallstreetcn.com/livenews/3149814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
       "match_count": 6,
       "titles": [
@@ -122,11 +208,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33778388",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 06时32分]"
         },
         {
           "title": "美元指数14日下跌",
@@ -134,11 +221,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时32分]"
         },
         {
           "title": "国际油价14日上涨",
@@ -189,69 +277,6 @@
       ]
     },
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "布伦特原油期货结算价为每桶88.52美元，上涨1.45美元，涨幅1.67%。",
-          "url": "https://wallstreetcn.com/livenews/3149858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时33分]"
-        },
-        {
-          "title": "上期所原油期货主力合约夜盘收涨2.60%，报569.30元人民币/桶。 沪银2609合约夜盘收涨0.68%，报15820元/千克。 沪金2609合约夜盘收涨0.63%，报949.66元/克。",
-          "url": "https://wallstreetcn.com/livenews/3149853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时33分]"
-        },
-        {
-          "title": "市场消息：美国司法部和商品期货交易委员会正在调查铁矿石交易商Radiant World的交易。",
-          "url": "https://flash.jin10.com/detail/20260815011017096800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "美国司法部与商品期货交易委员会正在对铁矿石交易商Radiant World的交易活动展开调查。",
-          "url": "https://wallstreetcn.com/livenews/3149840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "国内商品期货夜盘收盘，合成橡胶、对二甲苯、乙二醇、PTA、低硫燃油、纯苯、苯乙烯涨超2%，焦炭、瓶片、豆一涨超1%。胶版纸、铁矿石小幅下跌。",
-          "url": "https://wallstreetcn.com/livenews/3149814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "资金 政策 产业",
       "match_count": 2,
       "titles": [
@@ -262,11 +287,12 @@
           "ranks": [
             6,
             7,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 06时32分]"
         },
         {
           "title": "从“龙餐馆”看中国电影工业产业链",
@@ -282,6 +308,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 06时32分]"
+        },
+        {
+          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
+          "url": "https://wallstreetcn.com/livenews/3149890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
@@ -293,8 +348,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 06时32分]"
         }
       ]
     },
@@ -307,29 +362,12 @@
           "url": "https://www.toutiao.com/trending/7673177168197992475/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 05时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 06时32分]"
         }
       ]
     }
