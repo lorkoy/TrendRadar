@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T12:56:51.673991+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-08-14T16:23:35.868471+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
@@ -19,6 +19,17 @@
           "time_info": "[01时04分 ~ 05时55分]"
         },
         {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 16时23分]"
+        },
+        {
           "title": "标普冲击新高 费城半导体指数即将重回“牛市” | 今夜看点",
           "url": "https://www.cls.cn/detail/2453791",
           "source": "财联社热门",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时04分 ~ 10时34分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时51分 ~ 12时56分]"
         },
         {
           "title": "【焦点复盘】科创50高开低走跌超1%，两市成交额放大近4000亿，电力板块午后逆势拉升",
@@ -89,6 +89,19 @@
           "time_info": "[01时05分 ~ 03时14分]"
         },
         {
+          "title": "五粮液“挺价”新措施：经销商不得低于800元抛售第八代五粮液，批价月内已明显上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33778388",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 16时23分]"
+        },
+        {
           "title": "热门中概股多数下跌",
           "url": "https://wallstreetcn.com/livenews/3149327",
           "source": "华尔街见闻-快讯",
@@ -99,18 +112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 07时52分]"
-        },
-        {
-          "title": "五粮液“挺价”新措施：经销商不得低于800元抛售第八代五粮液，批价月内已明显上涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33778388",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 12时56分]"
         },
         {
           "title": "WORKDAY股价收盘上涨18%，创2016年以来最佳单日表现。",
@@ -131,7 +132,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -145,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "应用材料(AMAT.O)股价在美股盘前交易中下跌5%。",
+          "url": "https://flash.jin10.com/detail/20260814160246762800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
@@ -197,7 +209,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -252,9 +264,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "印尼基准股指上涨1%，至6366.68点。",
+          "url": "https://wallstreetcn.com/livenews/3149562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美股三大指数集体收涨，道指涨0.13%，纳指涨0.81%，标普500指数涨0.65%。 存储板块大涨，闪迪涨13.67%，西部数据、海力士涨超7%。光通信板块走低，Coherent跌约8%，Lumentum、康宁、Applied Optoelectronics跌超5%。",
@@ -266,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "越南VN指数下跌2%，报1730.25点。",
+          "url": "https://wallstreetcn.com/livenews/3149560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美国30年期国债收益率在30年期债券拍卖后小幅回升；最新下跌2.9个基点，报5.217%。",
@@ -296,9 +330,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "投资者获利了结 金价本周料小幅下跌",
+          "url": "https://flash.jin10.com/detail/20260814155021537800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "A股稀土永磁概念早盘震荡走强，中国稀土逼近涨停，中稀有色、九菱科技、中科磁业、北方稀土跟涨。",
@@ -329,15 +374,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "上证指数收报3927.18点，涨0.01%。 深证成指收报14354.31点，涨0.45%。 创业板指收报3626.30点，涨1.12%。 沪深300收报4665.88点，涨0.04%。 科创50收报1717.68点，跌0.00%。 中证500收报7990.33点，涨0.28%。 中证1000收报7769.82点，涨0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3149549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -467,15 +523,37 @@
           "time_info": "10时34分"
         },
         {
+          "title": "如果算力期货上市，AI泡沫会被放大吗？",
+          "url": "https://flash.jin10.com/detail/20260814155121344800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约跌0.05%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约涨0.00%。",
           "url": "https://wallstreetcn.com/livenews/3149458",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "实物流动清淡，库存结构调整幅度有限｜黄金库存日报上新",
+          "url": "https://flash.jin10.com/detail/20260814155030493800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "富时中国A50指数期货夜盘收盘涨0.03%。",
@@ -487,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260814154627825800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "WTI 9月原油期货下跌2.02美元，收于每桶81.25美元，跌幅为2.43%。 布伦特10月原油期货下跌1.91美元，收于每桶87.07美元，跌幅为2.15%。",
@@ -520,12 +609,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "商品期货收盘，焦煤主力合约涨超4%，菜籽油涨超3%，LU燃油、碳酸锂、燃料油、纯苯、多晶硅、甲醇、工业硅、苯乙烯涨超2%。钯跌超3%，不锈钢跌超2%，沪银跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3149547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -608,6 +708,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "美股恐慌指数骤降 华尔街开始警惕",
+          "url": "https://www.toutiao.com/trending/7673504531824512521/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260814040642401800",
           "source": "金十数据",
@@ -632,8 +743,113 @@
       ]
     },
     {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "财政部印发《彩票市场调控资金管理办法》",
+          "url": "https://wallstreetcn.com/livenews/3149592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "财政部印发《彩票市场调控资金管理办法》",
+          "url": "https://flash.jin10.com/detail/20260814160241316800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "央行今日开展10000亿元买断式逆回购操作 专家：体现了稳健偏松的货币政策取向",
+          "url": "https://flash.jin10.com/detail/20260814122929918800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "菲律宾央行行长：考虑到增长和通胀数据，我们需要更有说服力的趋势才能放松政策。",
+          "url": "https://flash.jin10.com/detail/20260814100526726800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "据英国金融时报：美国投资巨头T Rowe Price的负责人预测，要扭转资金大量外流的局面，还需要“几年时间”，因为被动投资的竞争不断给主动型基金经理的费用带来压力。",
+          "url": "https://flash.jin10.com/detail/20260814121309855800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "美国副总统万斯：美国在对伊朗的政策上有很多工具可用。",
+          "url": "https://flash.jin10.com/detail/20260814042156796800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "工信部部长李乐成调研盐湖产业和工业绿色低碳发展",
+          "url": "https://wallstreetcn.com/livenews/3149566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
+          "url": "https://wallstreetcn.com/livenews/3149402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "四部门发布关于集成电路企业、工业母机企业非货币性资产交换企业所得税政策的公告",
+          "url": "https://wallstreetcn.com/livenews/3149554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SZ SH HK",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Whiplash直拍",
@@ -679,6 +895,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "唐嫣真sunshine回来了",
+          "url": "https://www.douyin.com/hot/2609460",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
@@ -727,67 +954,6 @@
       ]
     },
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "央行今日开展10000亿元买断式逆回购操作 专家：体现了稳健偏松的货币政策取向",
-          "url": "https://flash.jin10.com/detail/20260814122929918800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "菲律宾央行行长：考虑到增长和通胀数据，我们需要更有说服力的趋势才能放松政策。",
-          "url": "https://flash.jin10.com/detail/20260814100526726800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "据英国金融时报：美国投资巨头T Rowe Price的负责人预测，要扭转资金大量外流的局面，还需要“几年时间”，因为被动投资的竞争不断给主动型基金经理的费用带来压力。",
-          "url": "https://flash.jin10.com/detail/20260814121309855800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "美国副总统万斯：美国在对伊朗的政策上有很多工具可用。",
-          "url": "https://flash.jin10.com/detail/20260814042156796800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
-          "url": "https://wallstreetcn.com/livenews/3149402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -821,11 +987,12 @@
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 16时23分]"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
@@ -863,7 +1030,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
