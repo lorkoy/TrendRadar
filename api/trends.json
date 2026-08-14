@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T21:24:51.487974+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-08-14T23:02:56.075199+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
@@ -55,6 +55,22 @@
           "time_info": "[01时04分 ~ 07时52分]"
         },
         {
+          "title": "五粮液“挺价”新措施：经销商不得低于800元抛售第八代五粮液，批价月内已明显上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33778388",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            10,
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时34分 ~ 23时02分]"
+        },
+        {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报151600元/吨，较上日16:30价格上涨2250元/吨。",
           "url": "https://wallstreetcn.com/livenews/3149439",
           "source": "华尔街见闻-快讯",
@@ -77,19 +93,15 @@
           "time_info": "03时14分"
         },
         {
-          "title": "五粮液“挺价”新措施：经销商不得低于800元抛售第八代五粮液，批价月内已明显上涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33778388",
-          "source": "澎湃新闻",
+          "title": "博通股价下跌5%，领跌标普500指数。",
+          "url": "https://wallstreetcn.com/livenews/3149809",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            13,
-            10,
-            11,
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 21时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "伦敦股市13日下跌",
@@ -112,8 +124,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 21时24分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 23时02分]"
         },
         {
           "title": "热门中概股多数下跌",
@@ -193,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "波罗的海干散货运价指数周线下跌，因海岬和巴拿马型船走疲",
+          "url": "https://flash.jin10.com/detail/20260814225122767800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "订单看到2030年！应用材料半导体设备业绩强劲，股价为何下跌？",
@@ -377,7 +400,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -429,7 +452,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -443,28 +466,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 07时52分]"
-        },
-        {
-          "title": "现货白银日内涨幅达1%，报65.09美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3149781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "夜盘期货开盘，焦煤、PTA、低硫燃油、纯苯、苯乙烯、对二甲苯、豆二、瓶片涨逾1%；玻璃跌逾1%，烧碱、不锈钢等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3149779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
         },
         {
           "title": "上期所原油期货2609合约夜盘收涨0.79%，报558.60元人民币/桶。 沪金夜盘收跌1.16%，沪银收跌1.47%。",
@@ -511,6 +512,18 @@
           "time_info": "05时55分"
         },
         {
+          "title": "现货白银日内涨幅达1%，报65.09美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3149781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 23时02分]"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260814073857634800",
           "source": "金十数据",
@@ -521,6 +534,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时52分 ~ 10时34分]"
+        },
+        {
+          "title": "夜盘期货开盘，焦煤、PTA、低硫燃油、纯苯、苯乙烯、对二甲苯、豆二、瓶片涨逾1%；玻璃跌逾1%，烧碱、不锈钢等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3149779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 23时02分]"
         },
         {
           "title": "Citadel近期调整欧洲三家公司空头头寸",
@@ -576,7 +601,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -587,7 +612,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -609,7 +634,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -620,9 +645,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "现货黄金日内涨幅达1%，报4394.83美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3149792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "如果算力期货上市，AI泡沫会被放大吗？",
@@ -727,7 +763,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "财政部印发《彩票市场调控资金管理办法》",
@@ -746,11 +782,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 21时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 23时02分]"
         },
         {
           "title": "财政部印发《彩票市场调控资金管理办法》",
@@ -792,7 +829,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -841,6 +878,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "上海：推动集成电路、民用航空、智能汽车、高端装备等主导产业积厚成势",
+          "url": "https://wallstreetcn.com/livenews/3149788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
           "url": "https://wallstreetcn.com/livenews/3149402",
           "source": "华尔街见闻-快讯",
@@ -880,7 +928,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         }
@@ -888,7 +936,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -941,11 +989,12 @@
           "url": "https://wallstreetcn.com/livenews/3149772",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 23时02分]"
         },
         {
           "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
@@ -988,9 +1037,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，生物科技指数ETF跌超1%，医疗业ETF跌近1%，公用事业ETF、能源业ETF微涨。",
+          "url": "https://wallstreetcn.com/livenews/3149790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美股恐慌指数骤降 华尔街开始警惕",
@@ -1002,6 +1062,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3149787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
@@ -1147,7 +1218,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周四（8月13日）纽约尾盘（周五北京时间04:59），美元兑离岸人民币（CNH）报6.7444元，较周三纽约尾盘跌14点，日内整体交投于6.74793-6.74218元区间。",
@@ -1171,6 +1242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "中国7月新增社融1.41万亿元，人民币贷款减少3400亿，M2同比增长7.7%",
+          "url": "https://wallstreetcn.com/articles/3779446",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "人民币为什么走出独立行情",
@@ -1209,7 +1291,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -1232,11 +1314,23 @@
             10,
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 21时24分]"
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 23时02分]"
+        },
+        {
+          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
+          "url": "https://flash.jin10.com/detail/20260814230024749800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
