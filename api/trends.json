@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T16:23:35.868471+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-08-14T18:13:36.262975+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
@@ -95,11 +95,12 @@
           "ranks": [
             16,
             13,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 18时13分]"
         },
         {
           "title": "热门中概股多数下跌",
@@ -154,7 +155,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -179,6 +180,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "美国银行：共和党中期胜利则牛市延续 民主党破局则风险蔓延",
+          "url": "https://flash.jin10.com/detail/20260814173128151800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "订单看到2030年！应用材料半导体设备业绩强劲，股价为何下跌？",
+          "url": "https://www.cls.cn/detail/2454083",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "中证转债指数开盘上涨0.18%。玉禾转债、炬申转债、特宝转债、申能转债、锡振转债涨幅居前，分别涨30.00%、20.00%、13.80%、4.90%、4.45%。曙26转债、金25转债、欧晶转债、皓元转债、明新转债跌幅居前，分别跌1.03%、0.52%、0.47%、0.46%、0.41%。",
@@ -275,7 +298,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -297,7 +320,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -341,7 +364,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -385,7 +408,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         }
@@ -529,7 +552,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -551,7 +574,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -573,7 +596,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -617,9 +640,264 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "财政部印发《彩票市场调控资金管理办法》",
+          "url": "https://wallstreetcn.com/livenews/3149592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "财政部印发《彩票市场调控资金管理办法》",
+          "url": "https://flash.jin10.com/detail/20260814160241316800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "南向资金今日净卖出13.16亿元。港股通（沪）方面，阿里巴巴-W、美团-W分别获净卖出8.79亿港元、7.88亿港元；腾讯控股净买入额居首，金额为11.27亿港元；港股通（深）方面，华虹宏力、联想集团分别获净卖出7.83亿港元、2.93亿港元；净买入额居首，金额为6.3亿港元。",
+          "url": "https://flash.jin10.com/detail/20260814173152805800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "央行今日开展10000亿元买断式逆回购操作 专家：体现了稳健偏松的货币政策取向",
+          "url": "https://flash.jin10.com/detail/20260814122929918800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "菲律宾央行行长：考虑到增长和通胀数据，我们需要更有说服力的趋势才能放松政策。",
+          "url": "https://flash.jin10.com/detail/20260814100526726800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "据英国金融时报：美国投资巨头T Rowe Price的负责人预测，要扭转资金大量外流的局面，还需要“几年时间”，因为被动投资的竞争不断给主动型基金经理的费用带来压力。",
+          "url": "https://flash.jin10.com/detail/20260814121309855800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "美国副总统万斯：美国在对伊朗的政策上有很多工具可用。",
+          "url": "https://flash.jin10.com/detail/20260814042156796800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "工信部部长李乐成调研盐湖产业和工业绿色低碳发展",
+          "url": "https://wallstreetcn.com/livenews/3149566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "五粮液要求经销商不得低于 800 元卖酒，低价出货将遭处罚，这合法吗？控价政策会给经销商带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2071599755390444398",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
+          "url": "https://wallstreetcn.com/livenews/3149402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "央行等两部门：决定在全国范围内推广跨国公司本外币跨境资金集中运营业务",
+          "url": "https://wallstreetcn.com/livenews/3149650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "四部门发布关于集成电路企业、工业母机企业非货币性资产交换企业所得税政策的公告",
+          "url": "https://wallstreetcn.com/livenews/3149554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "Whiplash直拍",
+          "url": "https://s.weibo.com/weibo?q=Whiplash%E7%9B%B4%E6%8B%8D&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 03时14分]"
+        },
+        {
+          "title": "谷歌推出Gemini 3.7 Flash模型",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%8E%A8%E5%87%BAGemini+3.7+Flash%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "唐嫣真sunshine回来了",
+          "url": "https://www.douyin.com/hot/2609460",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 18时13分]"
+        },
+        {
+          "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
+          "url": "https://flash.jin10.com/detail/20260814012101785800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "谷歌推出新版 Gemini Flash，但顶级AI模型仍延迟发布",
+          "url": "https://wallstreetcn.com/livenews/3149263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
+          "url": "https://flash.jin10.com/detail/20260814011003598800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "MINIMAX-W(00100.HK)：定于2026年8月26日举行本公司董事会会议，以考虑及通过本集团截至2026年6月30日止的六个月中期业绩，以及处理其他事项。",
+          "url": "https://flash.jin10.com/detail/20260814171624612800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash在复杂文档处理方面性能超过Gemini 3.6 Flash。",
+          "url": "https://flash.jin10.com/detail/20260814010933087800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "亿万富豪阿克曼旗下Pershing将推出首支风险投资基金 押注IPO前企业",
+          "url": "https://wallstreetcn.com/livenews/3149239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini Spark从今天起将使用Gemini 3.7 Flash。",
+          "url": "https://flash.jin10.com/detail/20260814010716822800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         }
       ]
     },
@@ -714,7 +992,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -743,35 +1021,36 @@
       ]
     },
     {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 9,
+      "keyword_group": "人民币",
+      "match_count": 5,
       "titles": [
         {
-          "title": "财政部印发《彩票市场调控资金管理办法》",
-          "url": "https://wallstreetcn.com/livenews/3149592",
+          "title": "周四（8月13日）纽约尾盘（周五北京时间04:59），美元兑离岸人民币（CNH）报6.7444元，较周三纽约尾盘跌14点，日内整体交投于6.74793-6.74218元区间。",
+          "url": "https://wallstreetcn.com/livenews/3149328",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 07时52分]"
         },
         {
-          "title": "财政部印发《彩票市场调控资金管理办法》",
-          "url": "https://flash.jin10.com/detail/20260814160241316800",
-          "source": "金十数据",
+          "title": "追觅卖出首台手机，售价超20万元人民币",
+          "url": "https://wallstreetcn.com/livenews/3149670",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "18时13分"
         },
         {
-          "title": "央行今日开展10000亿元买断式逆回购操作 专家：体现了稳健偏松的货币政策取向",
-          "url": "https://flash.jin10.com/detail/20260814122929918800",
-          "source": "金十数据",
+          "title": "人民币为什么走出独立行情",
+          "url": "https://www.toutiao.com/trending/7672613591959765046/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
@@ -780,182 +1059,32 @@
           "time_info": "12时56分"
         },
         {
-          "title": "菲律宾央行行长：考虑到增长和通胀数据，我们需要更有说服力的趋势才能放松政策。",
-          "url": "https://flash.jin10.com/detail/20260814100526726800",
+          "title": "中国中冶：公司2026年1-7月新签合同额人民币4,474.6亿元，其中新签海外合同额人民币391.3亿元。",
+          "url": "https://flash.jin10.com/detail/20260814171928803800",
           "source": "金十数据",
           "ranks": [
-            16
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年2月8日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3149403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
-        },
-        {
-          "title": "据英国金融时报：美国投资巨头T Rowe Price的负责人预测，要扭转资金大量外流的局面，还需要“几年时间”，因为被动投资的竞争不断给主动型基金经理的费用带来压力。",
-          "url": "https://flash.jin10.com/detail/20260814121309855800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "美国副总统万斯：美国在对伊朗的政策上有很多工具可用。",
-          "url": "https://flash.jin10.com/detail/20260814042156796800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "工信部部长李乐成调研盐湖产业和工业绿色低碳发展",
-          "url": "https://wallstreetcn.com/livenews/3149566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
-          "url": "https://wallstreetcn.com/livenews/3149402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "四部门发布关于集成电路企业、工业母机企业非货币性资产交换企业所得税政策的公告",
-          "url": "https://wallstreetcn.com/livenews/3149554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "Whiplash直拍",
-          "url": "https://s.weibo.com/weibo?q=Whiplash%E7%9B%B4%E6%8B%8D&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 03时14分]"
-        },
-        {
-          "title": "谷歌推出Gemini 3.7 Flash模型",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%8E%A8%E5%87%BAGemini+3.7+Flash%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
-        },
-        {
-          "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
-          "url": "https://flash.jin10.com/detail/20260814012101785800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "谷歌推出新版 Gemini Flash，但顶级AI模型仍延迟发布",
-          "url": "https://wallstreetcn.com/livenews/3149263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "唐嫣真sunshine回来了",
-          "url": "https://www.douyin.com/hot/2609460",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
-          "url": "https://flash.jin10.com/detail/20260814011003598800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash在复杂文档处理方面性能超过Gemini 3.6 Flash。",
-          "url": "https://flash.jin10.com/detail/20260814010933087800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "亿万富豪阿克曼旗下Pershing将推出首支风险投资基金 押注IPO前企业",
-          "url": "https://wallstreetcn.com/livenews/3149239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini Spark从今天起将使用Gemini 3.7 Flash。",
-          "url": "https://flash.jin10.com/detail/20260814010716822800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -988,11 +1117,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 18时13分]"
+        },
+        {
+          "title": "美联储抗通胀信誉面临大考！华尔街借“蝴蝶”策略押注美债反转",
+          "url": "https://flash.jin10.com/detail/20260814171830547800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
@@ -1004,46 +1145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周四（8月13日）纽约尾盘（周五北京时间04:59），美元兑离岸人民币（CNH）报6.7444元，较周三纽约尾盘跌14点，日内整体交投于6.74793-6.74218元区间。",
-          "url": "https://wallstreetcn.com/livenews/3149328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 07时52分]"
-        },
-        {
-          "title": "人民币为什么走出独立行情",
-          "url": "https://www.toutiao.com/trending/7672613591959765046/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "人民币兑美元中间价创2023年2月8日以来新高",
-          "url": "https://wallstreetcn.com/livenews/3149403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
         }
       ]
     },
