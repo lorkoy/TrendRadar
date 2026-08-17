@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T11:09:17.120312+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-08-17T12:53:35.940316+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "半导体设备ETF震荡走高，半导体设备ETF广发、半导体设备ETF华夏、科创半导体设备ETF鹏华均涨超4%。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -28,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "深成指、创业板指均涨超1%，科创50涨超3%，沪指涨0.61%，农业、半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近3100只。",
-          "url": "https://wallstreetcn.com/livenews/3150182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
         },
         {
           "title": "A股光刻胶板块走高，百合花涨停，达威股份、钢研纳克、上海新阳、肯特催化、奥来德跟涨。",
@@ -69,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -97,6 +86,18 @@
           "time_info": "[01时27分 ~ 06时31分]"
         },
         {
+          "title": "深成指、创业板指均涨超1%，科创50涨超3%，沪指涨0.61%，农业、半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近3100只。",
+          "url": "https://wallstreetcn.com/livenews/3150182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时53分]"
+        },
+        {
           "title": "中证转债指数开盘上涨0.02%。N振26转、炬申转债、华懋转债、天准转债、运机转债涨幅居前，分别涨30.00%、9.06%、2.46%、1.75%、1.63%。玉禾转债、微导转债、精测转2、奥飞转债、赛斯转债跌幅居前，分别跌3.37%、2.43%、2.05%、1.75%、1.61%。",
           "url": "https://wallstreetcn.com/livenews/3150153",
           "source": "华尔街见闻-快讯",
@@ -107,6 +108,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 11时09分]"
+        },
+        {
+          "title": "德银：央行购金+ETF流入，黄金处于“爆炸性”上涨阶段",
+          "url": "https://wallstreetcn.com/articles/3779529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 12时53分]"
         },
         {
           "title": "上证指数开盘报3930.10点，涨0.07%。 深证成指开盘报14399.20点，涨0.31%。 创业板指开盘报3632.78点，涨0.18%。 沪深300开盘报4672.28点，涨0.14%。 科创50开盘报1721.55点，涨0.23%。 中证500开盘报8007.87点，涨0.22%。 中证1000开盘报7797.18点，涨0.35%。",
@@ -121,15 +134,16 @@
           "time_info": "[09时49分 ~ 11时09分]"
         },
         {
-          "title": "德银：央行购金+ETF流入，黄金处于“爆炸性”上涨阶段",
-          "url": "https://wallstreetcn.com/articles/3779529",
-          "source": "华尔街见闻",
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报153950元/吨，较上日16:30价格上涨1000元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3150173",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            6,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
+          "time_info": "[11时09分 ~ 12时53分]"
         },
         {
           "title": "票房飙涨！《牛来》带火“牛字辈”个股？市场人士：警惕情绪炒作",
@@ -164,17 +178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报153950元/吨，较上日16:30价格上涨1000元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3150173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
         },
         {
           "title": "A股影视院线板块跳水，北京文化跌停，儒意电影、华智数媒、博纳影业、百纳千成、中视传媒等跟跌。",
@@ -216,9 +219,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "上证指数早盘收报3960.19点，涨0.84%。 深证成指早盘收报14534.46点，涨1.26%。 创业板指早盘收报3674.68点，涨1.33%。 沪深300早盘收报4701.19点，涨0.76%。 科创50早盘收报1769.93点，涨3.04%。 中证500早盘收报8119.26点，涨1.61%。 中证1000早盘收报7887.92点，涨1.52%。",
+          "url": "https://wallstreetcn.com/livenews/3150199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "A股CPO概念股震荡走高，天洋新材4连板，共进股份3连板，中石科技2连板，太辰光、仕佳光子、阿莱德、天孚通信跟涨。",
@@ -227,7 +241,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -265,13 +279,35 @@
           "time_info": "09时49分"
         },
         {
+          "title": "港股午评：恒生科技指数半日涨2% 半导体板块走强",
+          "url": "https://flash.jin10.com/detail/20260817120748361800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3620%，下降0.10个基点。 7天SHIBOR报1.3854%，下降0.46个基点。 3个月SHIBOR报1.4300%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3150186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "泰国国家机构：泰国第二季度国内生产总值(GDP)较上年同期上涨1.9%（路透调查预估为上涨1.7%）。",
           "url": "https://flash.jin10.com/detail/20260817103121550800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         }
@@ -279,7 +315,7 @@
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "回归常态，调整预期",
@@ -288,11 +324,23 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时39分 ~ 11时09分]"
+          "appearance_count": 12,
+          "time_info": "[02时39分 ~ 12时53分]"
+        },
+        {
+          "title": "8月28日24时油价调整",
+          "url": "https://www.toutiao.com/trending/7674459167604129819/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "期货热点追踪",
@@ -301,7 +349,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -418,7 +466,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -434,13 +482,24 @@
           "time_info": "09时49分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.15%，10年期主力合约跌0.02%，5年期主力合约跌0.00%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3150196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "中证1000股指期货（IM）主力合约突破7700点，日内涨0.46%。",
           "url": "https://flash.jin10.com/detail/20260817103610386800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -451,7 +510,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -503,7 +562,7 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
@@ -546,9 +605,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "日本6月第三产业活动指数月率 -0.2%，前值1.10%。",
+          "url": "https://flash.jin10.com/detail/20260817123142315800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "经济日报金观平：把握好货币政策的力度与节奏",
@@ -602,7 +672,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -646,7 +716,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -686,7 +756,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -705,8 +775,19 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "吉利汽车上半年净利润90.9亿元人民币，同比-1.8%，市场预期71.2亿元；上半年营收1,736亿元人民币，同比+15%。",
+          "url": "https://wallstreetcn.com/livenews/3150214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
         {
           "title": "人民币兑美元中间价创2023年2月8日以来新高",
           "url": "https://wallstreetcn.com/livenews/3150143",
@@ -734,7 +815,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "媒体人：美债买卖日本救火中国搬家",
@@ -749,6 +830,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时27分 ~ 06时31分]"
+        },
+        {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价大涨藏着什么信号",
+          "url": "https://www.toutiao.com/trending/7674833333351632403/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     }
