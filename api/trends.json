@@ -1,63 +1,11 @@
 {
-  "generated_at": "2026-10-18T03:16:34.801578+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-10-18T06:11:10.449703+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
-          "url": "https://wallstreetcn.com/articles/3783778",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 03时16分]"
-        },
-        {
-          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
-          "url": "https://wallstreetcn.com/articles/3783832",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 03时16分]"
-        },
-        {
-          "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
-          "url": "https://www.cls.cn/detail/2507375",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 03时16分]"
-        },
-        {
-          "title": "美股AI巨头还能撑多久",
-          "url": "https://www.toutiao.com/trending/7697639907996470847/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -67,8 +15,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 06时11分]"
+        },
+        {
+          "title": "林园：现在是乌龟爬着，等牛市哪天爆发，看好AI大时代但不碰个股",
+          "url": "https://wallstreetcn.com/articles/3783834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时59分 ~ 03时16分]"
+          "time_info": "[06时10分 ~ 06时11分]"
         },
         {
           "title": "加拿大央行行长麦克勒姆：高油价提振了加拿大的投资。油价上涨引发广泛通胀的风险有所上升。",
@@ -88,15 +47,67 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
+          "url": "https://wallstreetcn.com/articles/3783778",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 06时11分]"
+        },
+        {
+          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3783832",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 06时11分]"
+        },
+        {
+          "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
+          "url": "https://www.cls.cn/detail/2507375",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 06时11分]"
+        },
+        {
+          "title": "美股AI巨头还能撑多久",
+          "url": "https://www.toutiao.com/trending/7697639907996470847/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”",
@@ -107,8 +118,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 06时11分]"
+        },
+        {
+          "title": "内塔尼亚胡力挺特朗普对伊朗政策，警告德黑兰威胁美国城市",
+          "url": "https://flash.jin10.com/detail/20261018035926415800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         }
       ]
     },
@@ -124,8 +146,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 06时11分]"
         }
       ]
     },
@@ -141,8 +163,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 06时11分]"
         }
       ]
     }
