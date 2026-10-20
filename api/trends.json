@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-10-20T04:59:59.879042+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-20T08:15:50.522362+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "日经225指数10月20日（周二）开盘下跌263.59点，跌幅0.41%，报64653.11点。",
+          "url": "https://flash.jin10.com/detail/20261020080125173800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "韩国KOSPI指数10月20日（周二）开盘下跌54.31点，跌幅0.94%，报5713.7点。",
+          "url": "https://flash.jin10.com/detail/20261020080115346800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
         {
           "title": "美股七巨头收盘播报｜周一（10月19日），美国科技股七巨头（Magnificent 7）指数涨1.26%，报234.71点，早盘显著上涨，北京时间22:30以来持续高位震荡。成分股中，亚马逊收涨4.98%，特斯拉涨3.76%，苹果跌0.15%。 “超大”市值科技股指数涨1.44%，报460.34点。",
           "url": "https://wallstreetcn.com/livenews/3181415",
@@ -19,15 +41,16 @@
           "time_info": "04时59分"
         },
         {
-          "title": "标普500指数的11个板块中，公用事业板块收跌1.97%，房地产ETF跌1.17%，电信板块涨0.28%，信息技术/科技板块涨1.19%，可选消费板块涨2.73%——成分股亚马逊、特斯拉领跑。",
-          "url": "https://wallstreetcn.com/livenews/3181414",
-          "source": "华尔街见闻-快讯",
+          "title": "9月70城房价：一线城市二手房价环比涨幅扩大、新房房价环比继续上涨，二三线城市环比降幅总体收窄",
+          "url": "https://wallstreetcn.com/articles/3783886",
+          "source": "华尔街见闻",
           "ranks": [
+            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 08时15分]"
         },
         {
           "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
@@ -37,15 +60,26 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 08时15分]"
         },
         {
-          "title": "9月70城房价：一线城市二手房价环比涨幅扩大、新房房价环比继续上涨，二三线城市环比降幅总体收窄",
-          "url": "https://wallstreetcn.com/articles/3783886",
-          "source": "华尔街见闻",
+          "title": "美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹",
+          "url": "https://www.cls.cn/detail/2509104",
+          "source": "财联社热门",
           "ranks": [
-            8
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "标普500指数的11个板块中，公用事业板块收跌1.97%，房地产ETF跌1.17%，电信板块涨0.28%，信息技术/科技板块涨1.19%，可选消费板块涨2.73%——成分股亚马逊、特斯拉领跑。",
+          "url": "https://wallstreetcn.com/livenews/3181414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -83,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "澳大利亚股指S&P/ASX 200指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3181472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         },
         {
           "title": "周一（10月19日），彭博电动汽车价格回报指数涨0.74%，报2996.34点，日内主要高位窄幅震荡，亚太盘初显著上涨。 成分股ITM能源伦敦股价收跌6.69%，优美科欧股跌5.31%，沃尔沃汽车集团欧股跌3.03%跌幅居前，小马智行ADR、文远知行ADR、特斯拉、禾赛ADR收涨领跑。",
@@ -129,6 +174,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "澳大利亚S&P/ASX200指数10月20日（周二）开盘下跌76.60点，跌幅0.87%，报8769.10点。",
+          "url": "https://flash.jin10.com/detail/20261020071034449800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
           "title": "10年期美债收益率涨超7个基点，投资者注意力从AI抛售转向美国原油上涨",
           "url": "https://wallstreetcn.com/livenews/3181399",
           "source": "华尔街见闻-快讯",
@@ -140,6 +196,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "美股收盘：费城半导体指数结束下跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B4%B9%E5%9F%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E7%BB%93%E6%9D%9F%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
           "title": "周一（10月19日）纽约尾盘，欧元兑美元跌0.23%，报1.1212，全天处于下跌状态，悉尼盘初曾跌至1.1183，日线图上10月份迄今持稳于1.12附近，10月14日曾跌至1.1113；欧元兑英镑跌0.07%，报0.84273，04:03曾跌至0.83925；欧元兑瑞郎涨0.10%，报0.9269。 英镑兑美元跌0.17%，美元兑瑞郎涨0.32%。 商品货币对中，澳元兑美元涨0.51%，纽元兑美元涨0.16%，美元兑加元跌0.23%。",
           "url": "https://wallstreetcn.com/livenews/3181398",
           "source": "华尔街见闻-快讯",
@@ -149,12 +216,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "一线城市二手房价环比连续7个月上涨",
+          "url": "https://www.toutiao.com/trending/7697163232649166899/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "一图看懂 | 潘功胜、吴清等发言重点来了！这些重磅政策在路上",
@@ -164,26 +242,123 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 08时15分]"
         },
         {
           "title": "首批18只主动ETF今日获批！A股将迎更多增量资金",
           "url": "https://www.cls.cn/detail/2508677",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 08时15分]"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3181477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "08时15分"
         },
         {
           "title": "英国称将与欧盟共同应对中国在汽车产业的主导地位，商务部回应",
           "url": "https://news.ifeng.com/c/8xMHcL3Tm7g",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 08时15分]"
+        },
+        {
+          "title": "OpenAI据悉加速300亿美元融资，抢在Anthropic上市前锁定资金",
+          "url": "https://flash.jin10.com/detail/20261020074250590800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "十一部门：用好已设立社保科创基金 稳妥有序为科创领域提供资金支持",
+          "url": "https://www.cls.cn/detail/2508777",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "英方称将共同应对中国汽车产业占主导地位，商务部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34283182",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "调整 期货 现货",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20261020080346438800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "大摩Wilson：股市调整接近尾声，是时候准备布局了",
+          "url": "https://wallstreetcn.com/articles/3783938",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 08时15分]"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20261020074116412800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "芝加哥玉米期货跌约1.6%",
+          "url": "https://wallstreetcn.com/livenews/3181387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -193,8 +368,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
+          "url": "https://www.cls.cn/detail/2509124",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
         {
           "title": "金十图示：2026年10月19日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20261020040532699800",
@@ -231,37 +417,31 @@
       ]
     },
     {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 2,
+      "keyword_group": "SZ SH HK",
+      "match_count": 3,
       "titles": [
         {
-          "title": "大摩Wilson：股市调整接近尾声，是时候准备布局了",
-          "url": "https://wallstreetcn.com/articles/3783938",
-          "source": "华尔街见闻",
+          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
+          "url": "https://www.zhihu.com/question/2095476625228019430",
+          "source": "知乎",
           "ranks": [
-            10
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "08时15分"
         },
         {
-          "title": "芝加哥玉米期货跌约1.6%",
-          "url": "https://wallstreetcn.com/livenews/3181387",
+          "title": "黑石集团CEO Steve Schwarzman称，该公司计划未来三年在日本投资400亿美元，投资兴趣集中在房地产领域以及人工智能和国防行业的企业并购。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3181475",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 1,
-      "titles": [
+          "time_info": "08时15分"
+        },
         {
           "title": "纳斯达克金龙中国指数收跌0.27%，报5680.44点。 热门中概股里，网易有道初步收涨7.4%，禾赛涨4.3%，再鼎医药涨3.6%，日月光半导体涨3.4%，拼多多涨0.5%，百度跌0.4%，网易跌0.5%，阿里巴巴跌0.5%，腾讯跌0.9%。 ETF中，中概互联网指数ETF（KWEB）收跌0.53%，中国科技指数ETF（CQQQ）收跌0.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.13%，XtrackersHarvest中证50（ASHS）收涨0.88%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
           "url": "https://wallstreetcn.com/livenews/3181405",
