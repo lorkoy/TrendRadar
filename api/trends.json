@@ -1,33 +1,68 @@
 {
-  "generated_at": "2026-10-21T00:48:09.906714+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-21T04:26:43.998905+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
           "title": "【焦点复盘】沪指日线3连涨收复5日线，物理AI概念火热依旧，大金融板块逆势走弱",
           "url": "https://www.cls.cn/detail/2509936",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 04时26分]"
+        },
+        {
+          "title": "周二（10月20日），彭博电动汽车价格回报指数跌1.01%，报2974.76点。 指数几乎全天处于下跌状态，亚太盘初微幅上涨，亚太早盘持续下跌、北京时间14:13刷新日低至2952.25点，美股开盘后一度显著收复失地。 成分股里，中创新航科技集团H股收跌9.21%，优美科欧股收跌4.47%，地平线H股收跌3.95%，蔚来集团H股收跌3.5%，松下株式会社东京股价跌2.49%跌幅第五大。 速腾聚创科技H股则收涨3.92%表现第六，沃尔沃汽车集团欧股涨4.4%，ANTAM Persero涨10.48%。",
+          "url": "https://wallstreetcn.com/livenews/3182139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2510214",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 04时26分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.2%，保健板块涨2.3%，房地产板块涨1.6%，科技板块跌0.3%，电信板块跌1%。 纳斯达克100指数初步收跌0.1%，成分股中，Arm控股初步收跌3%，拉姆研究、科磊、应用材料、铿腾电子、核电股CEG、奈飞、Meta至少跌1.7%，汤森路透涨4.2%，Strategy涨4.9%，莫德纳涨6.3%。 半导体指数跌0.3%，存储芯片指数跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3182131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "道琼斯指数10月20日（周二）收盘上涨530.08点，涨幅1.02%，报52496.11点；<br/>标普500指数10月20日（周二）收盘上涨21.92点，涨幅0.29%，报7712.65点；<br/>纳斯达克综合指数10月20日（周二）收盘下跌6.07点，跌幅0.02%，报26424.82点。",
+          "url": "https://flash.jin10.com/detail/20261021040704038800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.4%，报392.48点，创10月9日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 Neste Oyj跌4.3%，在一众北欧个股里表现最差。",
@@ -36,9 +71,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "国际油价20日下跌",
+          "url": "https://flash.jin10.com/detail/20261021034053724800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国总统特朗普：重申石油价格将在伊朗战争结束时下跌。",
+          "url": "https://wallstreetcn.com/livenews/3182117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美元指数20日下跌",
+          "url": "https://flash.jin10.com/detail/20261021033631066800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "哥伦比亚比索兑美元跌1%，投资者关注油价下跌。",
@@ -47,7 +115,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
         }
@@ -55,7 +123,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI交易紧张情绪暂缓，美股指转涨，CoreWeave涨超5%，礼来涨近5%股价创新高，美元走软",
@@ -65,19 +133,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 04时26分]"
+        },
+        {
+          "title": "SpaceX(SPCX.O)美股盘后涨2%。",
+          "url": "https://flash.jin10.com/detail/20261021041122758800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美股深夜反攻纳指涨超1%",
           "url": "https://www.douyin.com/hot/2703663",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 04时26分]"
         },
         {
           "title": "金十图示：2026年10月20日（周二）美股热门股票行情一览（美股盘中）",
@@ -86,7 +166,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
         },
@@ -97,55 +177,71 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 3,
-      "titles": [
+        },
         {
-          "title": "理想汽车发布电池保障政策",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E7%94%B5%E6%B1%A0%E4%BF%9D%E9%9A%9C%E6%94%BF%E7%AD%96%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "美股见顶最直接的信号：韩国芯片出口？",
+          "url": "https://wallstreetcn.com/articles/3784011",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
-          "title": "理想汽车发布电池保障政策",
-          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E7%94%B5%E6%B1%A0%E4%BF%9D%E9%9A%9C%E6%94%BF%E7%AD%96",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
-        },
-        {
-          "title": "据Axios：乔尔·卡普兰（Joel Kaplan）在担任政策主管15年后将离开Meta Platforms(META.O)。",
-          "url": "https://flash.jin10.com/detail/20261021000314734800",
+          "title": "金十图示：2026年10月20日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261021040702915800",
           "source": "金十数据",
           "ranks": [
-            24
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "04时26分"
+        },
+        {
+          "title": "金十图示：2026年10月20日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261021040700219800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一，小鹏涨超7%",
+          "url": "https://flash.jin10.com/detail/20261021040232173800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     },
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "马斯克旗下太空探索公司SpaceX三季度营收145.8亿美元，分析师预期128.亿美元。 三季度太空收入（Space Rev）为18亿美元。 三季度人工智能（AI）收入75.6亿美元，分析师预期63亿美元。 三季度运营利润27.9亿美元，分析师预期22.4亿美元。 三季度每股收益（EPS）为0.35美元，分析师预期0.15美元。 三季度净利润44亿美元，分析师预期18.8亿美元。 三季度调整后EBITDA为88.1亿美元，分析师预期65.9亿美元。 三季度资本开支195.9亿美元，分析师预期196亿美元。 三季度AI资本开支164.4亿美元，分析师预期169亿美元。 三季度总体成本与开支117.8亿美元，分析师预期112.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3182135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
         {
           "title": "法国多地发生暴力骚乱，当前在法华人的情况怎么样？怎样保障自身安全？留学生需要调整上学计划吗？",
           "url": "https://www.zhihu.com/question/2095230439828841183",
@@ -158,15 +254,168 @@
           "time_info": "[00时47分 ~ 00时48分]"
         },
         {
+          "title": "美联航（UAL）三季度运营收入179亿美元，分析师预期179.1亿美元。 三季度调整后每股收益（EPS）为2.54美元，分析师预期2.61美元。",
+          "url": "https://wallstreetcn.com/livenews/3182133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "周二（10月20日）欧市尾盘，ICE英国天然气期货跌3.15%，报210.620便士/千卡，北京时间20:13刷新日高至222.600便士，随后快速下挫、22:59刷新日低至205.690便士。 TTF基准荷兰天然气期货跌3.66%，报84.569欧元/兆瓦时，20:18刷新最近四年最高位至90.255欧元，22:32跌至83.501欧元刷新日低。 ICE欧盟碳排放交易许可（期货价格）涨0.26%，报85.62欧元/吨。",
           "url": "https://wallstreetcn.com/livenews/3182034",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "芝加哥玉米期货跌约1.2%，豆粕跌超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3182119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "理想汽车发布电池保障政策",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E7%94%B5%E6%B1%A0%E4%BF%9D%E9%9A%9C%E6%94%BF%E7%AD%96%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 04时26分]"
+        },
+        {
+          "title": "理想汽车发布电池保障政策",
+          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E7%94%B5%E6%B1%A0%E4%BF%9D%E9%9A%9C%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 04时26分]"
+        },
+        {
+          "title": "韩股“越跌越便宜”为何没人买？小摩：反弹条件正在酝酿，杠杆资金或带来抛压",
+          "url": "https://www.cls.cn/detail/2510183",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "据Axios：乔尔·卡普兰（Joel Kaplan）在担任政策主管15年后将离开Meta Platforms(META.O)。",
+          "url": "https://flash.jin10.com/detail/20261021000314734800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：巴西最快下周首次发行熊猫债，首期规模拟达50亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3182140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.6781元，较周一夜盘收盘涨29点。成交量414.83亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3182113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
+          "url": "https://www.zhihu.com/question/2095476625228019430",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "30年期美债收益率跌超4.5个基点，同期实际收益率跌超4.4个基点",
+          "url": "https://wallstreetcn.com/livenews/3182129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（10月20日）纽约尾盘，ICE美元指数跌0.29%，报101.685点，日内交投区间为101.982-101.506点。 彭博美元指数跌0.25%，报1220.19点，日内交投区间为1222.99-1218.40点，北京时间22:30刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3182110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     }
