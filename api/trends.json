@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-22T04:04:03.996040+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-10-22T07:59:31.456350+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "纳指期货跌幅扩大至超过0.5%，标普股指期货跌0.3%，道指期货跌0.2%。 当前（美股盘后），IBM跌超3.4%，特斯拉跌超2.9%，NBIS跌超2.4%，英特尔跌1.6%，闪迪跌1.5%，SK海力士ADR跌1.4%，AMD、美光、希捷科技至少跌约1%，Pinterest涨0.1%，奈飞涨0.2%，Meta涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3183019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
         {
           "title": "恒指期货夜盘收跌0.22%，报23602点，低水50点。",
           "url": "https://flash.jin10.com/detail/20261022031341845800",
@@ -14,7 +25,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
         },
@@ -36,9 +47,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "拉姆研究第一财季营收82.2亿美元，分析师预期81.3亿美元。 第一财季调整后每股收益（EPS）为2.20美元，分析师预期2.19美元。 预计第二财季调整后EPS为2.18-2.48美元，分析师预期2.34美元。",
+          "url": "https://wallstreetcn.com/livenews/3183004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "纳指期货跌幅扩大至0.5%，特斯拉(TSLA.O)跌2.3%，美光科技(MU.O)、闪迪(SNDK.O)和SK海力士(SKHY.O)跌约1%。特斯拉透露其将把将年度资本开支目标从超过250亿美元下调至200亿美元。",
+          "url": "https://flash.jin10.com/detail/20261022062548299800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "美国原油期货收跌约0.7%",
@@ -47,9 +80,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "周四亚太盘初，纳斯达克100股指期货跌0.3%，标普股指期货跌0.1%。 科技股中，特斯拉美股盘后跌幅扩大至2.8%，该公司下调资本开支目标。IBM跌2.5%，Nebius Group NV跌1.4%，英特尔、博通、AMD、SK海力士ADR至多跌0.9%，西部数据涨0.3%，Meta涨2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3183001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "上期所原油期货2612合约夜盘收跌1.50%，报690.30元人民币/桶。 沪金夜盘收涨0.29%，沪银收跌0.06%。",
@@ -58,15 +102,87 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
         }
       ]
     },
     {
+      "keyword_group": "SZ SH HK",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "腾讯控股(00700.HK)：完成发行18亿美元及人民币260亿元票据。",
+          "url": "https://flash.jin10.com/detail/20261022073835570800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "沙特能源部：沙特阿拉伯谢巴（Shaybah）油田遭袭事件造成两人死亡。",
+          "url": "https://flash.jin10.com/detail/20261022030537210800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "沙特能源部：防空部队拦截了一架试图袭击沙特阿美谢巴（Shaybah）油田设施的无人机。无人机袭击后，沙特阿美谢巴（Shaybah）油田的运营未受影响。",
+          "url": "https://flash.jin10.com/detail/20261022030456210800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "AWS：PHP2Shell漏洞目前已在现实环境中遭到大范围利用。",
+          "url": "https://flash.jin10.com/detail/20261022064724628800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "AWS：亚马逊威胁情报团队在MadPot中发现PHP2Shell漏洞遭利用，时间早于该漏洞的公开披露。",
+          "url": "https://flash.jin10.com/detail/20261022064530081800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少19.66吨，当前持仓量为15485.69吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20261022060841780800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资金 政策 产业",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
@@ -76,8 +192,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时03分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[04时03分 ~ 07时59分]"
         },
         {
           "title": "一图看懂 | 半导体产业链三季报“炸场”：已有20家公司净利翻倍，最高预增超30倍",
@@ -87,8 +203,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时03分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[04时03分 ~ 07时59分]"
+        },
+        {
+          "title": "晨星公司的塞思·戈德斯坦：下调资本支出表明特斯拉正采取一种资本密集度更低的路径。 此举是明智的，因为这将“使特斯拉能够依靠自身资金进行融资，而无需举债或发行新股”。",
+          "url": "https://wallstreetcn.com/livenews/3183017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "加拿大与安大略省推出90亿加元产业支持计划",
@@ -97,16 +224,38 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "OpenAI：更新我们的使用政策，自11月20日起生效，以明确安全模型开发和人工智能敏感用途的相关规则。 正在努力引入安全ID，客户可以提供该ID，以帮助我们在调查中区分各个最终用户。",
+          "url": "https://wallstreetcn.com/livenews/3182998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         }
       ]
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
         {
           "title": "马斯克、黄仁勋接力托举 科技题材携手走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2511452",
@@ -119,13 +268,24 @@
           "time_info": "[04时03分 ~ 04时04分]"
         },
         {
+          "title": "澳大利亚S&P/ASX200指数10月22日（周四）开盘下跌32.00点，跌幅0.36%，报8799.30点。",
+          "url": "https://flash.jin10.com/detail/20261022071012109800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "美、布两油短线上涨1美元，现报97.52美元/桶及106.43美元/桶。",
           "url": "https://flash.jin10.com/detail/20261022025341987800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
         },
@@ -136,37 +296,48 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
         }
       ]
     },
     {
-      "keyword_group": "SZ SH HK",
-      "match_count": 2,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "沙特能源部：沙特阿拉伯谢巴（Shaybah）油田遭袭事件造成两人死亡。",
-          "url": "https://flash.jin10.com/detail/20261022030537210800",
-          "source": "金十数据",
+          "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
+          "url": "https://www.cls.cn/detail/2511618",
+          "source": "财联社热门",
           "ranks": [
-            11
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "07时59分"
         },
         {
-          "title": "沙特能源部：防空部队拦截了一架试图袭击沙特阿美谢巴（Shaybah）油田设施的无人机。无人机袭击后，沙特阿美谢巴（Shaybah）油田的运营未受影响。",
-          "url": "https://flash.jin10.com/detail/20261022030456210800",
-          "source": "金十数据",
+          "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
+          "url": "https://www.cls.cn/detail/2511640",
+          "source": "财联社热门",
           "ranks": [
-            13
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "07时59分"
+        },
+        {
+          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 04时04分]"
         }
       ]
     },
@@ -181,7 +352,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
         },
@@ -192,26 +363,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
-          "url": "https://wallstreetcn.com/articles/3784116",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时03分 ~ 04时04分]"
         }
       ]
     }
