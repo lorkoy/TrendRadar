@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-22T12:31:34.101384+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-10-22T18:01:44.048614+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "车灯新国标公布后，「外显大屏」形态的像素灯将成为历史，汽车大灯的技术发展方向将如何调整？",
           "url": "https://www.zhihu.com/question/2095889644000733143",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 18时01分]"
         },
         {
           "title": "纳指期货跌幅扩大至超过0.5%，标普股指期货跌0.3%，道指期货跌0.2%。 当前（美股盘后），IBM跌超3.4%，特斯拉跌超2.9%，NBIS跌超2.4%，英特尔跌1.6%，闪迪跌1.5%，SK海力士ADR跌1.4%，AMD、美光、希捷科技至少跌约1%，Pinterest涨0.1%，奈飞涨0.2%，Meta涨2%。",
@@ -28,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
+          "url": "https://wallstreetcn.com/articles/3784171",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "恒指期货夜盘收跌0.22%，报23602点，低水50点。",
@@ -58,7 +70,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -135,15 +147,165 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
       ]
     },
     {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
+          "url": "https://www.cls.cn/detail/2511236",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时03分 ~ 07时59分]"
+        },
+        {
+          "title": "一图看懂 | 半导体产业链三季报“炸场”：已有20家公司净利翻倍，最高预增超30倍",
+          "url": "https://www.cls.cn/detail/2511081",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时03分 ~ 07时59分]"
+        },
+        {
+          "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局 推动工业机理与智能体决策模型融合",
+          "url": "https://www.cls.cn/detail/2511817",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 18时01分]"
+        },
+        {
+          "title": "《关于推动科技创新和产业创新深度融合的意见》发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34301142",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 18时01分]"
+        },
+        {
+          "title": "晨星公司的塞思·戈德斯坦：下调资本支出表明特斯拉正采取一种资本密集度更低的路径。 此举是明智的，因为这将“使特斯拉能够依靠自身资金进行融资，而无需举债或发行新股”。",
+          "url": "https://wallstreetcn.com/livenews/3183017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34306536",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "南向资金今日大幅净卖出92.18亿元。港股通（沪）方面，阿里巴巴-W、中芯国际分别获净卖出5.73亿港元、4.23亿港元；中国海洋石油净买入额居首，金额为7.51亿港元；港股通（深）方面，阿里巴巴-W、中国海洋石油分别获净卖出11.04亿港元、9.78亿港元；腾讯控股净买入额居首，金额为7.06亿港元。",
+          "url": "https://flash.jin10.com/detail/20261022173104402800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "欧盟接近达成证券化改革方案 力争释放数十亿欧元资金",
+          "url": "https://wallstreetcn.com/livenews/3183478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "默茨：对华政策，我们跟特朗普不一样",
+          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "但斌称A股要灵活高抛低吸 AI产业链还在坚守",
+          "url": "https://flash.jin10.com/detail/20261022172233012800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "加拿大与安大略省推出90亿加元产业支持计划",
+          "url": "https://flash.jin10.com/detail/20261022024156488800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "韩国央行行长申铉松：我们不见得要追随金融市场预期的终端政策利率。",
+          "url": "https://wallstreetcn.com/livenews/3183130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "OpenAI：更新我们的使用政策，自11月20日起生效，以明确安全模型开发和人工智能敏感用途的相关规则。 正在努力引入安全ID，客户可以提供该ID，以帮助我们在调查中区分各个最终用户。",
+          "url": "https://wallstreetcn.com/livenews/3182998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
@@ -154,8 +316,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 18时01分]"
+        },
+        {
+          "title": "黄金牛市未完？贝莱德：全球政府债台高筑，“好日子”还在后面！",
+          "url": "https://www.cls.cn/detail/2512141",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "马斯克、黄仁勋接力托举 科技题材携手走高 | 今夜看点",
@@ -181,13 +354,24 @@
           "time_info": "07时59分"
         },
         {
+          "title": "【宏和科技：前三季度归母净利润7.43亿元，同比增长435.63%】宏和科技公告，2026年前三季度营业收入19.75亿元，同比增长131.65%；扣非净利润7.5亿元，同比增长476.12%。第三季度单季归母净利润3.64亿元，同比增长607.73%；扣非净利润3.77亿元，同比增长694.07%。业绩增长主要因电子布销售单价上涨、特种电子布销量占比增加。",
+          "url": "https://wallstreetcn.com/livenews/3183483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "台湾证交所加权股价指数下跌1%至46,414.88点。",
           "url": "https://wallstreetcn.com/livenews/3183152",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -198,7 +382,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -209,7 +393,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -220,7 +404,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -253,103 +437,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
-          "url": "https://www.cls.cn/detail/2511236",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时03分 ~ 07时59分]"
-        },
-        {
-          "title": "一图看懂 | 半导体产业链三季报“炸场”：已有20家公司净利翻倍，最高预增超30倍",
-          "url": "https://www.cls.cn/detail/2511081",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时03分 ~ 07时59分]"
-        },
-        {
-          "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局 推动工业机理与智能体决策模型融合",
-          "url": "https://www.cls.cn/detail/2511817",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
         {
-          "title": "晨星公司的塞思·戈德斯坦：下调资本支出表明特斯拉正采取一种资本密集度更低的路径。 此举是明智的，因为这将“使特斯拉能够依靠自身资金进行融资，而无需举债或发行新股”。",
-          "url": "https://wallstreetcn.com/livenews/3183017",
-          "source": "华尔街见闻-快讯",
+          "title": "贝莱德：黄金还会继续上涨",
+          "url": "https://www.toutiao.com/trending/7699326610985697299/",
+          "source": "今日头条",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "《关于推动科技创新和产业创新深度融合的意见》发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34301142",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "加拿大与安大略省推出90亿加元产业支持计划",
-          "url": "https://flash.jin10.com/detail/20261022024156488800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "韩国央行行长申铉松：我们不见得要追随金融市场预期的终端政策利率。",
-          "url": "https://wallstreetcn.com/livenews/3183130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "OpenAI：更新我们的使用政策，自11月20日起生效，以明确安全模型开发和人工智能敏感用途的相关规则。 正在努力引入安全ID，客户可以提供该ID，以帮助我们在调查中区分各个最终用户。",
-          "url": "https://wallstreetcn.com/livenews/3182998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "18时01分"
         }
       ]
     },
@@ -426,6 +527,67 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "商务部：1-9月全国吸收外资5488.1亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3183484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "周三（10月21日）纽约尾盘，美元兑日元涨0.10%，报158.31日元，逼近亚太盘初刷新的日高，日内交投区间为157.84-158.39日元。 欧元兑日元跌0.05%，报177.62日元，全天呈现出宽底U形走势；英镑兑日元涨0.09%，报211.847日元；日元兑离岸人民币跌0.07%，报4.2167元。",
+          "url": "https://wallstreetcn.com/livenews/3182926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.6760元，较周二夜盘收盘涨21点。成交量512.28亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3182915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "印度尼西亚据悉考虑年内再发熊猫债，融资约100亿元人民币。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3183390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.6727，较上一交易日官方收盘价涨50点，较上日夜盘收盘涨33点。",
+          "url": "https://wallstreetcn.com/livenews/3183368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -463,34 +625,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 04时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周三（10月21日）纽约尾盘，美元兑日元涨0.10%，报158.31日元，逼近亚太盘初刷新的日高，日内交投区间为157.84-158.39日元。 欧元兑日元跌0.05%，报177.62日元，全天呈现出宽底U形走势；英镑兑日元涨0.09%，报211.847日元；日元兑离岸人民币跌0.07%，报4.2167元。",
-          "url": "https://wallstreetcn.com/livenews/3182926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.6760元，较周二夜盘收盘涨21点。成交量512.28亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3182915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
         }
       ]
     }
