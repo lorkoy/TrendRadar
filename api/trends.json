@@ -1,743 +1,294 @@
 {
-  "generated_at": "2026-10-22T23:09:45.562442+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-10-23T03:57:45.133446+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 18,
+      "keyword_group": "调整 期货 现货",
+      "match_count": 9,
       "titles": [
         {
-          "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
-          "url": "https://wallstreetcn.com/articles/3784116",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 23时09分]"
-        },
-        {
-          "title": "黄金牛市未完？贝莱德：全球政府债台高筑，“好日子”还在后面！",
-          "url": "https://www.cls.cn/detail/2512141",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 23时09分]"
-        },
-        {
-          "title": "美国3年期国债收益率跌至4.768%，创9月18日以来最低水平，日内下跌13.93个基点。",
-          "url": "https://flash.jin10.com/detail/20261022224321668800",
+          "title": "白宫：调整风力发电机及其零部件进口至美国的相关规定。",
+          "url": "https://flash.jin10.com/detail/20261023033427959800",
           "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "马斯克、黄仁勋接力托举 科技题材携手走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2511452",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时03分 ~ 12时31分]"
-        },
-        {
-          "title": "谷歌A股价下跌2.45%，报326.555美元，创7月28日以来盘中新低，盘中市值报3.99万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3183817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数10月22日（周四）开盘下跌32.00点，跌幅0.36%，报8799.30点。",
-          "url": "https://flash.jin10.com/detail/20261022071012109800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "【宏和科技：前三季度归母净利润7.43亿元，同比增长435.63%】宏和科技公告，2026年前三季度营业收入19.75亿元，同比增长131.65%；扣非净利润7.5亿元，同比增长476.12%。第三季度单季归母净利润3.64亿元，同比增长607.73%；扣非净利润3.77亿元，同比增长694.07%。业绩增长主要因电子布销售单价上涨、特种电子布销量占比增加。",
-          "url": "https://wallstreetcn.com/livenews/3183483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时01分"
-        },
-        {
-          "title": "美国5年期国债收益率跌至4.825%，创9月23日以来最低水平，日内下跌14.33个基点。",
-          "url": "https://flash.jin10.com/detail/20261022224100136800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "台湾证交所加权股价指数下跌1%至46,414.88点。",
-          "url": "https://wallstreetcn.com/livenews/3183152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "牛市逻辑真的不在了吗",
-          "url": "https://www.toutiao.com/trending/7699439890190044723/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "日本40年期国债收益率下跌3.5个基点，至4.015%。",
-          "url": "https://flash.jin10.com/detail/20261022121140577800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "上证指数早盘收报3679.86点，跌0.89%。 深证成指早盘收报11496.07点，跌1.78%。 创业板指早盘收报2620.04点，跌2.77%。 沪深300早盘收报4060.19点，跌1.26%。 科创50早盘收报1321.86点，跌1.60%。 中证500早盘收报6747.89点，跌1.35%。 中证1000早盘收报6680.94点，跌1.46%。",
-          "url": "https://wallstreetcn.com/livenews/3183142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "“易中天”集体下跌",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%98%93%E4%B8%AD%E5%A4%A9%E2%80%9D%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "美、布两油短线上涨1美元，现报97.52美元/桶及106.43美元/桶。",
-          "url": "https://flash.jin10.com/detail/20261022025341987800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "特斯拉转涨，此前一度下跌3.3%。",
-          "url": "https://wallstreetcn.com/livenews/3183796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月21日（周三）晚盘收盘上涨0.47%报890.37元/克；<br/>上海黄金交易所白银T+D 10月21日（周三）晚盘收盘上涨0.38%报13965.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20261022023236643800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "隔夜SHIBOR报1.2612%，上涨0.02个基点。 7天SHIBOR报1.3210%，下降0.30个基点。 3个月SHIBOR报1.4081%，下降0.29个基点。",
-          "url": "https://wallstreetcn.com/livenews/3183125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "贝莱德：黄金还会继续上涨",
-          "url": "https://www.toutiao.com/trending/7699326610985697299/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
-          "url": "https://www.cls.cn/detail/2511236",
-          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时03分 ~ 07时59分]"
-        },
-        {
-          "title": "一图看懂 | 半导体产业链三季报“炸场”：已有20家公司净利翻倍，最高预增超30倍",
-          "url": "https://www.cls.cn/detail/2511081",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时03分 ~ 07时59分]"
-        },
-        {
-          "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局 推动工业机理与智能体决策模型融合",
-          "url": "https://www.cls.cn/detail/2511817",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 18时01分]"
-        },
-        {
-          "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34306536",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 23时09分]"
-        },
-        {
-          "title": "《关于推动科技创新和产业创新深度融合的意见》发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34301142",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 18时01分]"
-        },
-        {
-          "title": "晨星公司的塞思·戈德斯坦：下调资本支出表明特斯拉正采取一种资本密集度更低的路径。 此举是明智的，因为这将“使特斯拉能够依靠自身资金进行融资，而无需举债或发行新股”。",
-          "url": "https://wallstreetcn.com/livenews/3183017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "南向资金今日大幅净卖出92.18亿元。港股通（沪）方面，阿里巴巴-W、中芯国际分别获净卖出5.73亿港元、4.23亿港元；中国海洋石油净买入额居首，金额为7.51亿港元；港股通（深）方面，阿里巴巴-W、中国海洋石油分别获净卖出11.04亿港元、9.78亿港元；腾讯控股净买入额居首，金额为7.06亿港元。",
-          "url": "https://flash.jin10.com/detail/20261022173104402800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时01分"
-        },
-        {
-          "title": "欧盟接近达成证券化改革方案 力争释放数十亿欧元资金",
-          "url": "https://wallstreetcn.com/livenews/3183478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时01分"
-        },
-        {
-          "title": "默茨：对华政策，我们跟特朗普不一样",
-          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时01分"
-        },
-        {
-          "title": "白银跌入三个月低位，高盛警告：投机资金在撤离！",
-          "url": "https://flash.jin10.com/detail/20261022223626278800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "但斌称A股要灵活高抛低吸 AI产业链还在坚守",
-          "url": "https://flash.jin10.com/detail/20261022172233012800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时01分"
-        },
-        {
-          "title": "加拿大与安大略省推出90亿加元产业支持计划",
-          "url": "https://flash.jin10.com/detail/20261022024156488800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "韩国央行行长申铉松：我们不见得要追随金融市场预期的终端政策利率。",
-          "url": "https://wallstreetcn.com/livenews/3183130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "OpenAI：更新我们的使用政策，自11月20日起生效，以明确安全模型开发和人工智能敏感用途的相关规则。 正在努力引入安全ID，客户可以提供该ID，以帮助我们在调查中区分各个最终用户。",
-          "url": "https://wallstreetcn.com/livenews/3182998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "Russell Investments（美国罗素投资公司）的高级投资组合经理Jordan McCall：苹果是对抗AI波动性的一种高流动性对冲工具，如果你开始对AI感到担忧但仍想保持科技股敞口，这是一个很好的仓位。 当市场变得紧张时，苹果就是资金的避险目的地。",
-          "url": "https://wallstreetcn.com/livenews/3183786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "调整 期货 现货",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "车灯新国标公布后，「外显大屏」形态的像素灯将成为历史，汽车大灯的技术发展方向将如何调整？",
-          "url": "https://www.zhihu.com/question/2095889644000733143",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 18时01分]"
+          "time_info": "03时57分"
         },
         {
           "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
           "url": "https://wallstreetcn.com/articles/3784171",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 23时09分]"
+          "appearance_count": 1,
+          "time_info": "03时57分"
         },
         {
-          "title": "纳指期货跌幅扩大至超过0.5%，标普股指期货跌0.3%，道指期货跌0.2%。 当前（美股盘后），IBM跌超3.4%，特斯拉跌超2.9%，NBIS跌超2.4%，英特尔跌1.6%，闪迪跌1.5%，SK海力士ADR跌1.4%，AMD、美光、希捷科技至少跌约1%，Pinterest涨0.1%，奈飞涨0.2%，Meta涨2%。",
-          "url": "https://wallstreetcn.com/livenews/3183019",
+          "title": "美国白宫：调整风机的进口",
+          "url": "https://wallstreetcn.com/livenews/3183946",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "03时57分"
         },
         {
-          "title": "恒指期货夜盘收跌0.22%，报23602点，低水50点。",
-          "url": "https://flash.jin10.com/detail/20261022031341845800",
+          "title": "恒指期货夜盘收涨0.78%，报23133点，高水198点。",
+          "url": "https://flash.jin10.com/detail/20261023030236041800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "03时57分"
         },
         {
-          "title": "现货白银向下触及57美元/盎司，日内跌1.74%。现货黄金15分钟走低逾美元，现报4107美元/盎司。消息称，美国国务院正准备下令海湾地区各美国大使馆的部分人员及家属撤离。",
-          "url": "https://flash.jin10.com/detail/20261022030447228800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.08%，10年期主力合约涨0.01%，5年期主力合约涨0.01%，2年期主力合约跌0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3183139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "布伦特原油期货结算价为每桶108.82美元，上涨3美分，涨幅0.03%。",
-          "url": "https://flash.jin10.com/detail/20261022024551698800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "拉姆研究第一财季营收82.2亿美元，分析师预期81.3亿美元。 第一财季调整后每股收益（EPS）为2.20美元，分析师预期2.19美元。 预计第二财季调整后EPS为2.18-2.48美元，分析师预期2.34美元。",
-          "url": "https://wallstreetcn.com/livenews/3183004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "纳指期货跌幅扩大至0.5%，特斯拉(TSLA.O)跌2.3%，美光科技(MU.O)、闪迪(SNDK.O)和SK海力士(SKHY.O)跌约1%。特斯拉透露其将把将年度资本开支目标从超过250亿美元下调至200亿美元。",
-          "url": "https://flash.jin10.com/detail/20261022062548299800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国原油期货收跌约0.7%",
-          "url": "https://wallstreetcn.com/livenews/3182909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "周四亚太盘初，纳斯达克100股指期货跌0.3%，标普股指期货跌0.1%。 科技股中，特斯拉美股盘后跌幅扩大至2.8%，该公司下调资本开支目标。IBM跌2.5%，Nebius Group NV跌1.4%，英特尔、博通、AMD、SK海力士ADR至多跌0.9%，西部数据涨0.3%，Meta涨2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3183001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "上期所原油期货2612合约夜盘收跌1.50%，报690.30元人民币/桶。 沪金夜盘收涨0.29%，沪银收跌0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3182908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "韩国央行行长申铉松：明年政府预算支出将使GDP增长率提高0.5个百分点。 相对于芯片制造商股价，最好更关注芯片价格。 芯片价格没有下跌的迹象，可能会进一步上涨。 股市调整将影响消费。",
-          "url": "https://wallstreetcn.com/livenews/3183121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "腾讯控股(00700.HK)：完成发行18亿美元及人民币260亿元票据。",
-          "url": "https://flash.jin10.com/detail/20261022073835570800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "沙特能源部：沙特阿拉伯谢巴（Shaybah）油田遭袭事件造成两人死亡。",
-          "url": "https://flash.jin10.com/detail/20261022030537210800",
+          "title": "现货黄金跌破4030美元/盎司，刷新日低，跌幅2.70%。",
+          "url": "https://flash.jin10.com/detail/20261023030054124800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "03时57分"
         },
         {
-          "title": "沙特能源部：防空部队拦截了一架试图袭击沙特阿美谢巴（Shaybah）油田设施的无人机。无人机袭击后，沙特阿美谢巴（Shaybah）油田的运营未受影响。",
-          "url": "https://flash.jin10.com/detail/20261022030456210800",
+          "title": "布伦特原油期货结算价为每桶113.17美元，上涨4.35美元，涨幅4%。",
+          "url": "https://flash.jin10.com/detail/20261023024328463800",
           "source": "金十数据",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "03时57分"
         },
         {
-          "title": "AWS：PHP2Shell漏洞目前已在现实环境中遭到大范围利用。",
-          "url": "https://flash.jin10.com/detail/20261022064724628800",
-          "source": "金十数据",
+          "title": "芝加哥玉米期货跌超0.6%，大豆油涨超1.1%",
+          "url": "https://wallstreetcn.com/livenews/3183935",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "03时57分"
         },
         {
-          "title": "AWS：亚马逊威胁情报团队在MadPot中发现PHP2Shell漏洞遭利用，时间早于该漏洞的公开披露。",
-          "url": "https://flash.jin10.com/detail/20261022064530081800",
+          "title": "俄罗斯称汽柴油市场趋于好转 将继续调整油品价格",
+          "url": "https://flash.jin10.com/detail/20261023024200845800",
           "source": "金十数据",
           "ranks": [
-            16
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "03时57分"
         },
         {
-          "title": "TheShy说年龄增长并不是坏事",
-          "url": "https://search.bilibili.com/all?keyword=TheShy%E8%AF%B4%E5%B9%B4%E9%BE%84%E5%A2%9E%E9%95%BF%E5%B9%B6%E4%B8%8D%E6%98%AF%E5%9D%8F%E4%BA%8B",
-          "source": "bilibili 热搜",
+          "title": "WTI 12月原油期货收涨2.32美元，涨幅将近2.39%，报99.47美元/桶。 布伦特12月原油期货收涨4.35美元，涨幅将近4.00%，报113.17美元/桶。 NYMEX 11月天然气期货收报2.7960美元/百万英热单位。 NYMEX 11月汽油期货收报3.1765美元/加仑，NYMEX 11月取暖油期货收报4.9321美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3183921",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少19.66吨，当前持仓量为15485.69吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20261022060841780800",
-          "source": "金十数据",
-          "ranks": [
-            29
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "03时57分"
         }
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 5,
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 6,
       "titles": [
         {
-          "title": "商务部：1-9月全国吸收外资5488.1亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3183484",
+          "title": "周四（10月22日）纽约尾盘，美元兑日元跌0.82%，报156.84日元，日内交投区间为158.25-156.69日元，北京时间08:32-19:21持续下跌，14:00以来主要持稳于157日元附近。 欧元兑日元跌0.91%，报175.94日元；英镑兑日元跌0.80%，报210.129日元；日元兑离岸人民币涨0.80%，报4.2546元，14:00以来高位持稳。",
+          "url": "https://wallstreetcn.com/livenews/3183952",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时01分"
+          "time_info": "03时57分"
         },
         {
-          "title": "周三（10月21日）纽约尾盘，美元兑日元涨0.10%，报158.31日元，逼近亚太盘初刷新的日高，日内交投区间为157.84-158.39日元。 欧元兑日元跌0.05%，报177.62日元，全天呈现出宽底U形走势；英镑兑日元涨0.09%，报211.847日元；日元兑离岸人民币跌0.07%，报4.2167元。",
-          "url": "https://wallstreetcn.com/livenews/3182926",
+          "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "国际油价22日上涨",
+          "url": "https://flash.jin10.com/detail/20261023032648528800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "美元指数22日下跌",
+          "url": "https://flash.jin10.com/detail/20261023031029189800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "美股费城半导体指数日内跌7%。个股中，英伟达跌4.61%，博通跌4.48%，美光跌6.61%，英特尔跌8.40%，AMD跌8.79%，高通跌3.14%，台积电跌4.84%，阿斯麦ADR跌6.92%。",
+          "url": "https://wallstreetcn.com/livenews/3183945",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "03时57分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.6760元，较周二夜盘收盘涨21点。成交量512.28亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3182915",
-          "source": "华尔街见闻-快讯",
+          "title": "牛市逻辑真的不在了吗",
+          "url": "https://www.toutiao.com/trending/7699439890190044723/",
+          "source": "今日头条",
           "ranks": [
-            17
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "印度尼西亚据悉考虑年内再发熊猫债，融资约100亿元人民币。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3183390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时01分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.6727，较上一交易日官方收盘价涨50点，较上日夜盘收盘涨33点。",
-          "url": "https://wallstreetcn.com/livenews/3183368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时01分"
+          "time_info": "03时57分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
-          "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
-          "url": "https://www.cls.cn/detail/2511640",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 12时31分]"
-        },
-        {
-          "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
-          "url": "https://www.cls.cn/detail/2511618",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 12时31分]"
-        },
-        {
-          "title": "AI交易熄火、中东局势恶化，美股低开，光通信、存储芯片股普跌，CoreWeave跌约5%",
+          "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌超6%，CoreWeave大跌10%",
           "url": "https://wallstreetcn.com/articles/3784189",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
-          "url": "https://wallstreetcn.com/articles/3784116",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时03分 ~ 04时04分]"
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         },
         {
           "title": "美股芯片、光通信股深夜跳水",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
           "source": "百度热搜",
           "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "周四（10月22日）纽约尾盘，ICE美元指数跌0.18%，报101.599点，日内交投区间为101.883-101.446点，亚太盘初（低开）至美股开盘呈现出V形走势，北京时间15:09刷新日低，22:18刷新日高，随后持续走低。 彭博美元指数跌0.08%，报1220.15点，日内交投区间为1222.64-1219.39点，美股盘前刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3183934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.6748元，较周三夜盘收盘涨12点。成交量339.08亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3183931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "人民币升值的真正推手是什么",
+          "url": "https://www.toutiao.com/trending/7699430424707075610/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34306536",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SZ SH HK",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国防长赫格塞思下令禁止相关人员借助非公开信息参与博彩投注。 赫格塞思备忘录点名PolyMarket、Kalshi平台。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3183939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时09分"
+          "time_info": "03时57分"
         }
       ]
     }
