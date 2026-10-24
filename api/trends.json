@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T07:02:45.978183+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-10-24T12:21:37.880850+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "巴克莱：库存消耗、需求回升令现货市场趋紧。尽管政策方面正努力缓解柴油供应紧张局面，短期油价风险仍明显偏向上行。",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -96,6 +96,17 @@
           "time_info": "03时49分"
         },
         {
+          "title": "标普调整新规则，成长股与价值股分类将迎来重整",
+          "url": "https://flash.jin10.com/detail/20261024113448277800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：10月20日当周，在NYMEX和ICE四大主要市场中，天然气投机者将净空头头寸增加26,764手合约，至126,900手合约。",
           "url": "https://wallstreetcn.com/livenews/3185000",
           "source": "华尔街见闻-快讯",
@@ -116,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
+          "url": "https://www.cls.cn/detail/2514076",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月20日当周，CBOT美国长期国债期货投机者净空头头寸减少58,019手，至68,419手。CBOT美国超长期国债期货投机者净空头头寸增加53,564手，至375,161手。",
@@ -179,7 +201,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -201,7 +223,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -234,7 +256,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -263,6 +285,187 @@
       ]
     },
     {
+      "keyword_group": "资金 政策 产业",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "巴克莱：库存枯竭、需求复苏令实货市场收紧，尽管政策努力缓解柴油紧张状况，但短期石油风险仍坚定偏向上行。",
+          "url": "https://wallstreetcn.com/livenews/3185061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国中期选举｜共和党资金充裕但选情承压",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34317520",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 12时21分]"
+        },
+        {
+          "title": "OpenAI在其博客中表示，预计后续模型能够识别并利用目前尚未被察觉的安全漏洞。 公司于10月1日恢复了前沿模型强化学习训练及内部推理工作。 已将高算力环境下的红队测试(网络攻防测试）纳入安全评估范畴，以此判定其前沿模型训练及评估工作能否安全开展。 开展前沿模型训练时应断开互联网连接，这是负责任的做法。 已实施前沿模型训练无互联网访问政策，该政策将持续有效，直到安全保障措施的进步证明可以扩大互联网访问权限。",
+          "url": "https://wallstreetcn.com/livenews/3184997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        },
+        {
+          "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
+          "url": "https://www.cls.cn/detail/2513560",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "A股“换挡”，资金在等什么？多位知名首席研判",
+          "url": "https://www.cls.cn/detail/2514147",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "资金借道宽基ETF逆势布局，近20个交易日净流入超2300亿元",
+          "url": "https://wallstreetcn.com/livenews/3185080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "英国宣布1亿英镑资金，用于与OpenAI、Anthropic、谷歌Deepmind成立AI生物安全实验室。",
+          "url": "https://wallstreetcn.com/livenews/3185068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "马斯克：乌克兰当下的现实是，精英群体与普通民众之间存在巨大的利益落差。 前者借着流入乌克兰的数千亿资金大发其财，而后者的孩子却被征召，在战壕里送死。 其中一部分美国纳税人的钱经过多重洗钱渠道回流，用于资助美国的政治竞选活动，这就是为什么你会看到一些政客更关心乌克兰而非美国！",
+          "url": "https://wallstreetcn.com/livenews/3184971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "50系中端显卡价格上涨",
+          "url": "https://search.bilibili.com/all?keyword=50%E7%B3%BB%E4%B8%AD%E7%AB%AF%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 12时21分]"
+        },
+        {
+          "title": "为什么阿里巴巴和腾讯估值低，股价却总是下跌？",
+          "url": "https://www.zhihu.com/question/2094836561221251720",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 12时21分]"
+        },
+        {
+          "title": "伊拉克总理：霍尔木兹海峡危机令伊拉克错失油价上涨收益，将推进石油出口渠道多元化",
+          "url": "https://flash.jin10.com/detail/20261024054601772800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "国际油价23日显著上涨",
+          "url": "https://flash.jin10.com/detail/20261024033043664800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        },
+        {
+          "title": "周五（10月23日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.6690元，逼近2022年6月15日最终报价6.6687元、当年6月3日最终报价6.6557元、当年5月4日最终报价6.6223元、当年4月27日最终报价6.5868元，较周四纽约尾盘涨37点，日内整体交投于6.6746-6.6686元区间。 本周，离岸人民币累计上涨大约170点，涨幅大约0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3185042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "国家统计局：10月中旬22种产品价格上涨，生猪价格环比下降4.9%",
+          "url": "https://flash.jin10.com/detail/20261024094304327800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "评论员：牛市中的A股到底发生了什么",
+          "url": "https://www.toutiao.com/trending/7700040994682572324/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 7,
       "titles": [
@@ -277,6 +480,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 07时02分]"
+        },
+        {
+          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+          "url": "https://wallstreetcn.com/articles/3784279",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 12时21分]"
         },
         {
           "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
@@ -299,17 +514,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
-        },
-        {
-          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
-          "url": "https://wallstreetcn.com/articles/3784279",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
         },
         {
           "title": "加拿大专家驳斥中国借道买美债阴谋论",
@@ -341,121 +545,59 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
       ]
     },
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 5,
+      "keyword_group": "美股",
+      "match_count": 4,
       "titles": [
         {
-          "title": "50系中端显卡价格上涨",
-          "url": "https://search.bilibili.com/all?keyword=50%E7%B3%BB%E4%B8%AD%E7%AB%AF%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8",
+          "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2514112",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "AI泡沫担忧如何影响美股",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%B3%A1%E6%B2%AB%E6%8B%85%E5%BF%A7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E8%82%A1",
           "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 07时02分]"
-        },
-        {
-          "title": "为什么阿里巴巴和腾讯估值低，股价却总是下跌？",
-          "url": "https://www.zhihu.com/question/2094836561221251720",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 07时02分]"
-        },
-        {
-          "title": "伊拉克总理：霍尔木兹海峡危机令伊拉克错失油价上涨收益，将推进石油出口渠道多元化",
-          "url": "https://flash.jin10.com/detail/20261024054601772800",
-          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "12时21分"
         },
         {
-          "title": "国际油价23日显著上涨",
-          "url": "https://flash.jin10.com/detail/20261024033043664800",
+          "title": "一周热榜精选：特朗普威胁对伊再发“史诗怒火”！AI融资担忧再度引爆美股",
+          "url": "https://flash.jin10.com/detail/20261024091858383800",
           "source": "金十数据",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "周五（10月23日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.6690元，逼近2022年6月15日最终报价6.6687元、当年6月3日最终报价6.6557元、当年5月4日最终报价6.6223元、当年4月27日最终报价6.5868元，较周四纽约尾盘涨37点，日内整体交投于6.6746-6.6686元区间。 本周，离岸人民币累计上涨大约170点，涨幅大约0.26%。",
-          "url": "https://wallstreetcn.com/livenews/3185042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资金 政策 产业",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "巴克莱：库存枯竭、需求复苏令实货市场收紧，尽管政策努力缓解柴油紧张状况，但短期石油风险仍坚定偏向上行。",
-          "url": "https://wallstreetcn.com/livenews/3185061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "12时21分"
         },
         {
-          "title": "OpenAI在其博客中表示，预计后续模型能够识别并利用目前尚未被察觉的安全漏洞。 公司于10月1日恢复了前沿模型强化学习训练及内部推理工作。 已将高算力环境下的红队测试(网络攻防测试）纳入安全评估范畴，以此判定其前沿模型训练及评估工作能否安全开展。 开展前沿模型训练时应断开互联网连接，这是负责任的做法。 已实施前沿模型训练无互联网访问政策，该政策将持续有效，直到安全保障措施的进步证明可以扩大互联网访问权限。",
-          "url": "https://wallstreetcn.com/livenews/3184997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "美国中期选举｜共和党资金充裕但选情承压",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34317520",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "马斯克：乌克兰当下的现实是，精英群体与普通民众之间存在巨大的利益落差。 前者借着流入乌克兰的数千亿资金大发其财，而后者的孩子却被征召，在战壕里送死。 其中一部分美国纳税人的钱经过多重洗钱渠道回流，用于资助美国的政治竞选活动，这就是为什么你会看到一些政客更关心乌克兰而非美国！",
-          "url": "https://wallstreetcn.com/livenews/3184971",
+          "title": "道指ETF收跌超1.2%，领跌美股大类资产类ETF，布油基金涨3%",
+          "url": "https://wallstreetcn.com/livenews/3185030",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "07时02分"
         }
       ]
     },
@@ -470,7 +612,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -490,23 +632,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "道指ETF收跌超1.2%，领跌美股大类资产类ETF，布油基金涨3%",
-          "url": "https://wallstreetcn.com/livenews/3185030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
         }
       ]
     }
