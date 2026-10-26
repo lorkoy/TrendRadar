@@ -1,672 +1,178 @@
 {
-  "generated_at": "2026-10-26T20:48:37.179702+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-10-27T03:10:03.105312+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "周末要闻汇总：上证指数、科创综指明起有新变化；高盛下调韩国股指目标价",
-          "url": "https://www.cls.cn/detail/2514420",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 08时17分]"
-        },
-        {
-          "title": "韩国KOSPI指数10月26日（周一）开盘下跌35.95点，跌幅0.65%，报5514.35点。",
-          "url": "https://flash.jin10.com/detail/20261026080155923800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "洛克希德·马丁美股盘前上涨1.5%，摩根士丹利将公司评级从“中性”上调至“增持”，目标价从690美元上调至835美元。",
-          "url": "https://wallstreetcn.com/livenews/3186261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "日经225指数10月26日（周一）开盘下跌281.18点，跌幅0.45%，报62411.98点。",
-          "url": "https://flash.jin10.com/detail/20261026080113338800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "明起实施！上证指数、科创综指等拟修订，单样本权重不超15%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34328014",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时38分]"
-        },
-        {
-          "title": "黄金价格再次下跌",
-          "url": "https://www.douyin.com/hot/2713480",
-          "source": "抖音",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 20时48分]"
-        },
-        {
-          "title": "黄金价格再次下跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E5%86%8D%E6%AC%A1%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "港股物理AI板块午后走强，欢创科技(06802.HK)涨超13%，越疆(02432.HK)涨超11%，禾赛-W(02525.HK)涨超10%，优必选(09880.HK)涨超5%。",
-          "url": "https://flash.jin10.com/detail/20261026133557320800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月26日（周一）晚盘盘初下跌0.59%报859.9元/克；<br/>上海黄金交易所白银T+D 10月26日（周一）晚盘盘初上涨0.22%报13045.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20261026200202297800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数10月26日（周一）收盘上涨19.00点，涨幅0.22%，报8814.20点。",
-          "url": "https://flash.jin10.com/detail/20261026132125679800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "沪指翻红 上涨个股近3000只",
-          "url": "https://flash.jin10.com/detail/20261026131013425800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数10月26日（周一）开盘下跌69.70点，跌幅0.79%，报8725.50点。",
-          "url": "https://flash.jin10.com/detail/20261026071115215800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "债市震荡偏强运行，分析称超长债仍具备结构性机会",
-          "url": "https://wallstreetcn.com/livenews/3185273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "上证指数早盘收报3683.92点，跌0.18%。 深证成指早盘收报11551.72点，跌1.05%。 创业板指早盘收报2639.85点，跌1.65%。 沪深300早盘收报4083.14点，跌0.54%。 科创50早盘收报1319.97点，跌1.90%。 中证500早盘收报6745.66点，跌1.01%。 中证1000早盘收报6661.80点，跌1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3185372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "10月26日午间收评：创业板指半日跌1.65%，大消费板块逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3185371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "A股脑机接口板块震荡反弹，达瑞电子20cm涨停，亚辉龙涨超8%，亿纬锂能涨超7%，均普智能涨超5%，九州通、汤姆猫跟涨。",
-          "url": "https://flash.jin10.com/detail/20261026130858043800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "A股固态电池概念震荡回升，上海洗霸冲击涨停，力王股份、德尔股份涨超10%，孚能科技、亿纬锂能、信宇人、盟固利涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3185360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "隔夜SHIBOR报1.3010%，上涨3.00个基点。 7天SHIBOR报1.3630%，上涨3.70个基点。 3个月SHIBOR报1.4065%，下降0.13个基点。",
-          "url": "https://wallstreetcn.com/livenews/3185358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "高盛：随着人工智能类股票下跌，趋势型对冲基金遭遇了自2024年以来表现最差的一周。",
-          "url": "https://wallstreetcn.com/livenews/3186144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "调整 期货 现货",
-      "match_count": 13,
+      "match_count": 7,
       "titles": [
         {
-          "title": "【早报】A股指数重要调整，今起实施；A股存储龙头，Q3净利猛增超2900%；国际油价，开盘下挫",
-          "url": "https://www.cls.cn/detail/2514546",
-          "source": "财联社热门",
+          "title": "WTI 12月原油期货收跌1.51美元，跌幅超过1.46%，报101.76美元/桶。 布伦特12月原油期货收跌0.91美元，跌幅0.78%，报115.81美元/桶。 NYMEX 11月天然气期货收报2.6020美元/百万英热单位。 NYMEX 11月汽油期货收报3.2185美元/加仑，NYMEX 11月取暖油期货收报4.9120美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3186429",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时16分 ~ 13时58分]"
-        },
-        {
-          "title": "巴西雷亚尔期货暴跌，触及跌停。",
-          "url": "https://flash.jin10.com/detail/20261026201330978800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时48分"
+          "time_info": "03时10分"
         },
         {
-          "title": "A股指数调整10月26日落地",
-          "url": "https://www.douyin.com/hot/2712069",
-          "source": "抖音",
+          "title": "布伦特原油期货结算价为每桶115.81美元，下跌91美分，跌幅0.78%。",
+          "url": "https://flash.jin10.com/detail/20261027024445700800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            22,
-            16,
-            11
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 08时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
-          "title": "巴西雷亚尔期货因卢拉胜选大幅下跌，触及交易限制。",
-          "url": "https://wallstreetcn.com/livenews/3186245",
+          "title": "上期所原油期货2612合约夜盘收跌0.87%，报733.30元人民币/桶。 沪金夜盘收涨0.4%，沪银收涨0.31%。",
+          "url": "https://wallstreetcn.com/livenews/3186428",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "卢拉逆袭吓坏市场：巴西股指期货暴跌20%触及跌停，雷亚尔期货大跌",
+          "url": "https://wallstreetcn.com/articles/3784490",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时10分]"
         },
         {
-          "title": "巴西B3交易所将Ibovespa指数期货的交易波动幅度限制调整为-20%，将外汇交易涨跌幅限制调整为12%。",
-          "url": "https://flash.jin10.com/detail/20261026201212604800",
+          "title": "美国原油期货结算价为每桶101.76美元，下跌1.51美元，跌幅1.46%。",
+          "url": "https://flash.jin10.com/detail/20261027023130286800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时48分"
+          "time_info": "03时10分"
         },
         {
-          "title": "【每日收评】三大指数涨跌不一，大消费板块逆势走强，算力硬件股再陷入调整",
-          "url": "https://www.cls.cn/detail/2515205",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "巴西股指期货暴跌15%，触及跌停，此前巴西总统卢拉赢得选举。",
-          "url": "https://wallstreetcn.com/livenews/3186242",
+          "title": "法国政府融资成本下降将近12个基点，穆迪此前并未调整该国信用评级",
+          "url": "https://wallstreetcn.com/livenews/3186421",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时48分"
+          "time_info": "03时10分"
         },
         {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20261026073453301800",
-          "source": "金十数据",
+          "title": "周一（10月26日）欧市尾盘，ICE英国天然气期货涨3.43%，报238.75便士/千卡，北京时间16:45曾达到241.060便士。 TTF基准荷兰天然气期货涨3.40%，报96.620欧元/兆瓦时，16:56曾涨至97.640欧元。 ICE欧盟碳排放交易许可（期货价格）涨2.36%，报88.29欧元/吨，大部分时间高位震荡（主要交投于88欧元附近）。",
+          "url": "https://wallstreetcn.com/livenews/3186394",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "巴西股指期货暴跌15%，触及跌停，此前巴西总统卢拉赢得选举。",
-          "url": "https://flash.jin10.com/detail/20261026200555187800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "金十数据整理：每日期货市场要闻速递（2026-10-26）",
-          "url": "https://flash.jin10.com/detail/20261026072728819800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "Verizon第三季度调整后每股收益1.31美元，预估1.28美元 第三季度营运收入343亿美元，预估347.6亿美元 Verizon预计全年调整后每股收益5.04美元至5.06美元，此前预计4.99美元至5.04美元，市场预估5.02美元。 Verizon仍然预测全年资本支出160亿美元至165亿美元，市场预估163.4亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3186221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "多位券商首席最新研判：调整不改基本面，多重数据印证A股长期价值",
-          "url": "https://wallstreetcn.com/livenews/3185269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.12%，10年期主力合约跌0.02%，5年期主力合约跌0.02%，2年期主力合约跌0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3185368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "03时10分"
         }
       ]
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "A股“换挡”，资金在等什么？多位知名首席研判",
-          "url": "https://www.cls.cn/detail/2514147",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 08时17分]"
-        },
         {
           "title": "县委书记拒绝张雪为家乡特产打广告，说插播广告会很烦，这番言论为何能出圈？麻阳红糖、冰糖橙产业现状如何？",
           "url": "https://www.zhihu.com/question/2097674829826450512",
           "source": "知乎",
           "ranks": [
-            2
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时58分 ~ 20时48分]"
+          "time_info": "[03时09分 ~ 03时10分]"
         },
         {
-          "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
-          "url": "https://www.cls.cn/detail/2513560",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 08时17分]"
-        },
-        {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3185291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "多家科创板龙头企业晒账本：AI产业链景气正变成利润",
-          "url": "https://www.cls.cn/detail/2514496",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34328097",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时38分]"
-        },
-        {
-          "title": "两融杠杆资金出清到哪一步了？四个月流出近6000亿，融资盘整体亏损状态",
-          "url": "https://www.cls.cn/detail/2514421",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "密集迎来运营、测试资质 高阶自动驾驶产业化“元年”锁定2028？",
-          "url": "https://www.cls.cn/detail/2515254",
+          "title": "【数据看盘】科创50ETF上周份额大增超百亿，多路资金联手抢筹万向钱潮",
+          "url": "https://www.cls.cn/detail/2515331",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "两日净流入逾千亿元，资金借道股票型ETF入市",
-          "url": "https://wallstreetcn.com/livenews/3185272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "日元突然上涨，避险资金这次为什么选了它？",
-          "url": "https://flash.jin10.com/detail/20261026130916310800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "长城证券产业金融研究院首席经济学家团队：支撑力量持续增强，中长期投资价值显现",
-          "url": "https://wallstreetcn.com/livenews/3185214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "资金逆势加码黄金产业",
-          "url": "https://www.toutiao.com/trending/7700099325656924203/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "日本计划支持银行业为增长型投资提供资金。",
-          "url": "https://wallstreetcn.com/livenews/3185263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SZ SH HK",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何评价TheShy前三轮发挥",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7TheShy%E5%89%8D%E4%B8%89%E8%BD%AE%E5%8F%91%E6%8C%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "美团(03690.HK)在港交所公告，拟发行人民币优先票据。票据的本金总额、利率、付款日期及若干其他条款和条件尚未厘定。公司拟将建议票据发行所得款项净额主要用于现有离岸债务的再融资及其他一般企业用途。",
-          "url": "https://flash.jin10.com/detail/20261026074933348800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "TheShy回应S16焦点战",
-          "url": "https://s.weibo.com/weibo?q=%23TheShy%E5%9B%9E%E5%BA%94S16%E7%84%A6%E7%82%B9%E6%88%98%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "TheShy让队友很舒服",
-          "url": "https://s.weibo.com/weibo?q=%23TheShy%E8%AE%A9%E9%98%9F%E5%8F%8B%E5%BE%88%E8%88%92%E6%9C%8D%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价创纪录 俄罗斯矿企财务状况改善",
-          "url": "https://www.toutiao.com/trending/7700744756238663723/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "人造黄金会不会击穿金价",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 08时17分]"
-        },
-        {
-          "title": "人造黄金会不会击穿金价",
-          "url": "https://www.toutiao.com/trending/7699776708773249067/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 08时17分]"
-        },
-        {
-          "title": "三大因素致国际金价走低",
-          "url": "https://www.douyin.com/hot/2712115",
-          "source": "抖音",
-          "ranks": [
-            17,
-            11
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时20分 ~ 08时16分]"
+          "time_info": "[03时09分 ~ 03时10分]"
+        },
+        {
+          "title": "据CNBC：Skydance(SKYD.N)向员工提供自愿离职买断方案，并推行每周五天到岗办公政策。",
+          "url": "https://flash.jin10.com/detail/20261027020420923800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 10月26日（周一）晚盘收盘上涨0.51%报864.53元/克；<br/>上海黄金交易所白银T+D 10月26日（周一）晚盘收盘上涨0.3%报13056.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20261027023032569800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "多所高校将通过数字人民币发工资",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%B0%86%E9%80%9A%E8%BF%87%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8F%91%E5%B7%A5%E8%B5%84%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "url": "https://www.toutiao.com/trending/7700842846840750602/",
+          "source": "今日头条",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "美团在港交所公告：建议发行人民币优先票据。",
-          "url": "https://wallstreetcn.com/livenews/3185289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "多所高校将通过数字人民币发工资",
-          "url": "https://www.cls.cn/detail/2515011",
-          "source": "财联社热门",
+          "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
+          "url": "https://wallstreetcn.com/articles/3784464",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时10分]"
         }
       ]
     },
@@ -675,15 +181,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "Meta美股盘前涨超2%，此前一度跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3186184",
-          "source": "华尔街见闻-快讯",
+          "title": "美股期指集体回暖 SK海力士据报将推巨额股东回报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2515639",
+          "source": "财联社热门",
           "ranks": [
-            25
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时10分]"
         }
       ]
     }
