@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-29T08:46:37.295801+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-10-29T14:57:14.552166+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "调整 期货 现货",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "碳酸锂期货失守9万元/吨关口",
+          "url": "https://flash.jin10.com/detail/20261029143732179800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
         {
           "title": "飞塔信息（Fortinet）三季度营收20.8亿美元，分析师预期20.7亿美元。 三季度Billings（账单收入/订单金额）为23.4亿美元，分析师预期23亿美元。 三季度调整后每股收益（EPS）为0.91美元，分析师预期0.86美元。 预计全年营收81.3亿-82.2亿美元，公司原本预计80.2亿-81.8亿美元。 预计全年服务营收51.5亿-51.7亿美元，分析师预期52亿美元。 预计全年调整后毛利润率79.7%-80.3%，公司原本预计79%-81%。 预计全年Billings将为95.7亿-97.2亿美元，公司原本预计93.5亿-95.5亿美元。 预计四季度营收21.6亿-22.5亿美元，分析师预期21.7亿美元。 飞塔信息（FTNT）美股盘后暴跌22.5%。",
           "url": "https://wallstreetcn.com/livenews/3189399",
@@ -30,6 +41,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "百威英博第三季度有机销量增长0.4%，市场预期增长0.5%。 第三季度调整后EBITDA59.6亿美元，市场预期60.2亿美元。 第三季度营收165.1亿美元，市场预期162.6亿美元。 维持全年有机调整后EBITDA增长4%至8%的预期，市场预期5.53%。 维持全年资本支出指引在35亿至40亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3189615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "联邦快递预计全年调整后每股收益（EPS）为18-18.60美元，公司原本预计16.90-18.10美元。",
           "url": "https://wallstreetcn.com/livenews/3189392",
           "source": "华尔街见闻-快讯",
@@ -47,9 +69,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        },
+        {
+          "title": "现货白银日内跌2%，现报52.86美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3189606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "微软第一财季营收922.8亿美元，分析师预期906.3亿美元。 第一财季云收入639亿美元，分析师预期616.2亿美元。 第一财季Azure营收331.7亿美元，分析师预期322.4亿美元；Azure剔除汇率因素的营收增长48%，分析师预期增长44.8%。 第一财季365云营收277.8亿美元，分析师预期274.8亿美元；微软365消费者云收入增长17%。 第一财季工业解决方案云营收增长10%。 第一财季运营利润459.2亿美元，分析师预期439.2亿美元。 第一财季资本开支393.7亿美元，分析师预期459.3亿美元；含租赁的资本开支452亿美元，分析师预期518.1亿美元。 第一财季调整后每股收益（EPS）为4.89美元，分析师预期4.73美元。 微软美股盘后涨6.4%。",
@@ -91,7 +124,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -102,7 +135,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         }
@@ -110,7 +143,7 @@
     },
     {
       "keyword_group": "上证 板块 个股 题材 牛市 熊市 震荡 下跌 上涨",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
@@ -119,20 +152,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        },
-        {
-          "title": "日本芯片测试设备制造商爱德万测试股价扩大涨幅，上涨9%。",
-          "url": "https://flash.jin10.com/detail/20261029083319421800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时46分 ~ 14时57分]"
         },
         {
           "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
@@ -143,8 +165,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 08时46分]"
+          "appearance_count": 5,
+          "time_info": "[04时56分 ~ 14时57分]"
+        },
+        {
+          "title": "日本芯片测试设备制造商爱德万测试股价扩大涨幅，上涨9%。",
+          "url": "https://flash.jin10.com/detail/20261029083319421800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "创业板指跌超4%，沪指跌0.85%，深成指跌2.72%。算力硬件、半导体芯片、消费电子、软件开发等方向跌幅居前，沪深京三市下跌个股超4700只。",
+          "url": "https://wallstreetcn.com/livenews/3189630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "美联储议息夜 存储、液冷绩优股带动科技板块延续反弹 | 今夜看点",
@@ -165,9 +209,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        },
+        {
+          "title": "创业板指跌超4% CPO板块全天走低",
+          "url": "https://flash.jin10.com/detail/20261029143339803800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "A股“羊字辈”个股异动拉升，东方海洋直线涨停，大地海洋、新北洋、百洋股份、大洋生物、大西洋等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3189609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "A股券商股震荡走弱，中金公司午后跌停，华鑫股份、财达证券跌超5%，西部证券、长江证券、山西证券跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3189605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "日本芯片测试设备制造商爱德万测试（Advantest）上涨5%。",
@@ -176,7 +253,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -215,20 +292,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时46分 ~ 14时57分]"
         },
         {
           "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
           "url": "https://www.cls.cn/detail/2518554",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时46分 ~ 14时57分]"
         },
         {
           "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
@@ -260,7 +338,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -282,7 +360,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -301,18 +379,41 @@
     },
     {
       "keyword_group": "资金 政策 产业",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国各界热议「要不要对中国车开放」，若放宽准入会对美本土汽车产业带来哪些冲击？",
           "url": "https://www.zhihu.com/question/2089754502639502079",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时46分 ~ 14时57分]"
+        },
+        {
+          "title": "媒体：“坚持一个中国政策”！巴基斯坦已对来自台湾地区航司关闭领空",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34357132",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 14时57分]"
+        },
+        {
+          "title": "8000亿元新型政策性金融工具投放完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34352086",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 14时57分]"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -321,7 +422,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -332,7 +433,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -351,8 +452,19 @@
     },
     {
       "keyword_group": "SZ SH HK",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "TheShy赛后回应晋级八强",
+          "url": "https://search.bilibili.com/all?keyword=TheShy%E8%B5%9B%E5%90%8E%E5%9B%9E%E5%BA%94%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 14时57分]"
+        },
         {
           "title": "据知情人士透露，Doordash收购Instacart的交易最快将于周四（美东时间）早间宣布。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3189404",
@@ -365,13 +477,35 @@
           "time_info": "04时57分"
         },
         {
+          "title": "TheShy自认选亚恒傲慢",
+          "url": "https://s.weibo.com/weibo?q=TheShy%E8%87%AA%E8%AE%A4%E9%80%89%E4%BA%9A%E6%81%92%E5%82%B2%E6%85%A2&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 14时57分]"
+        },
+        {
+          "title": "TheShy说会继续加油",
+          "url": "https://www.douyin.com/hot/2718748",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 14时57分]"
+        },
+        {
           "title": "TheShy杰斯登场",
           "url": "https://s.weibo.com/weibo?q=%23TheShy%E6%9D%B0%E6%96%AF%E7%99%BB%E5%9C%BA%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -382,7 +516,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         }
